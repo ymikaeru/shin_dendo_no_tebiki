@@ -1,0 +1,56 @@
+{
+  "id": "shin-dendo-tebiki",
+  "title": "Novo Manual de Difusão",
+  "titleJa": "新・伝道の手引き",
+  "kickerLabel": "Apostila para Ministros",
+  "author": "Comitê de Compilação das Escrituras",
+  "file": "shin-dendo-tebiki.json",
+  "sections": [
+    {
+      "id": "c1",
+      "level": 1, "nivel": "capitulo", "marcador": "Capítulo 1",
+      "title": "Sobre os Ensinamentos de Meishu-Sama",
+      "pagina": 3,
+      "explicacao": "O Capítulo 1 tem por objetivo, em sua totalidade, esclarecer que os Ensinamentos de Meishu-Sama devem ser adotados como todos os critérios de fé e de difusão…",
+      "children": [
+        {
+          "id": "c1.i1",
+          "level": 2, "nivel": "item", "marcador": "Item 1",
+          "title": "A Divindade de Meishu-Sama",
+          "pagina": 3,
+          "children": [
+            {
+              "id": "c1.i1.1",
+              "level": 3, "nivel": "numero", "marcador": "1",
+              "title": "Meishu-Sama estava em concordância com a Vontade Divina mesmo sem orar",
+              "pagina": 4,
+              "ensinamento": { "...": "(resumido neste exemplo)" },
+              "children": []
+            },
+            {
+              "id": "c1.i1.2",
+              "level": 3, "nivel": "numero", "marcador": "2",
+              "title": "Qual foi o Espírito Divino que habitou?[^1]",
+              "pagina": 7,
+              "ensinamento": {
+                "fonte": "Caderno do Ano 25 da Era Showa, pág. 4, l. 11-18 (ver Zenkou Vol. 3, pág. 351, l. 13 ~ pág. 352, l. 8)",
+                "preambulo": null,
+                "texto": "Até agora, a bola de luz[^2] em meu ventre não possuía o \"caroço\" (tane). Isso que acabei de falar torna-se o núcleo. Isso entrou no dia 15 de junho. (…) De onde veio esse \"caroço\"? Foi algo que desceu do Céu.[^3]",
+                "posfacio": null,
+                "data": "1 de agosto de 1950",
+                "explicacao": "Kunitokotachi no Mikoto (国常立尊) encostou na fundadora da Oomoto Kyo e, no \"Ofudesaki\", profetizou que sairia ao mundo pela primeira vez em três mil anos para realizar a Reconstrução e Renovação do Mundo…",
+                "notas": [
+                  { "n": 1, "ancora": "Qual foi o Espírito Divino que habitou?", "texto": "Ver Sui 5, pág. 36, l. 5 ~ pág. 37, l. 6 (Livro pág. 61)." },
+                  { "n": 2, "ancora": "bola de luz", "texto": "Sobre a \"Bola de Luz\", ver Shu 365, col. inf. l. 21 ~ 366, col. sup. l. 11 (Livro pág. 63)." },
+                  { "n": 3, "ancora": "desceu do Céu", "texto": "Ver Shu 412, col. sup. l. 18 ~ col. inf. l. 11 (Livro pág. 66)." }
+                ],
+                "anexo": []
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

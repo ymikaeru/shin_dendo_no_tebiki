@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Editor Shin Dendō — scan × texto</title>
+<style>
+  :root{ --bg:#1e1f22; --panel:#26282c; --line:#3a3d42; --fg:#e6e6e6; --mut:#9aa0a6; --acc:#4f9cff; --ok:#3fb950; --warn:#e3b341; }
+  *{ box-sizing:border-box; }
+  html,body{ margin:0; height:100%; background:var(--bg); color:var(--fg); font:14px/1.5 system-ui,Segoe UI,Arial; }
+  #top{ display:flex; gap:10px; align-items:center; padding:8px 12px; background:var(--panel); border-bottom:1px solid var(--line); }
+  #top select,#top button,#top input{ background:#2f3236; color:var(--fg); border:1px solid var(--line); border-radius:6px; padding:6px 10px; font:inherit; }
+  #top button{ cursor:pointer; }
+  #top button:hover{ border-color:var(--acc); }
+  #save{ background:var(--acc); border-color:var(--acc); color:#06203f; font-weight:600; }
+  #status{ margin-left:auto; color:var(--mut); }
+  #main{ display:flex; height:calc(100vh - 49px); }
+  #left,#right{ height:100%; overflow:hidden; display:flex; flex-direction:column; }
+  #left{ width:50%; border-right:1px solid var(--line); }
+  #divider{ width:6px; cursor:col-resize; background:var(--line); }
+  #right{ flex:1; }
+  .bar{ display:flex; gap:6px; align-items:center; padding:6px 10px; background:var(--panel); border-bottom:1px solid var(--line); flex-wrap:wrap; }
+  .bar button,.bar input{ background:#2f3236; color:var(--fg); border:1px solid var(--line); border-radius:6px; padding:4px 8px; font:inherit; }
+  .bar button{ cursor:pointer; }
+  .bar input{ width:64px; }
+  .bar .lbl{ color:var(--mut); }
+  #scanWrap{ flex:1; overflow:auto; background:#111; display:flex; align-items:flex-start; justify-content:center; }
+  #scanImg{ max-width:none; transform-origin:top center; }
+  #rightBody{ flex:1; display:flex; min-height:0; }
+  #tree{ width:230px; overflow:auto; border-right:1px solid var(--line); background:#222428; padding:6px 0; font-size:13px; }
+  #tree .n{ padding:2px 8px; cursor:pointer; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; color:#cfd3d8; }
+  #tree .n:hover{ background:#2f3236; }
+  #tree .lv1{ font-weight:700; color:#fff; } .lv2{ padding-left:16px; } .lv3{ padding-left:28px; color:#bcd; }
+  .lv4{ padding-left:40px; color:var(--mut); } .lv5{ padding-left:52px; color:var(--mut); } .lv6{ padding-left:64px; color:var(--mut); }
+  #edWrap{ flex:1; min-width:0; display:flex; flex-direction:column; }
+  #ed{ flex:1; width:100%; resize:none; border:0; background:#1a1b1e; color:#e6e6e6; padding:14px 16px; font:14px/1.65 "Cascadia Code",Consolas,monospace; outline:none; }
+  #prev{ flex:1; overflow:auto; padding:16px 22px; display:none; background:#fbfbf7; color:#1a1a1a; font-family:Georgia,serif; line-height:1.7; }
+  #prev h1{ font-size:1.5em; border-bottom:2px solid #ccc; } #prev h2{ font-size:1.3em; } #prev h3{ font-size:1.15em; }
+  #prev h4,#prev h5,#prev h6{ font-size:1em; color:#444; }
+  #prev em{ color:#0a7a55; font-style:italic; }   /* itálico = editorial/contexto, destacado */
+  #prev strong{ color:#222; } #prev p{ margin:.5em 0; }
+  #prev sup.fn{ color:#2563eb; cursor:help; font-weight:700; padding:0 1px; }   /* nota: passe o mouse */
+  .tag{ font-size:11px; padding:1px 6px; border-radius:10px; border:1px solid var(--line); color:var(--mut); }
+  #pageBadge{ font-size:12px; padding:3px 9px; background:#13283f; color:#7fb3ff; border-color:#27496e; font-weight:600; }
+  .on{ background:var(--acc)!important; color:#06203f!important; border-color:var(--acc)!important; }
+</style>
+</head>
+<body>
+<div id="top">
+  <strong>Shin Dendō</strong>
+  <select id="fileSel" title="arquivo .md"></select>
+  <button id="save">💾 Salvar</button>
+  <input id="find" placeholder="🔎 achar texto… (Enter)" style="width:220px;flex:0 0 auto" title="Localiza o texto no .md e pula até ele (Enter repete p/ a próxima)">
+  <button id="pin" title="Fixa a página atual do scan para a seção selecionada na árvore (ou p/ o arquivo, se nenhuma). Depois, clicar na seção leva o scan direto pra ela.">📌 Fixar página</button>
+  <span id="pageBadge" class="tag" style="display:none"></span>
+  <span id="status">carregando…</span>
+</div>
+
+<div id="main">
+  <!-- ESQUERDA: scan -->
+  <div id="left">
+    <div class="bar">
+      <button id="pPrev">◀</button>
+      <button id="pNext">▶</button>
+      <span class="lbl">img</span><input id="imgNum" type="number">
+      <span class="lbl">Livro pág.</span><input id="pageNum" type="number">
+      <button id="goPage">ir</button>
+      <span class="lbl">zoom</span>
+      <button id="zOut">−</button><button id="zIn">+</button><button id="zFit">ajustar</button>
+      <span id="scanLbl" class="tag"></span>
+    </div>
+    <div id="scanWrap"><img id="scanImg" alt="scan"></div>
+  </div>
+
+  <div id="divider"></div>
+
+  <!-- DIREITA: editor -->
+  <div id="right">
+    <div class="bar">
+      <button id="tabEdit" class="on">✎ Editar</button>
+      <button id="tabPrev">👁 Pré-visualizar</button>
+      <span class="lbl">|</span>
+      <button id="pgMode" title="Mostrar uma página por vez, sincronizada com o scan">📄 Por página</button>
+      <button id="pgPrev" style="display:none">◀</button>
+      <span id="pgLabel" class="lbl" style="display:none"></span>
+      <button id="pgNext" style="display:none">▶</button>
+      <span class="lbl">|</span>
+      <button id="toggleTree">☰ Estrutura</button>
+      <span id="dirty" class="tag"></span>
+    </div>
+    <div id="rightBody">
+      <div id="tree"></div>
+      <div id="edWrap">
+        <textarea id="ed" spellcheck="false" placeholder="selecione um arquivo…"></textarea>
+        <div id="prev"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+let scans = [], scanIdx = 0, zoom = 1, curFile = '', dirty = false, mapping = {}, curSection = null, sectionKeys = {};
+let loadedSnapshot = '';   // conteúdo do .md como foi carregado nesta aba — base da trava anti-clobber no save
+let pageMode = false, pages = [], curPage = 0;
+const TOKEN = '@@AST@@';
+
+async function api(p, opt){ const r = await fetch(p, opt); return r.json(); }
+async function loadLists(){
+  const f = await api('/api/files'); const sel = $('#fileSel');
+  sel.innerHTML = f.files.map(n=>`<option>${n}</option>`).join('');
+  const s = await api('/api/scans'); scans = s.scans;
+  try{ mapping = await api('/api/map'); }catch(e){ mapping = {}; }
+  if(f.files.length){ curFile = f.files[0]; await loadFile(curFile); }
+  setScan(0);
+  status(`${f.files.length} arquivos · ${scans.length} scans`);
+}
+function status(t){ $('#status').textContent = t; }
+
+async function loadFile(name){
+  const d = await api('/api/file?name='+encodeURIComponent(name));
+  $('#ed').value = d.content; loadedSnapshot = d.content; curFile = name; dirty = false; markDirty();
+  buildTree(d.content); buildPages(); showPageBadge(null);
+  if(pageMode && pages.length){ gotoPageView(0); }
+  else { renderPreview(); const m = mapping[name]; if(m && m.__file__!=null) gotoImageNumber(pinImg(m.__file__)); }
+}
+// recarrega SÓ o texto do disco (não mexe no scan), preservando cursor/rolagem. Usado pelo auto-sync /nav→editor.
+async function refreshFromDisk(){
+  const ed = $('#ed'); const pos = ed.selectionStart, sc = ed.scrollTop;
+  const d = await api('/api/file?name='+encodeURIComponent(curFile));
+  if(d.content==null) return;
+  ed.value = d.content; loadedSnapshot = d.content; dirty = false; markDirty();
+  buildTree(d.content); buildPages();
+  if($('#prev').style.display!=='none') renderPreview();
+  ed.setSelectionRange(Math.min(pos,ed.value.length), Math.min(pos,ed.value.length)); ed.scrollTop = sc;
+}
+
+// ---------- ESTRUTURA (árvore) ----------
+function buildTree(text){
+  const t = $('#tree'); const lines = text.split('\n'); let html=''; sectionKeys={};
+  lines.forEach((ln,i)=>{
+    const h = ln.match(/^(#{1,6})\s+(.+?)\s*$/);
+    if(h){ const lv=h[1].length; const full=h[2].replace(/\\(.)/g,'$1'); sectionKeys[i]=full;
+      const pin = (mapping[curFile]&&mapping[curFile][full]!=null) ? ' 📌' : '';
+      html += `<div class="n lv${lv}" data-line="${i}" title="${escapeHtml(full)}">${escapeHtml(full.slice(0,58))}${pin}</div>`; }
+  });
+  t.innerHTML = html || '<div class="n" style="color:#666">sem títulos</div>';
+  t.querySelectorAll('.n').forEach(n=> n.onclick=()=> scrollToLine(+n.dataset.line));
+}
+function pinImg(p){ return (p && typeof p==='object') ? p.img : p; }
+function pinPag(p){ return (p && typeof p==='object') ? p.pag : null; }
+function showPageBadge(pag){
+  const b=$('#pageBadge');
+  if(pag==null){ b.style.display='none'; return; }
+  b.style.display=''; b.textContent='📄 seção na pág. '+pag;
+}
+function scrollToLine(i){
+  const ed=$('#ed'); const lines=ed.value.split('\n'); let pos=0;
+  for(let k=0;k<i;k++) pos+=lines[k].length+1;
+  ed.focus(); ed.setSelectionRange(pos,pos);
+  const ratio = i/Math.max(1,lines.length); ed.scrollTop = ratio*ed.scrollHeight - 60;
+  curSection = sectionKeys[i] || null;
+  if(pageMode && pages.length){                                  // em modo página: vai pra página da seção
+    for(let k=0;k<pages.length;k++){ if(i>=pages[k].start && i<pages[k].end){ gotoPageView(k); break; } }
+    return;
+  }
+  const m = mapping[curFile];
+  const pin = (m && curSection) ? m[curSection] : null;
+  if(pin!=null){ gotoImageNumber(pinImg(pin)); showPageBadge(pinPag(pin)); }  // vai pra pág da seção + mostra o nº
+  else showPageBadge(null);
+}
+
+// ---------- SCAN ----------
+function imgNumberOf(fn){ const m=fn.match(/(\d+)(?:\.(\d+))?\.jpe?g$/i); return m?parseFloat(m[1]+'.'+(m[2]||0)):0; }
+function setScan(i){
+  if(!scans.length) return; scanIdx=Math.max(0,Math.min(scans.length-1,i));
+  const fn=scans[scanIdx];
+  $('#scanImg').src='/scan/'+encodeURIComponent(fn);
+  const num=Math.floor(imgNumberOf(fn));
+  $('#imgNum').value=num;
+  const p1=2*num-42, p2=2*num-41;
+  $('#scanLbl').textContent=`${fn} · ≈ pág ${p1}–${p2}`;
+  applyZoom();
+}
+function gotoImageNumber(n){
+  let best=0,bd=1e9; scans.forEach((f,i)=>{ const d=Math.abs(imgNumberOf(f)-n); if(d<bd){bd=d;best=i;} });
+  setScan(best);
+}
+function gotoPage(p){ gotoImageNumber(Math.floor(p/2)+21); }
+function applyZoom(){ const w=$('#scanWrap').clientWidth-16; $('#scanImg').style.width=Math.max(60,w*zoom)+'px'; }  // zoom=1 => ajusta à largura
+
+// ---------- PREVIEW (markdown → html) ----------
+function escapeHtml(s){ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+function mdInline(s){
+  s = escapeHtml(s);
+  s = s.replace(/\\\*/g, TOKEN);            // protege asterisco literal (\*)
+  s = s.replace(/\\(.)/g, '$1');            // remove demais escapes (\[ \] \= \~ \- \< \> …)
+  s = s.replace(/\*\*\*([^*]+?)\*\*\*/g, '<strong><em>$1</em></strong>');
+  s = s.replace(/\*\*([^*]+?)\*\*/g, '<strong>$1</strong>');
+  s = s.replace(/\*([^*]+?)\*/g, '<em>$1</em>');
+  s = s.split(TOKEN).join('*');
+  s = s.replace(/\[\^([^\]]+)\]/g, (m,id)=>{                      // âncora de nota -> superscript com hover
+    let t = (fnDefs[id]!=null ? fnDefs[id] : '(nota não encontrada)');
+    t = t.replace(/\\(.)/g,'$1').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    const num = (id.match(/(\d+)$/)||[,'•'])[1];
+    return '<sup class="fn" title="'+t+'">'+num+'</sup>';
+  });
+  return s;
+}
+let fnDefs={};
+function md2html(text){
+  fnDefs={};
+  text = text.replace(/^[ \t]*\[\^([^\]]+)\]:[ \t]*(.+)$/gm, (m,id,t)=>{ fnDefs[id]=t.trim(); return ''; });  // coleta notas
+  const lines=text.split('\n'); let out='',para=[];
+  const flush=()=>{ if(para.length){ out+='<p>'+para.map(mdInline).join('<br>')+'</p>'; para=[]; } };
+  for(const ln of lines){
+    const h=ln.match(/^(#{1,6})\s+(.*)$/);
+    if(h){ flush(); const lv=h[1].length; out+=`<h${lv}>`+mdInline(h[2])+`</h${lv}>`; continue; }
+    if(!ln.trim()){ flush(); continue; }
+    para.push(ln.replace(/\s+$/,''));
+  }
+  flush(); return out;
+}
+function renderPreview(){ const t=(pageMode&&pages.length)?pageSlice(curPage):$('#ed').value; $('#prev').innerHTML = md2html(t); }
+
+// ---------- modo "por página" (segmenta o .md pelas páginas do mapa) ----------
+function buildPages(){
+  const lines=$('#ed').value.split('\n'); const hs=[];
+  lines.forEach((ln,i)=>{ const m=ln.match(/^#{1,6}\s+(.+?)\s*$/);
+    if(m){ const key=m[1].replace(/\\(.)/g,'$1'); const pin=mapping[curFile]&&mapping[curFile][key]; hs.push({line:i, pag:pinPag(pin), img:pinImg(pin)}); } });
+  let lp=null, li=null;                                   // carrega a pág pra frente nos títulos sem mapa
+  hs.forEach(h=>{ if(h.pag==null){h.pag=lp; h.img=li;} else {lp=h.pag; li=h.img;} });
+  const fp=hs.find(h=>h.pag!=null);                       // títulos antes do 1º mapeado herdam o 1º
+  hs.forEach(h=>{ if(h.pag==null && fp){h.pag=fp.pag; h.img=fp.img;} });
+  pages=[];
+  hs.forEach(h=>{ if(!pages.length || pages[pages.length-1].pag!==h.pag) pages.push({pag:h.pag, img:h.img, start:h.line}); });
+  pages.forEach((p,k)=>{ p.end=(k+1<pages.length)?pages[k+1].start:lines.length; });
+  if(pages.length) pages[0].start=0;
+}
+function pageSlice(idx){ return $('#ed').value.split('\n').slice(pages[idx].start, pages[idx].end).join('\n'); }
+function gotoPageView(idx){
+  if(!pages.length) return;
+  curPage=Math.max(0,Math.min(pages.length-1,idx));
+  const p=pages[curPage], ed=$('#ed'), lines=ed.value.split('\n');
+  let pos=0; for(let k=0;k<p.start;k++) pos+=lines[k].length+1;
+  ed.focus(); ed.setSelectionRange(pos,pos); ed.scrollTop=(p.start/Math.max(1,lines.length))*ed.scrollHeight-20;
+  if(p.img!=null) gotoImageNumber(p.img);
+  showPageBadge(p.pag);
+  $('#pgLabel').textContent='pág '+(p.pag!=null?p.pag:'?')+'  ('+(curPage+1)+'/'+pages.length+')';
+  if($('#prev').style.display!=='none') renderPreview();
+}
+
+// ---------- estado / eventos ----------
+function markDirty(){ $('#dirty').textContent = dirty?'• não salvo':'salvo'; $('#dirty').style.color = dirty?'#e3b341':'#3fb950'; }
+$('#ed').addEventListener('input', ()=>{ dirty=true; markDirty(); clearTimeout(window._t); window._t=setTimeout(()=>{ buildTree($('#ed').value); buildPages(); if($('#prev').style.display!=='none') renderPreview(); },400); });
+$('#fileSel').onchange = e=>{ if(dirty && !confirm('Trocar de arquivo sem salvar? As edições serão perdidas.')){ e.target.value=curFile; return; } loadFile(e.target.value); };
+$('#save').onclick = async ()=>{
+  // TRAVA ANTI-CLOBBER: o /nav pode ter reescrito o .md (criar/grifar nota) desde que carregamos aqui.
+  // Salvar o buffer velho apagaria essas notas. Re-checa o disco antes de sobrescrever.
+  try{
+    const disk = await api('/api/file?name='+encodeURIComponent(curFile));
+    if(disk && disk.content!=null && disk.content!==loadedSnapshot){
+      const ok = confirm('⚠ "'+curFile+'" mudou no /nav (ex.: notas criadas/grifadas) desde que você abriu aqui.\n\n'
+        +'Salvar agora SOBRESCREVE essas mudanças com o texto desta tela — pode apagar notas feitas no /nav.\n\n'
+        +'OK = sobrescrever assim mesmo\nCancelar = recarregar a versão do disco (descarta as edições desta tela)');
+      if(!ok){ await refreshFromDisk(); status('↻ recarregado do disco — edições da tela descartadas'); return; }
+    }
+  }catch(_){ /* se a checagem falhar, segue o save normal (não fica pior do que era) */ }
+  const r=await api('/api/save',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:curFile,content:$('#ed').value})});
+  if(r.ok){ dirty=false; markDirty(); loadedSnapshot=$('#ed').value; status('salvo '+new Date().toLocaleTimeString()); try{ localStorage.setItem('sd-book-rev', curFile+'|'+Date.now()); }catch(_){ } }
+  else if(r.error==='stale'){ alert(r.msg||'Gravação recusada: versão desatualizada.'); await refreshFromDisk(); status('↻ recarregado do disco — refaça a edição'); }
+  else status('ERRO: '+(r.error||'?')); };
+$('#pin').onclick = async ()=>{
+  if(!scans.length) return;
+  mapping[curFile]=mapping[curFile]||{};
+  const img=Math.floor(imgNumberOf(scans[scanIdx]));
+  if(curSection){ mapping[curFile][curSection]=img; status(`📌 "${curSection.slice(0,28)}" → img ${img}`); }
+  else { mapping[curFile].__file__=img; status('📌 página inicial fixada p/ '+curFile); }
+  await api('/api/map',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(mapping)});
+  buildTree($('#ed').value);
+};
+
+$('#pPrev').onclick=()=>setScan(scanIdx-1);
+$('#pNext').onclick=()=>setScan(scanIdx+1);
+$('#imgNum').onchange=e=>gotoImageNumber(+e.target.value);
+$('#goPage').onclick=()=>gotoPage(+$('#pageNum').value);
+$('#pageNum').addEventListener('keydown',e=>{ if(e.key==='Enter') gotoPage(+e.target.value); });
+$('#zIn').onclick=()=>{ zoom=Math.min(4,zoom*1.2); applyZoom(); };
+$('#zOut').onclick=()=>{ zoom=Math.max(.2,zoom/1.2); applyZoom(); };
+$('#zFit').onclick=()=>{ zoom=1; applyZoom(); };  // volta a ajustar à largura
+$('#scanImg').onload=applyZoom;
+
+$('#tabEdit').onclick=()=>{ $('#ed').style.display='block'; $('#prev').style.display='none'; $('#tabEdit').classList.add('on'); $('#tabPrev').classList.remove('on'); };
+$('#tabPrev').onclick=()=>{ renderPreview(); $('#ed').style.display='none'; $('#prev').style.display='block'; $('#tabPrev').classList.add('on'); $('#tabEdit').classList.remove('on'); };
+$('#toggleTree').onclick=()=>{ const t=$('#tree'); t.style.display = t.style.display==='none'?'block':'none'; };
+$('#pgMode').onclick=()=>{
+  pageMode=!pageMode; $('#pgMode').classList.toggle('on',pageMode);
+  const d=pageMode?'':'none'; $('#pgPrev').style.display=d; $('#pgNext').style.display=d; $('#pgLabel').style.display=d;
+  if(pageMode){
+    buildPages();
+    let idx=0;
+    if(scans.length){ const cur=imgNumberOf(scans[scanIdx]); let bd=1e9; pages.forEach((p,k)=>{ if(p.img!=null){ const dd=Math.abs(p.img-cur); if(dd<bd){bd=dd; idx=k;} } }); }
+    gotoPageView(idx);
+  } else { showPageBadge(null); $('#pgLabel').textContent=''; if($('#prev').style.display!=='none') renderPreview(); }
+};
+$('#pgPrev').onclick=()=>gotoPageView(curPage-1);
+$('#pgNext').onclick=()=>gotoPageView(curPage+1);
+
+(function(){ const d=$('#divider'),L=$('#left'); let drag=false;
+  d.onmousedown=()=>{drag=true; document.body.style.userSelect='none';};
+  window.onmouseup=()=>{drag=false; document.body.style.userSelect='';};
+  window.onmousemove=e=>{ if(!drag)return; const pct=Math.max(20,Math.min(80,e.clientX/window.innerWidth*100)); L.style.width=pct+'%'; applyZoom(); };
+})();
+window.addEventListener('resize', applyZoom);   // re-ajusta à largura ao redimensionar
+
+window.addEventListener('beforeunload', e=>{ if(dirty){ e.preventDefault(); e.returnValue=''; } });
+// AUTO-SYNC /nav→editor: quando o /nav cria/grifa uma nota, ele bumpa 'sd-book-rev' (<arquivo>|<ts>).
+// Recarregamos o buffer do disco p/ não salvar uma versão velha por cima (causa do "apagou a nota").
+// 'storage' só dispara em OUTRAS abas (não na que escreveu) — por isso não há laço com o nosso próprio save.
+window.addEventListener('storage', e=>{
+  if(e.key!=='sd-book-rev' || !e.newValue) return;
+  const f = (e.newValue.split('|')[0] || '');
+  if(f && f!==curFile) return;                       // mudança em outro arquivo — ignora
+  if(dirty){ status('⚠ "'+curFile+'" mudou no /nav e você tem edições não salvas aqui — o Salvar vai pedir confirmação'); return; }
+  refreshFromDisk().then(()=> status('↻ atualizado do /nav '+new Date().toLocaleTimeString()));
+});
+loadLists();
+</script>
+<script>
+// 🔎 buscar texto no .md: acha, seleciona e pula até ele (Enter repete p/ a próxima ocorrência)
+(function(){
+  const find=document.getElementById('find'), ed=document.getElementById('ed');
+  if(!find||!ed) return; let last=-1, lastq='';
+  find.addEventListener('keydown',e=>{
+    if(e.key!=='Enter') return; e.preventDefault();
+    const q=find.value.trim(); if(!q) return;
+    const start = (q===lastq && last>=0) ? last+1 : 0;
+    let i=ed.value.indexOf(q, start);
+    if(i<0) i=ed.value.indexOf(q, 0);                 // dá a volta
+    if(i<0){ find.style.borderColor='var(--warn)'; last=-1; return; }
+    find.style.borderColor=''; last=i; lastq=q;
+    ed.focus(); ed.setSelectionRange(i, i+q.length);
+    const line=ed.value.slice(0,i).split('\n').length;
+    const lh=parseFloat(getComputedStyle(ed).lineHeight)||23;
+    ed.scrollTop=Math.max(0,(line-5)*lh);
+  });
+})();
+</script>
+</body>
+</html>

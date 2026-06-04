@@ -1,0 +1,22 @@
+# Material de origem pesado (scans CZUR) — fica só local
+CZUR_Scan/
+
+# Pasta de staging / não-organizados
+Nao Organizados/
+
+# Backups automáticos do editor e das fases
+_backup_editor/
+_backup_faseA/
+_backup_faseA3/
+_backup_original/
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporários / snapshots de trabalho
+_tmp_check.md
+_notes_prev_*.md
+
+# Config local do Claude Code (permissões/launch locais)
+.claude/

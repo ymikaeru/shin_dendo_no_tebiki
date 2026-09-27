@@ -184,10 +184,6 @@
   .ens-ctx .ctx-l{font:700 11px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--mut);margin-bottom:4px}
   .ens-ctx .ctx-l span{font-weight:500;letter-spacing:.02em;text-transform:none}
   .ens-ctx .ctx-body{font:italic 15.5px/1.7 var(--serif);color:var(--fg2);padding:0}
-  .ens-ctx.clamp:not(.open) .ctx-body{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;
-     -webkit-mask-image:linear-gradient(180deg,#000 55%,transparent);mask-image:linear-gradient(180deg,#000 55%,transparent)}
-  .ctx-more{background:none;border:0;padding:4px 0 0;color:var(--acc);font:600 12.5px var(--sans);cursor:pointer}
-  .ctx-more:hover{text-decoration:underline}
   .ens-ctx + .ens-texto{margin-top:4px}
   /* ===== NÍVEIS: um selo e um tamanho fixos por nível (títulos, árvore e faixa de posição) ===== */
   .pg-mk,.row .mk,.posbar .pb b{display:inline-flex;align-items:center;justify-content:center;font-family:var(--sans);font-variant-numeric:tabular-nums}
@@ -400,8 +396,7 @@
     .pathline .c{max-width:150px}
   }
   @media print{
-    #top,#side,.navbar,#copyLink,#review,#backPill,#peek,#webMap,.cited,.ctx-more{display:none!important}
-    .ens-ctx.clamp .ctx-body{display:block!important;-webkit-mask-image:none!important;mask-image:none!important}
+    #top,#side,.navbar,#copyLink,#review,#backPill,#peek,#webMap,.cited{display:none!important}
     #detail{overflow:visible;padding:0} .page{max-width:none;padding:0}
     details{border:none!important} details>summary::before{display:none}
   }
@@ -684,15 +679,10 @@ function openAxTagMenu(block){
   mn.style.left=Math.max(8,Math.min(window.innerWidth-mn.offsetWidth-8,rc.left))+'px';
   mn.style.top=(rc.bottom+6)+'px';
 }
-// Contexto/continuação: SEMPRE visível, mas secundário (menor, itálico, cor suave). Longo → 3 linhas + "ler completo".
+// Contexto/continuação: SEMPRE aberto e inteiro, mas secundário ao texto (menor, itálico, cor suave).
 function ctxBlock(lbl, sub, text, notas){
-  const long=(text||'').length>320;
-  return `<div class="ens-ctx${long?' clamp':''}"><div class="ctx-l">${lbl} <span>· ${sub}</span></div>`+
-    `<div class="db-body ctx-body">${renderNotas(text,notas)}</div>`+
-    (long?`<button class="ctx-more" type="button">ler o contexto completo</button>`:'')+`</div>`;
+  return `<div class="ens-ctx"><div class="ctx-l">${lbl} <span>· ${sub}</span></div><div class="db-body ctx-body">${renderNotas(text,notas)}</div></div>`;
 }
-document.addEventListener('click',e=>{ const b=e.target.closest && e.target.closest('.ctx-more'); if(!b) return;
-  const box=b.closest('.ens-ctx'), open=box.classList.toggle('open'); b.textContent=open?'recolher':'ler o contexto completo'; });
 function block(cls,sum,html,closed){ return `<details class="${cls}"${closed?'':' open'}><summary>${sum}</summary><div class="db-body">${html}</div></details>`; }
 function cleanTitle(t){ return (t||'').replace(/\[\^\d+\]|==/g,'').replace(/(?<![*\\])\*\d{1,2}(?!\d)/g,'').replace(/\*+$/,'').trim(); }
 // notas do ensinamento também em lista, no rodapé (além do balão no texto) — ajuda a leitura, o celular e a impressão

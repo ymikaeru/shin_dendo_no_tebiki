@@ -4499,7 +4499,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "Remover a mácula com alegria",
-               "pagina": 228,
+               "pagina": 227,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo 15, pág. 7, l. 10 ~ 8, l. 1 <Zenkou Vol. 8, pág. 134>",
@@ -4572,7 +4572,7 @@
                "nivel": "letra",
                "marcador": "C",
                "title": "O estado espiritual de quem não lê os Livros Divinos",
-               "pagina": 228,
+               "pagina": 230,
                "children": [],
                "ensinamento": {
                 "fonte": "Shu 159, col. sup. l. 13-21 = Ishi Shu Ge 363, col. sup. l. 14 ~ col. inf. l. 9 <Zencho Vol. 8, pág. 451>",
@@ -4593,7 +4593,7 @@
                "nivel": "letra",
                "marcador": "D",
                "title": "Ler os Livros Divinos e perceber os erros",
-               "pagina": 228,
+               "pagina": 230,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo 26, pág. 23, l. 14 ~ 24, l. 7 <Zenkou Vol. 11, pág. 82>",
@@ -4614,7 +4614,7 @@
                "nivel": "letra",
                "marcador": "E",
                "title": "Ler os Livros Divinos e fazer difusão adequada ao tempo, lugar e posição",
-               "pagina": 228,
+               "pagina": 232,
                "children": [],
                "ensinamento": {
                 "fonte": "Shu 96, col. inf. l. 12 ~ 97, col. sup. l. 2 = Ishi Shu Ge 62, col. inf. l. 15 ~ 63, col. sup. l. 15 <Zencho Vol. 11, pág. 522>",
@@ -4640,7 +4640,7 @@
                "nivel": "letra",
                "marcador": "F",
                "title": "Tratamento dos Livros Divinos",
-               "pagina": 228,
+               "pagina": 234,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo 20, pág. 27, l. 17 ~ 28, l. 3 <Zenkou Vol. 10, pág. 82>",
@@ -4661,7 +4661,7 @@
                "nivel": "letra",
                "marcador": "G",
                "title": "Manifestar o que leu na conduta*1",
-               "pagina": 228,
+               "pagina": 234,
                "children": [],
                "ensinamento": {
                 "fonte": "Shinko 498, col. inf. l. 3 ~ 499, col. sup. l. 6",
@@ -7191,7 +7191,7 @@
                  "nivel": "letra_min",
                  "marcador": "b",
                  "title": "Ter convicção firme e mantê-la",
-                 "pagina": null,
+                 "pagina": 351,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Hikari 17, pág. 26, l. 12 ~ 27, l. 5 <Zenkou Vol. 2, pág. 514>",
@@ -7231,7 +7231,7 @@
                "nivel": "letra",
                "marcador": "C",
                "title": "A Justiça atrai a Felicidade",
-               "pagina": null,
+               "pagina": 352,
                "children": [],
                "ensinamento": {
                 "fonte": "Ten Fuku Sho, pág. 15, col. inf. l. 15 ~ 16, col. inf. l. 4 = Ishi Shu Ge 94, col. sup. l. 6 ~ col. inf. l. 12 <Zencho Vol. 12, pág. 38>",
@@ -7252,7 +7252,7 @@
                "nivel": "letra",
                "marcador": "D",
                "title": "Responsabilidade dos Líderes",
-               "pagina": null,
+               "pagina": 354,
                "children": [],
                "ensinamento": {
                 "fonte": "Shu 153, col. inf. l. 18 ~ 154, col. sup. l. 15 = Ishi Shu Ge 240, col. inf. l. 7 ~ 241, col. inf. l. 1 <Zencho Vol. 6, pág. 91>",
@@ -7280,7 +7280,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "Relacionado à Fé",
-             "pagina": 357,
+             "pagina": 356,
              "children": [
               {
                "id": "c2.i3.II.2.3.ii.A",
@@ -7288,7 +7288,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "Deus torna-se gradualmente rigoroso",
-               "pagina": 357,
+               "pagina": 356,
                "children": [],
                "ensinamento": {
                 "fonte": null,
@@ -7314,7 +7314,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "Sobre o rigor da Ordem (Sequência)",
-               "pagina": null,
+               "pagina": 364,
                "children": [
                 {
                  "id": "c2.i3.II.2.3.ii.B.a",
@@ -7322,7 +7322,7 @@
                  "nivel": "letra_min",
                  "marcador": "a",
                  "title": "Tratamento dos Livros Divinos",
-                 "pagina": null,
+                 "pagina": 365,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Kyo 20, pág. 27, l. 17 ~ 28, l. 3 <Zenkou Vol. 10, pág. 82>",
@@ -7343,7 +7343,7 @@
                  "nivel": "letra_min",
                  "marcador": "b",
                  "title": "Tratamento da Caligrafia Divina (Goshotai)",
-                 "pagina": null,
+                 "pagina": 365,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Kyo 20, pág. 28, l. 4-14 <Zenkou Vol. 10, pág. 82>",
@@ -7364,7 +7364,7 @@
                  "nivel": "letra_min",
                  "marcador": "c",
                  "title": "Tratamento de cópias dos Ensinamentos",
-                 "pagina": null,
+                 "pagina": 366,
                  "children": [],
                  "subtitulo": "No caso de copiar os Livros Divinos... Como assim? No caso de copiar para divulgação ou referência, a Luz reside da mesma forma? Não entendo bem o que você diz... A Luz é a mesma do que está impresso no livro. Então, o tratamento deve ser o mesmo dos Livros Divinos? Pode tratar igual. Afinal, os tipos móveis também foram feitos por humanos. Feitos com chumbo e óleo. Mesmo que um humano escreva, molhando o pincel na tinta ou com caneta tinteiro... É a mesma coisa*. (1 de novembro de 1952)",
                  "ensinamento": {
@@ -7386,7 +7386,7 @@
                  "nivel": "letra_min",
                  "marcador": "d",
                  "title": "Quando não condiz com a lógica, há aviso",
-                 "pagina": null,
+                 "pagina": 367,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Kyo 26, pág. 8, l. 7-15 <Zenkou Vol. 11, pág. 69>",
@@ -7407,7 +7407,7 @@
                  "nivel": "letra_min",
                  "marcador": "e",
                  "title": "No Mundo Espiritual a ordem é rigorosa",
-                 "pagina": null,
+                 "pagina": 368,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Kyo 26, pág. 10, l. 1-7, 10, l. 12 ~ 11, l. 5 <Zenkou Vol. 11, pág. 70>",
@@ -7428,7 +7428,7 @@
                  "nivel": "letra_min",
                  "marcador": "f",
                  "title": "Quando quiser receber Johrei, peça baixando a cabeça*",
-                 "pagina": null,
+                 "pagina": 370,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Kyo 22, pág. 59, l. 4-12 <Zenkou Vol. 10, pág. 257>",
@@ -7449,7 +7449,7 @@
                  "nivel": "letra_min",
                  "marcador": "g",
                  "title": "Ao fazer pedidos",
-                 "pagina": null,
+                 "pagina": 371,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Kyo 22, pág. 59, l. 12 ~ 60, l. 11 <Zenkou Vol. 10, pág. 257>",
@@ -7470,7 +7470,7 @@
                  "nivel": "letra_min",
                  "marcador": "h",
                  "title": "Não resolver outros assuntos antes de visitar o Santuário",
-                 "pagina": null,
+                 "pagina": 372,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Sui 29, pág. 14, l. 11 ~ 15, l. 1 <Zenkou Vol. 12, pág. 50>",
@@ -7505,7 +7505,7 @@
                "nivel": "letra",
                "marcador": "C",
                "title": "Reciprocidade da Proteção",
-               "pagina": null,
+               "pagina": 373,
                "children": [
                 {
                  "id": "c2.i3.II.2.3.ii.C.a",
@@ -7513,7 +7513,7 @@
                  "nivel": "letra_min",
                  "marcador": "a",
                  "title": "A reciprocidade da proteção vista na re-purificação",
-                 "pagina": null,
+                 "pagina": 373,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Shu 24, col. inf. l. 17 ~ 25, col. sup. l. 5 = Ishi Shu Ge 60, col. sup. l. 11 ~ col. inf. l. 9 <Zencho Vol. 11, pág. 507>",
@@ -7534,7 +7534,7 @@
                  "nivel": "letra_min",
                  "marcador": "b",
                  "title": "A reciprocidade da proteção vista no agradecimento pelas graças",
-                 "pagina": null,
+                 "pagina": 374,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Sui 16, pág. 7, l. 4 ~ 8, l. 6 <Zenkou Vol. 6, pág. 311>",
@@ -7557,7 +7557,7 @@
                "nivel": "letra",
                "marcador": "D",
                "title": "Seleção — Intervenção da Vontade Divina",
-               "pagina": null,
+               "pagina": 375,
                "children": [
                 {
                  "id": "c2.i3.II.2.3.ii.D.a",
@@ -7565,7 +7565,7 @@
                  "nivel": "letra_min",
                  "marcador": "a",
                  "title": "Ser testado e expulso",
-                 "pagina": null,
+                 "pagina": 376,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Sui 3, pág. 45, l. 5-7 <Zenkou Vol. 4, pág. 223>",
@@ -7586,7 +7586,7 @@
                  "nivel": "letra_min",
                  "marcador": "b",
                  "title": "Expulso de modo a não gerar rancor",
-                 "pagina": null,
+                 "pagina": 377,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Sui 8, pág. 42, l. 4-12 <Zenkou Vol. 6, pág. 84>",
@@ -7607,7 +7607,7 @@
                  "nivel": "letra_min",
                  "marcador": "c",
                  "title": "A seleção de Deus que o ser humano não compreende",
-                 "pagina": null,
+                 "pagina": 378,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Sui 16, pág. 4, l. 4-14 <Zenkou Vol. 6, pág. 309>",
@@ -7628,7 +7628,7 @@
                  "nivel": "letra_min",
                  "marcador": "d",
                  "title": "A seleção feita por Kannon-Sama",
-                 "pagina": null,
+                 "pagina": 379,
                  "children": [],
                  "ensinamento": {
                   "fonte": null,
@@ -7652,7 +7652,7 @@
                "nivel": "letra",
                "marcador": "E",
                "title": "Doença e Morte como Punição",
-               "pagina": null,
+               "pagina": 380,
                "children": [
                 {
                  "id": "c2.i3.II.2.3.ii.E.a",
@@ -7660,7 +7660,7 @@
                  "nivel": "letra_min",
                  "marcador": "a",
                  "title": "Doença como punição por erro",
-                 "pagina": null,
+                 "pagina": 381,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Ron 1614, col. sup. l. 13-21 = Ishi Jo Jo 341, col. sup. l. 14 ~ col. inf. l. 8 <Zencho Vol. 9, pág. 416>",
@@ -7681,7 +7681,7 @@
                  "nivel": "letra_min",
                  "marcador": "b",
                  "title": "O processo de geração da doença como punição",
-                 "pagina": null,
+                 "pagina": 382,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Kesshin pág. 14, l. 6-12 = Ishi Jo Jo 152, col. inf. l. 4 ~ 153, col. sup. l. 3 <Zencho Vol. 10, pág. 63>",
@@ -7707,7 +7707,7 @@
                  "nivel": "letra_min",
                  "marcador": "c",
                  "title": "O que é a morte",
-                 "pagina": null,
+                 "pagina": 383,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Shu 179, col. sup. l. 17-22 = Ishi Shu Ge 333, col. sup. l. 5-12 <Zencho Vol. 6, pág. 258>",
@@ -7731,7 +7731,7 @@
                "nivel": "letra",
                "marcador": "F",
                "title": "O Pecado da Blasfêmia",
-               "pagina": null,
+               "pagina": 384,
                "children": [
                 {
                  "id": "c2.i3.II.2.3.ii.F.a",
@@ -7739,7 +7739,7 @@
                  "nivel": "letra_min",
                  "marcador": "a",
                  "title": "A maior blasfêmia",
-                 "pagina": null,
+                 "pagina": 384,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Hikari Ho 41, l. 13 ~ 42, l. 5 <Zencho Vol. 1, pág. 397>",
@@ -7760,7 +7760,7 @@
                  "nivel": "letra_min",
                  "marcador": "b",
                  "title": "Raiz do Pecado ―― Ter aprisionado Deus (Março de 1954 - Orientação recebida pessoalmente)",
-                 "pagina": null,
+                 "pagina": 385,
                  "children": [],
                  "ensinamento": {
                   "fonte": null,
@@ -7781,7 +7781,7 @@
                  "nivel": "letra_min",
                  "marcador": "c",
                  "title": "O que significa \"Aprisionar Deus\"",
-                 "pagina": null,
+                 "pagina": 385,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Kyo 31, pág. 1, l. 10 ~ 2, l. 1, 2, l. 7-10 <Zenkou Vol. 12, pág. 174>",
@@ -7802,7 +7802,7 @@
                  "nivel": "letra_min",
                  "marcador": "d",
                  "title": "Exemplo de blasfêmia inconsciente",
-                 "pagina": null,
+                 "pagina": 387,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Kyo 22, pág. 44, l. 3-17 <Zenkou Vol. 10, pág. 244>",
@@ -7823,7 +7823,7 @@
                  "nivel": "letra_min",
                  "marcador": "e",
                  "title": "Relacionado à Consagração da Imagem Divina",
-                 "pagina": null,
+                 "pagina": 387,
                  "children": [],
                  "ensinamento": {
                   "fonte": null,
@@ -7844,7 +7844,7 @@
                  "nivel": "letra_min",
                  "marcador": "f",
                  "title": "Contra os Livros Divinos, Caligrafia Divina, etc.",
-                 "pagina": null,
+                 "pagina": 389,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Kyo 20, pág. 27, l. 17 ~ 28, l. 3, 28, l. 4-9 <Zenkou Vol. 10, pág. 82>",
@@ -7865,7 +7865,7 @@
                  "nivel": "letra_min",
                  "marcador": "g",
                  "title": "Punição contra blasfemadores",
-                 "pagina": null,
+                 "pagina": 389,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Kyo 20, pág. 19, l. 12 ~ 21, l. 9 <Zenkou Vol. 10, pág. 74>",
@@ -7891,7 +7891,7 @@
                  "nivel": "letra_min",
                  "marcador": "h",
                  "title": "Exemplo na Medicina",
-                 "pagina": null,
+                 "pagina": 393,
                  "children": [],
                  "ensinamento": {
                   "fonte": "A Kyu, pág. 12, l. 7-11 = Ishi Jo Ge 214, col. inf. l. 7 ~ 215, col. sup. l. 7 <Zencho Vol. 11, pág. 19>) Uma vez que se danifica uma parte do corpo humano, por menor que seja, não pode deixar de haver influência. Por exemplo, na apendicite, se tirassem apenas o pus estaria bem, mas como a medicina não consegue fazer isso, acaba cortando até o apêndice vermiforme, o que se deve dizer que é extrema barbárie. A razão é que o Criador não deve ter criado nada desnecessário no corpo humano. Sobre isso, os médicos costumam dizer que o ceco é desnecessário, ou que não faz mal não ter um dos rins, mas isso é totalmente porque a necessidade é desconhecida; mostra quão infantil é a medicina de hoje e, por outro lado, é também uma blasfêmia contra Deus*. (1 de janeiro de 1953 \"Sobre a Cirurgia\"",
@@ -8254,7 +8254,7 @@
            "nivel": "circulo",
            "marcador": "4",
            "title": "Manifestação do Poder Infinito",
-           "pagina": null,
+           "pagina": 422,
            "children": [
             {
              "id": "c2.i3.III.2.4.i",
@@ -8262,7 +8262,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Poder Finito e Poder Infinito",
-             "pagina": null,
+             "pagina": 422,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo, nº 26, pág. 80, linhas 2-11 <Zenko, Vol. 11, pág. 130>",
@@ -8283,7 +8283,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "O que é o verdadeiro Poder Infinito",
-             "pagina": null,
+             "pagina": 423,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo, nº 27, pág. 6, linha 12 a pág. 7, linha 6 <Zenko, Vol. 11, pág. 147>",
@@ -8319,7 +8319,7 @@
            "nivel": "circulo",
            "marcador": "5",
            "title": "Extinguir a natureza animal humana",
-           "pagina": null,
+           "pagina": 423,
            "children": [],
            "ensinamento": {
             "fonte": "人間の獣性を消滅させる)(Geisha, pág. 239, parte superior, linhas 2-8; linhas 11-14; linha 22 a parte inferior, linha 6; parte inferior, linhas 12-18 = Sha-shu, pág. 40, parte superior, linhas 5-13; parte inferior, linhas 1-4; pág. 40, parte inferior, linha 5 a pág. 41, parte superior, linha 6; pág. 41, parte superior, linha 14 a parte inferior, linha 6 <Zenshu, Vol. 9, pág. 436>",
@@ -8345,7 +8345,7 @@
            "nivel": "circulo",
            "marcador": "6",
            "title": "O Poder de Deus e a Ciência de Deus",
-           "pagina": null,
+           "pagina": 428,
            "children": [],
            "ensinamento": {
             "fonte": "神の力と神の科学)(Ron-betsu, pág. 698, parte superior, linha 2 a parte inferior, linha 2 / parte inferior, linhas 10-12; linhas 13-22 <Zenshu, Vol. 11, pág. 203>",
@@ -8366,7 +8366,7 @@
            "nivel": "circulo",
            "marcador": "7",
            "title": "A luz intermediada pelo Ohikari *1",
-           "pagina": null,
+           "pagina": 431,
            "children": [
             {
              "id": "c2.i3.III.2.7.i",
@@ -8374,7 +8374,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Ondas de luz emitidas pelo Ohikari",
-             "pagina": null,
+             "pagina": 431,
              "children": [],
              "ensinamento": {
               "fonte": null,
@@ -8395,7 +8395,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "Receptor de ondas de luz",
-             "pagina": null,
+             "pagina": 432,
              "children": [],
              "ensinamento": {
               "fonte": "A-Kyu, pág. 38, linhas 8-15 <Zenshu, Vol. 11, pág. 29>",
@@ -8418,7 +8418,7 @@
            "nivel": "circulo",
            "marcador": "8",
            "title": "A luz que transcende o tempo e o espaço",
-           "pagina": null,
+           "pagina": 433,
            "children": [],
            "ensinamento": {
             "fonte": "時空を越える光)(Kyo, nº 25, pág. 50, linhas 1-8 <Zenko, Vol. 11, pág. 49>",
@@ -8439,7 +8439,7 @@
            "nivel": "circulo",
            "marcador": "9",
            "title": "O que é o Deus Supremo desta religião",
-           "pagina": null,
+           "pagina": 434,
            "children": [],
            "ensinamento": {
             "fonte": "本教主宰神とは何か)(Kyo, nº 31, pág. 8, linhas 4-6 <Zenko, Vol. 12, pág. 180>",
@@ -8460,7 +8460,7 @@
            "nivel": "circulo",
            "marcador": "10",
            "title": "O Poder do Deus Supremo desta Religião",
-           "pagina": null,
+           "pagina": 434,
            "children": [],
            "ensinamento": {
             "fonte": "本教主宰神の力)(Chi, nº 8, pág. 15, parte superior, linhas 10-14 <Zenko, Vol. 3, pág. 66>",
@@ -8496,7 +8496,7 @@
          "nivel": "numero",
          "marcador": "3",
          "title": "Através de milagres e do Johrei",
-         "pagina": 434,
+         "pagina": 435,
          "children": [
           {
            "id": "c2.i3.III.3.1",
@@ -8504,7 +8504,7 @@
            "nivel": "circulo",
            "marcador": "1",
            "title": "A salvação final, para a qual o Deus Supremo concedeu o poder de cura",
-           "pagina": 434,
+           "pagina": 435,
            "children": [],
            "ensinamento": {
             "fonte": null,
@@ -8525,7 +8525,7 @@
            "nivel": "circulo",
            "marcador": "2",
            "title": "Deus manifesta milagres e salva a alma",
-           "pagina": 434,
+           "pagina": 435,
            "children": [],
            "ensinamento": {
             "fonte": "Tenfuku-sho, pág. 18, parte superior, linhas 2-10; pág. 18, parte inferior, linha 3 a pág. 19, parte superior, linha 1; pág. 19, parte superior, linhas 7-16 = So-shu Superior, pág. 229, parte inferior, linha 10 a pág. 230, parte superior, linha 6; pág. 230, parte superior, linha 13 a parte inferior, linha 12; pág. 231, parte superior, linhas 2-10 <Zenshu, Vol. 12, pág. 41>",
@@ -8677,7 +8677,7 @@
            "nivel": "circulo",
            "marcador": "9",
            "title": "Poder que fez escapar da bomba atômica e outros",
-           "pagina": null,
+           "pagina": 444,
            "children": [],
            "ensinamento": {
             "fonte": "原爆等を免れさせた力)(So, pág. 209, parte inferior, linhas 6-20 = So-shu Inferior, pág. 396, parte inferior, linha 6 a pág. 397, parte superior, linha 8 <Zenshu, Vol. 10, pág. 468>",
@@ -8698,7 +8698,7 @@
            "nivel": "circulo",
            "marcador": "10",
            "title": "Poder de regenerar órgãos corroídos e caídos",
-           "pagina": null,
+           "pagina": 446,
            "children": [],
            "ensinamento": {
             "fonte": "腐食脱落した器官も復活させる力) (Milagres, pág. 151, linhas 1-15 <Zenshu, Vol. 11, pág. 134>",
@@ -8719,7 +8719,7 @@
            "nivel": "circulo",
            "marcador": "11",
            "title": "Chega o dia e o Deus do Sol exerce Seu poder",
-           "pagina": null,
+           "pagina": 448,
            "children": [],
            "ensinamento": {
             "fonte": "昼が来て日の神が力を振るう) (Kyo, nº 29, pág. 58, linha 12 - pág. 60, linha 6 <Zenko, Vol. 11, pág. 321>",
@@ -8745,7 +8745,7 @@
            "nivel": "circulo",
            "marcador": "12",
            "title": "A fé profunda em Meishu-Sama concede grande poder",
-           "pagina": null,
+           "pagina": 449,
            "children": [],
            "ensinamento": {
             "fonte": "明主様への深い信仰が大いなる力を授ける) (Kyo, nº 33, pág. 34, linha 15 - pág. 35, linha 3 <Zenko, Vol. 12, pág. 343> [Versão revisada por gravação]",
@@ -8766,7 +8766,7 @@
            "nivel": "circulo",
            "marcador": "13",
            "title": "A origem do Poder de Kannon",
-           "pagina": null,
+           "pagina": 449,
            "children": [],
            "ensinamento": {
             "fonte": "観音力の根元) (Chi, nº 8, pág. 15, parte superior, linhas 10-14 <Zenko, Vol. 3, pág. 66>",
@@ -8979,7 +8979,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "Problema alimentar e a lei natural",
-               "pagina": 455,
+               "pagina": 454,
                "children": [],
                "ensinamento": {
                 "fonte": "Ron, pág. 2031, parte superior, linhas 15-19 = Sha-shu, pág. 345, parte inferior, linhas 8-12 <Zenshu, Vol. 8, pág. 663>",
@@ -9061,7 +9061,7 @@
            "nivel": "circulo",
            "marcador": "2",
            "title": "Exemplos representativos da \"Lei\"",
-           "pagina": null,
+           "pagina": 457,
            "children": [
             {
              "id": "c2.i4.I.2.2.i",
@@ -9069,7 +9069,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Lei da Ordem",
-             "pagina": null,
+             "pagina": 457,
              "children": [
               {
                "id": "c2.i4.I.2.2.i.A",
@@ -9077,7 +9077,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "Deus é Ordem",
-               "pagina": null,
+               "pagina": 457,
                "children": [],
                "ensinamento": {
                 "fonte": "Shin-zatsu, pág. 70, linhas 8-11 = Sha-shu, pág. 156, parte inferior, linha 7 a pág. 157, parte superior, linha 2 <Zenshu, Vol. 6, pág. 72>",
@@ -9098,7 +9098,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "Aprender com a Grande Natureza",
-               "pagina": null,
+               "pagina": 458,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo, nº 20, pág. 29, linhas 7-11 <Zenko, Vol. 10, pág. 83>",
@@ -9119,7 +9119,7 @@
                "nivel": "letra",
                "marcador": "C",
                "title": "Também no Plano Divino há ordem",
-               "pagina": null,
+               "pagina": 458,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo, nº 25, pág. 49, linhas 10-16 <Zenko, Vol. 11, pág. 49>",
@@ -9140,7 +9140,7 @@
                "nivel": "letra",
                "marcador": "D",
                "title": "Ordem e Modelo",
-               "pagina": null,
+               "pagina": 458,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo, nº 27, pág. 32, linhas 6-9 <Zenko, Vol. 11, pág. 169>",
@@ -9163,7 +9163,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "Lei do Espírito Precede a Matéria (Reishu Taiju)",
-             "pagina": null,
+             "pagina": 459,
              "children": [
               {
                "id": "c2.i4.I.2.2.ii.A",
@@ -9171,7 +9171,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "Espírito Precede a Matéria",
-               "pagina": null,
+               "pagina": 459,
                "children": [],
                "ensinamento": {
                 "fonte": "Shin-zatsu, pág. 71, linhas 3-4 = Sha-shu, pág. 157, parte superior, linhas 9-11 <Zenshu, Vol. 6, pág. 73>) Primeiramente, sobre a ordem, deve-se saber que todos os fenômenos do mundo material são projeções do Mundo Espiritual e, ao mesmo tempo, os fenômenos do mundo material também refletem no Mundo Espiritual. (5 de setembro de 1948, \"Não Erreis a Ordem\"",
@@ -9192,7 +9192,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "Nível Espiritual (Reii) e Destino",
-               "pagina": null,
+               "pagina": 459,
                "children": [
                 {
                  "id": "c2.i4.I.2.2.ii.B.a",
@@ -9200,7 +9200,7 @@
                  "nivel": "letra_min",
                  "marcador": "a",
                  "title": "Nível Espiritual e Boa Sorte",
-                 "pagina": null,
+                 "pagina": 459,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Ron, pág. 2182, parte inferior, linha 21 a pág. 2183, parte superior, linha 5 = So-shu Inferior, pág. 51, parte superior, linhas 3-11 <Zenshu, Vol. 12, pág. 207>",
@@ -9221,7 +9221,7 @@
                  "nivel": "letra_min",
                  "marcador": "b",
                  "title": "Nível Espiritual e Circunstâncias",
-                 "pagina": null,
+                 "pagina": 460,
                  "children": [],
                  "ensinamento": {
                   "fonte": "So, pág. 23, parte superior, linha 20 = So-shu Inferior, pág. 55, parte superior, linha 13 a pág. 56, parte superior, linha 10 <Zenshu, Vol. 10, pág. 433>",
@@ -9244,7 +9244,7 @@
                "nivel": "letra",
                "marcador": "C",
                "title": "Nuvens e Incêndios",
-               "pagina": null,
+               "pagina": 460,
                "children": [],
                "ensinamento": {
                 "fonte": "So, pág. 204, parte inferior, linha 16 a pág. 205, parte superior, linha 1 = So-shu Inferior, pág. 387, parte inferior, linha 15 a pág. 388, parte superior, linha 9 <Zenshu, Vol. 8, pág. 564>",
@@ -9267,7 +9267,7 @@
              "nivel": "romano",
              "marcador": "iii",
              "title": "Lei da Purificação",
-             "pagina": null,
+             "pagina": 461,
              "children": [
               {
                "id": "c2.i4.I.2.2.iii.A",
@@ -9275,7 +9275,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "Disposições Básicas",
-               "pagina": null,
+               "pagina": 461,
                "children": [
                 {
                  "id": "c2.i4.I.2.2.iii.A.a",
@@ -9283,7 +9283,7 @@
                  "nivel": "letra_min",
                  "marcador": "a",
                  "title": "Se sujar, será limpo",
-                 "pagina": null,
+                 "pagina": 461,
                  "children": [],
                  "ensinamento": {
                   "fonte": null,
@@ -9304,7 +9304,7 @@
                  "nivel": "letra_min",
                  "marcador": "b",
                  "title": "O sofrimento é a purificação do pecado",
-                 "pagina": null,
+                 "pagina": 462,
                  "children": [],
                  "ensinamento": {
                   "fonte": null,
@@ -9327,7 +9327,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "O acúmulo de impurezas gera purificação: Lei da Concordância",
-               "pagina": null,
+               "pagina": 464,
                "children": [
                 {
                  "id": "c2.i4.I.2.2.iii.B.a",
@@ -9335,7 +9335,7 @@
                  "nivel": "letra_min",
                  "marcador": "a",
                  "title": "Guerra como ação de purificação",
-                 "pagina": null,
+                 "pagina": 464,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Kyo, nº 2, pág. 86, linhas 7-10 <Zenko, Vol. 4, pág. 549>",
@@ -9356,7 +9356,7 @@
                  "nivel": "letra_min",
                  "marcador": "b",
                  "title": "Se macular, será purificado",
-                 "pagina": null,
+                 "pagina": 464,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Kyo, nº 24, pág. 36, linhas 14-15 <Zenko, Vol. 10, pág. 361>",
@@ -9379,7 +9379,7 @@
                "nivel": "letra",
                "marcador": "C",
                "title": "A purificação chamada doença*",
-               "pagina": null,
+               "pagina": 464,
                "children": [],
                "ensinamento": {
                 "fonte": "K4, seções 32-33 <Zenshu, Vol. 10, pág. 153>",
@@ -9400,7 +9400,7 @@
                "nivel": "letra",
                "marcador": "D",
                "title": "Purificação do corpo e purificação do mundo natural",
-               "pagina": null,
+               "pagina": 465,
                "children": [
                 {
                  "id": "c2.i4.I.2.2.iii.D.a",
@@ -9408,7 +9408,7 @@
                  "nivel": "letra_min",
                  "marcador": "a",
                  "title": "Tudo entre o céu e a terra é purificado",
-                 "pagina": null,
+                 "pagina": 465,
                  "children": [],
                  "ensinamento": {
                   "fonte": "K13, seções 9-25 <Zenshu, Vol. 10, pág. 182>",
@@ -9429,7 +9429,7 @@
                  "nivel": "letra_min",
                  "marcador": "b",
                  "title": "Toda a criação e a ação de purificação",
-                 "pagina": null,
+                 "pagina": 467,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Ron, pág. 2074, parte inferior, linhas 6-9 = So-shu Inferior, pág. 383, parte superior, linhas 10-15 <Zenshu, Vol. 11, pág. 59>",
@@ -9452,7 +9452,7 @@
                "nivel": "letra",
                "marcador": "E",
                "title": "Purificação do dinheiro",
-               "pagina": null,
+               "pagina": 468,
                "children": [],
                "ensinamento": {
                 "fonte": "Tenfuku-sho, pág. 104, parte inferior, linhas 8-13 = So-shu Inferior, pág. 56, parte inferior, linha 14 a pág. 57, parte superior, linha 4 <Zenshu, Vol. 12, pág. 141>",
@@ -9473,7 +9473,7 @@
                "nivel": "letra",
                "marcador": "F",
                "title": "Purificação baseada no sofrimento causado a outros*1",
-               "pagina": null,
+               "pagina": 468,
                "children": [],
                "ensinamento": {
                 "fonte": "Tenfuku-sho, pág. 105, parte inferior, linhas 1-5 <Zenshu, Vol. 12, pág. 142>",
@@ -9494,7 +9494,7 @@
                "nivel": "letra",
                "marcador": "G",
                "title": "Existência de maus elementos",
-               "pagina": null,
+               "pagina": 468,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo, nº 14, pág. 7, linha 8 - pág. 8, linha 1 <Zenko, Vol. 8, pág. 66>",
@@ -9515,7 +9515,7 @@
                "nivel": "letra",
                "marcador": "H",
                "title": "Existência de microrganismos patogênicos",
-               "pagina": null,
+               "pagina": 470,
                "children": [],
                "ensinamento": {
                 "fonte": "A-Kyu, pág. 54, linhas 1-7 = So-shu Johrei Superior, pág. 342, parte superior, linha 6 a parte inferior, linha 7 <Zenshu, Vol. 11, pág. 30>",
@@ -9538,7 +9538,7 @@
              "nivel": "romano",
              "marcador": "iv",
              "title": "Lei de Causa e Efeito",
-             "pagina": null,
+             "pagina": 470,
              "children": [
               {
                "id": "c2.i4.I.2.2.iv.A",
@@ -9546,7 +9546,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "Boa Causa Bom Efeito, Má Causa Mau Efeito",
-               "pagina": null,
+               "pagina": 470,
                "children": [],
                "ensinamento": {
                 "fonte": "So, pág. 16, parte superior, linha 14 a pág. 17, parte superior, linha 3 = So-shu Inferior, pág. 37, parte inferior, linha 4 a pág. 38, parte superior, linha 12 <Zenshu, Vol. 6, pág. 126>",
@@ -9567,7 +9567,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "A Causa da Sorte e do Azar",
-               "pagina": null,
+               "pagina": 472,
                "children": [],
                "ensinamento": {
                 "fonte": "Milagres, pág. 7, linhas 8-9 = So-shu Inferior, pág. 233, parte inferior, linhas 1-4 <Zenshu, Vol. 11, pág. 128>",
@@ -9588,7 +9588,7 @@
                "nivel": "letra",
                "marcador": "C",
                "title": "Tudo ocorre por afinidade (In-nen)",
-               "pagina": null,
+               "pagina": 472,
                "children": [],
                "ensinamento": {
                 "fonte": "Sui, nº 29, pág. 31, linha 7 a pág. 34, linha 8 <Zenko, Vol. 12, pág. 67>",
@@ -9616,7 +9616,7 @@
              "nivel": "romano",
              "marcador": "v",
              "title": "Lei da Concordância (Souou no Ri)",
-             "pagina": null,
+             "pagina": 478,
              "children": [
               {
                "id": "c2.i4.I.2.2.v.A",
@@ -9624,7 +9624,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "Recompensas e Punições no Mundo Espiritual",
-               "pagina": null,
+               "pagina": 478,
                "children": [
                 {
                  "id": "c2.i4.I.2.2.v.A.a",
@@ -9632,7 +9632,7 @@
                  "nivel": "letra_min",
                  "marcador": "a",
                  "title": "Recompensas e Punições no Mundo Espiritual e o Aprimoramento",
-                 "pagina": null,
+                 "pagina": 478,
                  "children": [],
                  "ensinamento": {
                   "fonte": "So, pág. 129, parte inferior, linhas 5-18 = So-shu Inferior, pág. 302, parte superior, linha 8 a parte inferior, linha 8 <Zenshu, Vol. 6, pág. 204>",
@@ -9653,7 +9653,7 @@
                  "nivel": "letra_min",
                  "marcador": "b",
                  "title": "O Tribunal de Enma e o Bem e o Mal",
-                 "pagina": null,
+                 "pagina": 479,
                  "children": [],
                  "ensinamento": {
                   "fonte": "So, pág. 33, parte superior, linhas 5-14 = So-shu Inferior, pág. 72, parte inferior, linha 12 a pág. 73, parte superior, linha 8 <Zenshu, Vol. 9, pág. 625>",
@@ -9676,7 +9676,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "Injustiça ou erro e a geração de nuvens",
-               "pagina": null,
+               "pagina": 480,
                "children": [],
                "ensinamento": {
                 "fonte": "Ron, pág. 1614, parte superior, linhas 13-18 <Zenshu, Vol. 9, pág. 416>",
@@ -9697,7 +9697,7 @@
                "nivel": "letra",
                "marcador": "C",
                "title": "Tamanho do pecado e quantidade de nuvens / Recompensa às boas ações (Méritos)",
-               "pagina": null,
+               "pagina": 480,
                "children": [],
                "ensinamento": {
                 "fonte": "Kesshin, pág. 15, linhas 8-15 = So-shu Johrei Superior, pág. 153, parte inferior, linha 7 a pág. 154, parte superior, linha 7 <Zenshu, Vol. 10, pág. 64>",
@@ -9718,7 +9718,7 @@
                "nivel": "letra",
                "marcador": "D",
                "title": "Nível Espiritual e Circunstâncias",
-               "pagina": null,
+               "pagina": 481,
                "children": [],
                "ensinamento": {
                 "fonte": "So, pág. 23, parte superior, linha 20 a parte inferior, linha 20 = So-shu Inferior, pág. 55, parte superior, linha 13 a pág. 56, parte superior, linha 10 <Zenshu, Vol. 10, pág. 433>",
@@ -9739,7 +9739,7 @@
                "nivel": "letra",
                "marcador": "E",
                "title": "Nível espiritual do criador da imagem e a elevação da divindade ou buda que nela se assenta",
-               "pagina": null,
+               "pagina": 483,
                "children": [],
                "ensinamento": {
                 "fonte": "So, pág. 155, parte inferior, linhas 10-16 = So-shu Inferior, pág. 244, parte superior, linhas 4-11 <Zenshu, Vol. 7, pág. 480>",
@@ -9760,7 +9760,7 @@
                "nivel": "letra",
                "marcador": "F",
                "title": "Nível do Espírito Divino e benefícios",
-               "pagina": null,
+               "pagina": 483,
                "children": [],
                "ensinamento": {
                 "fonte": "Ron, pág. 1963, parte inferior, linhas 10-16 <Zenshu, Vol. 11, pág. 401>",
@@ -9781,7 +9781,7 @@
                "nivel": "letra",
                "marcador": "G",
                "title": "Gravidade do Pecado e Gravidade da Punição",
-               "pagina": null,
+               "pagina": 484,
                "children": [
                 {
                  "id": "c2.i4.I.2.2.v.G.a",
@@ -9789,7 +9789,7 @@
                  "nivel": "letra_min",
                  "marcador": "a",
                  "title": "Pecado Leve",
-                 "pagina": null,
+                 "pagina": 484,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Kyo, nº 7, pág. 84, linhas 1-12 <Zenko, Vol. 7, pág. 87>",
@@ -9810,7 +9810,7 @@
                  "nivel": "letra_min",
                  "marcador": "b",
                  "title": "Pecado Grave",
-                 "pagina": null,
+                 "pagina": 484,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Kyo, nº 20, pág. 19, linha 12 - pág. 21, linha 9 <Zenko, Vol. 10, pág. 74>",
@@ -9831,7 +9831,7 @@
                  "nivel": "letra_min",
                  "marcador": "c",
                  "title": "Doença e morte como punição Texto omitido. Vide Capítulo 2, Item 3-II, Vontade de Deus 2, Manifestação Externa da Vontade Divina ③ Justiça ii-E (pág. 380 deste livro).",
-                 "pagina": null,
+                 "pagina": 484,
                  "children": [],
                  "ensinamento": {
                   "fonte": null,
@@ -9866,7 +9866,7 @@
          "nivel": "numero",
          "marcador": "3",
          "title": "Espíritos Divinos e Anjos como Criaturas* (被造物としての神霊・天使)",
-         "pagina": null,
+         "pagina": 486,
          "children": [
           {
            "id": "c2.i4.I.3.1",
@@ -9874,7 +9874,7 @@
            "nivel": "circulo",
            "marcador": "1",
            "title": "A divisão da salvação entre Deuses e Budas",
-           "pagina": null,
+           "pagina": 486,
            "children": [
             {
              "id": "c2.i4.I.3.1.i",
@@ -9882,7 +9882,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "A salvação de Deuses e Budas e as várias religiões",
-             "pagina": null,
+             "pagina": 486,
              "children": [],
              "ensinamento": {
               "fonte": "Shin-zatsu, pág. 102, linha 10 a pág. 103, linha 3 = So-shu Johrei Superior, pág. 5, parte inferior, linha 13 a pág. 6, parte superior, linha 12 <Zenko, Vol. 6, pág. 101>",
@@ -9903,7 +9903,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "A salvação pelos Deuses no Mundo Espiritual",
-             "pagina": null,
+             "pagina": 487,
              "children": [],
              "ensinamento": {
               "fonte": "So, pág. 472, parte superior, linhas 3-6 = So-shu Inferior, pág. 368, parte superior, linha 13 a parte inferior, linha 4 <Zenshu, Vol. 10, pág. 611>",
@@ -9924,7 +9924,7 @@
              "nivel": "romano",
              "marcador": "iii",
              "title": "Os três estágios do Paraíso",
-             "pagina": null,
+             "pagina": 488,
              "children": [],
              "ensinamento": {
               "fonte": "So, pág. 143, parte inferior, linhas 5-13 = So-shu Inferior, pág. 311, parte superior, linha 3 a parte inferior, linha 2 <Zenshu, Vol. 6, pág. 213>",
@@ -9947,7 +9947,7 @@
            "nivel": "circulo",
            "marcador": "2",
            "title": "Hierarquia dos Espíritos Divinos e ordens aos humanos",
-           "pagina": null,
+           "pagina": 489,
            "children": [],
            "ensinamento": {
             "fonte": "Su 4, seções 73-76 <Zenshu, Vol. 10, pág. 275>",
@@ -9968,7 +9968,7 @@
            "nivel": "circulo",
            "marcador": "3",
            "title": "Hierarquia dos Espíritos Divinos",
-           "pagina": null,
+           "pagina": 489,
            "children": [],
            "ensinamento": {
             "fonte": "So, pág. 294, parte inferior, linhas 9-13 = So-shu Superior, pág. 233, parte superior, linhas 3-8 <Zenshu, Vol. 9, pág. 260>",
@@ -9989,7 +9989,7 @@
            "nivel": "circulo",
            "marcador": "4",
            "title": "Nível do Espírito Divino e a intensidade da Luz",
-           "pagina": null,
+           "pagina": 490,
            "children": [],
            "ensinamento": {
             "fonte": "Sui, nº 12, pág. 30, linha 11 a pág. 32, linha 2 <Zenko, Vol. 6, pág. 227>",
@@ -10010,7 +10010,7 @@
            "nivel": "circulo",
            "marcador": "5",
            "title": "Deuses Expressivos do Deus Supremo",
-           "pagina": null,
+           "pagina": 490,
            "children": [],
            "ensinamento": {
             "fonte": "Chi, nº 3, pág. 14, parte superior, linhas 11-14 <Zenko, Vol. 3, pág. 22>",
@@ -10034,7 +10034,7 @@
          "nivel": "numero",
          "marcador": "4",
          "title": "Mundo Espiritual e Mundo Material",
-         "pagina": null,
+         "pagina": 491,
          "children": [],
          "ensinamento": {
           "fonte": "霊界と現界) (Ron, pág. 2182, parte inferior, linha 21 a pág. 2183, parte superior, linha 5 = So-shu Inferior, pág. 51, parte superior, linhas 3-11 <Zenshu, Vol. 12, pág. 207>",
@@ -10055,7 +10055,7 @@
          "nivel": "numero",
          "marcador": "5",
          "title": "Ser Humano",
-         "pagina": null,
+         "pagina": 492,
          "children": [
           {
            "id": "c2.i4.I.5.1",
@@ -10063,7 +10063,7 @@
            "nivel": "circulo",
            "marcador": "1",
            "title": "Criado à semelhança de Deus — O mistério da sua vida",
-           "pagina": null,
+           "pagina": 492,
            "children": [],
            "ensinamento": {
             "fonte": "Ron, pág. 19, parte superior, linha 13 a parte inferior, linha 10 = So-shu Johrei Superior, pág. 200, parte superior, linha 1 a parte inferior, linha 11 <Zenshu, Vol. 1, pág. 200>",
@@ -10084,7 +10084,7 @@
            "nivel": "circulo",
            "marcador": "2",
            "title": "Agente da Vontade Divina",
-           "pagina": null,
+           "pagina": 493,
            "children": [
             {
              "id": "c2.i4.I.5.2.i",
@@ -10092,7 +10092,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Preparação para o Paraíso Terrestre",
-             "pagina": null,
+             "pagina": 493,
              "children": [],
              "ensinamento": {
               "fonte": "So, pág. 259, parte superior, linhas 1-5 = So-shu Superior, pág. 7, parte inferior, linhas 1-7 <Zenshu, Vol. 8, pág. 430>",
@@ -10113,7 +10113,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "O ser humano criado para manifestar o Paraíso Terrestre",
-             "pagina": null,
+             "pagina": 493,
              "children": [],
              "ensinamento": {
               "fonte": "Ron, pág. 945, parte superior, linhas 1-4 <Zenshu, Vol. 7, pág. 173>",
@@ -10134,7 +10134,7 @@
              "nivel": "romano",
              "marcador": "iii",
              "title": "O objetivo da criação humana",
-             "pagina": null,
+             "pagina": 494,
              "children": [],
              "ensinamento": {
               "fonte": "So, pág. 128, parte superior, linhas 4-7 = So-shu Inferior, pág. 299, parte inferior, linhas 1-5 <Zenshu, Vol. 6, pág. 201>",
@@ -10157,7 +10157,7 @@
            "nivel": "circulo",
            "marcador": "3",
            "title": "Cabeça das Criaturas",
-           "pagina": null,
+           "pagina": 494,
            "children": [],
            "ensinamento": {
             "fonte": "Ron, pág. 2087, parte inferior, linhas 1-7 = So-shu Johrei Superior, pág. 21, parte superior, linha 8 a parte inferior, linha 3 <Zenshu, Vol. 11, pág. 589>",
@@ -10178,7 +10178,7 @@
            "nivel": "circulo",
            "marcador": "4",
            "title": "A Missão do Ser Humano",
-           "pagina": null,
+           "pagina": 495,
            "children": [
             {
              "id": "c2.i4.I.5.4.i",
@@ -10186,7 +10186,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Criar um mundo ideal de Verdade, Bem e Beleza",
-             "pagina": null,
+             "pagina": 495,
              "children": [],
              "ensinamento": {
               "fonte": "K11, seção 12, seções 14-16 <Zenshu, Vol. 10, pág. 178>",
@@ -10207,7 +10207,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "Ser humano para a construção do Paraíso Terrestre",
-             "pagina": null,
+             "pagina": 495,
              "children": [],
              "ensinamento": {
               "fonte": "So, pág. 177, parte superior, linhas 5-13 = So-shu Inferior, pág. 294, parte superior, linha 6 a parte inferior, linha 1 <Zenshu, Vol. 5, pág. 344>",
@@ -10228,7 +10228,7 @@
              "nivel": "romano",
              "marcador": "iii",
              "title": "Execução do Plano Divino na Terra",
-             "pagina": null,
+             "pagina": 496,
              "children": [],
              "ensinamento": {
               "fonte": "So, pág. 128, parte superior, linhas 4-9 = So-shu Inferior, pág. 299, parte inferior, linhas 1-8 <Zenshu, Vol. 6, pág. 201>",
@@ -10249,7 +10249,7 @@
              "nivel": "romano",
              "marcador": "iv",
              "title": "O papel do ser humano como existência física",
-             "pagina": null,
+             "pagina": 496,
              "children": [],
              "ensinamento": {
               "fonte": "Shin-ken, pág. 10, linhas 3-10 = So-shu Johrei Superior, pág. 192, parte inferior, linha 3 a pág. 193, parte superior, linha 5 <Zenshu, Vol. 8, pág. 73>",
@@ -10272,7 +10272,7 @@
            "nivel": "circulo",
            "marcador": "5",
            "title": "Liberdade de Vontade",
-           "pagina": null,
+           "pagina": 497,
            "children": [
             {
              "id": "c2.i4.I.5.5.i",
@@ -10280,7 +10280,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Deus concede liberdade infinita ao ser humano",
-             "pagina": null,
+             "pagina": 497,
              "children": [],
              "ensinamento": {
               "fonte": "So, pág. 4, parte inferior, linhas 5-12 = So-shu Inferior, pág. 7, parte superior, linhas 2-11 <Zenshu, Vol. 8, pág. 20>",
@@ -10301,7 +10301,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "O ser humano pode tornar-se Deus ou Demônio",
-             "pagina": null,
+             "pagina": 497,
              "children": [],
              "ensinamento": {
               "fonte": "So, pág. 149, parte superior, linhas 14-16 = So-shu Inferior, pág. 287, parte inferior, linhas 4-7 <Zenshu, Vol. 5, pág. 317>",
@@ -10329,7 +10329,7 @@
            "nivel": "circulo",
            "marcador": "6",
            "title": "Habilidade e Hierarquia",
-           "pagina": null,
+           "pagina": 499,
            "children": [],
            "ensinamento": {
             "fonte": "Su 4, seções 78-80 <Zenshu, Vol. 10, pág. 275>",
@@ -10350,7 +10350,7 @@
            "nivel": "circulo",
            "marcador": "7",
            "title": "Evolução Humana — Remoção da Bestialidade",
-           "pagina": null,
+           "pagina": 500,
            "children": [
             {
              "id": "c2.i4.I.5.7.i",
@@ -10358,7 +10358,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Remover a bestialidade e tornar-se humano pleno",
-             "pagina": null,
+             "pagina": 500,
              "children": [],
              "ensinamento": {
               "fonte": "Su 4, seções 58-64 <Zenshu, Vol. 10, pág. 310>",
@@ -10379,7 +10379,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "Conflito e Bestialidade",
-             "pagina": null,
+             "pagina": 500,
              "children": [],
              "ensinamento": {
               "fonte": "Hikari-ho, pág. 57, linhas 2-4 <Zenko, Vol. 1, pág. 412>",
@@ -10402,7 +10402,7 @@
            "nivel": "circulo",
            "marcador": "8",
            "title": "Vida e Morte estão na Vontade de Deus",
-           "pagina": null,
+           "pagina": 501,
            "children": [
             {
              "id": "c2.i4.I.5.8.i",
@@ -10410,7 +10410,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "A vida humana está nas mãos de Deus",
-             "pagina": null,
+             "pagina": 501,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo, nº 24, pág. 26, linhas 4-17 <Zenko, Vol. 10, pág. 352>",
@@ -10431,7 +10431,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "O ser humano foi criado para trabalhar",
-             "pagina": null,
+             "pagina": 501,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo, nº 28, pág. 66, linhas 9-15 <Zenko, Vol. 11, pág. 249>",
@@ -10452,7 +10452,7 @@
              "nivel": "romano",
              "marcador": "iii",
              "title": "O destino e a vida e morte são decididos por ordem de Deus",
-             "pagina": null,
+             "pagina": 502,
              "children": [],
              "ensinamento": {
               "fonte": "So, pág. 179, parte superior, linhas 17-22 = So-shu Inferior, pág. 333, parte superior, linhas 5-12 <Zenshu, Vol. 6, pág. 258>",
@@ -10475,7 +10475,7 @@
            "nivel": "circulo",
            "marcador": "9",
            "title": "Corpo Humano e seu Crescimento",
-           "pagina": null,
+           "pagina": 502,
            "children": [],
            "ensinamento": {
             "fonte": "Shin-ken, pág. 11, linha 12 a pág. 12, linha 10 = So-shu Johrei Superior, pág. 193, parte inferior, linha 11 a pág. 194, parte inferior, linha 1 <Zenshu, Vol. 8, pág. 75>",
@@ -10510,7 +10510,7 @@
          "nivel": "numero",
          "marcador": "6",
          "title": "Outras Criaturas (他の被造物)",
-         "pagina": null,
+         "pagina": 502,
          "children": [
           {
            "id": "c2.i4.I.6.1",
@@ -10518,7 +10518,7 @@
            "nivel": "circulo",
            "marcador": "1",
            "title": "A utilidade de cada coisa está determinada",
-           "pagina": null,
+           "pagina": 502,
            "children": [],
            "ensinamento": {
             "fonte": "Kyo, nº 19, pág. 47, linhas 1-4 <Zenko, Vol. 10, pág. 46>",
@@ -10539,7 +10539,7 @@
            "nivel": "circulo",
            "marcador": "2",
            "title": "Subserviência ao ser humano",
-           "pagina": null,
+           "pagina": 503,
            "children": [],
            "ensinamento": {
             "fonte": "Ron, pág. 2087, parte inferior, linhas 1-11 = So-shu Johrei Superior, pág. 21, parte superior, linha 8 a parte inferior, linha 9 <Zenshu, Vol. 11, pág. 589>",
@@ -10560,7 +10560,7 @@
            "nivel": "circulo",
            "marcador": "3",
            "title": "Manter a vida humana e auxiliar na realização da missão",
-           "pagina": null,
+           "pagina": 503,
            "children": [],
            "ensinamento": {
             "fonte": "Ron, pág. 2082, parte superior, linhas 14-17 = So-shu Johrei Superior, pág. 9, parte inferior, linhas 1-5 <Zenshu, Vol. 11, pág. 575>",
@@ -10581,7 +10581,7 @@
            "nivel": "circulo",
            "marcador": "4",
            "title": "Nutrir o ser humano*",
-           "pagina": null,
+           "pagina": 503,
            "children": [],
            "ensinamento": {
             "fonte": "Ron, pág. 2170, parte inferior, linhas 2-4 = So-shu Johrei Superior, pág. 135, parte superior, linhas 8-10 <Zenshu, Vol. 12, pág. 12>",
@@ -10602,7 +10602,7 @@
            "nivel": "circulo",
            "marcador": "5",
            "title": "Coisas que se deve comer e coisas que não se deve comer",
-           "pagina": null,
+           "pagina": 504,
            "children": [
             {
              "id": "c2.i4.I.6.5.i",
@@ -10610,7 +10610,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Por que os remédios são amargos?",
-             "pagina": null,
+             "pagina": 504,
              "children": [],
              "ensinamento": {
               "fonte": "Shin-ken, pág. 14, linhas 3-7 = So-shu Johrei Superior, pág. 195, parte inferior, linhas 2-10 <Zenshu, Vol. 8, pág. 76>",
@@ -10631,7 +10631,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "A razão pela qual o paladar foi dado ao ser humano",
-             "pagina": null,
+             "pagina": 504,
              "children": [],
              "ensinamento": {
               "fonte": "K145, seções 17-27 <Zenshu, Vol. 10, pág. 187>",
@@ -10654,7 +10654,7 @@
            "nivel": "circulo",
            "marcador": "6",
            "title": "Fornecimento de alimentos conforme o ambiente e a profissão",
-           "pagina": null,
+           "pagina": 506,
            "children": [],
            "ensinamento": {
             "fonte": "Shin-ken, pág. 14, linha 13 a pág. 15, linha 7 = So-shu Johrei Superior, pág. 198, parte superior, linha 6 a parte inferior, linha 4 <Zenshu, Vol. 8, pág. 77>",
@@ -10677,7 +10677,7 @@
          "nivel": "numero",
          "marcador": "7",
          "title": "Preparação para a Salvação (救世の準備)",
-         "pagina": null,
+         "pagina": 506,
          "children": [
           {
            "id": "c2.i4.I.7.1",
@@ -10685,7 +10685,7 @@
            "nivel": "circulo",
            "marcador": "1",
            "title": "A revolução médica decidida no início dos tempos (Taisho)",
-           "pagina": null,
+           "pagina": 506,
            "children": [],
            "ensinamento": {
             "fonte": "Ron, pág. 2027, parte superior, linhas 11-20 = So-shu Johrei Superior, pág. 12, parte superior, linha 9 a parte inferior, linha 5 <Zenshu, Vol. 11, pág. 482>; Ron, pág. 2173, parte inferior, linhas 12-22 = So-shu Superior, pág. 283, parte inferior, linha 5 a pág. 284, parte superior, linha 2 <Zenshu, Vol. 12, pág. 189>",
@@ -10706,7 +10706,7 @@
            "nivel": "circulo",
            "marcador": "2",
            "title": "A escolha e revelação de Meishu-Sama",
-           "pagina": null,
+           "pagina": 507,
            "children": [],
            "ensinamento": {
             "fonte": "Ron, pág. 1791, parte inferior, linha 17 a pág. 1792, parte superior, linha 2 = So-shu Johrei Superior, pág. 370, parte superior, linhas 1-11 <Zenshu, Vol. 10, pág. 454>; Ron-betsu, pág. 802, parte inferior, linhas 5-16 <Zenshu, Vol. 12, pág. 295>",
@@ -10731,7 +10731,7 @@
        "nivel": "parte",
        "marcador": "II",
        "title": "Keirin (Plano Divino)* —— Plano e Providência de Deus",
-       "pagina": null,
+       "pagina": 507,
        "children": [
         {
          "id": "c2.i4.II.1",
@@ -10739,7 +10739,7 @@
          "nivel": "numero",
          "marcador": "1",
          "title": "Paraíso Terrestre",
-         "pagina": null,
+         "pagina": 508,
          "children": [
           {
            "id": "c2.i4.II.1.1",
@@ -10747,7 +10747,7 @@
            "nivel": "circulo",
            "marcador": "1",
            "title": "Sua chegada e preparação",
-           "pagina": null,
+           "pagina": 508,
            "children": [
             {
              "id": "c2.i4.II.1.1.i",
@@ -10755,7 +10755,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Paraíso Terrestre e Salvação",
-             "pagina": null,
+             "pagina": 508,
              "children": [],
              "ensinamento": {
               "fonte": "S1, seções 5-21 <Zenshu, Vol. 10, pág. 110>",
@@ -10781,7 +10781,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "Preparação",
-             "pagina": null,
+             "pagina": 511,
              "children": [
               {
                "id": "c2.i4.II.1.1.ii.A",
@@ -10789,7 +10789,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "Civilização Material e o Mal (Guerra e Ateísmo)",
-               "pagina": null,
+               "pagina": 511,
                "children": [],
                "ensinamento": {
                 "fonte": "S3, seções 51-54 <Zenshu, Vol. 10, pág. 121>",
@@ -10810,7 +10810,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "Civilização Material e o Mal (Medicina)",
-               "pagina": null,
+               "pagina": 512,
                "children": [],
                "ensinamento": {
                 "fonte": "物質文明と悪（医学）) (S5・Seção 25, Seções 29 a 31, Seção 33 <Obras Completas・Vol. 10, Pág. 129>",
@@ -10831,7 +10831,7 @@
                "nivel": "letra",
                "marcador": "C",
                "title": "O Mal termina seu papel e é expulso (Guerra e Ateísmo)",
-               "pagina": null,
+               "pagina": 513,
                "children": [],
                "ensinamento": {
                 "fonte": "悪は役割を終えて追放される（戦争と無神論）) (Su4・Seções 12 a 15, Seções 18 a 33 <Obras Completas・Vol. 10, Pág. 306>",
@@ -10852,7 +10852,7 @@
                "nivel": "letra",
                "marcador": "D",
                "title": "O Papel do Johrei (浄霊の役割)",
-               "pagina": null,
+               "pagina": 516,
                "children": [
                 {
                  "id": "c2.i4.II.1.1.ii.D.a",
@@ -10860,7 +10860,7 @@
                  "nivel": "letra_min",
                  "marcador": "a",
                  "title": "O único método para atravessar o Julgamento (審判を切り抜ける唯一の方法)",
-                 "pagina": null,
+                 "pagina": 516,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Shū・Pág. 379, Coluna inferior, linha 21 ～ Pág. 380, Coluna superior, linha 5 ＝ Ishizue Shū Jō・Pág. 122, Coluna inferior, linha 16 ～ Pág. 123, Coluna superior, linha 8 <Obras Completas・Vol. 9, Pág. 358>",
@@ -10881,7 +10881,7 @@
                  "nivel": "letra_min",
                  "marcador": "b",
                  "title": "O poder de resolver a doença (病を解決する力)",
-                 "pagina": null,
+                 "pagina": 516,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Shū・Pág. 176, Coluna superior, linhas 10 a 17 <Obras Completas・Vol. 9, Pág. 448>",
@@ -10902,7 +10902,7 @@
                  "nivel": "letra_min",
                  "marcador": "c",
                  "title": "Informar sobre os erros da medicina e dos remédios",
-                 "pagina": null,
+                 "pagina": 517,
                  "children": [],
                  "ensinamento": {
                   "fonte": "医学や薬の誤りを知らせる) (Kyō・Edição 12, Pág. 40, linhas 11 a 15 <Coletânea de Palestras・Vol. 7, Pág. 448>",
@@ -10923,7 +10923,7 @@
                  "nivel": "letra_min",
                  "marcador": "d",
                  "title": "Poema Divino (御詠)",
-                 "pagina": null,
+                 "pagina": 518,
                  "children": [],
                  "ensinamento": {
                   "fonte": null,
@@ -10947,7 +10947,7 @@
                "nivel": "letra",
                "marcador": "E",
                "title": "Progresso da Ciência e Tecnologia e a Unificação do Pensamento Humano (科学技術の進歩と人類思想の統一)",
-               "pagina": null,
+               "pagina": 518,
                "children": [
                 {
                  "id": "c2.i4.II.1.1.ii.E.a",
@@ -10955,7 +10955,7 @@
                  "nivel": "letra_min",
                  "marcador": "a",
                  "title": "A unificação do pensamento humano também é necessária para construir o Paraíso",
-                 "pagina": null,
+                 "pagina": 518,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Shū・Pág. 361, Coluna inferior, linhas 3 a 6 ＝ Ishizue Shū Jō・Pág. 61, Coluna superior, linhas 8 a 12 <Obras Completas・Vol. 8, Pág. 226>",
@@ -10976,7 +10976,7 @@
                  "nivel": "letra_min",
                  "marcador": "b",
                  "title": "O que significa o progresso da cultura material",
-                 "pagina": null,
+                 "pagina": 519,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Shū・Pág. 368, Coluna inferior, linhas 10 a 17 ＝ Ishizue Sha・Pág. 59, Coluna superior, linhas 1 a 11 <Obras Completas・Vol. 7, Pág. 582>",
@@ -11003,7 +11003,7 @@
            "nivel": "circulo",
            "marcador": "2",
            "title": "A Conversão Noite-Dia (15 de Junho de 1931) como oportunidade para construção do Paraíso",
-           "pagina": null,
+           "pagina": 520,
            "children": [],
            "ensinamento": {
             "fonte": "夜昼転換（昭和六年六月十五日）が天国建設の契機) (Shū・Pág. 229, Coluna inferior, linhas 7 a 14 ＝ Ishizue Shū Jō・Pág. 170, Coluna superior, linha 10 ～ Coluna inferior, linha 3 <Obras Completas・Vol. 6, Pág. 328>",
@@ -11024,7 +11024,7 @@
            "nivel": "circulo",
            "marcador": "3",
            "title": "A eliminação dos remédios (Revolução Médica) como premissa",
-           "pagina": null,
+           "pagina": 521,
            "children": [],
            "ensinamento": {
             "fonte": "薬をなくすこと（医学革命）が前提) (Kyō・Edição 29, Pág. 18, linha 17 ～ Pág. 19, linha 8 <Coletânea de Palestras・Vol. 11, Pág. 287>",
@@ -11045,7 +11045,7 @@
            "nivel": "circulo",
            "marcador": "4",
            "title": "Um mundo com a segurança da vida assegurada (生命の安全の確保された世界)",
-           "pagina": null,
+           "pagina": 522,
            "children": [],
            "ensinamento": {
             "fonte": "Ron・Pág. 1577, Coluna inferior, linhas 10 a 18; Pág. 1577, Coluna inferior, linha 20 ～ Pág. 1578, Coluna superior, linha 5; Pág. 1578, Coluna superior, linhas 10 a 11, 16 a 20; Coluna inferior, linhas 3 a 10, 13 a 16; Pág. 1580, Coluna superior, linha 12 ～ Coluna inferior, linha 9 ＝ Ishizue Sha・Pág. 14, Coluna inferior, linha 13 ～ Pág. 19, Coluna inferior, linha 13 <Coletânea de Palestras・Vol. 4, Pág. 8>",
@@ -11066,7 +11066,7 @@
            "nivel": "circulo",
            "marcador": "5",
            "title": "Um mundo onde, inicialmente, o Bem vence o Mal por pouco (初めは善が少し悪に勝つ世界)",
-           "pagina": null,
+           "pagina": 525,
            "children": [
             {
              "id": "c2.i4.II.1.5.i",
@@ -11074,7 +11074,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Chegou o prazo para a derrota do mal",
-             "pagina": null,
+             "pagina": 525,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 13, Pág. 47, linha 15 ～ Pág. 48, linha 9 <Coletânea de Palestras・Vol. 8, Pág. 49>",
@@ -11095,7 +11095,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "O mal do Shōjō (Hinayana) permanecerá1",
-             "pagina": null,
+             "pagina": 526,
              "children": [],
              "ensinamento": {
               "fonte": null,
@@ -11116,7 +11116,7 @@
              "nivel": "romano",
              "marcador": "iii",
              "title": "Evolução humana — Remoção da bestialidade*1",
-             "pagina": null,
+             "pagina": 526,
              "children": [],
              "ensinamento": {
               "fonte": "Su4・Seções 58 a 64 <Obras Completas・Vol. 10, Pág. 310>",
@@ -11139,7 +11139,7 @@
            "nivel": "circulo",
            "marcador": "6",
            "title": "Mundo de Bem-Mestre e Mal-Subordinado*1 (善主悪従の世界)",
-           "pagina": null,
+           "pagina": 529,
            "children": [],
            "ensinamento": {
             "fonte": "Ron・Pág. 2171, Coluna superior, linhas 6 a 21 ＝ Ishizue Jō Jō・Pág. 136, Coluna superior, linha 10 ～ Coluna inferior, linha 13 <Obras Completas・Vol. 12, Pág. 13>",
@@ -11165,7 +11165,7 @@
            "nivel": "circulo",
            "marcador": "7",
            "title": "Mundo demonstrado pela Obra Divina de Meishu-Sama",
-           "pagina": null,
+           "pagina": 531,
            "children": [],
            "ensinamento": {
             "fonte": "明主様の神性業が示す世界) (Sui・Edição 30, Pág. 2, linha 12 ～ Pág. 3, linha 1 <Coletânea de Palestras・Vol. 12, Pág. 71>",
@@ -11186,7 +11186,7 @@
            "nivel": "circulo",
            "marcador": "8",
            "title": "Mundo onde a Verdade é clara",
-           "pagina": null,
+           "pagina": 531,
            "children": [],
            "ensinamento": {
             "fonte": "真理が明らかな世界) (Kyō・Edição 32, Pág. 56, linha 13 ～ Pág. 57, linha 6 <Coletânea de Palestras・Vol. 12, Pág. 285>",
@@ -11207,7 +11207,7 @@
            "nivel": "circulo",
            "marcador": "9",
            "title": "Mundo onde as principais pessoas da humanidade atingem o Kenshinjitsu",
-           "pagina": null,
+           "pagina": 532,
            "children": [],
            "ensinamento": {
             "fonte": "人類の主な人が見真実となる世界) (Kyō・Edição 32, Pág. 14, linha 13 ～ Pág. 15, linha 6 <Coletânea de Palestras・Vol. 12, Pág. 249>",
@@ -11228,7 +11228,7 @@
            "nivel": "circulo",
            "marcador": "10",
            "title": "Mundo onde a Providência é revelada se o soberano orar (主権者が祈れば経綸が知らされる世界)",
-           "pagina": null,
+           "pagina": 534,
            "children": [
             {
              "id": "c2.i4.II.1.10.i",
@@ -11236,7 +11236,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Sobre o Amatsu Kanagi (Ensinamento de 1947) (天津金木について（昭和22年御教え）)",
-             "pagina": null,
+             "pagina": 534,
              "children": [],
              "ensinamento": {
               "fonte": null,
@@ -11257,7 +11257,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "A Lei do Amatsu Kanagi (天津金木の法)",
-             "pagina": null,
+             "pagina": 535,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 28, Pág. 36, linhas 1 a 12 <Coletânea de Palestras・Vol. 11, Pág. 23>",
@@ -11280,7 +11280,7 @@
            "nivel": "circulo",
            "marcador": "11",
            "title": "Mundo de Cristal",
-           "pagina": null,
+           "pagina": 536,
            "children": [
             {
              "id": "c2.i4.II.1.11.i",
@@ -11288,7 +11288,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Mundo do Pensamento (想念の世界)",
-             "pagina": null,
+             "pagina": 536,
              "children": [
               {
                "id": "c2.i4.II.1.11.i.A",
@@ -11296,7 +11296,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "O Johrei é uma questão secundária — Primeiro é o pensamento (Sonen) (浄霊は二の問題——まず想念)",
-               "pagina": null,
+               "pagina": 536,
                "children": [],
                "ensinamento": {
                 "fonte": "Chijo Tengoku・Edição 68, Pág. 25, Coluna inferior, linhas 21 a 24",
@@ -11317,7 +11317,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "A era das ondas de rádio do pensamento sem fio",
-               "pagina": null,
+               "pagina": 537,
                "children": [],
                "ensinamento": {
                 "fonte": "想念の無線電波時代)  (Hikari・Edição 16, Pág. 42, linhas 1 a 6 <Coletânea de Palestras・Vol. 2, Pág. 499>) Em breve virá a era do pensamento, bem, a era das ondas de rádio do pensamento sem fio. Sem usar absolutamente nenhuma máquina, por exemplo, se eu escrever letras no ar virado para você, mesmo que estejamos distantes, você entenderá o significado. E não importa se a distância é de cem ou mil ri (unidade de medida). Além disso, mesmo falando normalmente, a comunicação chegará ao interlocutor distante. Frequentemente acontece o seguinte: quando penso em alguém que não vejo há algum tempo, essa pessoa aparece inesperadamente no dia seguinte. Ou, quando penso que gostaria que alguém viesse porque tenho um assunto a tratar, muitas vezes a pessoa aparece logo em seguida. (20 de janeiro de 1950",
@@ -11338,7 +11338,7 @@
                "nivel": "letra",
                "marcador": "C",
                "title": "Obter a iluminação de acordo com a classe da alma (魂の階級に応じて証覚を得る)",
-               "pagina": null,
+               "pagina": 538,
                "children": [],
                "ensinamento": {
                 "fonte": "Hikari・Edição 18, Pág. 21, linha 11 ～ Pág. 22, linha 1 <Coletânea de Palestras・Vol. 3, Pág. 390>",
@@ -11359,7 +11359,7 @@
                "nivel": "letra",
                "marcador": "D",
                "title": "Alma elevada não tem pensamentos malignos (高い魂に邪念なし)",
-               "pagina": null,
+               "pagina": 539,
                "children": [],
                "ensinamento": {
                 "fonte": "Sui・Edição 24, Pág. 22, linhas 2 a 7 <Coletânea de Palestras・Vol. 9, Pág. 217>",
@@ -11380,7 +11380,7 @@
                "nivel": "letra",
                "marcador": "E",
                "title": "A purificação da alma",
-               "pagina": null,
+               "pagina": 540,
                "children": [
                 {
                  "id": "c2.i4.II.1.11.i.E.a",
@@ -11388,7 +11388,7 @@
                  "nivel": "letra_min",
                  "marcador": "a",
                  "title": "Se adorar a Deus de coração, será concedida a força para vencer o mal",
-                 "pagina": null,
+                 "pagina": 541,
                  "children": [],
                  "ensinamento": {
                   "fonte": null,
@@ -11409,7 +11409,7 @@
                  "nivel": "letra_min",
                  "marcador": "b",
                  "title": "A pessoa que crê profundamente em Deus tem a alma purificada",
-                 "pagina": null,
+                 "pagina": 541,
                  "children": [],
                  "ensinamento": {
                   "fonte": null,
@@ -11430,7 +11430,7 @@
                  "nivel": "letra_min",
                  "marcador": "c",
                  "title": "O poder de transformar a alma",
-                 "pagina": null,
+                 "pagina": 541,
                  "children": [],
                  "ensinamento": {
                   "fonte": null,
@@ -11451,7 +11451,7 @@
                  "nivel": "letra_min",
                  "marcador": "d",
                  "title": "Vencer o mal e obter a divindade",
-                 "pagina": null,
+                 "pagina": 541,
                  "children": [],
                  "ensinamento": {
                   "fonte": null,
@@ -11472,7 +11472,7 @@
                  "nivel": "letra_min",
                  "marcador": "e",
                  "title": "A era em que viviam pessoas com caráter divino1",
-                 "pagina": null,
+                 "pagina": 542,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Kyō・Edição 31, Pág. 20, linhas 3 a 8; Pág. 26, linha 12 ～ Pág. 27, linha 1 <Coletânea de Palestras・Vol. 12, Pág. 190>",
@@ -11508,7 +11508,7 @@
                "nivel": "letra",
                "marcador": "F",
                "title": "Na presença de Deus",
-               "pagina": null,
+               "pagina": 543,
                "children": [],
                "ensinamento": {
                 "fonte": "神の御前にて) (Kyō・Edição 31, Pág. 2, linha 12 ～ Pág. 3, linha 2; Pág. 3, linhas 6 a 9 <Coletânea de Palestras・Vol. 12, Pág. 175>",
@@ -11531,7 +11531,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "Mundo de Cristal (水晶世界) ***[Poemas]",
-             "pagina": null,
+             "pagina": 544,
              "children": [],
              "ensinamento": {
               "fonte": null,
@@ -11567,7 +11567,7 @@
            "nivel": "circulo",
            "marcador": "12",
            "title": "A Natureza especialmente preparada para o Paraíso Terrestre (地上天国のため、特に用意された自然)",
-           "pagina": null,
+           "pagina": 549,
            "children": [
             {
              "id": "c2.i4.II.1.12.i",
@@ -11575,7 +11575,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Atami (熱海)",
-             "pagina": null,
+             "pagina": 549,
              "children": [
               {
                "id": "c2.i4.II.1.12.i.A",
@@ -11583,7 +11583,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "A Terra Ideal de Suprema Beleza (最高最美の理想郷)",
-               "pagina": null,
+               "pagina": 549,
                "children": [],
                "ensinamento": {
                 "fonte": null,
@@ -11604,7 +11604,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "Deus preparou tudo perfeitamente (神様がチャンと準備してある)",
-               "pagina": null,
+               "pagina": 551,
                "children": [],
                "ensinamento": {
                 "fonte": null,
@@ -11625,7 +11625,7 @@
                "nivel": "letra",
                "marcador": "C",
                "title": "Deus preparou desde antes (神様が前から用意してある)",
-               "pagina": null,
+               "pagina": 551,
                "children": [],
                "ensinamento": {
                 "fonte": null,
@@ -11646,7 +11646,7 @@
                "nivel": "letra",
                "marcador": "D",
                "title": "A obra meticulosamente preparada por Deus (神様の用意周到な業)",
-               "pagina": null,
+               "pagina": 551,
                "children": [],
                "ensinamento": {
                 "fonte": null,
@@ -11669,7 +11669,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "A natureza e a cultura de Kyoto (京都の自然と文化)",
-             "pagina": null,
+             "pagina": 552,
              "children": [
               {
                "id": "c2.i4.II.1.12.ii.A",
@@ -11677,7 +11677,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "O centro da arte japonesa (日本の美術の中心)",
-               "pagina": null,
+               "pagina": 552,
                "children": [],
                "ensinamento": {
                 "fonte": null,
@@ -11698,7 +11698,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "A Capital da Beleza — Heian-kyo (Solo Sagrado de Heian) (美の都——平安郷)",
-               "pagina": null,
+               "pagina": 553,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyō・Edição 15, Pág. 45, linha 12 ～ Pág. 47, linha 1 <Coletânea de Palestras・Vol. 8, Pág. 167>) Quanto mais grandiosa for a excelência pacífica, mais as pessoas do mundo a apreciarão. A excelência dos japoneses é uma excelência cultural e pacífica. Para expressar isso como um valor, estou construindo o Paraíso Terrestre. Especialmente Kyoto é o local mais adequado para isso. Hakone e Atami têm boas paisagens, mas não têm mais nada. No entanto, Kyoto é historicamente maravilhosa e rica em diversas coisas culturais. Tanto a topografia quanto o clima possuem, antes de tudo, coisas boas. O que acho especialmente bom em Kyoto é a ausência de vento. Penso que isso é muito bom para a construção do Paraíso Terrestre. Em Tóquio e outros lugares, suja-se muito devido à poeira levantada pelo vento. Por isso, é muito ruim ter que evitar que o vento bata forte. Nos jardins de Kyoto, espalham-se pedriscos, mas em outros lugares não se pode fazer isso. Como os pedriscos voariam, em Hakone construí caminhos de concreto, mas aquilo é realmente de mau gosto. Se não se espalharem pedras pequenas, não se obtém o verdadeiro sabor. Mas como não havia outro jeito, construí algo como caminhos de concreto entre a grama. Além disso, árvores e bambus são melhores que outras coisas. Mesmo que se construa uma casa com madeira e bambu em outro lugar, se não for material de Kyoto, não serve. De qualquer forma, essas condições de Kyoto foram perfeitamente instaladas por Deus para o futuro. Por isso, possui várias coisas. Kyoto, com a forma das montanhas, a disposição dos pinheiros e todas as coisas, é realmente a Capital da Beleza. Por isso, dei-lhe o nome de \"Heian-kyo\" (Solo Sagrado de Heian/Paz); depois de dar o nome Heian-kyo, investiguei bem e descobri que ali é o centro da cultura Heian. Dizem que nasceu daquela região. Ouvi dizer que as montanhas que aparecem nos rolos de pintura da era Fujiwara, etc., são as montanhas de lá. Pintaram aquilo. E quanto à lua refletida na água, que aparece em poemas, dizem que é o Lago Hirosawa. A estrada chama-se Tsuta-no-Hosomichi (Caminho estreito de hera). Especialmente nos rolos de pintura, há um famoso chamado Tsuta-no-Hosomichi, e é esse. Por essas razões, dizem que ali é o centro da cultura Heian. É interessante que Deus escolha perfeitamente esse lugar. Nesse sentido, pretendo harmonizar bem a cultura Heian, a cultura Higashiyama e a cultura Momoyama. Mas se não usarmos vidro e cimento, não servirá; por isso, usaremos materiais modernos, mas num grau que não seja forçado e não quebre a harmonia. Não sei que tipo de coisa será feita, mas acredito que será feito algo surpreendente. (20 de outubro de 1952",
@@ -11724,7 +11724,7 @@
                "nivel": "letra",
                "marcador": "C",
                "title": "Harmonia da nova e da antiga cultura",
-               "pagina": null,
+               "pagina": 556,
                "children": [],
                "ensinamento": {
                 "fonte": "新旧文化の調和) (Kyō・Edição 15, Pág. 37, linha 8 ～ Pág. 38, linha 8 <Coletânea de Palestras・Vol. 8, Pág. 160>",
@@ -11745,7 +11745,7 @@
                "nivel": "letra",
                "marcador": "D",
                "title": "O significado de Saga na Providência",
-               "pagina": null,
+               "pagina": 557,
                "children": [],
                "ensinamento": {
                 "fonte": "嵯峨の持つ経綸上の意味)  (Kyō・Edição 15, Pág. 28, linhas 1 a 9 <Coletânea de Palestras・Vol. 8, Pág. 152>",
@@ -11773,7 +11773,7 @@
              "nivel": "romano",
              "marcador": "iii",
              "title": "Hakone Gora",
-             "pagina": null,
+             "pagina": 559,
              "children": [],
              "ensinamento": {
               "fonte": "箱根強羅)  (Kyō・Edição 23, Pág. 41, linha 16 ～ Pág. 42, linha 6 <Coletânea de Palestras・Vol. 10, Pág. 296>",
@@ -11819,7 +11819,7 @@
            "nivel": "circulo",
            "marcador": "1",
            "title": "Conceito Básico da Conversão Noite-Dia (夜昼転換の基本概念)",
-           "pagina": null,
+           "pagina": 560,
            "children": [
             {
              "id": "c2.i4.II.2.1.i",
@@ -11827,7 +11827,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Conceito Básico",
-             "pagina": null,
+             "pagina": 560,
              "children": [
               {
                "id": "c2.i4.II.2.1.i.A",
@@ -11835,7 +11835,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "Conversão do Mundo Espiritual e o reflexo no Mundo Material",
-               "pagina": null,
+               "pagina": 560,
                "children": [],
                "ensinamento": {
                 "fonte": null,
@@ -11856,7 +11856,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "O Mundo de 567 (Miroku)",
-               "pagina": null,
+               "pagina": 563,
                "children": [],
                "ensinamento": {
                 "fonte": "Su 7・Seções 9 a 12 <Obras Completas・Vol. 10, Pág. 287>",
@@ -11879,7 +11879,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "O Dia chegou e o Deus Sol exerce Seu poder — A felicidade dos fiéis desta religião",
-             "pagina": null,
+             "pagina": 564,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 29, Pág. 58, linha 12 ～ Pág. 60, linha 6 <Coletânea de Palestras・Vol. 11, Pág. 321>",
@@ -11902,7 +11902,7 @@
            "nivel": "circulo",
            "marcador": "2",
            "title": "Significado Concreto da Conversão Noite-Dia (夜昼転換の具体的意味)",
-           "pagina": null,
+           "pagina": 567,
            "children": [
             {
              "id": "c2.i4.II.2.2.i",
@@ -11910,7 +11910,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Aumento do Elemento Fogo, Cura pelo Johrei",
-             "pagina": null,
+             "pagina": 567,
              "children": [],
              "ensinamento": {
               "fonte": "Shū・Pág. 114, Coluna superior, linha 22 ～ Coluna inferior, linha 21; Pág. 116, Coluna superior, linha 13 ～ Coluna inferior, linha 2; Coluna inferior, linhas 9 a 15 ＝ Ishizue Shū Jō・Pág. 112, Coluna superior, linha 5 ～ Coluna inferior, linha 16; Pág. 115, Coluna superior, linha 10 ～ Coluna inferior, linha 9; Pág. 116, Coluna superior, linhas 1 a 9 <Obras Completas・Vol. 5, Pág. 258>",
@@ -11931,7 +11931,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "Aumento do Elemento Fogo",
-             "pagina": null,
+             "pagina": 569,
              "children": [],
              "ensinamento": {
               "fonte": null,
@@ -11952,7 +11952,7 @@
              "nivel": "romano",
              "marcador": "iii",
              "title": "Ocorrência de doenças violentas",
-             "pagina": null,
+             "pagina": 571,
              "children": [],
              "ensinamento": {
               "fonte": "Shū・Pág. 377, Coluna inferior, linha 16 ～ Pág. 378, Coluna inferior, linha 9 ＝ Ishizue Shū Jō・Pág. 119, Coluna superior, linha 7 ～ Pág. 120, Coluna inferior, linha 9 <Obras Completas・Vol. 7, Pág. 603>",
@@ -11973,7 +11973,7 @@
              "nivel": "romano",
              "marcador": "iv",
              "title": "Após 15 de junho de 1931, a cura religiosa de doenças e a medicina chegaram a um impasse",
-             "pagina": null,
+             "pagina": 573,
              "children": [],
              "ensinamento": {
               "fonte": "Shū・Pág. 318, Coluna superior, linhas 1 a 12; Coluna superior, linha 13 ～ Coluna inferior, linha 8 ＝ Ishizue Shū Jō・Pág. 270, Coluna superior, linha 12 ～ Pág. 271, Coluna inferior, linha 2 <Obras Completas・Vol. 10, Pág. 677>",
@@ -11999,7 +11999,7 @@
              "nivel": "romano",
              "marcador": "v",
              "title": "A única religião que não precisa de hospitais é a Sekaikyuseikyo",
-             "pagina": null,
+             "pagina": 577,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 16, Pág. 6, linhas 3 a 13 <Coletânea de Palestras・Vol. 8, Pág. 184>",
@@ -12020,7 +12020,7 @@
              "nivel": "romano",
              "marcador": "vi",
              "title": "15 de Junho de 1931 — Ritual da Conversão Noite-Dia",
-             "pagina": null,
+             "pagina": 578,
              "children": [],
              "ensinamento": {
               "fonte": "Shū・Pág. 398, Coluna superior, linhas 8 a 14 ＝ Ishizue Shū Jō・Pág. 16, Coluna superior, linhas 2 a 11 <Obras Completas・Vol. 10, Pág. 684>",
@@ -12041,7 +12041,7 @@
              "nivel": "romano",
              "marcador": "vii",
              "title": "Tornar-se Bem-Mestre e Mal-Subordinado",
-             "pagina": null,
+             "pagina": 579,
              "children": [],
              "ensinamento": {
               "fonte": "Ron・Pág. 2171, Coluna superior, linhas 6 a 12 ＝ Ishizue Jō Jō・Pág. 136, Coluna superior, linha 10 ～ Coluna inferior, linha 1 <Obras Completas・Vol. 12, Pág. 13>",
@@ -12062,7 +12062,7 @@
              "nivel": "romano",
              "marcador": "viii",
              "title": "Fenômenos Astronômicos e Bandeiras Nacionais — O Futuro dos Países Desenvolvidos",
-             "pagina": null,
+             "pagina": 580,
              "children": [],
              "ensinamento": {
               "fonte": "Meii ③・Pág. 5, linha 1 ～ Pág. 6, linha 8; Pág. 6, linha 8 ～ Pág. 7, linha 2 <Obras Completas・Vol. 4, Pág. 408>",
@@ -12083,7 +12083,7 @@
              "nivel": "romano",
              "marcador": "ix",
              "title": "Japão aparece gradualmente para o mundo",
-             "pagina": null,
+             "pagina": 581,
              "children": [],
              "ensinamento": {
               "fonte": null,
@@ -12104,7 +12104,7 @@
              "nivel": "romano",
              "marcador": "x",
              "title": "Japão é Sol, EUA é Estrela, Reino Unido é Lua — Restauração Meiji",
-             "pagina": null,
+             "pagina": 583,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 14, Pág. 30, linha 8 ～ Pág. 31, linha 7 <Coletânea de Palestras・Vol. 8, Pág. 87>) Há ocasiões em que se diz que a linhagem do Imperador Jinmu é a linhagem do Sol. Diz-se que é a linhagem de Amaterasu Omikami, mas tornou-se uma linhagem colateral de Amaterasu Omikami. Portanto, bem... pode-se dizer que é uma linhagem. A verdadeira linhagem foi aprisionada. Tornou-se o ocultamento na Porta de Pedra (Iwato-gakure). Essa linhagem colateral tornou-se o Imperador Jinmu. Então, Okuninushi no Mikoto é da linhagem de Susanoo no Mikoto, portanto, linhagem da Lua. Então, pensando em derrotar a linhagem do Sol, lutaram o tempo todo. Essa foi a causa das guerras sucessivas no Japão. E o fim foi Tokugawa Ieyasu. Porque ele é da linhagem de Susanoo no Mikoto. Então, desta vez, derrotar o lado de Susanoo no Mikoto e fazer com que a linhagem do Sol se levante; isso é Meiji. A Restauração Imperial. Um dos ajudantes, apoiadores mais fundamentais disso é a América. Da América, vieram Perry e outros para a abertura do Japão. Por que isso aconteceu? Passando a era da Lua — eu digo que a Inglaterra é o país da Lua —, a Lua foi se escondendo gradualmente — quando a Lua se esconde, fica escuro, e então as estrelas brilham. À medida que a Inglaterra declinava, a América ascendia. A América é o país da Estrela. E quando a Estrela passa, o Sol sai. Falando astronomicamente, isso também é bem compreensível. Quando a Lua desaparece, fica tudo escuro e as estrelas brilham. E então o Sol sai. Por isso, no caractere \"Estrela\" (星) está escrito \"o Sol nasce\" (日が生まれる). A América deu à luz a linhagem do Sol do Japão. Porque a América abriu o Japão, o xogunato Tokugawa caiu. E o lado do Imperador, que é a linhagem do Sol, governou o país. A propósito, essa forma manifesta-se religiosamente*2. O mais interessante é que, agora, todas as religiões, em qualquer lugar, começaram a construir hospitais. (17 de setembro de 1952) xi Conversão Noite-Dia — Incidente da Manchúria — Guerra do Pacífico — Derrota e Liberdade Religiosa (Kyō・Edição 14, Pág. 23, linhas 10 a 14 <Coletânea de Palestras・Vol. 8, Pág. 80>",
@@ -12127,7 +12127,7 @@
            "nivel": "circulo",
            "marcador": "3",
            "title": "Significado Espiritual da Conversão Noite-Dia (夜昼転換の霊的意義)",
-           "pagina": null,
+           "pagina": 585,
            "children": [
             {
              "id": "c2.i4.II.2.3.i",
@@ -12135,7 +12135,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "O Grande Drama dos Três Mil Mundos (三千世界の大芝居)",
-             "pagina": null,
+             "pagina": 585,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 31, Pág. 1, linha 10 ～ Pág. 2, linha 1; Pág. 20, linha 12 ～ Pág. 21, linha 6 <Coletânea de Palestras・Vol. 12, Pág. 174>",
@@ -12161,7 +12161,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "Setsubun (節分)",
-             "pagina": null,
+             "pagina": 587,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 31, Pág. 26, linha 10 ～ Pág. 27, linha 1; Pág. 27, linhas 6 a 8 <Coletânea de Palestras・Vol. 12, Pág. 196>) Diz-se que o Setsubun refere-se à época em que um Deus chamado Kunitokotachi no Mikoto governava o mundo numa era antiga; como era aquela época, não se sabe se era todo o mundo, mas certamente Ele governava uma área consideravelmente vasta, tendo o Japão como centro. E, embora se diga Deus, eram, afinal, seres humanos. No entanto, os seres humanos daquela época possuíam uma espiritualidade muito elevada. Aquele tempo era mais ou menos o fim do mundo do dia, mas, durante a longa era subsequente, o ser humano, devido ao mundo da noite, foi se sujando cada vez mais, e o nível espiritual baixou. Esse Deus era muito rigoroso, ou seja, de suprema retidão e honestidade, e não perdoava a menos que fosse algo muito correto; por causa disso — isso também consta no Xintoísmo — muitos deuses se uniram e O aprisionaram na noite de Setsubun. (7 de fevereiro de 1954",
@@ -12182,7 +12182,7 @@
              "nivel": "romano",
              "marcador": "iii",
              "title": "A Providência de Deus é realmente profunda (神の経綸は実に深い)",
-             "pagina": null,
+             "pagina": 588,
              "children": [],
              "ensinamento": {
               "fonte": null,
@@ -12203,7 +12203,7 @@
              "nivel": "romano",
              "marcador": "iv",
              "title": "Setsubun (Poemas) (節分（御詠）)",
-             "pagina": null,
+             "pagina": 588,
              "children": [],
              "ensinamento": {
               "fonte": null,
@@ -12241,7 +12241,7 @@
          "nivel": "numero",
          "marcador": "3",
          "title": "A Grande Transição da Civilização* (文明の大転換)",
-         "pagina": null,
+         "pagina": 589,
          "children": [
           {
            "id": "c2.i4.II.3.1",
@@ -12249,7 +12249,7 @@
            "nivel": "circulo",
            "marcador": "1",
            "title": "O nascimento da Verdadeira Civilização (真文明の誕生)",
-           "pagina": null,
+           "pagina": 590,
            "children": [],
            "ensinamento": {
             "fonte": "S1・Seções 1 a 3, Seções 8 a 13 <Obras Completas・Vol. 10, Pág. 110>",
@@ -12270,7 +12270,7 @@
            "nivel": "circulo",
            "marcador": "2",
            "title": "A Providência muda da Noite para o Dia (経綸は夜から昼へ)",
-           "pagina": null,
+           "pagina": 590,
            "children": [],
            "ensinamento": {
             "fonte": "Ron・Pág. 2171, Coluna superior, linhas 6 a 9 ＝ Ishizue Jō Jō・Pág. 136, Coluna superior, linhas 10 a 14 <Obras Completas・Vol. 12, Pág. 13>",
@@ -12291,7 +12291,7 @@
            "nivel": "circulo",
            "marcador": "3",
            "title": "A civilização material termina seu papel principal na Providência, e o mal é expulso (物質文明は経綸の主役を終え、悪が追放される)",
-           "pagina": null,
+           "pagina": 591,
            "children": [],
            "ensinamento": {
             "fonte": "S3・Seções 47 a 57 <Obras Completas・Vol. 10, Pág. 120>",
@@ -12312,7 +12312,7 @@
            "nivel": "circulo",
            "marcador": "4",
            "title": "A doença é expulsa e estabelecem-se as condições básicas da Verdadeira Civilização (病が追放され、真文明の基礎的条件が確立する)",
-           "pagina": null,
+           "pagina": 593,
            "children": [],
            "ensinamento": {
             "fonte": "K14・15・Seções 1 a 6 <Obras Completas・Vol. 10, Pág. 186>",
@@ -12333,7 +12333,7 @@
            "nivel": "circulo",
            "marcador": "5",
            "title": "A Revolução Médica é a premissa para a transição da civilização (医学革命が文明の転換する前提)",
-           "pagina": null,
+           "pagina": 594,
            "children": [
             {
              "id": "c2.i4.II.3.5.i",
@@ -12341,7 +12341,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Condição básica da salvação",
-             "pagina": null,
+             "pagina": 594,
              "children": [],
              "ensinamento": {
               "fonte": "Ron Betsu・Pág. 687, Coluna superior, linha 17 ～ Coluna inferior, linha 17 <Obras Completas・Vol. 11, Pág. 181>",
@@ -12362,7 +12362,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "O perigo da destruição da humanidade",
-             "pagina": null,
+             "pagina": 596,
              "children": [],
              "ensinamento": {
               "fonte": null,
@@ -12397,7 +12397,7 @@
            "nivel": "circulo",
            "marcador": "6",
            "title": "O fim do papel do mal",
-           "pagina": null,
+           "pagina": 597,
            "children": [],
            "ensinamento": {
             "fonte": "Su 4・Seções 22 a 44, Seções 58 a 64 <Obras Completas・Vol. 10, Pág. 307>",
@@ -12418,7 +12418,7 @@
            "nivel": "circulo",
            "marcador": "7",
            "title": "Um mundo com a segurança da vida assegurada",
-           "pagina": null,
+           "pagina": 600,
            "children": [],
            "ensinamento": {
             "fonte": null,
@@ -12439,7 +12439,7 @@
            "nivel": "circulo",
            "marcador": "8",
            "title": "A civilização da onipotência científica será corrigida pelo esclarecimento do Mundo Espiritual",
-           "pagina": null,
+           "pagina": 600,
            "children": [],
            "ensinamento": {
             "fonte": null,
@@ -12460,7 +12460,7 @@
            "nivel": "circulo",
            "marcador": "9",
            "title": "A pesquisa científica está prestes a entrar no mundo do espírito (科学の研究は霊の世界に入ろうとしている)",
-           "pagina": null,
+           "pagina": 603,
            "children": [],
            "ensinamento": {
             "fonte": null,
@@ -12481,7 +12481,7 @@
            "nivel": "circulo",
            "marcador": "10",
            "title": "O papel da civilização científica*1 (科学文明の役割)",
-           "pagina": null,
+           "pagina": 605,
            "children": [],
            "ensinamento": {
             "fonte": null,
@@ -12502,7 +12502,7 @@
            "nivel": "circulo",
            "marcador": "11",
            "title": "\"Espírito Precede a Matéria\" (Reishu Taiju) é a teoria fundamental da civilização do Dia",
-           "pagina": null,
+           "pagina": 606,
            "children": [
             {
              "id": "c2.i4.II.3.11.i",
@@ -12510,7 +12510,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Fazer reconhecer a existência do espírito",
-             "pagina": null,
+             "pagina": 606,
              "children": [],
              "ensinamento": {
               "fonte": "Ron・Pág. 2147, Coluna superior, linha 14 ～ Coluna inferior, linha 10 <Obras Completas・Vol. 11, Pág. 660>) Eu sempre preconizo o princípio de \"Espírito Precede a Matéria\"; se toda a humanidade soubesse disso, a civilização daria um grande salto aqui.*1 No entanto, o homem moderno não acredita na existência real do espírito e tem como objeto apenas o corpo (matéria); portanto, por assim dizer, é uma civilização de fachada, de improviso; por mais que progrida, continua sendo o mesmo mundo infernal. Por essa razão, o reconhecimento do espírito e a dissolução do nublamento espiritual são fundamentais. Então,o que se deve fazer? Não há outro caminho senão banhar-se constantemente na Luz de Deus e purificar o espírito. No entanto, mesmo entre os deuses há hierarquia de alto, médio e baixo, e quanto mais alta a posição do deus, mais forte é a Luz; este ponto é importante. Nesse aspecto, não é por autoelogio, mas como o Deus Regente da nossa Sekaikyuseikyo é o Deus mais nobre e elevado que jamais apareceu até hoje*2, os fiéis são sempre agraciados com uma Grande Luz e purificados, de modo que não apenas têm saúde sem doenças, como também podem curar as doenças de outras pessoas. (18 de novembro de 1953, Eikō・Edição 235, \"Ciência do Espírito\"",
@@ -12531,7 +12531,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "\"Espírito Precede a Matéria\" é a lei de todas as coisas",
-             "pagina": null,
+             "pagina": 607,
              "children": [],
              "ensinamento": {
               "fonte": "Kiseki・Pág. 3, linhas 1 a 11 ＝ Ishizue Shū Ge・Pág. 229, Coluna inferior, linha 5 ～ Pág. 230, Coluna superior, linha 13 <Obras Completas・Vol. 11, Pág. 124>",
@@ -12554,7 +12554,7 @@
            "nivel": "circulo",
            "marcador": "12",
            "title": "Civilização de Bem-Mestre e Mal-Subordinado",
-           "pagina": null,
+           "pagina": 608,
            "children": [],
            "ensinamento": {
             "fonte": "Ron・Pág. 2170, Coluna superior, linhas 5 a 13; Coluna inferior, linhas 5 a 9, 13 a 14; Pág. 2171, Coluna superior, linhas 6 a 11; Coluna superior, linha 17 ～ Coluna inferior, linha 1 ＝ Ishizue Jō Jō・Pág. 134, Coluna inferior, linha 2 ～ Pág. 135, Coluna superior, linha 1; Pág. 135, Coluna superior, linha 11 ～ Coluna inferior, linha 1; Coluna inferior, linhas 6 a 7; Pág. 136, Coluna superior, linha 10 ～ Coluna inferior, linha 1; Coluna inferior, linhas 8 a 16 <Obras Completas・Vol. 12, Pág. 12>",
@@ -12575,7 +12575,7 @@
            "nivel": "circulo",
            "marcador": "13",
            "title": "O papel da bomba de hidrogênio na Providência Texto omitido: Consultar Capítulo 2, Seção 3, Item 1, Sabedoria de Deus, 13 - Dentro da Sabedoria de Deus há também o papel da bomba de hidrogênio (Pág. 307 deste livro).",
-           "pagina": null,
+           "pagina": 610,
            "children": []
           },
           {
@@ -12584,7 +12584,7 @@
            "nivel": "circulo",
            "marcador": "14",
            "title": "O pano de fundo espiritual da Grande Transição da Civilização",
-           "pagina": null,
+           "pagina": 610,
            "children": [
             {
              "id": "c2.i4.II.3.14.i",
@@ -12592,7 +12592,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Os trapos da civilização científica",
-             "pagina": null,
+             "pagina": 610,
              "children": [],
              "ensinamento": {
               "fonte": null,
@@ -12613,7 +12613,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "Revolucionar a civilização errada com a força de um rin (1%)",
-             "pagina": null,
+             "pagina": 611,
              "children": [],
              "ensinamento": {
               "fonte": "Sui・Edição 5, Pág. 36, linha 5 ～ Pág. 37, linha 6 <Coletânea de Palestras・Vol. 4, Pág. 370>",
@@ -12634,7 +12634,7 @@
              "nivel": "romano",
              "marcador": "iii",
              "title": "Significado espiritual do Espírito de um rin",
-             "pagina": null,
+             "pagina": 613,
              "children": [],
              "ensinamento": {
               "fonte": "Ron Betsu・Pág. 558, Coluna superior, linha 1 ～ Coluna inferior, linha 20 <Obras Completas・Vol. 10, Pág. 753>",
@@ -12655,7 +12655,7 @@
              "nivel": "romano",
              "marcador": "iv",
              "title": "Poema Divino (御詠) A força para salvar / A civilização errada / Não reside em outro / Senão no Deus Messias. (14 de outubro de 1953)",
-             "pagina": null,
+             "pagina": 615,
              "children": [],
              "ensinamento": {
               "fonte": "Eikō・Edição 230, No. 3 ＝ Obras Completas de Mokiti Okada, Volume de Poemas ***[VI]**, Pág. 374, No. 3",
@@ -12682,7 +12682,7 @@
          "nivel": "numero",
          "marcador": "4",
          "title": "Revolução Médica (医学革命)",
-         "pagina": null,
+         "pagina": 616,
          "children": [
           {
            "id": "c2.i4.II.4.1",
@@ -12690,7 +12690,7 @@
            "nivel": "circulo",
            "marcador": "1",
            "title": "Como condição fundamental do Paraíso Terrestre: \"Segurança da Vida\"",
-           "pagina": null,
+           "pagina": 616,
            "children": [],
            "ensinamento": {
             "fonte": "Ron Betsu・Pág. 687, Coluna superior, linha 17 ～ Coluna inferior, linha 17 <Obras Completas・Vol. 11, Pág. 181>",
@@ -12711,7 +12711,7 @@
            "nivel": "circulo",
            "marcador": "2",
            "title": "A medicina termina seu papel na Providência, e a civilização transita",
-           "pagina": null,
+           "pagina": 617,
            "children": [],
            "ensinamento": {
             "fonte": "S5・Seções 22 a 35 <Obras Completas・Vol. 10, Pág. 129>",
@@ -12737,7 +12737,7 @@
            "nivel": "circulo",
            "marcador": "3",
            "title": "A medicina é revolucionada pelo Johrei",
-           "pagina": null,
+           "pagina": 620,
            "children": [
             {
              "id": "c2.i4.II.4.3.i",
@@ -12745,7 +12745,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "O Elemento Fogo aumenta e o remédio já não solidifica",
-             "pagina": null,
+             "pagina": 620,
              "children": [],
              "ensinamento": {
               "fonte": "Ron・Pág. 1702, Coluna inferior, linha 20 ～ Pág. 1703, Coluna superior, linha 10 ＝ Ishizue Jō Ge・Pág. 207, Coluna inferior, linha 3 ～ Pág. 208, Coluna superior, linha 3 <Obras Completas・Vol. 9, Pág. 565>",
@@ -12766,7 +12766,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "Sobre o relato de graça de um paciente com paralisia (AVC)",
-             "pagina": null,
+             "pagina": 621,
              "children": [],
              "ensinamento": {
               "fonte": "Ron Betsu・Pág. 737, Coluna superior, linhas 1 a 8 <Obras Completas・Vol. 11, Pág. 267>",
@@ -12789,7 +12789,7 @@
            "nivel": "circulo",
            "marcador": "4",
            "title": "A medicina será revolucionada pela força de um rin (1%)*1",
-           "pagina": null,
+           "pagina": 622,
            "children": [],
            "ensinamento": {
             "fonte": null,
@@ -12810,7 +12810,7 @@
            "nivel": "circulo",
            "marcador": "5",
            "title": "A Revolução Médica é a premissa para o Paraíso Terrestre",
-           "pagina": null,
+           "pagina": 624,
            "children": [
             {
              "id": "c2.i4.II.4.5.i",
@@ -12818,7 +12818,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Revolução Médica baseada na Verdade",
-             "pagina": null,
+             "pagina": 624,
              "children": [],
              "ensinamento": {
               "fonte": "S8・Seções 5 a 10 <Obras Completas・Vol. 10, Pág. 137>",
@@ -12839,7 +12839,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "Esclarecimento da Verdade e Julgamento da Medicina",
-             "pagina": null,
+             "pagina": 625,
              "children": [],
              "ensinamento": {
               "fonte": null,
@@ -12867,7 +12867,7 @@
            "nivel": "circulo",
            "marcador": "6",
            "title": "A Noite converte-se em Dia e a Medicina é corrigida",
-           "pagina": null,
+           "pagina": 627,
            "children": [],
            "ensinamento": {
             "fonte": "Su5・Seções 1 a 3, Seções 7 a 14, Seções 17 a 23, Seções 35 a 40, Su6・Seção 1 <Obras Completas・Vol. 10, Pág. 278, Pág. 282>",
@@ -12888,7 +12888,7 @@
            "nivel": "circulo",
            "marcador": "7",
            "title": "Tradução e distribuição em inglês de O Livro da Revolução Médica",
-           "pagina": null,
+           "pagina": 631,
            "children": [],
            "ensinamento": {
             "fonte": "Sui・Edição 24, Pág. 9, linhas 2 a 7 <Coletânea de Palestras・Vol. 9, Pág. 206>) Quando O Livro da Revolução Médica ficar pronto, traduzi-lo-ei para o inglês e distribuirei não apenas na América, mas também na Europa e no Oriente, para o mundo todo. Hoje em dia há universidades e associações médicas em qualquer país; pretendo distribuir para todas elas. E farei com que leiam pelo menos uma vez. Afinal, será como está na Bíblia: \"E este evangelho do Reino será pregado em todo o mundo... então virá o fim\". Portanto, se depois disso não ouvirem, a situação ficará grave. Como Deus é muito atencioso, Ele avisa o máximo possível*; e aqueles que não ouvirem depois disso, colherão o que plantaram. (1º de setembro de 1953",
@@ -12909,7 +12909,7 @@
            "nivel": "circulo",
            "marcador": "8",
            "title": "A Revolução Médica também é uma cena da Grande Providência",
-           "pagina": null,
+           "pagina": 631,
            "children": [],
            "ensinamento": {
             "fonte": null,
@@ -12933,7 +12933,7 @@
          "nivel": "numero",
          "marcador": "5",
          "title": "O Juízo Final* (最後の審判)",
-         "pagina": null,
+         "pagina": 632,
          "children": [
           {
            "id": "c2.i4.II.5.1",
@@ -12941,7 +12941,7 @@
            "nivel": "circulo",
            "marcador": "1",
            "title": "Significado Fundamental — Preparação para o Paraíso Terrestre",
-           "pagina": null,
+           "pagina": 633,
            "children": [],
            "ensinamento": {
             "fonte": "S1・Seções 14 a 17 <Obras Completas・Vol. 10, Pág. 111>",
@@ -12962,7 +12962,7 @@
            "nivel": "circulo",
            "marcador": "2",
            "title": "Compreensão Básica",
-           "pagina": null,
+           "pagina": 634,
            "children": [
             {
              "id": "c2.i4.II.5.2.i",
@@ -12970,7 +12970,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Purificação de pecados e impurezas e a Seleção (Triagem)",
-             "pagina": null,
+             "pagina": 634,
              "children": [],
              "ensinamento": {
               "fonte": "Shū・Pág. 385, Coluna inferior, linhas 1 a 6; Pág. 385, Coluna inferior, linha 16 ～ Pág. 386, Coluna superior, linha 3 ＝ Ishizue Shū Jō・Pág. 127, Coluna inferior, linha 11 ～ Pág. 128, Coluna superior, linha 6; Pág. 128, Coluna inferior, linhas 3 a 11 <Obras Completas・Vol. 11, Pág. 519>",
@@ -12991,7 +12991,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "Pessoas de coração puro superarão",
-             "pagina": null,
+             "pagina": 635,
              "children": [],
              "ensinamento": {
               "fonte": "Shū・Pág. 381, Coluna inferior, linhas 6 a 10; Pág. 381, Coluna inferior, linha 15 ～ Pág. 382, Coluna superior, linha 1 ＝ Ishizue Shū Jō・Pág. 125, Coluna inferior, linha 14 ～ Pág. 126, Coluna superior, linha 4; Pág. 126, Coluna superior, linha 11 ～ Coluna inferior, linha 6 <Obras Completas・Vol. 8, Pág. 293>",
@@ -13012,7 +13012,7 @@
              "nivel": "romano",
              "marcador": "iii",
              "title": "Com a Kyuseikyo, a triagem torna-se rigorosa",
-             "pagina": null,
+             "pagina": 637,
              "children": [],
              "ensinamento": {
               "fonte": "Shū・Pág. 254, Coluna inferior, linhas 7 a 16 ＝ Ishizue Shū Jō・Pág. 207, Coluna superior, linha 16 ～ Coluna inferior, linha 11 <Obras Completas・Vol. 8, Pág. 471>",
@@ -13033,7 +13033,7 @@
              "nivel": "romano",
              "marcador": "iv",
              "title": "Grande Purificação pela Conversão Noite-Dia",
-             "pagina": null,
+             "pagina": 638,
              "children": [],
              "ensinamento": {
               "fonte": "Aumento do Elemento Fogo) (Ron・Pág. 2171, Coluna inferior, linhas 6 a 17 ＝ Ishizue Jō Jō・Pág. 137, Coluna superior, linha 5 ～ Coluna inferior, linha 3 <Obras Completas・Vol. 12, Pág. 14>",
@@ -13054,7 +13054,7 @@
              "nivel": "romano",
              "marcador": "v",
              "title": "O Johrei como dádiva para fazer superar o Julgamento",
-             "pagina": null,
+             "pagina": 639,
              "children": [],
              "ensinamento": {
               "fonte": "Shū・Pág. 379, Coluna inferior, linha 21 ～ Pág. 380, Coluna superior, linha 5 ＝ Ishizue Shū Jō・Pág. 122, Coluna inferior, linha 16 ～ Pág. 123, Coluna superior, linha 8 <Obras Completas・Vol. 9, Pág. 358>",
@@ -13077,7 +13077,7 @@
            "nivel": "circulo",
            "marcador": "3",
            "title": "A liquidação dos pecados pela Grande Ação de Purificação",
-           "pagina": null,
+           "pagina": 639,
            "children": [
             {
              "id": "c2.i4.II.5.3.i",
@@ -13085,7 +13085,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Aviso através de A Criação da Civilização e O Livro da Revolução Médica",
-             "pagina": null,
+             "pagina": 639,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 23, Pág. 30, linhas 3 a 17 <Coletânea de Palestras・Vol. 10, Pág. 286>",
@@ -13106,7 +13106,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "O redemoinho de Fogo",
-             "pagina": null,
+             "pagina": 639,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 23, Pág. 39, linha 1 ～ Pág. 40, linha 8 <Coletânea de Palestras・Vol. 10, Pág. 294>",
@@ -13134,7 +13134,7 @@
            "nivel": "circulo",
            "marcador": "4",
            "title": "As pessoas que serão salvas e as que não serão salvas são (gradualmente) decididas*1",
-           "pagina": null,
+           "pagina": 644,
            "children": [
             {
              "id": "c2.i4.II.5.4.i",
@@ -13142,7 +13142,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Os salvos são menos numerosos",
-             "pagina": null,
+             "pagina": 645,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 23, Pág. 21, linhas 5 a 13 <Coletânea de Palestras・Vol. 10, Pág. 278>",
@@ -13163,7 +13163,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "Os salvos não dão trabalho",
-             "pagina": null,
+             "pagina": 645,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 23, Pág. 4, linhas 7 a 15 <Coletânea de Palestras・Vol. 10, Pág. 263>) No fim das contas, entraremos no Juízo Final; sobre isso, ao fazer fiéis, até agora tentava-se salvar o maior número possível, o que é uma história natural. No entanto, pensa-se que, como Deus é Grande Amor, Ele salvará qualquer pessoa digna de pena, mas isso é um erro. Deus separa perfeitamente quem vai salvar e quem não vai salvar1. Portanto, esforçar-se com quem tem o destino de não ser salvo torna-se apenas desperdício. A distinção entre quem deve ser salvo e quem não deve ser salvo, essa forma de pensar torna-se muito necessária. As pessoas que parecem que serão salvas não dão tanto trabalho. Têm o vínculo para isso, então logo se percebe2. E aqueles que ficam em dúvida, ou criando confusão, não servem. A gente evita se envolver com esse tipo de pessoa. Escrevi sobre isso. (Leitura do Tratado \"O que é o Juízo Final\" <Eikō・Edição 213>) (5 de junho de 1953",
@@ -13184,7 +13184,7 @@
              "nivel": "romano",
              "marcador": "iii",
              "title": "É melhor não perseguir quem não entende",
-             "pagina": null,
+             "pagina": 646,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 23, Pág. 16, linhas 1 a 9 <Coletânea de Palestras・Vol. 10, Pág. 274>",
@@ -13205,7 +13205,7 @@
              "nivel": "romano",
              "marcador": "iv",
              "title": "Melhor não perseguir quem vacila mesmo após receber graças",
-             "pagina": null,
+             "pagina": 647,
              "children": [],
              "ensinamento": {
               "fonte": "Shū・Pág. 386, Coluna superior, linhas 3 a 20 ＝ Ishizue Shū Jō・Pág. 128, Coluna inferior, linha 11 ～ Pág. 129, Coluna inferior, linha 2 <Obras Completas・Vol. 11, Pág. 520>",
@@ -13226,7 +13226,7 @@
              "nivel": "romano",
              "marcador": "v",
              "title": "Desistir de quem não entende",
-             "pagina": null,
+             "pagina": 649,
              "children": [],
              "ensinamento": {
               "fonte": null,
@@ -13247,7 +13247,7 @@
              "nivel": "romano",
              "marcador": "vi",
              "title": "À medida que a ação de purificação se fortalece",
-             "pagina": null,
+             "pagina": 649,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 30, Pág. 71, linhas 5 a 17 <Coletânea de Palestras・Vol. 12, Pág. 159>) (Ensinamento após a leitura do Tratado \"A relação entre Deus e eu\"*1 <Chijo Tengoku・Edição 57>",
@@ -13268,7 +13268,7 @@
              "nivel": "romano",
              "marcador": "vii",
              "title": "Poema Divino (御詠) Os que perecem / E os que sobrevivem separam-se / E assim / Terá chegado o Dia do Fim. (3 de março de 1954)",
-             "pagina": null,
+             "pagina": 650,
              "children": [],
              "ensinamento": {
               "fonte": "Eikō・Edição 250, No. 3 ＝ Obras Completas de Mokiti Okada, Volume de Poemas ***[VI]**, Pág. 441, No. 3",
@@ -13292,7 +13292,7 @@
            "nivel": "circulo",
            "marcador": "5",
            "title": "A necessidade de arrependimento",
-           "pagina": null,
+           "pagina": 650,
            "children": [
             {
              "id": "c2.i4.II.5.5.i",
@@ -13300,7 +13300,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Sobre a raiz do pecado",
-             "pagina": null,
+             "pagina": 650,
              "children": [],
              "ensinamento": {
               "fonte": "Hikari Ho・Pág. 149, linha 14 <Coletânea de Palestras・Vol. 1, Pág. 508>",
@@ -13321,7 +13321,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "Apegar-se a Deus para ter os pecados perdoados",
-             "pagina": null,
+             "pagina": 651,
              "children": [],
              "ensinamento": {
               "fonte": "Shū・Pág. 378, Coluna superior, linha 20 ～ Coluna inferior, linha 6 ＝ Ishizue Shū Jō・Pág. 120, Coluna superior, linha 10 ～ Coluna inferior, linha 5 <Obras Completas・Vol. 7, Pág. 604>",
@@ -13342,7 +13342,7 @@
              "nivel": "romano",
              "marcador": "iii",
              "title": "Às pessoas que esqueceram que tiveram a vida salva",
-             "pagina": null,
+             "pagina": 651,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 6, Pág. 84, linha 10 ～ Pág. 85, linha 1 <Coletânea de Palestras・Vol. 6, Pág. 409>",
@@ -13365,7 +13365,7 @@
            "nivel": "circulo",
            "marcador": "6",
            "title": "Na ocasião da Grande Purificação, agradar e devolver em dobro (Henpo-gaeshi)",
-           "pagina": null,
+           "pagina": 652,
            "children": [],
            "ensinamento": {
             "fonte": "Kyō・Edição 28, Pág. 21, linha 13 ～ Pág. 23, linha 1 <Coletânea de Palestras・Vol. 11, Pág. 210>",
@@ -13391,7 +13391,7 @@
            "nivel": "circulo",
            "marcador": "7",
            "title": "Kunitokotachi no Mikoto aparece no mundo material e o julgamento começa",
-           "pagina": null,
+           "pagina": 654,
            "children": [],
            "ensinamento": {
             "fonte": "Kyō・Edição 31, Pág. 1, linha 9 ～ Pág. 2, linha 1; Pág. 2, linha 3 ～ Pág. 3, linha 9 <Coletânea de Palestras・Vol. 12, Pág. 174>",
@@ -13417,7 +13417,7 @@
            "nivel": "circulo",
            "marcador": "8",
            "title": "O Grande Drama dos Três Mil Mundos (三千世界の大芝居)",
-           "pagina": null,
+           "pagina": 658,
            "children": [],
            "ensinamento": {
             "fonte": "Kyō・Edição 31, Pág. 4, linha 1 ～ Pág. 5, linha 13 <Coletânea de Palestras・Vol. 12, Pág. 176>",
@@ -13438,7 +13438,7 @@
            "nivel": "circulo",
            "marcador": "9",
            "title": "Sendo chamado para a Obra Divina devido ao vínculo",
-           "pagina": null,
+           "pagina": 661,
            "children": [],
            "ensinamento": {
             "fonte": "Kyō・Edição 15, Pág. 55, linhas 1 a 5 <Obras Completas・Vol. 8, Pág. 176>",
@@ -13473,7 +13473,7 @@
          "nivel": "numero",
          "marcador": "6",
          "title": "O Progresso da Obra Divina (御神業の進展)",
-         "pagina": null,
+         "pagina": 662,
          "children": [
           {
            "id": "c2.i4.II.6.1",
@@ -13481,7 +13481,7 @@
            "nivel": "circulo",
            "marcador": "1",
            "title": "Questões Básicas — A Providência e Meishu-Sama",
-           "pagina": null,
+           "pagina": 662,
            "children": [
             {
              "id": "c2.i4.II.6.1.i",
@@ -13489,7 +13489,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Marionete e Instrumento de Deus",
-             "pagina": null,
+             "pagina": 662,
              "children": [
               {
                "id": "c2.i4.II.6.1.i.A",
@@ -13497,7 +13497,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "Deus alojou-se no ventre de Meishu-Sama",
-               "pagina": null,
+               "pagina": 662,
                "children": [],
                "ensinamento": {
                 "fonte": "Shū・Pág. 365, Coluna inferior, linha 21 ～ Pág. 366, Coluna superior, linha 11 ＝ Ishizue Shū Jō・Pág. 69, Coluna superior, linha 4 ～ Coluna inferior, linha 4 <Obras Completas・Vol. 9, Pág. 80>",
@@ -13518,7 +13518,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "Deus, que habita no ventre, utiliza Meishu-Sama",
-               "pagina": null,
+               "pagina": 663,
                "children": [],
                "ensinamento": {
                 "fonte": "Ron・Pág. 2084, Coluna superior, linhas 17 a 20 <Obras Completas・Vol. 11, Pág. 580>",
@@ -13539,7 +13539,7 @@
                "nivel": "letra",
                "marcador": "C",
                "title": "Meishu-Sama manipulado por Deus",
-               "pagina": null,
+               "pagina": 664,
                "children": [],
                "ensinamento": {
                 "fonte": null,
@@ -13560,7 +13560,7 @@
                "nivel": "letra",
                "marcador": "D",
                "title": "Meishu-Sama é o órgão executor da Obra de Salvação",
-               "pagina": null,
+               "pagina": 665,
                "children": [],
                "ensinamento": {
                 "fonte": null,
@@ -13583,7 +13583,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "Exemplos onde o que Meishu-Sama faz é expresso como \"Providência\"",
-             "pagina": null,
+             "pagina": 665,
              "children": [
               {
                "id": "c2.i4.II.6.1.ii.A",
@@ -13591,7 +13591,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "O Espírito Divino aloja-se e renasce",
-               "pagina": null,
+               "pagina": 665,
                "children": [],
                "ensinamento": {
                 "fonte": "Shū・Pág. 412, Coluna superior, linha 18 ～ Coluna inferior, linha 11 ＝ Ishizue Shū Jō・Pág. 20, Coluna superior, linha 10 ～ Coluna inferior, linha 5 <Obras Completas・Vol. 8, Pág. 695>",
@@ -13612,7 +13612,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "A conclusão do Solo Sagrado de Zuiun-kyo em Atami",
-               "pagina": null,
+               "pagina": 667,
                "children": [],
                "ensinamento": {
                 "fonte": null,
@@ -13633,7 +13633,7 @@
                "nivel": "letra",
                "marcador": "C",
                "title": "Milagres superiores aos de Cristo",
-               "pagina": null,
+               "pagina": 667,
                "children": [],
                "ensinamento": {
                 "fonte": "Shū・Pág. 2, Coluna superior, linhas 4 a 8 ＝ Ishizue Shū Jō・Pág. 18, Coluna superior, linha 16 ～ Coluna inferior, linha 6 <Obras Completas・Vol. 10, Pág. 480>",
@@ -13656,7 +13656,7 @@
              "nivel": "romano",
              "marcador": "iii",
              "title": "A Providência é compreendida antecipadamente",
-             "pagina": null,
+             "pagina": 668,
              "children": [],
              "ensinamento": {
               "fonte": null,
@@ -13677,7 +13677,7 @@
              "nivel": "romano",
              "marcador": "iv",
              "title": "O que acontece na Igreja também é Providência de Deus",
-             "pagina": null,
+             "pagina": 669,
              "children": [],
              "ensinamento": {
               "fonte": "Shū・Pág. 87, Coluna superior, linhas 7 a 14 ＝ Ishizue Shū Ge・Pág. 198, Coluna inferior, linha 13 ～ Pág. 199, Coluna superior, linha 7 <Obras Completas・Vol. 9, Pág. 473>",
@@ -13698,7 +13698,7 @@
              "nivel": "romano",
              "marcador": "v",
              "title": "Incidente de Perseguição Religiosa",
-             "pagina": null,
+             "pagina": 670,
              "children": [],
              "ensinamento": {
               "fonte": null,
@@ -13719,7 +13719,7 @@
              "nivel": "romano",
              "marcador": "vi",
              "title": "A Obra Divina chegou ao sopé da montanha",
-             "pagina": null,
+             "pagina": 670,
              "children": [],
              "ensinamento": {
               "fonte": null,
@@ -13740,7 +13740,7 @@
              "nivel": "romano",
              "marcador": "vii",
              "title": "Mil anos em dez anos",
-             "pagina": null,
+             "pagina": 671,
              "children": [],
              "ensinamento": {
               "fonte": "Sui・Edição 3, Pág. 40, linhas 9 a 13 <Coletânea de Palestras・Vol. 4, Pág. 218>",
@@ -13761,7 +13761,7 @@
              "nivel": "romano",
              "marcador": "viii",
              "title": "Há uma ordem na Providência — A Revolução Médica também é uma cena da Grande Providência*1",
-             "pagina": null,
+             "pagina": 671,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 25, Pág. 49, linhas 5 a 16 <Coletânea de Palestras・Vol. 11, Pág. 49>",
@@ -13787,7 +13787,7 @@
              "nivel": "romano",
              "marcador": "ix",
              "title": "A Kyuseikyo e Ushitora no Konjin",
-             "pagina": null,
+             "pagina": 674,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 31, Pág. 8, linhas 4 a 6 <Coletânea de Palestras・Vol. 12, Pág. 180>",
@@ -13808,7 +13808,7 @@
              "nivel": "romano",
              "marcador": "x",
              "title": "Relação com a Oomoto",
-             "pagina": null,
+             "pagina": 675,
              "children": [
               {
                "id": "c2.i4.II.6.1.x.A",
@@ -13816,7 +13816,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "O papel da Oomoto",
-               "pagina": null,
+               "pagina": 675,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyō・Edição 3, Pág. 68, linhas 8 a 10 <Coletânea de Palestras・Vol. 5, Pág. 65>) A Oomoto é uma religião que surgiu para que a Sekaikyuseikyo nascesse. Nas Ofudesaki há o dizer: \"Dentro disto está o modelo do mundo; se olharem para dentro disto, compreenderão claramente\". (18 de outubro de 1951",
@@ -13837,7 +13837,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "A razão pela qual Meishu-Sama nasceu da Oomoto",
-               "pagina": null,
+               "pagina": 675,
                "children": [],
                "ensinamento": {
                 "fonte": "Sui・Edição 14, Pág. 13, linha 6 ～ Pág. 14, linha 8 <Coletânea de Palestras・Vol. 6, Pág. 273>",
@@ -13862,7 +13862,7 @@
            "nivel": "circulo",
            "marcador": "2",
            "title": "Expansão (Kyōsen)",
-           "pagina": null,
+           "pagina": 677,
            "children": [
             {
              "id": "c2.i4.II.6.2.i",
@@ -13870,7 +13870,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Pacientes e novos fiéis são enviados por Deus",
-             "pagina": null,
+             "pagina": 677,
              "children": [],
              "ensinamento": {
               "fonte": "Sui・Edição 3, Pág. 36, linhas 5 a 14 <Coletânea de Palestras・Vol. 4, Pág. 215>",
@@ -13891,7 +13891,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "Basta ministrar Johrei a quem vier ao nosso encontro",
-             "pagina": null,
+             "pagina": 677,
              "children": [],
              "ensinamento": {
               "fonte": null,
@@ -13912,7 +13912,7 @@
              "nivel": "romano",
              "marcador": "iii",
              "title": "Pessoas inesperadas abrem o caminho",
-             "pagina": null,
+             "pagina": 677,
              "children": [],
              "ensinamento": {
               "fonte": "Sui・Edição 21, Pág. 13, linhas 7 a 10 <Coletânea de Palestras・Vol. 9, Pág. 127>",
@@ -13933,7 +13933,7 @@
              "nivel": "romano",
              "marcador": "iv",
              "title": "Qualquer pessoa é enviada por Deus",
-             "pagina": null,
+             "pagina": 677,
              "children": [],
              "ensinamento": {
               "fonte": "Sui・Edição 22, Pág. 9, linhas 1 a 10 <Coletânea de Palestras・Vol. 9, Pág. 154>) Em suma, como os seres humanos que vêm até aqui são enviados por Deus porque há uma necessidade, é um grande erro o ser humano fazer julgamentos. Por isso, dizem frequentemente: \"Aquela pessoa tem má reputação, não se pode confiar, não é interessante, não devemos deixar tal pessoa entrar na Igreja\", mas não é assim. É justamente porque a pessoa é assim que o certo é torná-la uma pessoa esplêndida, e para isso é necessária a força da religião1. Numa certa igreja cristã de Tóquio, ouvi de um pastor que \"está decidido que não deixamos entrar na igreja quem tenha o mínimo de erro, selecionamos pessoas puras para entrar\". Eu disse: \"Se são pessoas tão esplêndidas, não há necessidade de entrarem na igreja, não é? Tornar esplêndidos os maus não é o trabalho da religião?\". Ele disse: \"Essa é a lógica verdadeira, mas como a minha igreja é assim, não tem jeito\"; mas isso está muito errado. No mundo terrível de até agora, onde os maus proliferaram, os maus também existem, afinal, como um tipo de instrumento2. (1º de julho de 1953",
@@ -13954,7 +13954,7 @@
              "nivel": "romano",
              "marcador": "v",
              "title": "Deus extrai \"coisas boas\" de \"coisas ruins\"",
-             "pagina": null,
+             "pagina": 678,
              "children": [],
              "ensinamento": {
               "fonte": "Sui・Edição 21, Pág. 18, linhas 1 a 14 <Coletânea de Palestras・Vol. 9, Pág. 130>",
@@ -13975,7 +13975,7 @@
              "nivel": "romano",
              "marcador": "vi",
              "title": "A missão dos fiéis",
-             "pagina": null,
+             "pagina": 680,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 28, Pág. 5, linhas 12 a 13; Pág. 5, linha 13 ～ Pág. 6, linha 5 <Coletânea de Palestras・Vol. 11, Pág. 196>",
@@ -13996,7 +13996,7 @@
              "nivel": "romano",
              "marcador": "vii",
              "title": "Escolha para o Serviço",
-             "pagina": null,
+             "pagina": 681,
              "children": [],
              "ensinamento": {
               "fonte": "Ron Betsu・Pág. 109, Coluna superior, linha 9 ～ Coluna inferior, linha 9 <Coletânea de Palestras・Vol. 1, Pág. 91>",
@@ -14017,7 +14017,7 @@
              "nivel": "romano",
              "marcador": "viii",
              "title": "Salva-se a partir da pessoa que se torna o Modelo",
-             "pagina": null,
+             "pagina": 681,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 3, Pág. 6, linhas 6 a 12 <Coletânea de Palestras・Vol. 5, Pág. 11>",
@@ -14038,7 +14038,7 @@
              "nivel": "romano",
              "marcador": "ix",
              "title": "As pessoas erradas são colocadas para fora",
-             "pagina": null,
+             "pagina": 682,
              "children": [],
              "ensinamento": {
               "fonte": "Sui・Edição 8, Pág. 42, linhas 4 a 12 <Coletânea de Palestras・Vol. 6, Pág. 84>",
@@ -14059,7 +14059,7 @@
              "nivel": "romano",
              "marcador": "x",
              "title": "Compreender a partir do exterior",
-             "pagina": null,
+             "pagina": 682,
              "children": [
               {
                "id": "c2.i4.II.6.2.x.A",
@@ -14067,7 +14067,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "Desenvolve-se de uma vez",
-               "pagina": null,
+               "pagina": 682,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyō・Edição 22, Pág. 20, linha 14 ～ Pág. 21, linha 3 <Coletânea de Palestras・Vol. 10, Pág. 223>",
@@ -14088,7 +14088,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "A adoração dos japoneses pelo estrangeiro",
-               "pagina": null,
+               "pagina": 683,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyō・Edição 28, Pág. 12, linhas 3 a 15 <Coletânea de Palestras・Vol. 11, Pág. 202>",
@@ -14118,7 +14118,7 @@
            "nivel": "circulo",
            "marcador": "3",
            "title": "Construção* (建 設)",
-           "pagina": null,
+           "pagina": 686,
            "children": [
             {
              "id": "c2.i4.II.6.3.i",
@@ -14126,7 +14126,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Hakone é a Providência do Mundo Espiritual, Atami é a Providência do Mundo Material",
-             "pagina": null,
+             "pagina": 686,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 14, Pág. 59, linhas 12 a 14 <Coletânea de Palestras・Vol. 8, Pág. 112>",
@@ -14147,7 +14147,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "As construções de Hakone e Atami refletem-se mutuamente",
-             "pagina": null,
+             "pagina": 686,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 26, Pág. 60, linhas 2 a 5 <Coletânea de Palestras・Vol. 11, Pág. 113>",
@@ -14168,7 +14168,7 @@
              "nivel": "romano",
              "marcador": "iii",
              "title": "A construção de Kyoto",
-             "pagina": null,
+             "pagina": 686,
              "children": [],
              "ensinamento": {
               "fonte": "Sui・Edição 15, Pág. 3, linhas 1 a 3 <Coletânea de Palestras・Vol. 6, Pág. 288>) A construção de várias coisas em diversos lugares, esse desenvolvimento visível, é daqui para a frente. No entanto, isso vai se refletindo à medida que aquilo lá em Kyoto fica pronto. A Providência do lado de Deus é profunda, de modo que não se pode sequer imaginar*. (1º de novembro de 1952",
@@ -14189,7 +14189,7 @@
              "nivel": "romano",
              "marcador": "iv",
              "title": "Construção mundial",
-             "pagina": null,
+             "pagina": 687,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 15, Pág. 29, linhas 6 a 10 <Coletânea de Palestras・Vol. 8, Pág. 153>) Agora, onde será? É em Kyushu. Ainda não chegou o tempo, mas eventualmente será construído um Paraíso Terrestre em Kyushu. O próximo será na China. E depois, Jerusalém. Lá é o fim. Portanto, vai indo para o Oeste. Quando o Paraíso Terrestre for construído em Jerusalém, será o início do Paraíso Terrestre mundial. A partir daí o mundo será unificado. Não sou eu quem diz isso; há uma profecia antiga do lado judaico sobre isso. (18 de outubro de 1952",
@@ -14210,7 +14210,7 @@
              "nivel": "romano",
              "marcador": "v",
              "title": "O tempo da \"Construção\" é decidido macroscopicamente",
-             "pagina": null,
+             "pagina": 687,
              "children": [],
              "ensinamento": {
               "fonte": "Sui・Edição 25, Pág. 8, linhas 2 a 6 <Coletânea de Palestras・Vol. 9, Pág. 233>",
@@ -14231,7 +14231,7 @@
              "nivel": "romano",
              "marcador": "vi",
              "title": "A força motriz da construção",
-             "pagina": null,
+             "pagina": 688,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 32, Pág. 5, linha 13 ～ Pág. 6, linha 16 <Coletânea de Palestras・Vol. 12, Pág. 241>) Quando o Paraíso Terrestre ficar pronto, as pessoas do mundo farão várias críticas e reflexões. Haverá a dúvida \"Como puderam construir algo tão maravilhoso em tão pouco tempo?\", e haverá o desejo de ouvir sobre isso. Quando isso acontecer, acho que repórteres de jornal e pessoas assim virão muito para ouvir. Explicando isso de forma mais fácil de entender, é claro que é força, mas basicamente a primeira é a força do dinheiro (Kinryoku). A seguinte é a força da coragem (Tanryoku), a audácia. A próxima é a força da sabedoria (Chiryoku). São essas três forças. Se formos pelo pensamento humano, é natural ver dessa forma, mas no nosso caso, além dessas, entra o Poder Divino (Shinryoku). A força que faz essas três forças funcionarem é o Poder Divino. É verdade que, quanto à força do dinheiro, não a temos desde a origem, e não sendo um empreendimento governamental nem nada parecido, em suma, tem que haver pessoas que doem à Sekaikyuseikyo. Quem faz isso é Deus. Quanto à força da coragem, se mostrarmos uma coragem sem convicção, fracassaremos; mas ter convicção significa que Deus manifesta essa força e, além disso, que Deus faz com que todas as condições avancem fácil e naturalmente dessa forma, sem forçar; e, se for Atami, Deus já preparou desde antes a topografia que permite ver tal paisagem num relance, as pedras, as árvores e os materiais.* E quanto à força da sabedoria, parece algo que o ser humano pensa, mas não é assim. Objetivamente parece força de sabedoria, mas eu mesmo não tenho sabedoria. Por que digo isso? Porque não penso... Simplesmente, ao ir lá, vem pa-pa-pa à mente, ou melhor, dizer que vem à mente ainda é uma forma indireta de dizer. Entendo de repente (Hyo-tto). Por isso, na verdade não é força de sabedoria, é Poder Divino. Sendo assim, não se pode explicar; em suma, é um poder misterioso. É o Poder da Sabedoria Maravilhosa (Myochiriki) que Kannon diz. Diz-se poder misterioso, poder da sabedoria maravilhosa, e certamente é Myochiriki. Se não fosse assim, não haveria como construir tantas coisas em curto período... Explicando assim, qualquer um concordará. Se virem a realidade, não há outra forma de pensar. Ainda tornar-se-á algo inimaginável até agora. (5 de março de 1954",
@@ -14252,7 +14252,7 @@
              "nivel": "romano",
              "marcador": "vii",
              "title": "Atrair com o Modelo do Paraíso Terrestre e fazer entrar em contato com o Ensinamento (Verdade)",
-             "pagina": null,
+             "pagina": 690,
              "children": [],
              "ensinamento": {
               "fonte": "Kyō・Edição 30, Pág. 25, linhas 1 a 12 <Coletânea de Palestras・Vol. 12, Pág. 118>",
@@ -14275,7 +14275,7 @@
            "nivel": "circulo",
            "marcador": "4",
            "title": "Escrita (御執筆)",
-           "pagina": null,
+           "pagina": 692,
            "children": [
             {
              "id": "c2.i4.II.6.4.i",
@@ -14283,7 +14283,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "A Criação da Civilização (Bunmei no Sozou)",
-             "pagina": null,
+             "pagina": 692,
              "children": [
               {
                "id": "c2.i4.II.6.4.i.A",
@@ -14291,7 +14291,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "Informar a Verdade e construir o verdadeiro mundo civilizado",
-               "pagina": null,
+               "pagina": 692,
                "children": [
                 {
                  "id": "c2.i4.II.6.4.i.A.b",
@@ -14299,7 +14299,7 @@
                  "nivel": "letra_min",
                  "marcador": "b",
                  "title": "A civilização moderna utilizada pelo mal",
-                 "pagina": null,
+                 "pagina": 693,
                  "children": [],
                  "ensinamento": {
                   "fonte": null,
@@ -14320,7 +14320,7 @@
                  "nivel": "letra_min",
                  "marcador": "c",
                  "title": "A revolução da civilização — Cura de doenças",
-                 "pagina": null,
+                 "pagina": 694,
                  "children": [],
                  "ensinamento": {
                   "fonte": null,
@@ -14355,7 +14355,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "Teoria da Civilização — A Revolução Médica é a premissa da Verdadeira Civilização",
-               "pagina": null,
+               "pagina": 695,
                "children": [
                 {
                  "id": "c2.i4.II.6.4.i.B.a",
@@ -14363,7 +14363,7 @@
                  "nivel": "letra_min",
                  "marcador": "a",
                  "title": "Tradução e distribuição de A Criação da Civilização",
-                 "pagina": null,
+                 "pagina": 695,
                  "children": [],
                  "ensinamento": {
                   "fonte": null,
@@ -14384,7 +14384,7 @@
                  "nivel": "letra_min",
                  "marcador": "b",
                  "title": "Despertar os intelectuais do mundo",
-                 "pagina": null,
+                 "pagina": 696,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Kyō・Edição 3, Pág. 12, linhas 3 a 7 <Coletânea de Palestras・Vol. 5, Pág. 15>) Não há erro em pensar que a medicina moderna foi criada pelo deus maligno e é administrada pelo deus maligno*. Então, Deus está me usando para despertar disso. Com esse sentido, estou escrevendo agora A Criação da Civilização. Planejo que fique pronta por volta do ano que vem; quando ficar, traduzi-la-ei para o inglês e distribuirei pelo mundo. Primeiro, despertar os intelectuais do mundo. E assim, gradualmente, as pessoas do mundo todo passarão a fazer Johrei e coisas do tipo. Só assim a humanidade será salva fundamentalmente. (1º de outubro de 1951",
@@ -14405,7 +14405,7 @@
                  "nivel": "letra_min",
                  "marcador": "c",
                  "title": "Informar sobre os erros da medicina",
-                 "pagina": null,
+                 "pagina": 696,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Kyō・Edição 13, Pág. 46, linha 12 ～ Pág. 47, linha 6 <Coletânea de Palestras・Vol. 8, Pág. 48>) (Ensinamento após a leitura do Tratado \"A Cultura de ⦿ (Su/Ponto no Círculo)\"*1 <Eikō・Edição 173>",
@@ -14428,7 +14428,7 @@
                "nivel": "letra",
                "marcador": "C",
                "title": "Como aviso do Juízo Final",
-               "pagina": null,
+               "pagina": 698,
                "children": [
                 {
                  "id": "c2.i4.II.6.4.i.C.a",
@@ -14436,7 +14436,7 @@
                  "nivel": "letra_min",
                  "marcador": "a",
                  "title": "A Criação da Civilização é o Evangelho do Paraíso",
-                 "pagina": null,
+                 "pagina": 698,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Kyō・Edição 5, Pág. 77, linha 13 ～ Pág. 78, linha 11 <Coletânea de Palestras・Vol. 5, Pág. 264>",
@@ -14457,7 +14457,7 @@
                  "nivel": "letra_min",
                  "marcador": "b",
                  "title": "Como Evangelho do Paraíso",
-                 "pagina": null,
+                 "pagina": 699,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Kyō・Edição 23, Pág. 30, linha 3 ～ Pág. 31, linha 3 <Coletânea de Palestras・Vol. 10, Pág. 286>",
@@ -14480,7 +14480,7 @@
                "nivel": "letra",
                "marcador": "D",
                "title": "Esclarecer a razão da existência do mal (medicina e conflito)",
-               "pagina": null,
+               "pagina": 701,
                "children": [],
                "ensinamento": {
                 "fonte": null,
@@ -14501,7 +14501,7 @@
                "nivel": "letra",
                "marcador": "E",
                "title": "Poema Divino (御詠)",
-               "pagina": null,
+               "pagina": 705,
                "children": [],
                "ensinamento": {
                 "fonte": null,
@@ -14525,7 +14525,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "O Livro da Revolução Médica (Igaku Kakumei no Sho)",
-             "pagina": null,
+             "pagina": 705,
              "children": [
               {
                "id": "c2.i4.II.6.4.ii.A",
@@ -14533,7 +14533,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "Esclarecer o significado do Johrei e os erros da medicina — A Bíblia da Kyuseikyo",
-               "pagina": null,
+               "pagina": 705,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyō・Edição 18, Pág. 56, linha 4 ～ Pág. 57, linha 10 <Coletânea de Palestras・Vol. 9, Pág. 364>",
@@ -14554,7 +14554,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "O mecanismo de um rin (1%) que derruba a conspiração do deus maligno*1",
-               "pagina": null,
+               "pagina": 707,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyō・Edição 19, Pág. 4, linha 16 ～ Pág. 5, linha 8 <Coletânea de Palestras・Vol. 10, Pág. 10>",
@@ -14575,7 +14575,7 @@
                "nivel": "letra",
                "marcador": "C",
                "title": "Enriquecer o conhecimento dos fiéis sobre a doença",
-               "pagina": null,
+               "pagina": 709,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyō・Edição 25, Pág. 5, linha 1 ～ Pág. 6, linha 8 <Coletânea de Palestras・Vol. 11, Pág. 10>",
@@ -14603,7 +14603,7 @@
              "nivel": "romano",
              "marcador": "iii",
              "title": "\"Edição Especial de Agricultura\"",
-             "pagina": null,
+             "pagina": 712,
              "children": [
               {
                "id": "c2.i4.II.6.4.iii.A",
@@ -14611,7 +14611,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "Plano de distribuição de um milhão de exemplares",
-               "pagina": null,
+               "pagina": 712,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyō・Edição 30, Pág. 56, linha 12 ～ Pág. 57, linha 2 <Coletânea de Palestras・Vol. 12, Pág. 146>) Como os relatórios da Agricultura Natural foram reunidos em geral, lançaremos a \"Edição Especial\". Como pretendi escrever aqui quase tudo o que queria dizer, se lerem bem isto, qualquer pessoa entenderá; portanto, quero que distribuam grandemente. Decidi fazer um milhão de exemplares; se espalharem bastante a partir de agora, dará tempo para o cultivo deste ano, então acho que a época é exatamente boa. (Leitura dos Tratados: \"A Grande Revolução do Método Agrícola Japonês - Aumento de produção de 10% a 50% desde o primeiro ano sem fertilizantes\"*1, \"Princípios da Agricultura Natural\"*2, \"Aspectos Técnicos do Método Agrícola e Outros\"*3 <Eikō・Edição 245>) (16 de janeiro de 1954",
@@ -14632,7 +14632,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "Repercussão",
-               "pagina": null,
+               "pagina": 713,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyō・Edição 32, Pág. 15, linha 14 ～ Pág. 16, linha 5 <Coletânea de Palestras・Vol. 12, Pág. 250>) Parece que a \"Edição Especial de Agricultura\" está vendendo surpreendentemente bem, e parece que já vendeu mais de um milhão de exemplares até agora. O plano era um milhão, e eu achava que se vendesse tudo já seria grande coisa, mas considerando uma média de cinco pessoas por casa, acho que se espalhará bastante. Nos jornais locais aparece de vez em quando sobre o cultivo natural, mas nos jornais das grandes cidades não aparece nada. E no rádio, estão fazendo palestras agrícolas todas as noites agora, mas não tocam nem um pouco no assunto de fertilizantes, falam apenas de outras coisas. Realmente, imaginando a situação, devem estar aguentando algo que teriam que dizer ou escrever; acho que deve ser muito doloroso. (7 de março de 1954",
@@ -14653,7 +14653,7 @@
                "nivel": "letra",
                "marcador": "C",
                "title": "Poemas Divinos (御詠)",
-               "pagina": null,
+               "pagina": 713,
                "children": [],
                "ensinamento": {
                 "fonte": null,
@@ -14677,7 +14677,7 @@
              "nivel": "romano",
              "marcador": "iv",
              "title": "Coleção de Milagres",
-             "pagina": null,
+             "pagina": 715,
              "children": [
               {
                "id": "c2.i4.II.6.4.iv.A",
@@ -14685,7 +14685,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "Informar a existência do espírito e sua atuação",
-               "pagina": null,
+               "pagina": 715,
                "children": [],
                "ensinamento": {
                 "fonte": null,
@@ -14706,7 +14706,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "Informar a existência real do espírito através de milagres e promover a revolução cultural*1",
-               "pagina": null,
+               "pagina": 715,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyō・Edição 20, Pág. 71, linhas 3 a 12 <Coletânea de Palestras・Vol. 10, Pág. 119>",
@@ -14741,7 +14741,7 @@
              "nivel": "romano",
              "marcador": "v",
              "title": "Minha Vida (Watashi Monogatari)",
-             "pagina": null,
+             "pagina": 716,
              "children": [
               {
                "id": "c2.i4.II.6.4.v.A",
@@ -14749,7 +14749,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "Sobre a escrita de Minha Vida",
-               "pagina": null,
+               "pagina": 717,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyō・Edição 10, Pág. 68, linhas 2 a 5 <Coletânea de Palestras・Vol. 7, Pág. 330>) Comecei a escrever outro livro interessante agora. Chama-se Minha Vida (Watashi Monogatari). Vou fazer ler agora. De qualquer forma, ninguém escreveu algo assim até hoje, e o sentido é obter a iluminação sobre várias coisas de forma interessante. (Leitura do Prefácio de Minha Vida e \"Meu Mistério\") (27 de maio de 1952",
@@ -14770,7 +14770,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "Informar corretamente sobre Meishu-Sama e criar fiéis de alma inabalável1",
-               "pagina": null,
+               "pagina": 717,
                "children": [],
                "ensinamento": {
                 "fonte": "Ron Betsu・Pág. 561, Coluna superior, linha 17 ～ Coluna inferior, linha 6 <Obras Completas・Vol. 10, Pág. 95>",
@@ -14791,7 +14791,7 @@
                "nivel": "letra",
                "marcador": "C",
                "title": "A Divindade e a Humanidade de Meishu-Sama",
-               "pagina": null,
+               "pagina": 718,
                "children": [],
                "ensinamento": {
                 "fonte": "Ron Betsu・Pág. 561, Coluna inferior, linhas 7 a 11; Pág. 562, Coluna superior, linha 16 ～ Coluna inferior, linha 8; Pág. 563, Coluna superior, linhas 2 a 7 <Obras Completas・Vol. 10, Págs. 95, 98>",

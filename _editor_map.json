@@ -916,8 +916,8 @@
    "pag": 226
   },
   "B. Remover a mácula com alegria (Kyo 15, pág. 7, l. 10 ~ 8, l. 1 <Zenkou Vol. 8, pág. 134>)": {
-   "img": 135,
-   "pag": 228
+   "img": 134,
+   "pag": 227
   },
   "viii. Ler os Livros Divinos": {
    "img": 135,
@@ -932,24 +932,24 @@
    "pag": 228
   },
   "C. O estado espiritual de quem não lê os Livros Divinos (Shu 159, col. sup. l. 13-21 = Ishi Shu Ge 363, col. sup. l. 14 ~ col. inf. l. 9 <Zencho Vol. 8, pág. 451>)": {
-   "img": 135,
-   "pag": 228
+   "img": 136,
+   "pag": 230
   },
   "D. Ler os Livros Divinos e perceber os erros (Kyo 26, pág. 23, l. 14 ~ 24, l. 7 <Zenkou Vol. 11, pág. 82>)": {
-   "img": 135,
-   "pag": 228
+   "img": 136,
+   "pag": 230
   },
   "E. Ler os Livros Divinos e fazer difusão adequada ao tempo, lugar e posição (Shu 96, col. inf. l. 12 ~ 97, col. sup. l. 2 = Ishi Shu Ge 62, col. inf. l. 15 ~ 63, col. sup. l. 15 <Zencho Vol. 11, pág. 522>)": {
-   "img": 135,
-   "pag": 228
+   "img": 137,
+   "pag": 232
   },
   "F. Tratamento dos Livros Divinos (Kyo 20, pág. 27, l. 17 ~ 28, l. 3 <Zenkou Vol. 10, pág. 82>)": {
-   "img": 135,
-   "pag": 228
+   "img": 138,
+   "pag": 234
   },
   "G. Manifestar o que leu na conduta*1 (Shinko 498, col. inf. l. 3 ~ 499, col. sup. l. 6)": {
-   "img": 135,
-   "pag": 228
+   "img": 138,
+   "pag": 234
   }
  },
  "ShinDendo_C2_Item01.md": {
@@ -1499,11 +1499,11 @@
   },
   "ii. Relacionado à Fé": {
    "img": 199,
-   "pag": 357
+   "pag": 356
   },
   "A. Deus torna-se gradualmente rigoroso": {
    "img": 199,
-   "pag": 357
+   "pag": 356
   },
   "iii Relacionado à Guerra, Política, etc.": {
    "img": 217,
@@ -1571,15 +1571,15 @@
   },
   "3 Através de milagres e do Johrei": {
    "img": 238,
-   "pag": 434
+   "pag": 435
   },
   "① A salvação final, para a qual o Deus Supremo concedeu o poder de cura": {
    "img": 238,
-   "pag": 434
+   "pag": 435
   },
   "② Deus manifesta milagres e salva a alma": {
    "img": 238,
-   "pag": 434
+   "pag": 435
   },
   "③ Salvar de forma paradisíaca pelo Poder — Salvação pelo \"Poder de Deus\"*1": {
    "img": 239,
@@ -1604,6 +1604,251 @@
   "⑧ Poder de acrescentar vida (longevidade)": {
    "img": 242,
    "pag": 442
+  },
+  "*b. Ter convicção firme e mantê-la (Hikari 17, pág. 26, l. 12 \\~ 27, l. 5 \\<Zenkou Vol. 2, pág. 514\\>)*": {
+   "img": 196,
+   "pag": 351,
+   "fonte": "scan"
+  },
+  "C. A Justiça atrai a Felicidade": {
+   "img": 197,
+   "pag": 352,
+   "fonte": "scan"
+  },
+  "D. Responsabilidade dos Líderes (Shu 153, col. inf. l. 18 \\~ 154, col. sup. l. 15 \\= Ishi Shu Ge 240, col. inf. l. 7 \\~ 241, col. inf. l. 1 \\<Zencho Vol. 6, pág. 91\\>)": {
+   "img": 198,
+   "pag": 354,
+   "fonte": "scan"
+  },
+  "B. Sobre o rigor da Ordem (Sequência)": {
+   "img": 203,
+   "pag": 364,
+   "fonte": "scan"
+  },
+  "*a. Tratamento dos Livros Divinos*": {
+   "img": 203,
+   "pag": 365,
+   "fonte": "scan"
+  },
+  "*b. Tratamento da Caligrafia Divina (Goshotai)*": {
+   "img": 203,
+   "pag": 365,
+   "fonte": "scan"
+  },
+  "*c. Tratamento de cópias dos Ensinamentos (Sui 15, pág. 10, l. 13 \\~ 11, l. 5 \\<Zenkou Vol. 6, pág. 295\\>)*": {
+   "img": 204,
+   "pag": 366,
+   "fonte": "scan"
+  },
+  "*d. Quando não condiz com a lógica, há aviso (Kyo 26, pág. 8, l. 7-15 \\<Zenkou Vol. 11, pág. 69\\>)*": {
+   "img": 204,
+   "pag": 367,
+   "fonte": "scan"
+  },
+  "*e. No Mundo Espiritual a ordem é rigorosa*": {
+   "img": 205,
+   "pag": 368,
+   "fonte": "scan"
+  },
+  "*f. Quando quiser receber Johrei, peça baixando a cabeça\\* (Kyo 22, pág. 59, l. 4-12 \\<Zenkou Vol. 10, pág. 257\\>)*": {
+   "img": 206,
+   "pag": 370,
+   "fonte": "scan"
+  },
+  "*g. Ao fazer pedidos*": {
+   "img": 206,
+   "pag": 371,
+   "fonte": "scan"
+  },
+  "*h. Não resolver outros assuntos antes de visitar o Santuário (Sui 29, pág. 14, l. 11 \\~ 15, l. 1 \\<Zenkou Vol. 12, pág. 50\\>)*": {
+   "img": 207,
+   "pag": 372,
+   "fonte": "scan"
+  },
+  "C. Reciprocidade da Proteção": {
+   "img": 207,
+   "pag": 373,
+   "fonte": "scan"
+  },
+  "*a. A reciprocidade da proteção vista na re-purificação (Shu 24, col. inf. l. 17 \\~ 25, col. sup. l. 5 \\= Ishi Shu Ge 60, col. sup. l. 11 \\~ col. inf. l. 9 \\<Zencho Vol. 11, pág. 507\\>)*": {
+   "img": 207,
+   "pag": 373,
+   "fonte": "scan"
+  },
+  "*b. A reciprocidade da proteção vista no agradecimento pelas graças (Sui 16, pág. 7, l. 4 \\~ 8, l. 6 \\<Zenkou Vol. 6, pág. 311\\>)*": {
+   "img": 208,
+   "pag": 374,
+   "fonte": "scan"
+  },
+  "D. Seleção — Intervenção da Vontade Divina": {
+   "img": 208,
+   "pag": 375,
+   "fonte": "scan"
+  },
+  "*a Ser testado e expulso (Sui 3, pág. 45, l. 5-7 \\<Zenkou Vol. 4, pág. 223\\>) Não é bem assim. Se for alguém que ouve o que eu digo, fico tranquilo. Porque é mais perigoso do que a prática de humildade (Geza no gyo). Deus testa\\*. Se mesmo assim não servir, expulsa. Não é a pessoa que desiste ou sai por conta própria, é expulsa por Deus. (8 de outubro de 1951\\)*": {
+   "img": 209,
+   "pag": 376,
+   "fonte": "scan"
+  },
+  "*b Expulso de modo a não gerar rancor (Sui 8, pág. 42, l. 4-12 \\<Zenkou Vol. 6, pág. 84\\>)*": {
+   "img": 209,
+   "pag": 377,
+   "fonte": "scan"
+  },
+  "*c A seleção de Deus que o ser humano não compreende (Sui 16, pág. 4, l. 4-14 \\<Zenkou Vol. 6, pág. 309\\>)*": {
+   "img": 210,
+   "pag": 378,
+   "fonte": "scan"
+  },
+  "*d A seleção feita por Kannon-Sama*": {
+   "img": 210,
+   "pag": 379,
+   "fonte": "scan"
+  },
+  "E. Doença e Morte como Punição": {
+   "img": 211,
+   "pag": 380,
+   "fonte": "scan"
+  },
+  "*a. Doença como punição por erro (Ron 1614, col. sup. l. 13-21 \\= Ishi Jo Jo 341, col. sup. l. 14 \\~ col. inf. l. 8 \\<Zencho Vol. 9, pág. 416\\>)*": {
+   "img": 211,
+   "pag": 381,
+   "fonte": "scan"
+  },
+  "*b. O processo de geração da doença como punição (Kesshin pág. 14, l. 6-12 \\= Ishi Jo Jo 152, col. inf. l. 4 \\~ 153, col. sup. l. 3 \\<Zencho Vol. 10, pág. 63\\>)*": {
+   "img": 212,
+   "pag": 382,
+   "fonte": "scan"
+  },
+  "*c. O que é a morte (Shu 179, col. sup. l. 17-22 \\= Ishi Shu Ge 333, col. sup. l. 5-12 \\<Zencho Vol. 6, pág. 258\\>)*": {
+   "img": 212,
+   "pag": 383,
+   "fonte": "scan"
+  },
+  "F. O Pecado da Blasfêmia\\*": {
+   "img": 213,
+   "pag": 384,
+   "fonte": "scan"
+  },
+  "*a. A maior blasfêmia (Hikari Ho 41, l. 13 \\~ 42, l. 5 \\<Zencho Vol. 1, pág. 397\\>)*": {
+   "img": 213,
+   "pag": 384,
+   "fonte": "scan"
+  },
+  "*b. Raiz do Pecado ―― Ter aprisionado Deus (Março de 1954 \\- Orientação recebida pessoalmente)*": {
+   "img": 213,
+   "pag": 385,
+   "fonte": "scan"
+  },
+  "*c. O que significa \"Aprisionar Deus\" (Kyo 31, pág. 1, l. 10 \\~ 2, l. 1, 2, l. 7-10 \\<Zenkou Vol. 12, pág. 174\\>)*": {
+   "img": 213,
+   "pag": 385,
+   "fonte": "scan"
+  },
+  "*d. Exemplo de blasfêmia inconsciente (Kyo 22, pág. 44, l. 3-17 \\<Zenkou Vol. 10, pág. 244\\>)*": {
+   "img": 214,
+   "pag": 387,
+   "fonte": "scan"
+  },
+  "*e. Relacionado à Consagração da Imagem Divina*": {
+   "img": 214,
+   "pag": 387,
+   "fonte": "scan"
+  },
+  "*f. Contra os Livros Divinos, Caligrafia Divina, etc. (Kyo 20, pág. 27, l. 17 \\~ 28, l. 3, 28, l. 4-9 \\<Zenkou Vol. 10, pág. 82\\>)*": {
+   "img": 215,
+   "pag": 389,
+   "fonte": "scan"
+  },
+  "*g. Punição contra blasfemadores (Kyo 20, pág. 19, l. 12 \\~ 21, l. 9 \\<Zenkou Vol. 10, pág. 74\\>)*": {
+   "img": 215,
+   "pag": 389,
+   "fonte": "scan"
+  },
+  "*h. Exemplo na Medicina*": {
+   "img": 217,
+   "pag": 393,
+   "fonte": "scan"
+  },
+  "④ Manifestação do Poder Infinito": {
+   "img": 232,
+   "pag": 422,
+   "fonte": "scan"
+  },
+  "i. Poder Finito e Poder Infinito (Kyo, nº 26, pág. 80, linhas 2-11 \\<Zenko, Vol. 11, pág. 130\\>) Texto omitido. Vide Capítulo 2, Item 2, 3 Infinito, ① (pág. 255 deste livro).": {
+   "img": 232,
+   "pag": 422,
+   "fonte": "scan"
+  },
+  "ii. O que é o verdadeiro Poder Infinito (Kyo, nº 27, pág. 6, linha 12 a pág. 7, linha 6 \\<Zenko, Vol. 11, pág. 147\\>) Texto omitido. Vide Capítulo 2, Item 2, 3 Infinito, ② (pág. 256 deste livro).": {
+   "img": 232,
+   "pag": 423,
+   "fonte": "scan"
+  },
+  "⑤ Extinguir a natureza animal humana\\*": {
+   "img": 232,
+   "pag": 423,
+   "fonte": "scan"
+  },
+  "⑥ O Poder de Deus e a Ciência de Deus": {
+   "img": 235,
+   "pag": 428,
+   "fonte": "scan"
+  },
+  "⑦ A luz intermediada pelo Ohikari \\*1": {
+   "img": 236,
+   "pag": 431,
+   "fonte": "scan"
+  },
+  "i Ondas de luz emitidas pelo Ohikari": {
+   "img": 236,
+   "pag": 431,
+   "fonte": "scan"
+  },
+  "ii Receptor de ondas de luz (A-Kyu, pág. 38, linhas 8-15 \\<Zenshu, Vol. 11, pág. 29\\>)": {
+   "img": 237,
+   "pag": 432,
+   "fonte": "scan"
+  },
+  "⑧ A luz que transcende o tempo e o espaço": {
+   "img": 237,
+   "pag": 433,
+   "fonte": "scan"
+  },
+  "⑨ O que é o Deus Supremo desta religião": {
+   "img": 238,
+   "pag": 434,
+   "fonte": "scan"
+  },
+  "⑩ O Poder do Deus Supremo desta Religião": {
+   "img": 238,
+   "pag": 434,
+   "fonte": "scan"
+  },
+  "⑨ Poder que fez escapar da bomba atômica e outros": {
+   "img": 243,
+   "pag": 444,
+   "fonte": "scan"
+  },
+  "⑩ Poder de regenerar órgãos corroídos e caídos": {
+   "img": 244,
+   "pag": 446,
+   "fonte": "scan"
+  },
+  "⑪ Chega o dia e o Deus do Sol exerce Seu poder": {
+   "img": 245,
+   "pag": 448,
+   "fonte": "scan"
+  },
+  "⑫ A fé profunda em Meishu-Sama concede grande poder": {
+   "img": 245,
+   "pag": 449,
+   "fonte": "scan"
+  },
+  "⑬ A origem do Poder de Kannon": {
+   "img": 245,
+   "pag": 449,
+   "fonte": "scan"
   }
  },
  "ShinDendo_C2_Item04.md": {
@@ -1653,7 +1898,7 @@
   },
   "B. Problema alimentar e a lei natural": {
    "img": 248,
-   "pag": 455
+   "pag": 454
   },
   "iii. A Lei que governa a sociedade humana*": {
    "img": 248,
@@ -1674,6 +1919,1511 @@
   "I Criação (創　造)": {
    "img": 246,
    "pag": 451
+  },
+  "② Exemplos representativos da \"Lei\"": {
+   "img": 249,
+   "pag": 457,
+   "fonte": "scan"
+  },
+  "i Lei da Ordem": {
+   "img": 249,
+   "pag": 457,
+   "fonte": "scan"
+  },
+  "A. Deus é Ordem": {
+   "img": 249,
+   "pag": 457,
+   "fonte": "scan"
+  },
+  "B. Aprender com a Grande Natureza (Kyo, nº 20, pág. 29, linhas 7-11 \\<Zenko, Vol. 10, pág. 83\\>)": {
+   "img": 250,
+   "pag": 458,
+   "fonte": "scan"
+  },
+  "C. Também no Plano Divino há ordem (Kyo, nº 25, pág. 49, linhas 10-16 \\<Zenko, Vol. 11, pág. 49\\>) Texto omitido. Vide Capítulo 2, Item 4-II, Plano Divino 6, Progresso da Obra Divina, ①-viii (pág. 671 deste livro).": {
+   "img": 250,
+   "pag": 458,
+   "fonte": "scan"
+  },
+  "D. Ordem e Modelo (Kyo, nº 27, pág. 32, linhas 6-9 \\<Zenko, Vol. 11, pág. 169\\>) Nas coisas de Deus, tudo prossegue através de modelos (Kata); à medida que o modelo é feito, ele se expande exatamente da mesma forma no Mundo Espiritual. Este ponto é muito diferente do trabalho humano. Portanto, é ordem e modelo. Observando isso, compreende-se; além disso, eu estou agindo dessa maneira. Por isso, não há nada com que se preocupar ou hesitar. (16 de outubro de 1953\\)": {
+   "img": 250,
+   "pag": 458,
+   "fonte": "scan"
+  },
+  "\\*ii Lei do Espírito Precede a Matéria (Reishu Taiju) \\*\\*": {
+   "img": 250,
+   "pag": 459,
+   "fonte": "scan"
+  },
+  "A. Espírito Precede a Matéria": {
+   "img": 250,
+   "pag": 459,
+   "fonte": "scan"
+  },
+  "B. Nível Espiritual (Reii) e Destino": {
+   "img": 250,
+   "pag": 459,
+   "fonte": "scan"
+  },
+  "*a. Nível Espiritual e Boa Sorte (Ron, pág. 2182, parte inferior, linha 21 a pág. 2183, parte superior, linha 5 \\= So-shu Inferior, pág. 51, parte superior, linhas 3-11 \\<Zenshu, Vol. 12, pág. 207\\>)*": {
+   "img": 250,
+   "pag": 459,
+   "fonte": "scan"
+  },
+  "*b. Nível Espiritual e Circunstâncias (So, pág. 23, parte superior, linha 20 \\= So-shu Inferior, pág. 55, parte superior, linha 13 a pág. 56, parte superior, linha 10 \\<Zenshu, Vol. 10, pág. 433\\>) Texto omitido. Vide Capítulo 2, Item 4-I, Criação 2, Lei, ②-v-D (pág. 481 deste livro).*": {
+   "img": 251,
+   "pag": 460,
+   "fonte": "scan"
+  },
+  "C. Nuvens e Incêndios (So, pág. 204, parte inferior, linha 16 a pág. 205, parte superior, linha 1 \\= So-shu Inferior, pág. 387, parte inferior, linha 15 a pág. 388, parte superior, linha 9 \\<Zenshu, Vol. 8, pág. 564\\>)": {
+   "img": 251,
+   "pag": 460,
+   "fonte": "scan"
+  },
+  "iii Lei da Purificação": {
+   "img": 251,
+   "pag": 461,
+   "fonte": "scan"
+  },
+  "A. Disposições Básicas": {
+   "img": 251,
+   "pag": 461,
+   "fonte": "scan"
+  },
+  "*a. Se sujar, será limpo*": {
+   "img": 251,
+   "pag": 461,
+   "fonte": "scan"
+  },
+  "*b. O sofrimento é a purificação do pecado*": {
+   "img": 252,
+   "pag": 462,
+   "fonte": "scan"
+  },
+  "B. O acúmulo de impurezas gera purificação: Lei da Concordância": {
+   "img": 253,
+   "pag": 464,
+   "fonte": "scan"
+  },
+  "*a. Guerra como ação de purificação (Kyo, nº 2, pág. 86, linhas 7-10 \\<Zenko, Vol. 4, pág. 549\\>) Texto omitido. Vide Capítulo 2, Item 4-I, Criação 2, Lei, ①-i-C (pág. 454 deste livro).*": {
+   "img": 253,
+   "pag": 464,
+   "fonte": "scan"
+  },
+  "*b. Se macular, será purificado (Kyo, nº 24, pág. 36, linhas 14-15 \\<Zenko, Vol. 10, pág. 361\\>) Devem saber também o seguinte. Como sempre digo, a Lei da Concordância significa que, se algo se macular, surge naturalmente aquilo que purificará essa mácula. (16 de julho de 1953\\)*": {
+   "img": 253,
+   "pag": 464,
+   "fonte": "scan"
+  },
+  "C. A purificação chamada doença\\* (K4, seções 32-33 \\<Zenshu, Vol. 10, pág. 153\\>)": {
+   "img": 253,
+   "pag": 464,
+   "fonte": "scan"
+  },
+  "D. Purificação do corpo e purificação do mundo natural": {
+   "img": 253,
+   "pag": 465,
+   "fonte": "scan"
+  },
+  "*a. Tudo entre o céu e a terra é purificado (K13, seções 9-25 \\<Zenshu, Vol. 10, pág. 182\\>)*": {
+   "img": 253,
+   "pag": 465,
+   "fonte": "scan"
+  },
+  "*b. Toda a criação e a ação de purificação (Ron, pág. 2074, parte inferior, linhas 6-9 \\= So-shu Inferior, pág. 383, parte superior, linhas 10-15 \\<Zenshu, Vol. 11, pág. 59\\>)*": {
+   "img": 254,
+   "pag": 467,
+   "fonte": "scan"
+  },
+  "E. Purificação do dinheiro\\*": {
+   "img": 255,
+   "pag": 468,
+   "fonte": "scan"
+  },
+  "F. Purificação baseada no sofrimento causado a outros\\*1 (Tenfuku-sho, pág. 105, parte inferior, linhas 1-5 \\<Zenshu, Vol. 12, pág. 142\\>)": {
+   "img": 255,
+   "pag": 468,
+   "fonte": "scan"
+  },
+  "G. Existência de maus elementos": {
+   "img": 255,
+   "pag": 468,
+   "fonte": "scan"
+  },
+  "H. Existência de microrganismos patogênicos": {
+   "img": 256,
+   "pag": 470,
+   "fonte": "scan"
+  },
+  "iv Lei de Causa e Efeito": {
+   "img": 256,
+   "pag": 470,
+   "fonte": "scan"
+  },
+  "A. Boa Causa Bom Efeito, Má Causa Mau Efeito": {
+   "img": 256,
+   "pag": 470,
+   "fonte": "scan"
+  },
+  "B. A Causa da Sorte e do Azar": {
+   "img": 257,
+   "pag": 472,
+   "fonte": "scan"
+  },
+  "C. Tudo ocorre por afinidade (In-nen)": {
+   "img": 257,
+   "pag": 472,
+   "fonte": "scan"
+  },
+  "v Lei da Concordância (Souou no Ri)\\*": {
+   "img": 260,
+   "pag": 478,
+   "fonte": "scan"
+  },
+  "A. Recompensas e Punições no Mundo Espiritual": {
+   "img": 260,
+   "pag": 478,
+   "fonte": "scan"
+  },
+  "*a. Recompensas e Punições no Mundo Espiritual e o Aprimoramento (So, pág. 129, parte inferior, linhas 5-18 \\= So-shu Inferior, pág. 302, parte superior, linha 8 a parte inferior, linha 8 \\<Zenshu, Vol. 6, pág. 204\\>)*": {
+   "img": 260,
+   "pag": 478,
+   "fonte": "scan"
+  },
+  "*b. O Tribunal de Enma e o Bem e o Mal*": {
+   "img": 260,
+   "pag": 479,
+   "fonte": "scan"
+  },
+  "B. Injustiça ou erro e a geração de nuvens": {
+   "img": 261,
+   "pag": 480,
+   "fonte": "scan"
+  },
+  "C. Tamanho do pecado e quantidade de nuvens / Recompensa às boas ações (Méritos)": {
+   "img": 261,
+   "pag": 480,
+   "fonte": "scan"
+  },
+  "D. Nível Espiritual e Circunstâncias": {
+   "img": 261,
+   "pag": 481,
+   "fonte": "scan"
+  },
+  "E. Nível espiritual do criador da imagem e a elevação da divindade ou buda que nela se assenta": {
+   "img": 262,
+   "pag": 483,
+   "fonte": "scan"
+  },
+  "F. Nível do Espírito Divino e benefícios": {
+   "img": 262,
+   "pag": 483,
+   "fonte": "scan"
+  },
+  "G. Gravidade do Pecado e Gravidade da Punição": {
+   "img": 263,
+   "pag": 484,
+   "fonte": "scan"
+  },
+  "*a. Pecado Leve (Kyo, nº 7, pág. 84, linhas 1-12 \\<Zenko, Vol. 7, pág. 87\\>) Texto omitido. Vide Capítulo 1, Item 4-I, Como receber os Ensinamentos 4, Observar rigorosamente as Palavras ② (pág. 166 deste livro).*": {
+   "img": 263,
+   "pag": 484,
+   "fonte": "scan"
+  },
+  "*b. Pecado Grave (Kyo, nº 20, pág. 19, linha 12 \\- pág. 21, linha 9 \\<Zenko, Vol. 10, pág. 74\\>) Texto omitido. Vide Capítulo 2, Item 3-II, Vontade de Deus 2, Manifestação Externa da Vontade Divina ③ Justiça ii-F-g (pág. 389 deste livro).*": {
+   "img": 263,
+   "pag": 484,
+   "fonte": "scan"
+  },
+  "*c. Doença e morte como punição Texto omitido. Vide Capítulo 2, Item 3-II, Vontade de Deus 2, Manifestação Externa da Vontade Divina ③ Justiça ii-E (pág. 380 deste livro).*": {
+   "img": 263,
+   "pag": 484,
+   "fonte": "scan"
+  },
+  "3 Espíritos Divinos e Anjos como Criaturas\\* (被造物としての神霊・天使)": {
+   "img": 264,
+   "pag": 486,
+   "fonte": "scan"
+  },
+  "① A divisão da salvação entre Deuses e Budas": {
+   "img": 264,
+   "pag": 486,
+   "fonte": "scan"
+  },
+  "i. A salvação de Deuses e Budas e as várias religiões (Shin-zatsu, pág. 102, linha 10 a pág. 103, linha 3 \\= So-shu Johrei Superior, pág. 5, parte inferior, linha 13 a pág. 6, parte superior, linha 12 \\<Zenko, Vol. 6, pág. 101\\>)": {
+   "img": 264,
+   "pag": 486,
+   "fonte": "scan"
+  },
+  "ii. A salvação pelos Deuses no Mundo Espiritual (So, pág. 472, parte superior, linhas 3-6 \\= So-shu Inferior, pág. 368, parte superior, linha 13 a parte inferior, linha 4 \\<Zenshu, Vol. 10, pág. 611\\>)": {
+   "img": 264,
+   "pag": 487,
+   "fonte": "scan"
+  },
+  "iii. Os três estágios do Paraíso (So, pág. 143, parte inferior, linhas 5-13 \\= So-shu Inferior, pág. 311, parte superior, linha 3 a parte inferior, linha 2 \\<Zenshu, Vol. 6, pág. 213\\>)": {
+   "img": 265,
+   "pag": 488,
+   "fonte": "scan"
+  },
+  "② Hierarquia dos Espíritos Divinos e ordens aos humanos": {
+   "img": 265,
+   "pag": 489,
+   "fonte": "scan"
+  },
+  "③ Hierarquia dos Espíritos Divinos": {
+   "img": 265,
+   "pag": 489,
+   "fonte": "scan"
+  },
+  "④ Nível do Espírito Divino e a intensidade da Luz": {
+   "img": 266,
+   "pag": 490,
+   "fonte": "scan"
+  },
+  "⑤ Deuses Expressivos do Deus Supremo": {
+   "img": 266,
+   "pag": 490,
+   "fonte": "scan"
+  },
+  "4 Mundo Espiritual e Mundo Material": {
+   "img": 266,
+   "pag": 491,
+   "fonte": "scan"
+  },
+  "5 Ser Humano\\*": {
+   "img": 267,
+   "pag": 492,
+   "fonte": "scan"
+  },
+  "① Criado à semelhança de Deus — O mistério da sua vida (Ron, pág. 19, parte superior, linha 13 a parte inferior, linha 10 \\= So-shu Johrei Superior, pág. 200, parte superior, linha 1 a parte inferior, linha 11 \\<Zenshu, Vol. 1, pág. 200\\>)": {
+   "img": 267,
+   "pag": 492,
+   "fonte": "scan"
+  },
+  "② Agente da Vontade Divina": {
+   "img": 267,
+   "pag": 493,
+   "fonte": "scan"
+  },
+  "i. Preparação para o Paraíso Terrestre (So, pág. 259, parte superior, linhas 1-5 \\= So-shu Superior, pág. 7, parte inferior, linhas 1-7 \\<Zenshu, Vol. 8, pág. 430\\>) Texto omitido. Vide Item 1, Criação 1, Preparação para o Paraíso Terrestre (pág. 451 deste livro).": {
+   "img": 267,
+   "pag": 493,
+   "fonte": "scan"
+  },
+  "ii. O ser humano criado para manifestar o Paraíso Terrestre (Ron, pág. 945, parte superior, linhas 1-4 \\<Zenshu, Vol. 7, pág. 173\\>)": {
+   "img": 267,
+   "pag": 493,
+   "fonte": "scan"
+  },
+  "iii. O objetivo da criação humana (So, pág. 128, parte superior, linhas 4-7 \\= So-shu Inferior, pág. 299, parte inferior, linhas 1-5 \\<Zenshu, Vol. 6, pág. 201\\>)": {
+   "img": 268,
+   "pag": 494,
+   "fonte": "scan"
+  },
+  "③ Cabeça das Criaturas (Ron, pág. 2087, parte inferior, linhas 1-7 \\= So-shu Johrei Superior, pág. 21, parte superior, linha 8 a parte inferior, linha 3 \\<Zenshu, Vol. 11, pág. 589\\>)": {
+   "img": 268,
+   "pag": 494,
+   "fonte": "scan"
+  },
+  "④ A Missão do Ser Humano": {
+   "img": 268,
+   "pag": 495,
+   "fonte": "scan"
+  },
+  "i. Criar um mundo ideal de Verdade, Bem e Beleza (K11, seção 12, seções 14-16 \\<Zenshu, Vol. 10, pág. 178\\>)": {
+   "img": 268,
+   "pag": 495,
+   "fonte": "scan"
+  },
+  "ii. Ser humano para a construção do Paraíso Terrestre (So, pág. 177, parte superior, linhas 5-13 \\= So-shu Inferior, pág. 294, parte superior, linha 6 a parte inferior, linha 1 \\<Zenshu, Vol. 5, pág. 344\\>)": {
+   "img": 268,
+   "pag": 495,
+   "fonte": "scan"
+  },
+  "iii. Execução do Plano Divino na Terra (So, pág. 128, parte superior, linhas 4-9 \\= So-shu Inferior, pág. 299, parte inferior, linhas 1-8 \\<Zenshu, Vol. 6, pág. 201\\>) Texto omitido. Vide Capítulo 2, Item 2, 4, Criador e Senhor, ③ (pág. 259 deste livro).": {
+   "img": 269,
+   "pag": 496,
+   "fonte": "scan"
+  },
+  "iv. O papel do ser humano como existência física (Shin-ken, pág. 10, linhas 3-10 \\= So-shu Johrei Superior, pág. 192, parte inferior, linha 3 a pág. 193, parte superior, linha 5 \\<Zenshu, Vol. 8, pág. 73\\>) Texto omitido. Vide Capítulo 2, Item 3-I, Como Deus 4, Ser Humano, Ambiente e Alimento, ① (pág. 269 deste livro).": {
+   "img": 269,
+   "pag": 496,
+   "fonte": "scan"
+  },
+  "⑤ Liberdade de Vontade": {
+   "img": 269,
+   "pag": 497,
+   "fonte": "scan"
+  },
+  "i. Deus concede liberdade infinita ao ser humano (So, pág. 4, parte inferior, linhas 5-12 \\= So-shu Inferior, pág. 7, parte superior, linhas 2-11 \\<Zenshu, Vol. 8, pág. 20\\>)": {
+   "img": 269,
+   "pag": 497,
+   "fonte": "scan"
+  },
+  "ii. O ser humano pode tornar-se Deus ou Demônio (So, pág. 149, parte superior, linhas 14-16 \\= So-shu Inferior, pág. 287, parte inferior, linhas 4-7 \\<Zenshu, Vol. 5, pág. 317\\>)": {
+   "img": 269,
+   "pag": 497,
+   "fonte": "scan"
+  },
+  "⑥ Habilidade e Hierarquia": {
+   "img": 270,
+   "pag": 499,
+   "fonte": "scan"
+  },
+  "⑦ Evolução Humana — Remoção da Bestialidade": {
+   "img": 271,
+   "pag": 500,
+   "fonte": "scan"
+  },
+  "i. Remover a bestialidade e tornar-se humano pleno (Su 4, seções 58-64 \\<Zenshu, Vol. 10, pág. 310\\>) Texto omitido. Vide Capítulo 2, Item 4-II, Plano Divino 1, Paraíso Terrestre, ⑤-iii (pág. 527 deste livro).": {
+   "img": 271,
+   "pag": 500,
+   "fonte": "scan"
+  },
+  "ii. Conflito e Bestialidade (Hikari-ho, pág. 57, linhas 2-4 \\<Zenko, Vol. 1, pág. 412\\>)": {
+   "img": 271,
+   "pag": 500,
+   "fonte": "scan"
+  },
+  "⑧ Vida e Morte estão na Vontade de Deus": {
+   "img": 271,
+   "pag": 501,
+   "fonte": "scan"
+  },
+  "i. A vida humana está nas mãos de Deus (Kyo, nº 24, pág. 26, linhas 4-17 \\<Zenko, Vol. 10, pág. 352\\>) Texto omitido. Vide Capítulo 2, Item 3-III, Poder de Deus 1, Conceitos Básicos, ② (pág. 404 deste livro).": {
+   "img": 271,
+   "pag": 501,
+   "fonte": "scan"
+  },
+  "ii. O ser humano foi criado para trabalhar (Kyo, nº 28, pág. 66, linhas 9-15 \\<Zenko, Vol. 11, pág. 249\\>) Texto omitido. Vide Anexo do Capítulo 2, Item 3-III, Poder de Deus 1, Conceitos Básicos, ② (pág. 406 deste livro).": {
+   "img": 271,
+   "pag": 501,
+   "fonte": "scan"
+  },
+  "iii. O destino e a vida e morte são decididos por ordem de Deus (So, pág. 179, parte superior, linhas 17-22 \\= So-shu Inferior, pág. 333, parte superior, linhas 5-12 \\<Zenshu, Vol. 6, pág. 258\\>)": {
+   "img": 272,
+   "pag": 502,
+   "fonte": "scan"
+  },
+  "⑨ Corpo Humano e seu Crescimento (Shin-ken, pág. 11, linha 12 a pág. 12, linha 10 \\= So-shu Johrei Superior, pág. 193, parte inferior, linha 11 a pág. 194, parte inferior, linha 1 \\<Zenshu, Vol. 8, pág. 75\\>) Texto omitido. Vide Capítulo 2, Item 3-I, Conhecimento de Deus 4, Ser Humano, Ambiente e Alimento, ② (pág. 270 deste livro).": {
+   "img": 272,
+   "pag": 502,
+   "fonte": "scan"
+  },
+  "6 Outras Criaturas (他の被造物)": {
+   "img": 272,
+   "pag": 502,
+   "fonte": "scan"
+  },
+  "① A utilidade de cada coisa está determinada (Kyo, nº 19, pág. 47, linhas 1-4 \\<Zenko, Vol. 10, pág. 46\\>)": {
+   "img": 272,
+   "pag": 502,
+   "fonte": "scan"
+  },
+  "② Subserviência ao ser humano (Ron, pág. 2087, parte inferior, linhas 1-11 \\= So-shu Johrei Superior, pág. 21, parte superior, linha 8 a parte inferior, linha 9 \\<Zenshu, Vol. 11, pág. 589\\>)": {
+   "img": 272,
+   "pag": 503,
+   "fonte": "scan"
+  },
+  "③ Manter a vida humana e auxiliar na realização da missão (Ron, pág. 2082, parte superior, linhas 14-17 \\= So-shu Johrei Superior, pág. 9, parte inferior, linhas 1-5 \\<Zenshu, Vol. 11, pág. 575\\>)": {
+   "img": 272,
+   "pag": 503,
+   "fonte": "scan"
+  },
+  "④ Nutrir o ser humano\\* (Ron, pág. 2170, parte inferior, linhas 2-4 \\= So-shu Johrei Superior, pág. 135, parte superior, linhas 8-10 \\<Zenshu, Vol. 12, pág. 12\\>)": {
+   "img": 272,
+   "pag": 503,
+   "fonte": "scan"
+  },
+  "⑤ Coisas que se deve comer e coisas que não se deve comer": {
+   "img": 273,
+   "pag": 504,
+   "fonte": "scan"
+  },
+  "i. Por que os remédios são amargos? (Shin-ken, pág. 14, linhas 3-7 \\= So-shu Johrei Superior, pág. 195, parte inferior, linhas 2-10 \\<Zenshu, Vol. 8, pág. 76\\>)": {
+   "img": 273,
+   "pag": 504,
+   "fonte": "scan"
+  },
+  "ii. A razão pela qual o paladar foi dado ao ser humano (K145, seções 17-27 \\<Zenshu, Vol. 10, pág. 187\\>)": {
+   "img": 273,
+   "pag": 504,
+   "fonte": "scan"
+  },
+  "⑥ Fornecimento de alimentos conforme o ambiente e a profissão (Shin-ken, pág. 14, linha 13 a pág. 15, linha 7 \\= So-shu Johrei Superior, pág. 198, parte superior, linha 6 a parte inferior, linha 4 \\<Zenshu, Vol. 8, pág. 77\\>)": {
+   "img": 274,
+   "pag": 506,
+   "fonte": "scan"
+  },
+  "7 Preparação para a Salvação (救世の準備)": {
+   "img": 274,
+   "pag": 506,
+   "fonte": "scan"
+  },
+  "① A revolução médica decidida no início dos tempos (Taisho) (Ron, pág. 2027, parte superior, linhas 11-20 \\= So-shu Johrei Superior, pág. 12, parte superior, linha 9 a parte inferior, linha 5 \\<Zenshu, Vol. 11, pág. 482\\>; Ron, pág. 2173, parte inferior, linhas 12-22 \\= So-shu Superior, pág. 283, parte inferior, linha 5 a pág. 284, parte superior, linha 2 \\<Zenshu, Vol. 12, pág. 189\\>)": {
+   "img": 274,
+   "pag": 506,
+   "fonte": "scan"
+  },
+  "② A escolha e revelação de Meishu-Sama (Ron, pág. 1791, parte inferior, linha 17 a pág. 1792, parte superior, linha 2 \\= So-shu Johrei Superior, pág. 370, parte superior, linhas 1-11 \\<Zenshu, Vol. 10, pág. 454\\>; Ron-betsu, pág. 802, parte inferior, linhas 5-16 \\<Zenshu, Vol. 12, pág. 295\\>)": {
+   "img": 274,
+   "pag": 507,
+   "fonte": "scan"
+  },
+  "II Keirin (Plano Divino)\\* —— Plano e Providência de Deus": {
+   "img": 274,
+   "pag": 507,
+   "fonte": "scan"
+  },
+  "1 Paraíso Terrestre": {
+   "img": 275,
+   "pag": 508,
+   "fonte": "scan"
+  },
+  "① Sua chegada e preparação": {
+   "img": 275,
+   "pag": 508,
+   "fonte": "scan"
+  },
+  "i. Paraíso Terrestre e Salvação (S1, seções 5-21 \\<Zenshu, Vol. 10, pág. 110\\>)": {
+   "img": 275,
+   "pag": 508,
+   "fonte": "scan"
+  },
+  "ii. Preparação": {
+   "img": 276,
+   "pag": 511,
+   "fonte": "scan"
+  },
+  "A. Civilização Material e o Mal (Guerra e Ateísmo) (S3, seções 51-54 \\<Zenshu, Vol. 10, pág. 121\\>)": {
+   "img": 276,
+   "pag": 511,
+   "fonte": "scan"
+  },
+  "B Civilização Material e o Mal (Medicina)": {
+   "img": 277,
+   "pag": 512,
+   "fonte": "scan"
+  },
+  "C O Mal termina seu papel e é expulso (Guerra e Ateísmo)": {
+   "img": 277,
+   "pag": 513,
+   "fonte": "scan"
+  },
+  "D. O Papel do Johrei (浄霊の役割)": {
+   "img": 279,
+   "pag": 516,
+   "fonte": "scan"
+  },
+  "*a. O único método para atravessar o Julgamento (審判を切り抜ける唯一の方法)*": {
+   "img": 279,
+   "pag": 516,
+   "fonte": "scan"
+  },
+  "*b O poder de resolver a doença (病を解決する力) (Shū・Pág. 176, Coluna superior, linhas 10 a 17 \\<Obras Completas・Vol. 9, Pág. 448\\>) Texto omitido: Consultar Capítulo 2, Seção 3, Item 2, A Vontade de Deus, 2 \\- A manifestação exterior da Vontade de Deus, ① Amor iiC (Pág. 331 deste livro).*": {
+   "img": 279,
+   "pag": 516,
+   "fonte": "scan"
+  },
+  "*c. Informar sobre os erros da medicina e dos remédios*": {
+   "img": 279,
+   "pag": 517,
+   "fonte": "scan"
+  },
+  "*d. Poema Divino (御詠)*": {
+   "img": 280,
+   "pag": 518,
+   "fonte": "scan"
+  },
+  "E. Progresso da Ciência e Tecnologia e a Unificação do Pensamento Humano (科学技術の進歩と人類思想の統一)": {
+   "img": 280,
+   "pag": 518,
+   "fonte": "scan"
+  },
+  "*a. A unificação do pensamento humano também é necessária para construir o Paraíso (Shū・Pág. 361, Coluna inferior, linhas 3 a 6 ＝ Ishizue Shū Jō・Pág. 61, Coluna superior, linhas 8 a 12 \\<Obras Completas・Vol. 8, Pág. 226\\>)*": {
+   "img": 280,
+   "pag": 518,
+   "fonte": "scan"
+  },
+  "*b O que significa o progresso da cultura material (Shū・Pág. 368, Coluna inferior, linhas 10 a 17 ＝ Ishizue Sha・Pág. 59, Coluna superior, linhas 1 a 11 \\<Obras Completas・Vol. 7, Pág. 582\\>) Antes de tudo, como homem moderno, deve-se reconhecer em que tipo de era estamos agora — com essa premissa, o que pretendo eu dizer?*": {
+   "img": 280,
+   "pag": 519,
+   "fonte": "scan"
+  },
+  "② A Conversão Noite-Dia (15 de Junho de 1931\\) como oportunidade para construção do Paraíso": {
+   "img": 281,
+   "pag": 520,
+   "fonte": "scan"
+  },
+  "③ A eliminação dos remédios (Revolução Médica) como premissa": {
+   "img": 281,
+   "pag": 521,
+   "fonte": "scan"
+  },
+  "④ Um mundo com a segurança da vida assegurada (生命の安全の確保された世界)": {
+   "img": 282,
+   "pag": 522,
+   "fonte": "scan"
+  },
+  "⑤ Um mundo onde, inicialmente, o Bem vence o Mal por pouco (初めは善が少し悪に勝つ世界)": {
+   "img": 283,
+   "pag": 525,
+   "fonte": "scan"
+  },
+  "i Chegou o prazo para a derrota do mal (Kyō・Edição 13, Pág. 47, linha 15 ～ Pág. 48, linha 9 \\<Coletânea de Palestras・Vol. 8, Pág. 49\\>)": {
+   "img": 283,
+   "pag": 525,
+   "fonte": "scan"
+  },
+  "ii O mal do Shōjō (Hinayana) permanecerá1": {
+   "img": 284,
+   "pag": 526,
+   "fonte": "scan"
+  },
+  "iii Evolução humana — Remoção da bestialidade\\*1": {
+   "img": 284,
+   "pag": 526,
+   "fonte": "scan"
+  },
+  "⑥ Mundo de Bem-Mestre e Mal-Subordinado\\*1 (善主悪従の世界)": {
+   "img": 285,
+   "pag": 529,
+   "fonte": "scan"
+  },
+  "⑦ Mundo demonstrado pela Obra Divina de Meishu-Sama": {
+   "img": 286,
+   "pag": 531,
+   "fonte": "scan"
+  },
+  "⑧ Mundo onde a Verdade é clara": {
+   "img": 286,
+   "pag": 531,
+   "fonte": "scan"
+  },
+  "⑨ Mundo onde as principais pessoas da humanidade atingem o Kenshinjitsu": {
+   "img": 287,
+   "pag": 532,
+   "fonte": "scan"
+  },
+  "⑩ Mundo onde a Providência é revelada se o soberano orar (主権者が祈れば経綸が知らされる世界)": {
+   "img": 288,
+   "pag": 534,
+   "fonte": "scan"
+  },
+  "i Sobre o Amatsu Kanagi (Ensinamento de 1947\\) (天津金木について（昭和22年御教え）)": {
+   "img": 288,
+   "pag": 534,
+   "fonte": "scan"
+  },
+  "ii A Lei do Amatsu Kanagi (天津金木の法)": {
+   "img": 288,
+   "pag": 535,
+   "fonte": "scan"
+  },
+  "⑪ Mundo de Cristal": {
+   "img": 289,
+   "pag": 536,
+   "fonte": "scan"
+  },
+  "i Mundo do Pensamento (想念の世界)": {
+   "img": 289,
+   "pag": 536,
+   "fonte": "scan"
+  },
+  "A O Johrei é uma questão secundária — Primeiro é o pensamento (Sonen) (浄霊は二の問題——まず想念)": {
+   "img": 289,
+   "pag": 536,
+   "fonte": "scan"
+  },
+  "B. A era das ondas de rádio do pensamento sem fio": {
+   "img": 289,
+   "pag": 537,
+   "fonte": "scan"
+  },
+  "C. Obter a iluminação de acordo com a classe da alma (魂の階級に応じて証覚を得る)": {
+   "img": 290,
+   "pag": 538,
+   "fonte": "scan"
+  },
+  "D. Alma elevada não tem pensamentos malignos (高い魂に邪念なし)": {
+   "img": 290,
+   "pag": 539,
+   "fonte": "scan"
+  },
+  "E. A purificação da alma": {
+   "img": 291,
+   "pag": 540,
+   "fonte": "scan"
+  },
+  "*a. Se adorar a Deus de coração, será concedida a força para vencer o mal*": {
+   "img": 291,
+   "pag": 541,
+   "fonte": "scan"
+  },
+  "*b. A pessoa que crê profundamente em Deus tem a alma purificada*": {
+   "img": 291,
+   "pag": 541,
+   "fonte": "scan"
+  },
+  "*c. O poder de transformar a alma*": {
+   "img": 291,
+   "pag": 541,
+   "fonte": "scan"
+  },
+  "*d. Vencer o mal e obter a divindade*": {
+   "img": 291,
+   "pag": 541,
+   "fonte": "scan"
+  },
+  "*e. A era em que viviam pessoas com caráter divino1*": {
+   "img": 292,
+   "pag": 542,
+   "fonte": "scan"
+  },
+  "F. Na presença de Deus": {
+   "img": 292,
+   "pag": 543,
+   "fonte": "scan"
+  },
+  "ii Mundo de Cristal (水晶世界) ***\\[Poemas\\]***": {
+   "img": 293,
+   "pag": 544,
+   "fonte": "scan"
+  },
+  "⑫ A Natureza especialmente preparada para o Paraíso Terrestre (地上天国のため、特に用意された自然)": {
+   "img": 295,
+   "pag": 549,
+   "fonte": "scan"
+  },
+  "i Atami (熱海)": {
+   "img": 295,
+   "pag": 549,
+   "fonte": "scan"
+  },
+  "A A Terra Ideal de Suprema Beleza (最高最美の理想郷)": {
+   "img": 295,
+   "pag": 549,
+   "fonte": "scan"
+  },
+  "B Deus preparou tudo perfeitamente (神様がチャンと準備してある)": {
+   "img": 296,
+   "pag": 551,
+   "fonte": "scan"
+  },
+  "C Deus preparou desde antes (神様が前から用意してある)": {
+   "img": 296,
+   "pag": 551,
+   "fonte": "scan"
+  },
+  "D A obra meticulosamente preparada por Deus (神様の用意周到な業)": {
+   "img": 296,
+   "pag": 551,
+   "fonte": "scan"
+  },
+  "ii A natureza e a cultura de Kyoto (京都の自然と文化)": {
+   "img": 297,
+   "pag": 552,
+   "fonte": "scan"
+  },
+  "A O centro da arte japonesa (日本の美術の中心)": {
+   "img": 297,
+   "pag": 552,
+   "fonte": "scan"
+  },
+  "B A Capital da Beleza — Heian-kyo (Solo Sagrado de Heian) (美の都——平安郷)": {
+   "img": 297,
+   "pag": 553,
+   "fonte": "scan"
+  },
+  "C Harmonia da nova e da antiga cultura": {
+   "img": 299,
+   "pag": 556,
+   "fonte": "scan"
+  },
+  "D O significado de Saga na Providência": {
+   "img": 299,
+   "pag": 557,
+   "fonte": "scan"
+  },
+  "iii Hakone Gora": {
+   "img": 300,
+   "pag": 559,
+   "fonte": "scan"
+  },
+  "① Conceito Básico da Conversão Noite-Dia (夜昼転換の基本概念)": {
+   "img": 301,
+   "pag": 560,
+   "fonte": "scan"
+  },
+  "i Conceito Básico": {
+   "img": 301,
+   "pag": 560,
+   "fonte": "scan"
+  },
+  "A Conversão do Mundo Espiritual e o reflexo no Mundo Material": {
+   "img": 301,
+   "pag": 560,
+   "fonte": "scan"
+  },
+  "B O Mundo de 567 (Miroku) (Su 7・Seções 9 a 12 \\<Obras Completas・Vol. 10, Pág. 287\\>)": {
+   "img": 302,
+   "pag": 563,
+   "fonte": "scan"
+  },
+  "ii O Dia chegou e o Deus Sol exerce Seu poder — A felicidade dos fiéis desta religião": {
+   "img": 303,
+   "pag": 564,
+   "fonte": "scan"
+  },
+  "② Significado Concreto da Conversão Noite-Dia (夜昼転換の具体的意味)": {
+   "img": 304,
+   "pag": 567,
+   "fonte": "scan"
+  },
+  "i Aumento do Elemento Fogo, Cura pelo Johrei": {
+   "img": 304,
+   "pag": 567,
+   "fonte": "scan"
+  },
+  "ii Aumento do Elemento Fogo": {
+   "img": 305,
+   "pag": 569,
+   "fonte": "scan"
+  },
+  "iii Ocorrência de doenças violentas": {
+   "img": 306,
+   "pag": 571,
+   "fonte": "scan"
+  },
+  "iv Após 15 de junho de 1931, a cura religiosa de doenças e a medicina chegaram a um impasse": {
+   "img": 307,
+   "pag": 573,
+   "fonte": "scan"
+  },
+  "v A única religião que não precisa de hospitais é a Sekaikyuseikyo": {
+   "img": 309,
+   "pag": 577,
+   "fonte": "scan"
+  },
+  "vi 15 de Junho de 1931 — Ritual da Conversão Noite-Dia": {
+   "img": 310,
+   "pag": 578,
+   "fonte": "scan"
+  },
+  "vii Tornar-se Bem-Mestre e Mal-Subordinado": {
+   "img": 310,
+   "pag": 579,
+   "fonte": "scan"
+  },
+  "viii Fenômenos Astronômicos e Bandeiras Nacionais — O Futuro dos Países Desenvolvidos (Meii ③・Pág. 5, linha 1 ～ Pág. 6, linha 8; Pág. 6, linha 8 ～ Pág. 7, linha 2 \\<Obras Completas・Vol. 4, Pág. 408\\>)": {
+   "img": 311,
+   "pag": 580,
+   "fonte": "scan"
+  },
+  "ix Japão aparece gradualmente para o mundo": {
+   "img": 311,
+   "pag": 581,
+   "fonte": "scan"
+  },
+  "x Japão é Sol, EUA é Estrela, Reino Unido é Lua — Restauração Meiji": {
+   "img": 312,
+   "pag": 583,
+   "fonte": "scan"
+  },
+  "③ Significado Espiritual da Conversão Noite-Dia (夜昼転換の霊的意義)": {
+   "img": 313,
+   "pag": 585,
+   "fonte": "scan"
+  },
+  "i O Grande Drama dos Três Mil Mundos (三千世界の大芝居)": {
+   "img": 313,
+   "pag": 585,
+   "fonte": "scan"
+  },
+  "ii Setsubun (節分)": {
+   "img": 314,
+   "pag": 587,
+   "fonte": "scan"
+  },
+  "iii A Providência de Deus é realmente profunda (神の経綸は実に深い)": {
+   "img": 315,
+   "pag": 588,
+   "fonte": "scan"
+  },
+  "iv Setsubun (Poemas) (節分（御詠）)": {
+   "img": 315,
+   "pag": 588,
+   "fonte": "scan"
+  },
+  "3 A Grande Transição da Civilização\\* (文明の大転換)": {
+   "img": 315,
+   "pag": 589,
+   "fonte": "scan"
+  },
+  "① O nascimento da Verdadeira Civilização (真文明の誕生) (S1・Seções 1 a 3, Seções 8 a 13 \\<Obras Completas・Vol. 10, Pág. 110\\>)": {
+   "img": 316,
+   "pag": 590,
+   "fonte": "scan"
+  },
+  "② A Providência muda da Noite para o Dia (経綸は夜から昼へ)": {
+   "img": 316,
+   "pag": 590,
+   "fonte": "scan"
+  },
+  "③ A civilização material termina seu papel principal na Providência, e o mal é expulso (物質文明は経綸の主役を終え、悪が追放される)": {
+   "img": 316,
+   "pag": 591,
+   "fonte": "scan"
+  },
+  "④ A doença é expulsa e estabelecem-se as condições básicas da Verdadeira Civilização (病が追放され、真文明の基礎的条件が確立する)": {
+   "img": 317,
+   "pag": 593,
+   "fonte": "scan"
+  },
+  "⑤ A Revolução Médica é a premissa para a transição da civilização (医学革命が文明の転換する前提)": {
+   "img": 318,
+   "pag": 594,
+   "fonte": "scan"
+  },
+  "i Condição básica da salvação (Ron Betsu・Pág. 687, Coluna superior, linha 17 ～ Coluna inferior, linha 17 \\<Obras Completas・Vol. 11, Pág. 181\\>)": {
+   "img": 318,
+   "pag": 594,
+   "fonte": "scan"
+  },
+  "ii O perigo da destruição da humanidade": {
+   "img": 319,
+   "pag": 596,
+   "fonte": "scan"
+  },
+  "⑥ O fim do papel do mal (Su 4・Seções 22 a 44, Seções 58 a 64 \\<Obras Completas・Vol. 10, Pág. 307\\>)": {
+   "img": 319,
+   "pag": 597,
+   "fonte": "scan"
+  },
+  "⑦ Um mundo com a segurança da vida assegurada": {
+   "img": 321,
+   "pag": 600,
+   "fonte": "scan"
+  },
+  "⑧ A civilização da onipotência científica será corrigida pelo esclarecimento do Mundo Espiritual": {
+   "img": 321,
+   "pag": 600,
+   "fonte": "scan"
+  },
+  "⑨ A pesquisa científica está prestes a entrar no mundo do espírito (科学の研究は霊の世界に入ろうとしている)": {
+   "img": 322,
+   "pag": 603,
+   "fonte": "scan"
+  },
+  "⑩ O papel da civilização científica\\*1 (科学文明の役割)": {
+   "img": 323,
+   "pag": 605,
+   "fonte": "scan"
+  },
+  "⑪ \"Espírito Precede a Matéria\" (Reishu Taiju) é a teoria fundamental da civilização do Dia": {
+   "img": 324,
+   "pag": 606,
+   "fonte": "scan"
+  },
+  "i Fazer reconhecer a existência do espírito": {
+   "img": 324,
+   "pag": 606,
+   "fonte": "scan"
+  },
+  "ii \"Espírito Precede a Matéria\" é a lei de todas as coisas": {
+   "img": 324,
+   "pag": 607,
+   "fonte": "scan"
+  },
+  "⑫ Civilização de Bem-Mestre e Mal-Subordinado": {
+   "img": 325,
+   "pag": 608,
+   "fonte": "scan"
+  },
+  "⑬ O papel da bomba de hidrogênio na Providência Texto omitido: Consultar Capítulo 2, Seção 3, Item 1, Sabedoria de Deus, 13 \\- Dentro da Sabedoria de Deus há também o papel da bomba de hidrogênio (Pág. 307 deste livro).": {
+   "img": 326,
+   "pag": 610,
+   "fonte": "scan"
+  },
+  "⑭ O pano de fundo espiritual da Grande Transição da Civilização": {
+   "img": 326,
+   "pag": 610,
+   "fonte": "scan"
+  },
+  "i Os trapos da civilização científica": {
+   "img": 326,
+   "pag": 610,
+   "fonte": "scan"
+  },
+  "ii Revolucionar a civilização errada com a força de um rin (1%) (Sui・Edição 5, Pág. 36, linha 5 ～ Pág. 37, linha 6 \\<Coletânea de Palestras・Vol. 4, Pág. 370\\>)": {
+   "img": 326,
+   "pag": 611,
+   "fonte": "scan"
+  },
+  "iii Significado espiritual do Espírito de um rin (Ron Betsu・Pág. 558, Coluna superior, linha 1 ～ Coluna inferior, linha 20 \\<Obras Completas・Vol. 10, Pág. 753\\>)": {
+   "img": 327,
+   "pag": 613,
+   "fonte": "scan"
+  },
+  "iv Poema Divino (御詠) A força para salvar / A civilização errada / Não reside em outro / Senão no Deus Messias. (14 de outubro de 1953\\) (Eikō・Edição 230, No. 3 ＝ Obras Completas de Mokiti Okada, Volume de Poemas ***\\[VI\\]**, Pág. 374, No. 3\\)*": {
+   "img": 328,
+   "pag": 615,
+   "fonte": "scan"
+  },
+  "4 Revolução Médica (医学革命)": {
+   "img": 329,
+   "pag": 616,
+   "fonte": "scan"
+  },
+  "① Como condição fundamental do Paraíso Terrestre: \"Segurança da Vida\"": {
+   "img": 329,
+   "pag": 616,
+   "fonte": "scan"
+  },
+  "② A medicina termina seu papel na Providência, e a civilização transita": {
+   "img": 329,
+   "pag": 617,
+   "fonte": "scan"
+  },
+  "③ A medicina é revolucionada pelo Johrei": {
+   "img": 331,
+   "pag": 620,
+   "fonte": "scan"
+  },
+  "i O Elemento Fogo aumenta e o remédio já não solidifica": {
+   "img": 331,
+   "pag": 620,
+   "fonte": "scan"
+  },
+  "Ii Sobre o relato de graça de um paciente com paralisia (AVC) (Ron Betsu・Pág. 737, Coluna superior, linhas 1 a 8 \\<Obras Completas・Vol. 11, Pág. 267\\>)": {
+   "img": 331,
+   "pag": 621,
+   "fonte": "scan"
+  },
+  "④ A medicina será revolucionada pela força de um rin (1%)\\*1": {
+   "img": 332,
+   "pag": 622,
+   "fonte": "scan"
+  },
+  "⑤ A Revolução Médica é a premissa para o Paraíso Terrestre": {
+   "img": 333,
+   "pag": 624,
+   "fonte": "scan"
+  },
+  "i Revolução Médica baseada na Verdade (S8・Seções 5 a 10 \\<Obras Completas・Vol. 10, Pág. 137\\>)": {
+   "img": 333,
+   "pag": 624,
+   "fonte": "scan"
+  },
+  "ii Esclarecimento da Verdade e Julgamento da Medicina": {
+   "img": 333,
+   "pag": 625,
+   "fonte": "scan"
+  },
+  "⑥ A Noite converte-se em Dia e a Medicina é corrigida": {
+   "img": 334,
+   "pag": 627,
+   "fonte": "scan"
+  },
+  "⑦ Tradução e distribuição em inglês de O Livro da Revolução Médica": {
+   "img": 336,
+   "pag": 631,
+   "fonte": "scan"
+  },
+  "⑧ A Revolução Médica também é uma cena da Grande Providência": {
+   "img": 336,
+   "pag": 631,
+   "fonte": "scan"
+  },
+  "5 O Juízo Final\\* (最後の審判)": {
+   "img": 337,
+   "pag": 632,
+   "fonte": "scan"
+  },
+  "① Significado Fundamental — Preparação para o Paraíso Terrestre (S1・Seções 14 a 17 \\<Obras Completas・Vol. 10, Pág. 111\\>)": {
+   "img": 337,
+   "pag": 633,
+   "fonte": "scan"
+  },
+  "② Compreensão Básica": {
+   "img": 338,
+   "pag": 634,
+   "fonte": "scan"
+  },
+  "i Purificação de pecados e impurezas e a Seleção (Triagem)\\*": {
+   "img": 338,
+   "pag": 634,
+   "fonte": "scan"
+  },
+  "ii Pessoas de coração puro superarão": {
+   "img": 338,
+   "pag": 635,
+   "fonte": "scan"
+  },
+  "iii Com a Kyuseikyo, a triagem torna-se rigorosa": {
+   "img": 339,
+   "pag": 637,
+   "fonte": "scan"
+  },
+  "iv Grande Purificação pela Conversão Noite-Dia": {
+   "img": 340,
+   "pag": 638,
+   "fonte": "scan"
+  },
+  "v O Johrei como dádiva para fazer superar o Julgamento": {
+   "img": 340,
+   "pag": 639,
+   "fonte": "scan"
+  },
+  "③ A liquidação dos pecados pela Grande Ação de Purificação": {
+   "img": 340,
+   "pag": 639,
+   "fonte": "scan"
+  },
+  "i Aviso através de A Criação da Civilização e O Livro da Revolução Médica": {
+   "img": 340,
+   "pag": 639,
+   "fonte": "scan"
+  },
+  "ii O redemoinho de Fogo": {
+   "img": 340,
+   "pag": 639,
+   "fonte": "scan"
+  },
+  "④ As pessoas que serão salvas e as que não serão salvas são (gradualmente) decididas\\*1": {
+   "img": 343,
+   "pag": 644,
+   "fonte": "scan"
+  },
+  "i Os salvos são menos numerosos (Kyō・Edição 23, Pág. 21, linhas 5 a 13 \\<Coletânea de Palestras・Vol. 10, Pág. 278\\>)": {
+   "img": 343,
+   "pag": 645,
+   "fonte": "scan"
+  },
+  "ii Os salvos não dão trabalho": {
+   "img": 343,
+   "pag": 645,
+   "fonte": "scan"
+  },
+  "iii É melhor não perseguir quem não entende": {
+   "img": 344,
+   "pag": 646,
+   "fonte": "scan"
+  },
+  "iv Melhor não perseguir quem vacila mesmo após receber graças": {
+   "img": 344,
+   "pag": 647,
+   "fonte": "scan"
+  },
+  "v Desistir de quem não entende": {
+   "img": 345,
+   "pag": 649,
+   "fonte": "scan"
+  },
+  "vi À medida que a ação de purificação se fortalece": {
+   "img": 345,
+   "pag": 649,
+   "fonte": "scan"
+  },
+  "vii Poema Divino (御詠) Os que perecem / E os que sobrevivem separam-se / E assim / Terá chegado o Dia do Fim. (3 de março de 1954\\) (Eikō・Edição 250, No. 3 ＝ Obras Completas de Mokiti Okada, Volume de Poemas ***\\[VI\\]**, Pág. 441, No. 3\\)*": {
+   "img": 346,
+   "pag": 650,
+   "fonte": "scan"
+  },
+  "⑤ A necessidade de arrependimento": {
+   "img": 346,
+   "pag": 650,
+   "fonte": "scan"
+  },
+  "i Sobre a raiz do pecado (Hikari Ho・Pág. 149, linha 14 \\<Coletânea de Palestras・Vol. 1, Pág. 508\\>)": {
+   "img": 346,
+   "pag": 650,
+   "fonte": "scan"
+  },
+  "ii Apegar-se a Deus para ter os pecados perdoados": {
+   "img": 346,
+   "pag": 651,
+   "fonte": "scan"
+  },
+  "iii Às pessoas que esqueceram que tiveram a vida salva": {
+   "img": 346,
+   "pag": 651,
+   "fonte": "scan"
+  },
+  "⑥ Na ocasião da Grande Purificação, agradar e devolver em dobro (Henpo-gaeshi)": {
+   "img": 347,
+   "pag": 652,
+   "fonte": "scan"
+  },
+  "⑦ Kunitokotachi no Mikoto aparece no mundo material e o julgamento começa": {
+   "img": 348,
+   "pag": 654,
+   "fonte": "scan"
+  },
+  "⑧ O Grande Drama dos Três Mil Mundos (三千世界の大芝居)": {
+   "img": 350,
+   "pag": 658,
+   "fonte": "scan"
+  },
+  "⑨ Sendo chamado para a Obra Divina devido ao vínculo": {
+   "img": 351,
+   "pag": 661,
+   "fonte": "scan"
+  },
+  "6 O Progresso da Obra Divina (御神業の進展)": {
+   "img": 352,
+   "pag": 662,
+   "fonte": "scan"
+  },
+  "① Questões Básicas — A Providência e Meishu-Sama": {
+   "img": 352,
+   "pag": 662,
+   "fonte": "scan"
+  },
+  "i Marionete e Instrumento de Deus": {
+   "img": 352,
+   "pag": 662,
+   "fonte": "scan"
+  },
+  "A Deus alojou-se no ventre de Meishu-Sama": {
+   "img": 352,
+   "pag": 662,
+   "fonte": "scan"
+  },
+  "B Deus, que habita no ventre, utiliza Meishu-Sama": {
+   "img": 352,
+   "pag": 663,
+   "fonte": "scan"
+  },
+  "C Meishu-Sama manipulado por Deus": {
+   "img": 353,
+   "pag": 664,
+   "fonte": "scan"
+  },
+  "D Meishu-Sama é o órgão executor da Obra de Salvação": {
+   "img": 353,
+   "pag": 665,
+   "fonte": "scan"
+  },
+  "ii Exemplos onde o que Meishu-Sama faz é expresso como \"Providência\"": {
+   "img": 353,
+   "pag": 665,
+   "fonte": "scan"
+  },
+  "A O Espírito Divino aloja-se e renasce": {
+   "img": 353,
+   "pag": 665,
+   "fonte": "scan"
+  },
+  "B A conclusão do Solo Sagrado de Zuiun-kyo em Atami": {
+   "img": 354,
+   "pag": 667,
+   "fonte": "scan"
+  },
+  "C Milagres superiores aos de Cristo": {
+   "img": 354,
+   "pag": 667,
+   "fonte": "scan"
+  },
+  "iii A Providência é compreendida antecipadamente": {
+   "img": 355,
+   "pag": 668,
+   "fonte": "scan"
+  },
+  "iv O que acontece na Igreja também é Providência de Deus (Shū・Pág. 87, Coluna superior, linhas 7 a 14 ＝ Ishizue Shū Ge・Pág. 198, Coluna inferior, linha 13 ～ Pág. 199, Coluna superior, linha 7 \\<Obras Completas・Vol. 9, Pág. 473\\>)": {
+   "img": 355,
+   "pag": 669,
+   "fonte": "scan"
+  },
+  "v Incidente de Perseguição Religiosa": {
+   "img": 356,
+   "pag": 670,
+   "fonte": "scan"
+  },
+  "vi A Obra Divina chegou ao sopé da montanha": {
+   "img": 356,
+   "pag": 670,
+   "fonte": "scan"
+  },
+  "vii Mil anos em dez anos (Sui・Edição 3, Pág. 40, linhas 9 a 13 \\<Coletânea de Palestras・Vol. 4, Pág. 218\\>) (Para um ministro preocupado por ter que mudar o local de difusão repetidamente)": {
+   "img": 356,
+   "pag": 671,
+   "fonte": "scan"
+  },
+  "viii Há uma ordem na Providência — A Revolução Médica também é uma cena da Grande Providência\\*1 (Kyō・Edição 25, Pág. 49, linhas 5 a 16 \\<Coletânea de Palestras・Vol. 11, Pág. 49\\>)": {
+   "img": 356,
+   "pag": 671,
+   "fonte": "scan"
+  },
+  "ix A Kyuseikyo e Ushitora no Konjin (Kyō・Edição 31, Pág. 8, linhas 4 a 6 \\<Coletânea de Palestras・Vol. 12, Pág. 180\\>) ***\\[Trecho do Preâmbulo Anterior (Kyō・Edição 31, Pág. 1, linha 1 ～ Pág. 8, linha 3)\\]** Na Era dos Deuses, Ushitora no Konjin Kunitokotachi no Mikoto governava o mundo de forma bastante ampla (por ordem do Deus Supremo). No entanto, por ser demasiado rigoroso contra o mal, atraiu a antipatia dos deuses (governantes locais) e foi forçado a se retirar; desde então, a linhagem que O aprisionou liderou o mundo.*": {
+   "img": 358,
+   "pag": 674,
+   "fonte": "scan"
+  },
+  "x Relação com a Oomoto": {
+   "img": 358,
+   "pag": 675,
+   "fonte": "scan"
+  },
+  "A O papel da Oomoto": {
+   "img": 358,
+   "pag": 675,
+   "fonte": "scan"
+  },
+  "B A razão pela qual Meishu-Sama nasceu da Oomoto (Sui・Edição 14, Pág. 13, linha 6 ～ Pág. 14, linha 8 \\<Coletânea de Palestras・Vol. 6, Pág. 273\\>)": {
+   "img": 358,
+   "pag": 675,
+   "fonte": "scan"
+  },
+  "② Expansão (Kyōsen)": {
+   "img": 359,
+   "pag": 677,
+   "fonte": "scan"
+  },
+  "i Pacientes e novos fiéis são enviados por Deus (Sui・Edição 3, Pág. 36, linhas 5 a 14 \\<Coletânea de Palestras・Vol. 4, Pág. 215\\>)": {
+   "img": 359,
+   "pag": 677,
+   "fonte": "scan"
+  },
+  "ii Basta ministrar Johrei a quem vier ao nosso encontro": {
+   "img": 359,
+   "pag": 677,
+   "fonte": "scan"
+  },
+  "iii Pessoas inesperadas abrem o caminho (Sui・Edição 21, Pág. 13, linhas 7 a 10 \\<Coletânea de Palestras・Vol. 9, Pág. 127\\>) Texto omitido: Consultar Item 4 \\- Pessoas, ② i na Segunda Parte \"Problemas Gerais de Difusão\".": {
+   "img": 359,
+   "pag": 677,
+   "fonte": "scan"
+  },
+  "iv Qualquer pessoa é enviada por Deus": {
+   "img": 359,
+   "pag": 677,
+   "fonte": "scan"
+  },
+  "v Deus extrai \"coisas boas\" de \"coisas ruins\" (Sui・Edição 21, Pág. 18, linhas 1 a 14 \\<Coletânea de Palestras・Vol. 9, Pág. 130\\>)": {
+   "img": 360,
+   "pag": 678,
+   "fonte": "scan"
+  },
+  "vi A missão dos fiéis (Kyō・Edição 28, Pág. 5, linhas 12 a 13; Pág. 5, linha 13 ～ Pág. 6, linha 5 \\<Coletânea de Palestras・Vol. 11, Pág. 196\\>)": {
+   "img": 361,
+   "pag": 680,
+   "fonte": "scan"
+  },
+  "vii Escolha para o Serviço (Ron Betsu・Pág. 109, Coluna superior, linha 9 ～ Coluna inferior, linha 9 \\<Coletânea de Palestras・Vol. 1, Pág. 91\\>)": {
+   "img": 361,
+   "pag": 681,
+   "fonte": "scan"
+  },
+  "viii Salva-se a partir da pessoa que se torna o Modelo (Kyō・Edição 3, Pág. 6, linhas 6 a 12 \\<Coletânea de Palestras・Vol. 5, Pág. 11\\>)": {
+   "img": 361,
+   "pag": 681,
+   "fonte": "scan"
+  },
+  "ix As pessoas erradas são colocadas para fora (Sui・Edição 8, Pág. 42, linhas 4 a 12 \\<Coletânea de Palestras・Vol. 6, Pág. 84\\>)": {
+   "img": 362,
+   "pag": 682,
+   "fonte": "scan"
+  },
+  "x Compreender a partir do exterior": {
+   "img": 362,
+   "pag": 682,
+   "fonte": "scan"
+  },
+  "A Desenvolve-se de uma vez (Kyō・Edição 22, Pág. 20, linha 14 ～ Pág. 21, linha 3 \\<Coletânea de Palestras・Vol. 10, Pág. 223\\>)": {
+   "img": 362,
+   "pag": 682,
+   "fonte": "scan"
+  },
+  "B A adoração dos japoneses pelo estrangeiro (Kyō・Edição 28, Pág. 12, linhas 3 a 15 \\<Coletânea de Palestras・Vol. 11, Pág. 202\\>)": {
+   "img": 362,
+   "pag": 683,
+   "fonte": "scan"
+  },
+  "③ Construção\\* (建 設)": {
+   "img": 364,
+   "pag": 686,
+   "fonte": "scan"
+  },
+  "i Hakone é a Providência do Mundo Espiritual, Atami é a Providência do Mundo Material (Kyō・Edição 14, Pág. 59, linhas 12 a 14 \\<Coletânea de Palestras・Vol. 8, Pág. 112\\>)": {
+   "img": 364,
+   "pag": 686,
+   "fonte": "scan"
+  },
+  "ii As construções de Hakone e Atami refletem-se mutuamente (Kyō・Edição 26, Pág. 60, linhas 2 a 5 \\<Coletânea de Palestras・Vol. 11, Pág. 113\\>)": {
+   "img": 364,
+   "pag": 686,
+   "fonte": "scan"
+  },
+  "iii A construção de Kyoto": {
+   "img": 364,
+   "pag": 686,
+   "fonte": "scan"
+  },
+  "iv Construção mundial": {
+   "img": 364,
+   "pag": 687,
+   "fonte": "scan"
+  },
+  "v O tempo da \"Construção\" é decidido macroscopicamente (Sui・Edição 25, Pág. 8, linhas 2 a 6 \\<Coletânea de Palestras・Vol. 9, Pág. 233\\>)": {
+   "img": 364,
+   "pag": 687,
+   "fonte": "scan"
+  },
+  "vi A força motriz da construção": {
+   "img": 365,
+   "pag": 688,
+   "fonte": "scan"
+  },
+  "vii Atrair com o Modelo do Paraíso Terrestre e fazer entrar em contato com o Ensinamento (Verdade) (Kyō・Edição 30, Pág. 25, linhas 1 a 12 \\<Coletânea de Palestras・Vol. 12, Pág. 118\\>)": {
+   "img": 366,
+   "pag": 690,
+   "fonte": "scan"
+  },
+  "④ Escrita (御執筆)": {
+   "img": 367,
+   "pag": 692,
+   "fonte": "scan"
+  },
+  "i A Criação da Civilização (Bunmei no Sozou)": {
+   "img": 367,
+   "pag": 692,
+   "fonte": "scan"
+  },
+  "A Informar a Verdade e construir o verdadeiro mundo civilizado": {
+   "img": 367,
+   "pag": 692,
+   "fonte": "scan"
+  },
+  "*b A civilização moderna utilizada pelo mal*": {
+   "img": 367,
+   "pag": 693,
+   "fonte": "scan"
+  },
+  "*c A revolução da civilização — Cura de doenças*": {
+   "img": 368,
+   "pag": 694,
+   "fonte": "scan"
+  },
+  "B Teoria da Civilização — A Revolução Médica é a premissa da Verdadeira Civilização\\*": {
+   "img": 368,
+   "pag": 695,
+   "fonte": "scan"
+  },
+  "*a Tradução e distribuição de A Criação da Civilização*": {
+   "img": 368,
+   "pag": 695,
+   "fonte": "scan"
+  },
+  "*b Despertar os intelectuais do mundo*": {
+   "img": 369,
+   "pag": 696,
+   "fonte": "scan"
+  },
+  "*c Informar sobre os erros da medicina*": {
+   "img": 369,
+   "pag": 696,
+   "fonte": "scan"
+  },
+  "C Como aviso do Juízo Final": {
+   "img": 370,
+   "pag": 698,
+   "fonte": "scan"
+  },
+  "*a A Criação da Civilização é o Evangelho do Paraíso*": {
+   "img": 370,
+   "pag": 698,
+   "fonte": "scan"
+  },
+  "*b Como Evangelho do Paraíso (Kyō・Edição 23, Pág. 30, linha 3 ～ Pág. 31, linha 3 \\<Coletânea de Palestras・Vol. 10, Pág. 286\\>)*": {
+   "img": 370,
+   "pag": 699,
+   "fonte": "scan"
+  },
+  "D Esclarecer a razão da existência do mal (medicina e conflito)": {
+   "img": 371,
+   "pag": 701,
+   "fonte": "scan"
+  },
+  "E Poema Divino (御詠)": {
+   "img": 373,
+   "pag": 705,
+   "fonte": "scan"
+  },
+  "ii O Livro da Revolução Médica (Igaku Kakumei no Sho)": {
+   "img": 373,
+   "pag": 705,
+   "fonte": "scan"
+  },
+  "A Esclarecer o significado do Johrei e os erros da medicina — A Bíblia da Kyuseikyo (Kyō・Edição 18, Pág. 56, linha 4 ～ Pág. 57, linha 10 \\<Coletânea de Palestras・Vol. 9, Pág. 364\\>)": {
+   "img": 373,
+   "pag": 705,
+   "fonte": "scan"
+  },
+  "B O mecanismo de um rin (1%) que derruba a conspiração do deus maligno\\*1 (Kyō・Edição 19, Pág. 4, linha 16 ～ Pág. 5, linha 8 \\<Coletânea de Palestras・Vol. 10, Pág. 10\\>)": {
+   "img": 374,
+   "pag": 707,
+   "fonte": "scan"
+  },
+  "C Enriquecer o conhecimento dos fiéis sobre a doença": {
+   "img": 375,
+   "pag": 709,
+   "fonte": "scan"
+  },
+  "iii \"Edição Especial de Agricultura\"": {
+   "img": 377,
+   "pag": 712,
+   "fonte": "scan"
+  },
+  "A Plano de distribuição de um milhão de exemplares": {
+   "img": 377,
+   "pag": 712,
+   "fonte": "scan"
+  },
+  "B Repercussão": {
+   "img": 377,
+   "pag": 713,
+   "fonte": "scan"
+  },
+  "C Poemas Divinos (御詠)": {
+   "img": 377,
+   "pag": 713,
+   "fonte": "scan"
+  },
+  "iv Coleção de Milagres (Kiseki-shu)": {
+   "img": 378,
+   "pag": 715,
+   "fonte": "scan"
+  },
+  "A Informar a existência do espírito e sua atuação": {
+   "img": 378,
+   "pag": 715,
+   "fonte": "scan"
+  },
+  "B Informar a existência real do espírito através de milagres e promover a revolução cultural\\*1 (Kyō・Edição 20, Pág. 71, linhas 3 a 12 \\<Coletânea de Palestras・Vol. 10, Pág. 119\\>)": {
+   "img": 378,
+   "pag": 715,
+   "fonte": "scan"
+  },
+  "v Minha Vida (Watashi Monogatari)": {
+   "img": 379,
+   "pag": 716,
+   "fonte": "scan"
+  },
+  "A Sobre a escrita de Minha Vida": {
+   "img": 379,
+   "pag": 717,
+   "fonte": "scan"
+  },
+  "B Informar corretamente sobre Meishu-Sama e criar fiéis de alma inabalável1": {
+   "img": 379,
+   "pag": 717,
+   "fonte": "scan"
+  },
+  "C A Divindade e a Humanidade de Meishu-Sama": {
+   "img": 380,
+   "pag": 718,
+   "fonte": "scan"
   }
  }
 }

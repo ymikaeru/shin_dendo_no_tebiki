@@ -179,6 +179,26 @@
   .ens-omit .om-l{display:block;font:600 11.5px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--mut);margin-bottom:2px}
   .ens-texto strong.ens-part{display:block;font:600 15px/1.45 var(--sans);color:var(--fg);margin:22px 0 4px}
   @media (max-width: 820px){ .grp-body{padding-left:11px} .page-body .sec>.pg-sub.teach{font-size:19px} }
+  /* ===== VISÃO GERAL ↔ LER TUDO + grupos que dobram ===== */
+  .viewsw{display:inline-flex;border:1px solid var(--line2);border-radius:8px;overflow:hidden;margin-left:auto;margin-right:8px}
+  .viewsw button{background:transparent;border:0;padding:4px 11px;font:500 12.5px var(--sans);color:var(--fg2);cursor:pointer}
+  .viewsw button+button{border-left:1px solid var(--line2)}
+  .viewsw button.on{background:var(--acc-soft);color:var(--fg);font-weight:600}
+  .teach-prev{display:none}
+  body.overview .sec.teach:not(.open)>.teach-full{display:none}
+  body.overview .sec.teach:not(.open)>.teach-prev{display:block;font:15px/1.55 var(--serif);color:var(--fg2);margin:3px 0 0;cursor:pointer}
+  body.overview .page-body .sec.teach{padding-bottom:14px}
+  body.overview .page-body .sec>.pg-sub.teach{font-size:18px;margin-top:18px;cursor:pointer}
+  body.overview .page-body .sec>.pg-sub.teach:hover{color:var(--acc)}
+  body.overview .sec.teach.open{background:var(--card);border-radius:10px;padding:2px 14px 18px;margin:8px -14px;box-shadow:0 0 0 1px var(--line)}
+  body.overview .page-body .sec>.pg-sub.grp{margin-top:26px}
+  .page-body .sec>.pg-sub.grp{cursor:pointer;user-select:none}
+  .grp-n{font:500 12px var(--sans);color:var(--mut);margin-left:10px;letter-spacing:0;text-transform:none;white-space:nowrap}
+  .fold-i{display:inline-block;margin-left:8px;color:var(--mut);font-size:12px;transition:transform .15s}
+  .sec.grp.fold>.pg-sub .fold-i{transform:rotate(-90deg)}
+  .sec.grp.fold>.grp-body,.sec.grp.fold>.ens-exp,.sec.grp.fold>details{display:none}
+  .page-body .sec>.pg-sub.grp:hover .fold-i{color:var(--acc)}
+  @media print{ .viewsw{display:none!important} body.overview .sec.teach>.teach-full{display:block!important} .teach-prev{display:none!important} .sec.grp.fold>.grp-body{display:block!important} }
   /* ===== CONTEXTO (preâmbulo/posfácio): visível, mas secundário ao texto ===== */
   .ens-ctx{margin:6px 0 18px;padding:2px 0 2px 16px;border-left:2px solid var(--line2);border-radius:0}
   .ens-ctx .ctx-l{font:700 11px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--mut);margin-bottom:4px}
@@ -734,13 +754,26 @@ function pageOf(n){ let p=n; while(p && !p._pg) p=p._p; return p||n; }
 function renderChild(c, depth){
   const tag='h'+Math.min(1+depth,6), lv=Math.min(depth,4), kind=c.ensinamento?'teach':'grp';
   let h=`<section class="sec ${kind} lv${lv}"><${tag} class="pg-sub ${kind} n-${c.nivel}" id="anc-${c.id.replace(/\./g,'_')}" data-id="${c.id}" data-lv="${lv}" data-mk="${esc(mkLabel(c))}" data-title="${esc(cleanTitle(c.title)).replace(/"/g,'&quot;')}"><span class="pg-mk">${mkSelo(c)}</span> ${renderTitle(c.title,(c.ensinamento||{}).notas)}</${tag}>`;
+  if(kind==='grp'){ const k=countTeach(c); if(k) h=h.replace(new RegExp('</'+tag+'>$'),`<span class="grp-n">${k} ${k===1?'ensinamento':'ensinamentos'}</span><span class="fold-i" aria-hidden="true">▾</span></${tag}>`); }
+  if(c.ensinamento) h+=`<div class="teach-prev">${esc(prevLine(c.ensinamento))}</div><div class="teach-full">`;
   if(c.subtitulo) h+=`<div class="ens-subtitulo">―― ${esc(c.subtitulo)} ――</div>`;
   if(c.ensinamento) h+=renderEnsinamento(c.ensinamento);
   else if(c.explicacao) h+=expBlock(c.explicacao);
   h+=citedBlock(c);
+  if(c.ensinamento) h+=`</div>`;
   const kids=(c.children||[]).filter(g=>ownContent(g)||hasContentDesc(g));
   if(kids.length) h+=`<div class="grp-body">${kids.map(g=>renderChild(g,depth+1)).join('')}</div>`;
   return h+'</section>';
+}
+function countTeach(n){ return (n.children||[]).reduce((k,c)=>k+(c.ensinamento?1:0)+countTeach(c),0); }
+// 1ª frase do ensinamento (visão geral): o suficiente para saber do que trata
+function prevLine(e){
+  let t=plain(e.texto||'').replace(/\*\*/g,'').replace(/\s+/g,' ').trim();
+  if(/^Texto omitido/i.test(t)){ const m=[...t.matchAll(PG_RE)][0]; return 'Texto não repetido aqui'+(m?' — está na pág. '+(m[1]||m[2]):''); }
+  if(!t) t=plain(e.preambulo||e.explicacao||'').replace(/\s+/g,' ').trim();
+  const m=t.match(/^(.{40,190}?[.!?。])(\s|$)/);
+  if(m) return m[1];
+  return t.length>180 ? t.slice(0,180).replace(/\s\S*$/,'')+'…' : t;
 }
 // índice das páginas abaixo de um nó-contêiner (capítulo / item / parte / número grande)
 function subToc(n){
@@ -861,7 +894,7 @@ function select(n, opt){
       <div class="posbar" aria-label="onde você está"></div>
       <nav class="pathline">${crumbs}</nav>
       <h1><span class="h-mk">${mkLabel(n)}</span>${renderTitle(n.title,(n.ensinamento||{}).notas)}</h1>
-      <div class="meta">${n.pagina?`<span>pág. ${n.pagina} do livro</span>`:''}${(()=>{const k=citedBy(n).length; return k?`<a class="cited-badge" data-cited="${n.id}" title="ensinamentos deste livro que remetem a este">↩ citado ${k}×</a>`:'';})()}<span class="only-local">${niceNivel} · <code>${n.id}</code></span><button id="copyLink" title="copiar o link direto deste ensinamento">Copiar link</button></div>
+      <div class="meta">${n.pagina?`<span>pág. ${n.pagina} do livro</span>`:''}${(()=>{const k=citedBy(n).length; return k?`<a class="cited-badge" data-cited="${n.id}" title="ensinamentos deste livro que remetem a este">↩ citado ${k}×</a>`:'';})()}<span class="only-local">${niceNivel} · <code>${n.id}</code></span>${n._pg && countTeach(n)>1?`<span class="viewsw" role="group" aria-label="modo de leitura"><button data-v="ov" title="só títulos e a 1ª frase de cada ensinamento — clique para abrir">Visão geral</button><button data-v="read" title="todos os ensinamentos por inteiro">Ler tudo</button></span>`:''}<button id="copyLink" title="copiar o link direto deste ensinamento">Copiar link</button></div>
       <details class="otl-inline"><summary>Nesta página</summary><div class="otl-list"></div></details>
       <div class="page-body">${renderPage(n)}</div>
       ${navBar(n)}
@@ -872,11 +905,11 @@ function select(n, opt){
     const cl=$('#copyLink'); if(cl) cl.onclick=()=>{ const u=location.href.split('#')[0]+'#'+(location.hash.slice(1)||n.id);
       (navigator.clipboard?navigator.clipboard.writeText(u):Promise.reject()).then(()=>{cl.textContent='✓ Link copiado';},()=>{prompt('Link deste ensinamento:',u);}); };
     if(!opt.keepScroll) det.scrollTop=0;
-    buildOutline();
+    buildOutline(); applyView();
   }
   let scope=det;
   if(target){ const h=document.getElementById('anc-'+target.id.replace(/\./g,'_'));
-    if(h){ scope=h.parentNode; if(!opt.hl){ h.scrollIntoView({block:'start'}); h.classList.remove('flash'); void h.offsetWidth; h.classList.add('flash'); } } }
+    if(h){ scope=h.parentNode; revealSec(h); if(!opt.hl){ h.scrollIntoView({block:'start'}); h.classList.remove('flash'); void h.offsetWidth; h.classList.add('flash'); } } }
   if(opt.hl) highlightIn(scope, opt.hl);
   setTimeout(()=>spyTree(true),30);   // árvore + faixa refletem o ponto onde a leitura caiu
 }
@@ -1343,11 +1376,36 @@ if(matchMedia('(hover: hover)').matches){       // no toque, a remissão só nav
     if(a && !a.contains(e.relatedTarget)) hidePeek(); });
 }
 
+
+// ===== VISÃO GERAL ↔ LER TUDO + grupos que dobram =====
+let VIEW='read'; try{ VIEW=localStorage.getItem('nav-view')||'read'; }catch(_){ }
+function applyView(){ document.body.classList.toggle('overview', VIEW==='ov');
+  document.querySelectorAll('.viewsw button').forEach(b=>b.classList.toggle('on', b.dataset.v===VIEW)); }
+function setView(v){ const h=secInView(); VIEW=v; try{ localStorage.setItem('nav-view',v); }catch(_){ }
+  document.querySelectorAll('#detail .sec.teach.open').forEach(x=>x.classList.remove('open'));
+  applyView(); if(h) h.scrollIntoView({block:'start'}); spyTree(true); }
+// abre o caminho até uma seção (desdobra grupos; na visão geral, abre o ensinamento)
+function revealSec(h){ if(!h) return; let s=h.parentNode;
+  if(s.classList.contains('teach') && VIEW==='ov') s.classList.add('open');
+  while(s && s.closest){ if(s.classList.contains('fold')) s.classList.remove('fold'); s=s.parentNode && s.parentNode.closest && s.parentNode.closest('.sec'); } }
+document.addEventListener('click',e=>{
+  if(!e.target.closest) return;
+  const sw=e.target.closest('.viewsw button'); if(sw){ setView(sw.dataset.v); return; }
+  if(typeof GRIFO_EDIT!=='undefined' && GRIFO_EDIT) return;
+  if(e.target.closest('sup.fn,sup.ref,a,.fn-pop,button')) return;
+  const gh=e.target.closest('#detail .page-body .pg-sub.grp');
+  if(gh){ gh.parentNode.classList.toggle('fold'); spyTree(true); return; }
+  if(VIEW!=='ov') return;
+  const th=e.target.closest('#detail .page-body .pg-sub.teach, #detail .page-body .teach-prev');
+  if(th){ const sec=th.closest('.sec.teach'); sec.classList.toggle('open');
+    if(sec.classList.contains('open')) markSeen(flat.find(x=>x.id===sec.firstElementChild.dataset.id)||cur); }
+});
+applyView();
 // ===== ONDE ESTOU: a seção na tela move a árvore (marca + abre o caminho) e a faixa de posição =====
 let _spyId=null;
 function secInView(){
   const top=$('#detail').getBoundingClientRect().top+90; let on=null;
-  for(const h of document.querySelectorAll('#detail .page-body .pg-sub')){ if(h.getBoundingClientRect().top<top) on=h; else break; }
+  for(const h of document.querySelectorAll('#detail .page-body .pg-sub')){ if(!h.offsetParent) continue; if(h.getBoundingClientRect().top<top) on=h; else break; }
   return on;
 }
 function spyTree(force){

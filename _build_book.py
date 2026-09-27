@@ -228,6 +228,16 @@ def parse_ensinamento(title_raw, body_lines):
     if paras and SUBT.match(unesc(paras[0][0]).strip()):
         sub = re.sub(r'\s+', ' ', re.sub(r'[―—]{2,}', ' ', unesc(' '.join(l.strip() for l in paras[0])))).strip()
         paras = paras[1:]
+    # titulo original em japones numa LINHA PROPRIA logo abaixo do titulo PT: "(本教主宰神の力)".
+    # E' parte do titulo (nao texto): antes virava texto e era marcado "traducao pendente".
+    if paras and len(paras[0]) == 1:
+        tj = re.match(r'^\(([^()]+)\)$', unesc(paras[0][0]).strip())
+        if tj and not is_cit(tj.group(1)):
+            g = re.sub(r'\s', '', tj.group(1))
+            cjk = sum(1 for ch in g if '぀' <= ch <= 'ヿ' or '一' <= ch <= '鿿' or ch in '・――（）')
+            if g and cjk / len(g) >= 0.6:
+                title = (title + ' (' + tj.group(1).strip() + ')').strip()
+                paras = paras[1:]
     texto_parts, exp_list, resumo_list = [], [], []
     referencias = []
     ref_mode = False

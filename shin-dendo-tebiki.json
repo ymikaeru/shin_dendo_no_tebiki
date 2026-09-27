@@ -8144,20 +8144,21 @@
            "level": 5,
            "nivel": "circulo",
            "marcador": "3",
-           "title": "Poder Infinito (Poema Divino)",
+           "title": "Poder Infinito (Poema Divino) (無限の力・御詠)",
            "pagina": 407,
            "children": [],
            "ensinamento": {
             "fonte": null,
             "preambulo": null,
-            "texto": "(無限の力・御詠)\n\n- Sabei que a fonte do poder infinito e absoluto reside na sagrada alma do Deus Supremo. - (25 de agosto de 1953) (Chi, nº 51, pág. 2, Nº 6 = Okada Mokichi Zenshu Shika-hen [6], pág. 352, Nº 2)\n\n- O poder humano visível possui limites; o poder infinito e invisível é o que chamamos de Deus. - (18 de novembro de 1953) (Eikou, nº 235, Nº 3 = Okada Mokichi Zenshu Shika-hen [6], pág. 389, Nº 1)",
+            "texto": "- Sabei que a fonte do poder infinito e absoluto reside na sagrada alma do Deus Supremo. - (25 de agosto de 1953) (Chi, nº 51, pág. 2, Nº 6 = Okada Mokichi Zenshu Shika-hen [6], pág. 352, Nº 2)\n\n- O poder humano visível possui limites; o poder infinito e invisível é o que chamamos de Deus. - (18 de novembro de 1953) (Eikou, nº 235, Nº 3 = Okada Mokichi Zenshu Shika-hen [6], pág. 389, Nº 1)",
             "posfacio": null,
             "data": null,
             "explicacao": null,
             "resumo": null,
             "referencias": [],
             "notas": [],
-            "anexo": []
+            "anexo": [],
+            "tipo": "salmo"
            }
           }
          ]
@@ -8167,7 +8168,7 @@
          "level": 4,
          "nivel": "numero",
          "marcador": "2",
-         "title": "O Poder do Deus Supremo desta Religião",
+         "title": "O Poder do Deus Supremo desta Religião (本教主宰神の力)",
          "pagina": 408,
          "children": [
           {
@@ -8253,7 +8254,7 @@
            "level": 5,
            "nivel": "circulo",
            "marcador": "4",
-           "title": "Manifestação do Poder Infinito",
+           "title": "Manifestação do Poder Infinito (無限力の表れ)",
            "pagina": 422,
            "children": [
             {
@@ -8298,20 +8299,7 @@
               "anexo": []
              }
             }
-           ],
-           "ensinamento": {
-            "fonte": null,
-            "preambulo": null,
-            "texto": "(無限力の表れ)",
-            "posfacio": null,
-            "data": null,
-            "explicacao": null,
-            "resumo": null,
-            "referencias": [],
-            "notas": [],
-            "anexo": [],
-            "tipo": "jp-pendente"
-           }
+           ]
           },
           {
            "id": "c2.i3.III.2.5",
@@ -8475,27 +8463,14 @@
             "anexo": []
            }
           }
-         ],
-         "ensinamento": {
-          "fonte": null,
-          "preambulo": null,
-          "texto": "(本教主宰神の力)",
-          "posfacio": null,
-          "data": null,
-          "explicacao": null,
-          "resumo": null,
-          "referencias": [],
-          "notas": [],
-          "anexo": [],
-          "tipo": "jp-pendente"
-         }
+         ]
         },
         {
          "id": "c2.i3.III.3",
          "level": 4,
          "nivel": "numero",
          "marcador": "3",
-         "title": "Através de milagres e do Johrei",
+         "title": "Através de milagres e do Johrei (奇跡と浄霊を通して)",
          "pagina": 435,
          "children": [
           {
@@ -8786,20 +8761,7 @@
             ]
            }
           }
-         ],
-         "ensinamento": {
-          "fonte": null,
-          "preambulo": null,
-          "texto": "(奇跡と浄霊を通して)",
-          "posfacio": null,
-          "data": null,
-          "explicacao": null,
-          "resumo": null,
-          "referencias": [],
-          "notas": [],
-          "anexo": [],
-          "tipo": "jp-pendente"
-         }
+         ]
         }
        ],
        "ensinamento": {
@@ -10054,7 +10016,7 @@
          "level": 4,
          "nivel": "numero",
          "marcador": "5",
-         "title": "Ser Humano",
+         "title": "Ser Humano (人　間)",
          "pagina": 492,
          "children": [
           {
@@ -10490,19 +10452,7 @@
             "anexo": []
            }
           }
-         ],
-         "ensinamento": {
-          "fonte": null,
-          "preambulo": null,
-          "texto": "(人　間)",
-          "posfacio": null,
-          "data": null,
-          "explicacao": null,
-          "resumo": null,
-          "referencias": [],
-          "notas": [],
-          "anexo": []
-         }
+         ]
         },
         {
          "id": "c2.i4.I.6",
@@ -10730,7 +10680,7 @@
        "level": 3,
        "nivel": "parte",
        "marcador": "II",
-       "title": "Keirin (Plano Divino)* —— Plano e Providência de Deus",
+       "title": "Keirin (Plano Divino)* —— Plano e Providência de Deus (経綸――神の計画と摂理)",
        "pagina": 507,
        "children": [
         {
@@ -10738,7 +10688,7 @@
          "level": 4,
          "nivel": "numero",
          "marcador": "1",
-         "title": "Paraíso Terrestre",
+         "title": "Paraíso Terrestre (地上天国)",
          "pagina": 508,
          "children": [
           {
@@ -11279,7 +11229,7 @@
            "level": 5,
            "nivel": "circulo",
            "marcador": "11",
-           "title": "Mundo de Cristal",
+           "title": "Mundo de Cristal (水晶世界)",
            "pagina": 536,
            "children": [
             {
@@ -11379,7 +11329,7 @@
                "level": 7,
                "nivel": "letra",
                "marcador": "E",
-               "title": "A purificação da alma",
+               "title": "A purificação da alma (魂の浄め)",
                "pagina": 540,
                "children": [
                 {
@@ -11488,19 +11438,7 @@
                  }
                 }
                ],
-               "ensinamento": {
-                "fonte": null,
-                "preambulo": null,
-                "texto": "(魂の浄め)",
-                "posfacio": null,
-                "data": null,
-                "explicacao": "Este é um subitem, mas é extremamente importante para entrar no Mundo de Cristal. E o que se deve observar é que isso se torna possível através do forte poder do Deus Regente desta Religião (Sushin). — É fundamental estudar e sintetizar o Capítulo 2, Seção 3, Item 3, Poder de Deus, 2 - Poder do Deus Regente desta Religião, ⑤ Eliminar a bestialidade humana (Pág. 423 deste livro) para obter uma compreensão precisa sobre isso. Além disso, o mais importante é que a força (para transformar a alma) é concedida através de uma fé profunda (em Meishu-Sama). Consultar Capítulo 1, Item 1, 13 - Compreender sobre Meishu-Sama é a essência da fé (Pág. 24 deste livro) e Capítulo 1, Item 1, 14 - Se compreender sobre Meishu-Sama, receberá força (Pág. 27 deste livro).",
-                "resumo": null,
-                "referencias": [],
-                "notas": [],
-                "anexo": [],
-                "tipo": "jp-pendente"
-               }
+               "explicacao": "Este é um subitem, mas é extremamente importante para entrar no Mundo de Cristal. E o que se deve observar é que isso se torna possível através do forte poder do Deus Regente desta Religião (Sushin). — É fundamental estudar e sintetizar o Capítulo 2, Seção 3, Item 3, Poder de Deus, 2 - Poder do Deus Regente desta Religião, ⑤ Eliminar a bestialidade humana (Pág. 423 deste livro) para obter uma compreensão precisa sobre isso. Além disso, o mais importante é que a força (para transformar a alma) é concedida através de uma fé profunda (em Meishu-Sama). Consultar Capítulo 1, Item 1, 13 - Compreender sobre Meishu-Sama é a essência da fé (Pág. 24 deste livro) e Capítulo 1, Item 1, 14 - Se compreender sobre Meishu-Sama, receberá força (Pág. 27 deste livro)."
               },
               {
                "id": "c2.i4.II.1.11.i.F",
@@ -11546,20 +11484,7 @@
               "anexo": []
              }
             }
-           ],
-           "ensinamento": {
-            "fonte": null,
-            "preambulo": null,
-            "texto": "(水晶世界)",
-            "posfacio": null,
-            "data": null,
-            "explicacao": null,
-            "resumo": null,
-            "referencias": [],
-            "notas": [],
-            "anexo": [],
-            "tipo": "jp-pendente"
-           }
+           ]
           },
           {
            "id": "c2.i4.II.1.12",
@@ -11790,27 +11715,14 @@
             }
            ]
           }
-         ],
-         "ensinamento": {
-          "fonte": null,
-          "preambulo": null,
-          "texto": "(地上天国)",
-          "posfacio": null,
-          "data": null,
-          "explicacao": null,
-          "resumo": null,
-          "referencias": [],
-          "notas": [],
-          "anexo": [],
-          "tipo": "jp-pendente"
-         }
+         ]
         },
         {
          "id": "c2.i4.II.2",
          "level": 4,
          "nivel": "numero",
          "marcador": "2",
-         "title": "Conversão Noite-Dia",
+         "title": "Conversão Noite-Dia (夜昼転換)",
          "pagina": 560,
          "children": [
           {
@@ -12225,7 +12137,7 @@
          "ensinamento": {
           "fonte": null,
           "preambulo": null,
-          "texto": "(夜昼転換)\n\n- Na mudança / De tudo neste mundo / Aos fiéis / Eu aviso / Conforme a vontade de Deus.\n\n(11 de março de 1953) (Eikō・Edição 199, No. 1 ＝ Obras Completas de Mokiti Okada, Volume de Poemas ***[VI]**, Pág. 296, No. 1)*",
+          "texto": "- Na mudança / De tudo neste mundo / Aos fiéis / Eu aviso / Conforme a vontade de Deus.\n\n(11 de março de 1953) (Eikō・Edição 199, No. 1 ＝ Obras Completas de Mokiti Okada, Volume de Poemas ***[VI]**, Pág. 296, No. 1)*",
           "posfacio": null,
           "data": null,
           "explicacao": "O significado fundamental da Conversão Noite-Dia foi apresentado no Capítulo 1, Item 2, \"Principais Revelações\" (Pág. 31 deste livro); nesta seção, apresentam-se os conteúdos concretos. Basicamente, a Conversão Noite-Dia é uma expressão metafórica baseada no fenômeno astronômico da alternância entre noite e dia. O conceito básico é que \"à noite a Lua governa, e de dia o Sol governa; assim como a noite é escura e fria e o dia é claro e quente, no mundo terreno, durante a era da noite, as pessoas são atormentadas por infortúnios, desastres e sofrimentos de doença, pobreza e conflito, enquanto na era do dia reina a felicidade da saúde, prosperidade e paz\" (Tenpuku・Pág. 23, linha 11 ～ Pág. 23, linha 2 <Ishizue Shū Jō・Pág. 11>). Para detalhes, consulte o livro de explicações.",
@@ -14815,19 +14727,7 @@
          "explicacao": "Os itens 1 a 5 da Seção 2 enquadram-se perfeitamente na categoria \"Providência do Deus Supremo\"; por isso, é natural que a palavra \"Providência\" (Keirin) apareça frequentemente nos textos. O item 6 refere-se aos empreendimentos que Meishu-Sama promoveu utilizando a Igreja. No entanto, deve-se notar que Ele fez isso como representante do Deus Supremo (consultar Ensinamentos i e ii); portanto, Ele utiliza a palavra \"Providência\" também aqui (consultar Ensinamentos iii, iv e v). Ao estudar o ponto ① \"Questões Básicas\", recomenda-se estudar novamente o Capítulo 1, Item 1 \"A Divindade de Meishu-Sama — Os Ensinamentos como Palavra de Deus\"."
         }
        ],
-       "ensinamento": {
-        "fonte": null,
-        "preambulo": null,
-        "texto": "(経綸――神の計画と摂理)",
-        "posfacio": null,
-        "data": null,
-        "explicacao": "\"Keirin\" (Plano Divino) é a doutrina sobre o governo do universo pelo Deus Supremo e Seu planejamento. Os temas principais do Plano Divino são a Transição da Noite para o Dia, a consequente transformação da civilização, a revolução médica como premissa para isso e o Juízo Final; passando por tudo isso, chegará o \"Paraíso Terrestre\" e, finalmente, o \"Mundo de Cristal\". Tudo isso foi revelado por Deus a Meishu-Sama. Desejo que aprofundem a convicção sobre o Plano Divino estudando o Capítulo 1, Item 2, \"Principais Revelações\". Além disso, somos ensinados que a peculiaridade dos ensinamentos de Meishu-Sama sobre o Plano Divino reside em afirmar o valor da \"existência do mal\" (Kyo, nº 13, pág. 34, linhas 9-11 <Zenko, Vol. 8, pág. 37>; pág. 47, linhas 5-6 <vide pág. 697 deste livro>).",
-        "resumo": null,
-        "referencias": [],
-        "notas": [],
-        "anexo": [],
-        "tipo": "jp-pendente"
-       }
+       "explicacao": "\"Keirin\" (Plano Divino) é a doutrina sobre o governo do universo pelo Deus Supremo e Seu planejamento. Os temas principais do Plano Divino são a Transição da Noite para o Dia, a consequente transformação da civilização, a revolução médica como premissa para isso e o Juízo Final; passando por tudo isso, chegará o \"Paraíso Terrestre\" e, finalmente, o \"Mundo de Cristal\". Tudo isso foi revelado por Deus a Meishu-Sama. Desejo que aprofundem a convicção sobre o Plano Divino estudando o Capítulo 1, Item 2, \"Principais Revelações\". Além disso, somos ensinados que a peculiaridade dos ensinamentos de Meishu-Sama sobre o Plano Divino reside em afirmar o valor da \"existência do mal\" (Kyo, nº 13, pág. 34, linhas 9-11 <Zenko, Vol. 8, pág. 37>; pág. 47, linhas 5-6 <vide pág. 697 deste livro>)."
       }
      ],
      "explicacao": "Nesta seção, apresenta-se o fato de que a sabedoria, a vontade e o poder de Deus atuaram externamente para criar tudo no universo (Criação) e que Ele governa isso através da Lei (Plano Divino/Keirin); e que Ele possui um plano para nos conduzir à salvação e, com base nisso, está agora transformando o mundo e tentando nos salvar."

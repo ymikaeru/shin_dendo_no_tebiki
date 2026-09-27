@@ -192,6 +192,26 @@ def split_heading(resto):
     after = resto[citm.end():].strip()
     return resto[:citm.start()].strip(), ['(' + citm.group(1).strip() + ')', '', after]
 
+def lead_groups(s):
+    """'(a)(b) resto' -> (['a','b'], 'resto'), casando parenteses balanceados no INICIO da linha."""
+    groups, i, s = [], 0, (s or '').strip()
+    while i < len(s) and s[i] == '(':
+        depth, j = 0, i
+        while j < len(s):
+            if s[j] == '(':
+                depth += 1
+            elif s[j] == ')':
+                depth -= 1
+                if depth == 0:
+                    break
+            j += 1
+        if j >= len(s):                      # sem fechamento: nao e' grupo
+            break
+        groups.append(s[i + 1:j]); i = j + 1
+        while i < len(s) and s[i] == ' ':
+            i += 1
+    return groups, s[i:]
+
 def parse_ensinamento(title_raw, body_lines):
     title = unesc(title_raw).strip()
     fonte = None
@@ -257,13 +277,25 @@ def parse_ensinamento(title_raw, body_lines):
             ref_mode = False     # acabou a lista; reprocessa este paragrafo como texto
         # fonte no corpo: 1a LINHA do 1o paragrafo e' uma citacao (...) sozinha.
         # O resto do paragrafo (texto colado sem linha em branco) vira texto.
+        # Parenteses BALANCEADOS: "(fonte <..>) Texto... (1952)" nao pode virar fonte inteira
+        # (a regra gulosa antiga engolia o ensinamento quando o texto terminava em data entre parenteses).
         if fonte is None and not texto_parts:
             fl = unesc(para[0]).strip()
-            mm = re.match(r'^\((.*)\)$', fl)
-            if mm and is_cit(mm.group(1)):
-                fonte = mm.group(1).strip()
-                if len(para) > 1:
-                    texto_parts.append((clean_romano_verse if is_salmo else clean_romano)(para[1:]))
+            groups, rest = lead_groups(fl)
+            k = next((j for j, g in enumerate(groups) if is_cit(g)), None)
+            if k is not None:
+                fonte = groups[k].strip()
+                for g in groups[:k]:                     # ex.: (人間の獣性を消滅させる) antes da fonte -> titulo
+                    title = (title + ' (' + g.strip() + ')').strip()
+                rest = (' '.join('(' + g + ')' for g in groups[k + 1:]) + ' ' + rest).strip()
+                # "(Ronbetsu 826 ...) [Zencho Vol. 12, pág. 359] Trecho" -> o [..] e o "Trecho" (抄) sao da fonte
+                mb = re.match(r'^(\[[^\]]*\](?:\s*(?:Trecho|抄)\b\.?)?)\s*', rest)
+                if mb and is_cit(mb.group(1)) and not groups[k + 1:]:
+                    fonte = fonte + ' ' + mb.group(1).strip()
+                    rest = rest[mb.end():]
+                body = ([rest] if rest else []) + para[1:]
+                if body:
+                    texto_parts.append((clean_romano_verse if is_salmo else clean_romano)(body))
                 i += 1; continue
         texto_parts.append(clean_romano_verse(para) if is_salmo else para_txt)
         i += 1

@@ -74,6 +74,20 @@ def item_id(fn):
     m = re.match(r'ShinDendo_C(\d)_Item(\d+)\.md', fn)
     return 'c%s.i%s' % (m.group(1), str(int(m.group(2))))
 
+def split_ok(s, BLOB):
+    """Linha '(título JP)(fonte) texto' que o conversor DIVIDE em campos (título/fonte/texto):
+    conservada se CADA pedaço (grupos iniciais + resto) estiver em algum campo."""
+    from _build_book import lead_groups, unesc
+    groups, rest = lead_groups(unesc(s).strip())
+    if not groups:
+        return False
+    pieces = [g for g in groups] + ([rest] if rest.strip() else [])
+    for p in pieces:
+        q = norm(p).strip('() ').strip()
+        if len(q) >= 4 and q[:40] not in BLOB:
+            return False
+    return True
+
 def check(md, verbose):
     fn = os.path.basename(md)
     iid = item_id(fn)
@@ -101,7 +115,7 @@ def check(md, verbose):
         if len(n) < 4:
             continue
         body += 1
-        if n[:50] not in BLOB:
+        if n[:50] not in BLOB and not split_ok(s, BLOB):
             missing.append((i + 1, s[:96]))
     if verbose:
         print('%s (%s): %d/%d linhas de corpo NAO conservadas' % (fn, iid, len(missing), body))

@@ -55,6 +55,16 @@ python servidor.py          # → abre localhost:8000/nav (leitor de estudo, sem
 - Marcadores pendentes aparecem no leitor como chip laranja tracejado (`*N`).
 - Próximo passo: os extratores das fontes (`Nao Organizados/*.md`, já liberados no `.gitignore`) preenchem `texto`/`trecho`/`origem`/`confianca` das vagas → status `pendente`.
 
+## 🆕 Leitor / site público
+- **Mesmo leitor** (`_nav_proto.html`) serve o `/nav` local e o **site público**: `python tools/build_site.py` gera `site/` (somente leitura: sem ✏️/📝, marcadores pendentes ocultos, lê `book.json`). Testar: `python -m http.server -d site 8080`.
+- **GitHub Pages**: `.github/workflows/pages.yml` publica a cada push na `main`. Ativar uma vez em *Settings → Pages → Source: GitHub Actions*. (O site vai com `noindex` — tirar do `tools/build_site.py` se quiser que apareça no Google.)
+- Novidades do leitor (valem nos dois): **busca no texto completo** (sem acento; frase exata primeiro; destaca no ensinamento), **link direto** por ensinamento (`#c1.i1.2`, voltar/avançar funcionam, botão 🔗), **"Livro pág. N" / "pág. N deste livro" clicáveis**, página inicial com o sumário, **layout de celular** (índice em gaveta ☰, nota 📝 abre com toque), imagens embutidas renderizadas.
+
+## 🆕 Estrutura corrigida (C2 Item 3/4)
+- Do meio do `C2_Item04` (e parte do `C2_Item03`) os títulos estavam **recuados com 2 espaços** → o conversor não os via e ~1000 linhas viravam **uma página só** (`c2.i4.2`, 211 mil caracteres). Recuo removido + títulos vazios (`###`) apagados + 3 marcadores de título corrigidos (`## 1. Criação` → `# I Criação`, `#### .E.` → `##### E.`, `*F.` → `*f.`). **Nenhuma palavra mudou** (verificado com `_notes_guard`). Livro: **414 → 764 nós**, conservação 0 perdas.
+- `[image1]` (trecho JP escaneado, base64) saía como texto no fim de "Procura de Flores" → agora vai para `book.imagens` e aparece em "O Despertar (Satori)", onde é citado.
+- Pendências vistas: `# Parei aqui~!` no `C2_Item04` (linha ~1130) — marca de onde a normalização manual parou; **páginas** dos ~350 títulos novos ainda vazias (rodar `python tools/_build_pagemap.py --write` quando `Nao Organizados/` estiver no repo); `c1.i3.2.3.i` duplicado (`#### I.` entre `i.` e `ii.` no C1_Item03 — conferir no livro).
+
 ## ⏳ O que FALTA — **Fase B: NOTAS** (projeto focado, cuidadoso)
 Hoje a maioria dos ensinamentos mostra marcadores crus `*1 *2`; só o piloto C1_Item01 §2 tem as 3 notas reais (`[^id]` → chip 📝). Falta extrair/traduzir/injetar o resto.
 

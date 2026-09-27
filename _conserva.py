@@ -55,6 +55,7 @@ def _collect(x, out):
             _collect(v, out)
 
 b = json.load(open('shin-dendo-tebiki.json', encoding='utf-8'))
+IMAGENS = b.get('imagens', {})
 IDX = {}
 CAP_OF = {}
 def walk(n, cap):
@@ -92,6 +93,9 @@ def check(md, verbose):
         if not s or s in ('---', '***'):
             continue
         if HEAD.match(s) or MARK.match(s) or NOTEDEF.match(s):
+            continue
+        im = re.match(r'^\[(image\d+)\]:\s*<data:', s)          # imagem embutida -> book['imagens']
+        if im and im.group(1) in IMAGENS:
             continue
         n = re.sub(r'^[-–—•]\s*', '', norm(s)).strip('() ').strip()
         if len(n) < 4:

@@ -5,11 +5,12 @@
   :root{ --bg:#15171c; --panel:#1d2026; --line:#2e3340; --fg:#e7e9ee; --mut:#8a93a3; --acc:#5b9cff; }
   *{box-sizing:border-box}
   html,body{margin:0;height:100%;background:var(--bg);color:var(--fg);font:14px/1.5 system-ui,Segoe UI,Arial}
+  body{display:flex;flex-direction:column}
   #top{display:flex;align-items:center;gap:14px;padding:10px 16px;background:var(--panel);border-bottom:1px solid var(--line)}
   #top b{font-size:15px} #crumb{color:var(--mut);font-size:13px;display:flex;flex-wrap:wrap;gap:4px;align-items:center}
   #crumb .c{color:#cdd5e2;cursor:pointer;padding:1px 4px;border-radius:4px} #crumb .c:hover{background:#2a2f3a;color:#fff}
   #crumb .sep{color:#4a5161}
-  #main{display:flex;height:calc(100vh - 47px)}
+  #main{display:flex;flex:1;min-height:0}
   #side{width:430px;border-right:1px solid var(--line);display:flex;flex-direction:column;background:#181b21}
   #search{margin:10px;padding:8px 11px;background:#23272f;border:1px solid var(--line);border-radius:8px;color:var(--fg);font:inherit}
   #tree{flex:1;overflow:auto;padding:4px 6px 40px}
@@ -177,6 +178,42 @@
   #review .rv-keys{font-size:11px;color:var(--mut);margin-top:12px;line-height:1.6}
   #review kbd{border:1px solid var(--line);border-radius:4px;padding:0 4px;font-size:10.5px}
   body.light sup.rawmk{color:#9a5a12;border-color:rgba(154,90,18,.45)}
+  /* ----- busca no texto completo ----- */
+  #results{flex:1;overflow:auto;padding:0 8px 40px;display:none}
+  body.searching #results{display:block} body.searching #tree{display:none}
+  .rs-h{font-size:12px;color:var(--mut);margin:6px 4px 8px}
+  .rs{padding:7px 9px;border-radius:7px;cursor:pointer;border:1px solid transparent}
+  .rs:hover{background:#23262e;border-color:var(--line)}
+  .rs-t{font-weight:600;font-size:13px;color:var(--fg)} .rs-t .mk{margin-right:4px}
+  .rs-p{font-size:11.5px;color:var(--mut)}
+  .rs-s{font-size:12.5px;color:#aab3c0;line-height:1.5;margin-top:2px}
+  body.light .rs:hover{background:#eceae3} body.light .rs-s{color:#4a515c}
+  img.ens-img{display:block;max-width:100%;margin:14px auto;border-radius:6px;background:#fff;padding:6px}
+  /* ----- referência cruzada clicável (Livro pág. N) ----- */
+  a.xref{color:var(--acc);text-decoration:none;border-bottom:1px dotted var(--acc);white-space:nowrap;font-size:.92em}
+  a.xref:hover{border-bottom-style:solid}
+  sup.fn .fn-pop a.xref{font-size:1em}
+  #copyLink{background:transparent;border:1px solid var(--line);color:var(--mut);border-radius:20px;padding:2px 10px;font-size:12px;cursor:pointer;margin-left:4px}
+  #copyLink:hover{color:var(--fg);border-color:var(--acc)}
+  /* ----- site público (estático): sem ferramentas de edição ----- */
+  body.static #grifoBtn,body.static #revBtn,body.static sup.rawmk,body.static .only-local{display:none!important}
+  /* ----- celular ----- */
+  #menuBtn{display:none;background:transparent;border:1px solid var(--line);color:var(--fg);border-radius:7px;padding:3px 10px;font-size:15px;cursor:pointer}
+  @media (max-width: 820px){
+    #top{flex-wrap:wrap;gap:8px;padding:8px 12px}
+    #top b{font-size:14px}
+    #crumb{order:5;width:100%;font-size:12px;overflow-x:auto;flex-wrap:nowrap;white-space:nowrap}
+    #menuBtn{display:inline-block}
+    #side{position:fixed;z-index:300;top:0;bottom:0;left:0;width:88vw;max-width:400px;transform:translateX(-102%);transition:transform .2s;box-shadow:0 0 40px rgba(0,0,0,.5)}
+    body.drawer #side{transform:none}
+    body.drawer::after{content:"";position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:250}
+    #detail{padding:18px 16px 60px}
+    #detail h1{font-size:1.3em}
+    .ens-texto{font-size:16px;line-height:1.8}
+    .navbar{flex-direction:column}
+    #review{display:none!important}
+    sup.fn .fn-pop{max-width:88vw}
+  }
   /* ===================== TEMA CLARO ===================== */
   body.light{ --bg:#f7f6f2; --panel:#fffefb; --line:#dcd8cf; --fg:#222630; --mut:#6a7280; --acc:#2f6fed; }
   body.light #side{background:#f0eee7}
@@ -214,20 +251,25 @@
 </style></head>
 <body>
 <div id="top">
-  <b>📖 Apostila — navegação</b>
+  <button id="menuBtn" title="Índice">☰</button>
+  <b id="brand">📖 Apostila — navegação</b>
   <span id="crumb"></span>
   <button id="themeBtn" title="Alternar tema claro/escuro">☀️ Claro</button>
 </div>
 <div id="main">
   <div id="side">
-    <input id="search" placeholder="🔎 buscar título… (ex.: salmo, sabedoria, lei)">
+    <input id="search" type="search" placeholder="🔎 buscar no livro… (título e texto)">
     <div id="tree"></div>
+    <div id="results"></div>
   </div>
   <div id="detail"><div class="hint">Selecione um item na árvore ou busque acima.<br>Os 9 níveis ficam sempre visíveis na trilha do topo — você não se perde.</div></div>
   <aside id="review"></aside>
 </div>
 <script>
 const $=s=>document.querySelector(s);
+// Site público: build_site.py injeta window.SD_STATIC=true → só leitura (sem servidor, sem edição).
+const STATIC=!!window.SD_STATIC;
+if(STATIC){ document.body.classList.add('static'); $('#brand').textContent='📖 Novo Manual de Difusão'; }
 (function(){ const b=document.getElementById('themeBtn'); if(!b) return;
   function apply(t){ document.body.classList.toggle('light', t==='light'); b.textContent = t==='light' ? '🌙 Escuro' : '☀️ Claro'; }
   let t = localStorage.getItem('nav-theme') || 'dark'; apply(t);
@@ -245,9 +287,17 @@ const $=s=>document.querySelector(s);
     pop.style.left=left+'px'; pop.style.top=top+'px';
   }
   document.addEventListener('mouseover', e=>{ const fn=e.target.closest&&e.target.closest('sup.fn'); if(!fn||!fn.dataset.fn) return; const s=span(fn); if(s) s.classList.add('hl'); showPop(fn); });
+  document.addEventListener('click', e=>{   // toque (celular): abre/fecha o balão da nota
+    if(typeof GRIFO_EDIT!=='undefined' && GRIFO_EDIT) return;
+    const fn=e.target.closest&&e.target.closest('sup.fn');
+    document.querySelectorAll('sup.fn .fn-pop').forEach(p=>{ if(!fn||!fn.contains(p)) p.style.display='none'; });
+    if(fn && !(e.target.closest('a'))){ const pop=fn.querySelector('.fn-pop'); if(pop && pop.style.display!=='block') showPop(fn); }
+  });
   document.addEventListener('mouseout', e=>{ const fn=e.target.closest&&e.target.closest('sup.fn'); if(!fn||!fn.dataset.fn) return; if(e.relatedTarget&&fn.contains(e.relatedTarget)) return; const s=span(fn); if(s) s.classList.remove('hl'); const pop=fn.querySelector('.fn-pop'); if(pop) pop.style.display='none'; });
 })();
 let TREE=null, flat=[], cur=null;
+$('#menuBtn').onclick=()=>document.body.classList.toggle('drawer');
+document.addEventListener('click',e=>{ if(document.body.classList.contains('drawer') && !(e.target.closest('#side')||e.target.closest('#menuBtn'))) document.body.classList.remove('drawer'); });
 const CIRC=n=>String.fromCharCode(0x2460+(+n-1));
 function mkLabel(n){
   if(n.nivel==='circulo') return CIRC(n.marcador);
@@ -259,10 +309,29 @@ function walk(n,parent,depth){ n._p=parent; n._d=depth; flat.push(n); (n.childre
 function esc(s){ return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
 // Token de citação/fonte (NÃO casa glosas como "(innen)", "(tane)", "(Revelação)").
 const CIT_TOK=/(p[áa]g\.?|col\.|\bl\.\s|\bvol\b|se[çc]|linha|&lt;|&gt;|\bRon\b|\bShu\b|\bKyo\b|\bIshi\b|\bEi\b|\bChi\b|\bSui\b|\bKigo\b|Zenk[oôó]?u?|Zench[oôó]?|\bLivro\b|Hikari|Ronbet|\bSan\b|\bToko\b|Geisha|Shinken|\bK\d)/i;
+// Referência a página do próprio livro → link para o ensinamento daquela página.
+const PG_RE=/Livro,?\s*p[áa]g\.?\s*(\d+)|p[áa]g(?:ina)?\.?\s*(\d+)\s*(?:deste|desta)\s*(?:livro|obra)/gi;
+let PAGED=null;   // [ [pagina, nó] ] em ordem de leitura (páginas crescentes)
+function pageNode(pg){
+  if(!PAGED) PAGED=flat.filter(n=>n.pagina).map(n=>[n.pagina,n]);
+  const ex=PAGED.find(([p])=>p===pg); if(ex) return ex[1];          // começa exatamente nessa página
+  let best=null; for(const [p,n] of PAGED){ if(p<pg) best=n; else break; } return best;   // senão: o último que começa antes
+}
+function xrefA(pg,label,title){ const n=pageNode(pg); if(!n) return null;
+  return `<a class="xref" href="#${n.id}" title="${(title||('ir para a pág. '+pg)).replace(/"/g,'&quot;')}">${label}</a>`; }
+// liga as referências de página que sobraram no texto (fora de tags)
+function linkPages(html){
+  return html.split(/(<[^>]*>)/).map((part,i)=> i%2 ? part :
+    part.replace(PG_RE,(mm,a,b)=> xrefA(+(a||b), mm) || mm)).join('');
+}
 // Citação inline entre parênteses → chip 📖 (referência no hover). Glosa fica inline.
+// Se a citação aponta para uma página deste livro, vira link "📖 pág. N" (clicável).
 function refChips(html){
-  return html.replace(/\(([^()]{2,300})\)/g,(mm,inner)=> CIT_TOK.test(inner)
-    ? `<sup class="ref" title="${inner.replace(/"/g,'&quot;')}">📖</sup>` : mm);
+  return html.replace(/\(([^()]{2,300})\)/g,(mm,inner)=>{
+    if(!CIT_TOK.test(inner)) return mm;
+    const links=[...inner.matchAll(PG_RE)].map(m=>xrefA(+(m[1]||m[2]),'📖 pág. '+(m[1]||m[2]),inner)).filter(Boolean);
+    return links.length ? '('+links.join(', ')+')' : `<sup class="ref" title="${inner.replace(/"/g,'&quot;')}">📖</sup>`;
+  });
 }
 // Marcador cru de OCR ainda sem nota: "\*3"/"*3" ou dígito colado ("boca2.", "Isso6 é").
 // Só troca em TEXTO (fora de tags/atributos) → chip <sup.rawmk>.
@@ -276,7 +345,10 @@ function rawMarks(html){
 function renderNotas(text, notas){
   const m={}; (notas||[]).forEach(x=>m[x.n]={t:x.texto,id:x.id||''});
   let s=refChips(esc(text||''));                       // 1) citações inline viram chip 📖
-  const chip=(n)=>{const o=m[n]||{};return `<sup class="fn" data-fn="${n}" data-id="${o.id||''}" tabindex="0">${n}<span class="fn-pop">${esc(o.t||'')}</span></sup>`;};
+  const chip=(n)=>{const o=m[n]||{};return `<sup class="fn" data-fn="${n}" data-id="${o.id||''}" tabindex="0">${n}<span class="fn-pop">${linkPages(esc(o.t||''))}</span></sup>`;};
+  s=linkPages(s);                                      // 1b) "pág. N deste livro" solto no texto → link
+  s=s.replace(/!\[[^\]]*\]\[(image\d+)\]/g,(mm,id)=>{ const src=(TREE&&TREE.imagens||{})[id];   // 1c) imagem embutida (trecho do original)
+    return src?`<img class="ens-img" src="${src}" alt="imagem do original (${id})" loading="lazy">`:mm; });
   s=s.replace(/==(.+?)==([^\[]*?)\[\^(\d+)\]/g,(_,p,mid,n)=>`<span class="nspan" data-fn="${n}">${p}</span>${mid}${chip(n)}`); // 2) trecho citado grifável + nota
   s=s.replace(/\[\^(\d+)\]/g,(_,n)=>chip(n));           // 3) notas soltas
   s=rawMarks(s);   // 4) marcador cru de OCR (*3 ou dígito colado boca2.) = nota pendente
@@ -461,11 +533,16 @@ function toggle(n,force){
   n._kids.classList.toggle('collapsed',!open); n._tog.classList.toggle('open',open); n._tog.textContent=open?'▼':'▶';
 }
 function expandPath(n){ let p=n._p; while(p){ toggle(p,true); p=p._p; } }
-function select(n){
+function select(n, opt){
+  opt=opt||{};
   if(cur&&cur._row) cur._row.classList.remove('sel');
   cur=n; try{ localStorage.setItem('nav-cur', n.id); }catch(_){ }   // lembra o nó p/ restaurar no F5
-  n._row.classList.add('sel'); expandPath(n);
-  n._row.scrollIntoView({block:'center',behavior:'smooth'});
+  if(!opt.noHist && decodeURIComponent(location.hash.slice(1))!==n.id){   // link direto: #c1.i1.2 (voltar/avançar do navegador funcionam)
+    try{ history[opt.replace?'replaceState':'pushState'](null,'','#'+n.id); }catch(_){ }
+  }
+  document.title=((n.title||n.marcador||'').replace(/\[\^\d+\]|\*\d{1,2}(?!\d)/g,'').slice(0,60)+' — Novo Manual de Difusão');
+  document.body.classList.remove('drawer');
+  if(n._row){ n._row.classList.add('sel'); expandPath(n); n._row.scrollIntoView({block:'center',behavior:'smooth'}); }
   // trilha
   const path=[]; let p=n; while(p && p._p){ path.unshift(p); p=p._p; }
   $('#crumb').innerHTML='';
@@ -476,25 +553,97 @@ function select(n){
   const kids=n.children?n.children.length:0;
   $('#detail').innerHTML=`<div class="pathline">${path.map(x=>(x.nivel==='circulo'?CIRC(x.marcador):x.marcador)).join(' › ')}</div>
     <h1>${mkLabel(n)} ${renderTitle(n.title,(n.ensinamento||{}).notas)}</h1>
-    <div class="meta">${niceNivel}${n.pagina?` · pág. ${n.pagina} do livro`:''} · id <code>${n.id}</code></div>
-    ${n.pagina?`<span class="badge">📄 scan: pág. ${n.pagina}</span>`:''}${kids?`<span class="badge">▸ ${kids} subseções</span>`:'<span class="badge">ensinamento (folha)</span>'}
+    <div class="meta">${niceNivel}${n.pagina?` · pág. ${n.pagina} do livro`:''}<span class="only-local"> · id <code>${n.id}</code></span><button id="copyLink" title="copiar o link direto deste ensinamento">🔗 copiar link</button></div>
+    <span class="only-local">${n.pagina?`<span class="badge">📄 scan: pág. ${n.pagina}</span>`:''}${kids?`<span class="badge">▸ ${kids} subseções</span>`:'<span class="badge">ensinamento (folha)</span>'}</span>
     <div style="margin-top:24px">${renderPage(n)}</div>
     ${navBar(n)}`;
+  const cl=$('#copyLink'); if(cl) cl.onclick=()=>{ const u=location.href.split('#')[0]+'#'+n.id;
+    (navigator.clipboard?navigator.clipboard.writeText(u):Promise.reject()).then(()=>{cl.textContent='✓ link copiado';},()=>{prompt('Link deste ensinamento:',u);}); };
+  const det=$('#detail'); if(det && !opt.keepScroll) det.scrollTop=0;
+  if(opt.hl) highlightIn(det, opt.hl);
 }
-// busca: filtra a árvore
+// ===== busca no LIVRO TODO (título + texto + explicação + notas + anexos), sem acento/maiúscula =====
+// fold 1:1 (mesmo comprimento) → as posições do texto dobrado valem no original (trecho + destaque).
+function fold1(t){ return (t||'').replace(/[^\x00-\x7f]/g,c=>c.normalize('NFD')[0]||c).toLowerCase(); }
+function plain(t){ return (t||'').replace(/\[\^\d+\]/g,'').replace(/==/g,'').replace(/\{\{\w+\}\}/g,'').replace(/(?<![*\\])\*\d{1,2}(?![\d*])/g,'').replace(/\s+/g,' '); }
+let SIDX=null;
+function searchIndex(){
+  if(SIDX) return SIDX;
+  SIDX=flat.filter(n=>n._p).map(n=>{
+    const e=n.ensinamento||{};
+    const parts=[e.fonte,e.preambulo,e.texto,e.posfacio,e.resumo,e.explicacao,n.explicacao,n.subtitulo]
+      .concat((e.anexo||[]).map(a=>(a.titulo||'')+' '+(a.texto||''))).concat((e.notas||[]).map(x=>x.texto)).concat(e.referencias||[]);
+    const title=plain(n.title), body=plain(parts.filter(Boolean).join(' • '));
+    return {n, title, ft:fold1(title), body, fb:fold1(body)};
+  });
+  return SIDX;
+}
+function pathLabel(n){ const a=[]; let p=n._p; while(p&&p._p){ a.unshift(p.nivel==='circulo'?CIRC(p.marcador):p.marcador); p=p._p; } return a.join(' › '); }
+function markWords(txt, words){
+  const f=fold1(txt); const hits=[];
+  words.forEach(w=>{ let i=f.indexOf(w); while(i>=0){ hits.push([i,i+w.length]); i=f.indexOf(w,i+w.length); } });
+  hits.sort((a,b)=>a[0]-b[0]); let out='', last=0;
+  hits.forEach(([a,b])=>{ if(a<last) return; out+=esc(txt.slice(last,a))+'<mark>'+esc(txt.slice(a,b))+'</mark>'; last=b; });
+  return out+esc(txt.slice(last));
+}
+const STOP=new Set('a o e as os de da do das dos em no na nos nas um uma uns umas que se por para com ao aos à às é ou mas seu sua'.split(' '));
+function countOf(h,w){ let c=0,i=h.indexOf(w); while(i>=0){ c++; i=h.indexOf(w,i+w.length); } return c; }
+function runSearch(q){
+  const qf=fold1(q).trim().replace(/\s+/g,' ');
+  let words=qf.split(' ').filter(w=>w.length>=2&&!STOP.has(w));
+  if(!words.length && qf.length>=2) words=[qf];
+  const box=$('#results');
+  if(!words.length){ box.innerHTML='<div class="rs-h">digite ao menos 2 letras…</div>'; return; }
+  const multi=qf.includes(' ');
+  const res=[];
+  for(const r of searchIndex()){
+    const ph=multi?countOf(r.fb,qf)+countOf(r.ft,qf):0;            // frase exata vale mais
+    const inT=multi?r.ft.includes(qf):words.every(w=>r.ft.includes(w));
+    const all=words.every(w=>r.ft.includes(w)||r.fb.includes(w));
+    if(!ph && !inT && !all) continue;
+    const cnt=words.reduce((t,w)=>t+Math.min(countOf(r.fb,w),20),0);
+    res.push({r, ph, score:(inT?100000:0)+ph*500+cnt});
+  }
+  res.sort((a,b)=>b.score-a.score);
+  const shown=res.slice(0,150);
+  box.innerHTML=`<div class="rs-h">${res.length} resultado${res.length===1?'':'s'}${res.length>shown.length?' (mostrando 150)':''}</div>`+
+    shown.map(({r,ph},k)=>{
+      const terms=ph?[qf]:words;
+      let snip='';
+      const i=r.fb.indexOf(terms[0]);
+      if(i>=0){ const a=Math.max(0,i-70), b=Math.min(r.body.length,i+110); snip=(a?'…':'')+markWords(r.body.slice(a,b),terms)+(b<r.body.length?'…':''); }
+      return `<div class="rs" data-k="${k}"><div class="rs-p">${esc(pathLabel(r.n))}</div><div class="rs-t"><span class="mk">${esc(mkLabel(r.n))}</span>${markWords(r.title,terms)}</div>${snip?`<div class="rs-s">${snip}</div>`:''}</div>`;
+    }).join('');
+  box.querySelectorAll('.rs').forEach(el=>el.onclick=()=>{ const {r,ph}=shown[+el.dataset.k]; select(r.n,{hl:ph?[qf]:words}); });
+}
+// destaca as palavras buscadas dentro do ensinamento aberto e rola até a 1ª
+function highlightIn(root, words){
+  if(!root||!words||!words.length) return;
+  const tw=document.createTreeWalker(root,NodeFilter.SHOW_TEXT,{acceptNode:n=>n.parentNode.closest('.fn-pop,script,mark')?NodeFilter.FILTER_REJECT:NodeFilter.FILTER_ACCEPT});
+  const nodes=[]; let n; while((n=tw.nextNode())) nodes.push(n);
+  let first=null, total=0;
+  nodes.forEach(t=>{
+    if(total>=300) return;                                          // ensinamentos enormes: não trava a página
+    const f=fold1(t.data); const hits=[];
+    words.forEach(w=>{ let i=f.indexOf(w); while(i>=0){ hits.push([i,i+w.length]); i=f.indexOf(w,i+w.length); } });
+    if(!hits.length) return;
+    hits.sort((a,b)=>b[0]-a[0]);   // de trás pra frente: os offsets continuam válidos
+    let lastStart=Infinity;
+    hits.forEach(([a,b])=>{ if(b>lastStart) return; const r=document.createRange(); r.setStart(t,a); r.setEnd(t,b);
+      const m=document.createElement('mark'); r.surroundContents(m); first=m; lastStart=a; total++; });
+  });
+  if(first){ first.closest('details')&&(first.closest('details').open=true); setTimeout(()=>first.scrollIntoView({block:'center'}),30); }
+}
+function clearSearch(){ document.body.classList.remove('searching'); $('#results').innerHTML=''; }
+let _sT=null;
 $('#search').addEventListener('input',e=>{
-  const q=e.target.value.trim().toLowerCase();
-  if(!q){ render(); cur=null; $('#crumb').innerHTML=''; return; }
-  const hit=new Set();
-  flat.forEach(n=>{ if((n.title||'').toLowerCase().includes(q)||(n.marcador||'').toLowerCase()===q){ let p=n; while(p){hit.add(p);p=p._p;} } });
-  const root=$('#tree'); root.innerHTML='';
-  (function build(list,host){ list.forEach(n=>{ if(!hit.has(n))return;
-    const w=node(n); host.appendChild(w);
-    if(n._kids){ n._kids.classList.remove('collapsed'); n._tog.classList.add('open'); n._tog.textContent='▼'; }
-    // destaca match
-    if((n.title||'').toLowerCase().includes(q)){ n._row.querySelector('.lab').innerHTML=' '+(n.title||'').replace(/\[\^\d+\]/g,'').replace(new RegExp('('+q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','ig'),'<mark>$1</mark>'); }
-  }); })(TREE.children, root);
+  const q=e.target.value.trim();
+  clearTimeout(_sT);
+  if(!q){ clearSearch(); return; }
+  document.body.classList.add('searching');
+  _sT=setTimeout(()=>runSearch(q),160);
 });
+$('#search').addEventListener('keydown',e=>{ if(e.key==='Escape'){ e.target.value=''; clearSearch(); } if(e.key==='Enter'){ const f=$('#results .rs'); if(f) f.click(); } });
 // ===== modo edição de grifo: selecione o trecho no texto → clique na nota → salva no .md =====
 let GRIFO_EDIT=false, _gmenu=null, _lastSel='';
 let _reloading=false;
@@ -508,8 +657,8 @@ async function reloadBook(keepId){
     const det=$('#detail'); const sc=det?det.scrollTop:0;       // lembra a rolagem dentro da página
     const t=await (await fetch('/_book.json?'+Math.random())).json();
     if(t.sections && !t.children) t.children=t.sections;
-    TREE=t; flat=[]; walk(TREE,null,0); render(); cur=null;
-    if(keepId){ const a=flat.find(n=>n.id===keepId); if(a){ select(a); const d=$('#detail'); if(d) d.scrollTop=sc; } }  // mesmo nó + mesma rolagem
+    TREE=t; flat=[]; walk(TREE,null,0); PAGED=null; SIDX=null; render(); cur=null;
+    if(keepId){ const a=flat.find(n=>n.id===keepId); if(a){ select(a,{noHist:true,keepScroll:true}); const d=$('#detail'); if(d) d.scrollTop=sc; } }  // mesmo nó + mesma rolagem
   } finally { _reloading=false; }
 }
 function mdFileOf(id){ const m=(id||'').match(/^c(\d+)\.i(\d+)/); return m?('ShinDendo_C'+m[1]+'_Item0'+m[2]+'.md'):null; }
@@ -792,17 +941,31 @@ function rvGhost(p,scroll){
 // Carrega o livro real (shin-dendo-tebiki.json: raiz 'sections', ensinamentos
 // preenchidos). Cai no _tree.json + DEMO se o book ainda nao foi gerado.
 // Restaura o nó aberto + a rolagem após um F5 (recarregamento completo perde a variável 'cur').
+function nodeFromHash(){ const id=decodeURIComponent(location.hash.slice(1)); return id?flat.find(n=>n.id===id):null; }
+window.addEventListener('popstate',()=>{ const a=nodeFromHash(); if(a&&a!==cur) select(a,{noHist:true}); else if(!a) home(); });
+window.addEventListener('hashchange',()=>{ const a=nodeFromHash(); if(a&&a!==cur) select(a,{noHist:true}); });
+// Página inicial: capítulos e itens (quando não há nada aberto)
+function home(){
+  cur=null; document.title='Novo Manual de Difusão — 新・伝道の手引き';
+  $('#crumb').innerHTML='';
+  const cap=c=>`<div style="margin:18px 0 6px;font-weight:700;color:#f0c24b">${esc(c.marcador)} — ${esc(c.title)}</div>`+
+    (c.children||[]).map(i=>`<div><a class="xref" style="font-size:15px;white-space:normal" href="#${i.id}">${esc(i.marcador)} · ${esc((i.title||'').replace(/\[\^\d+\]|\*\d{1,2}(?!\d)/g,''))}</a>${i.pagina?` <span style="color:var(--mut);font-size:12px">pág. ${i.pagina}</span>`:''}</div>`).join('');
+  $('#detail').innerHTML=`<h1>${esc(TREE.title||'Novo Manual de Difusão')}</h1><div class="meta">${esc(TREE.titleJa||'')} · ${esc(TREE.kickerLabel||'')}</div>
+    <div class="hint">Use o índice (☰ no celular) ou a busca para achar um ensinamento. A busca procura no <b>texto inteiro</b> — títulos, ensinamentos, explicações e notas. Cada ensinamento tem um link próprio para compartilhar.</div>
+    ${(TREE.children||[]).map(cap).join('')}`;
+}
 function restoreCur(){
+  const h=nodeFromHash(); if(h){ select(h,{noHist:true}); return; }
   let id, sc; try{ id=localStorage.getItem('nav-cur'); sc=+localStorage.getItem('nav-scroll')||0; }catch(_){ }
-  if(!id) return;
-  const a=flat.find(n=>n.id===id); if(!a) return;
-  select(a);                                            // expande a trilha + seleciona + renderiza
+  if(!id){ home(); return; }
+  const a=flat.find(n=>n.id===id); if(!a){ home(); return; }
+  select(a,{replace:true});                             // expande a trilha + seleciona + renderiza
   if(sc){ const d=$('#detail'); if(d){ const set=()=>{ d.scrollTop=sc; };   // volta a rolagem; repete pois layout/fontes podem assentar tarde (senão clampa p/ 0)
     requestAnimationFrame(set); setTimeout(set,120); setTimeout(set,300); } }
 }
 // salva a rolagem do painel (debounce) p/ restaurar no F5
 $('#detail').addEventListener('scroll', ()=>{ clearTimeout(window._navScrollT); window._navScrollT=setTimeout(()=>{ try{ localStorage.setItem('nav-scroll', $('#detail').scrollTop); }catch(_){ } }, 200); }, {passive:true});
-fetch('/_book.json').then(r=>{ if(!r.ok) throw 0; return r.json(); }).then(t=>{
+fetch(STATIC?'book.json':'/_book.json').then(r=>{ if(!r.ok) throw 0; return r.json(); }).then(t=>{
   if(t.sections && !t.children) t.children = t.sections;   // raiz do book usa 'sections'
   TREE=t; flat=[]; walk(TREE,null,0); render(); restoreCur();
 }).catch(()=>{

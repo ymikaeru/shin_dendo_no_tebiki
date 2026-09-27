@@ -54,7 +54,7 @@ Texto omitido. Ver Capítulo 2, Item 4, 2 Keirin, 1 Paraíso Terrestre ⑫ i A (
 
 ##### ii As coisas necessárias foram preparadas por Deus
 
- (Kyo 29, pág. 44, l. 2-7 \<Zenkou Vol. 11, pág. 309\>)
+(Kyo 29, pág. 44, l. 2-7 \<Zenkou Vol. 11, pág. 309\>)
 
 O que faremos daqui para frente já foi preparado pelo lado de Deus há centenas, milhares, dezenas de milhares de anos, por isso basta que chegue o tempo. Portanto, é fácil. Por exemplo, no Paraíso Terrestre de Atami, conforme estendemos os muros de pedra, precisamos de quantidade ilimitada de pedras, e essas pedras saem ilimitadamente. Sabendo perfeitamente que agora esse muro de pedra seria necessário1, Deus preparou as pedras devidamente há dezenas de milhares, centenas de milhares de anos2. E para que se pudesse ver uma bela paisagem ali, Ele criou a Baía de Sagami, a ilha de Hatsushima e a ilha de Oshima como preparação para isso. (17 de dezembro de 1953\)
 
@@ -82,7 +82,7 @@ Texto omitido. Ver Capítulo 2, Item 4, 2 Keirin, 1 Paraíso Terrestre ② ii A 
 
 ##### ii Deus preparou também as condições culturais
 
- (Kyo 15, pág. 45, l. 12 \~ 47, l. 1 \<Zenkou Vol. 8, pág. 167\>)  
+(Kyo 15, pág. 45, l. 12 \~ 47, l. 1 \<Zenkou Vol. 8, pág. 167\>)  
 Texto omitido. Ver Capítulo 2, Item 4, 2 Keirin, 1 Paraíso Terrestre ② ii B (Livro pág. 553). 
 
 ### 3\. Criou as "Leis" e ordenou o Mundo Criado 
@@ -112,12 +112,12 @@ Acima de tudo, após a cirurgia de apendicite, mesmo que pareça saudável por u
 
 #### ③ Ambiente Natural, Alimento, Paladar\*1
 
- (K145, seções 17-25 \<Zencho Vol. 10, pág. 187\>)  
+(K145, seções 17-25 \<Zencho Vol. 10, pág. 187\>)  
 Originalmente, o Criador, ao criar o ser humano, criou também alimentos suficientes para que o ser humano pudesse viver e todas as outras coisas; para isso, concedeu essa força ao solo, mares e rios, bem como a plantas, minerais, ar, sol, lua e estrelas, a tudo sem exceção. E mesmo falando simplesmente em alimento, há uma certa condição. A condição é que o que se deve comer e o que não se deve comer estão separados\*2. Consequentemente, por essa necessidade, foi dado o paladar ao ser humano, e o sabor foi incluído nos alimentos. Além disso, há vários tipos de alimentos, e todos foram criados para se adequarem à saúde e ao ambiente do ser humano. Por exemplo, quando se precisa de sal, tem-se vontade de comer algo salgado; quando se precisa de doce, quer-se comer doce; quando se precisa de água, tem-se sede; assim, a natureza é feita de modo que o desejo surge conforme a necessidade. Ao mesmo tempo, a função digestiva também é feita para atender a uma certa condição. Ou seja, tudo o que se deve comer é digerido, mas o que não se deve comer não é processado e permanece. Por esta razão, como o medicamento é um corpo estranho, não é digerido nem processado; quando envelhece, transforma-se em toxina. A ação de eliminar essa toxina é a doença; portanto, a origem da doença é, nada mais nada menos, o medicamento. (1952 "Criação da Civilização" \- "Malefícios dos Remédios")
 
 #### ④ Fornecimento de alimentos conforme o ser humano e o ambiente
 
- (Shinken, pág. 14, l. 13 \~ 15, l. 7 \= Ishi Jo Jo 196, col. sup. l. 6 \~ col. inf. l. 4 \<Zencho Vol. 8, pág. 77\>)  
+(Shinken, pág. 14, l. 13 \~ 15, l. 7 \= Ishi Jo Jo 196, col. sup. l. 6 \~ col. inf. l. 4 \<Zencho Vol. 8, pág. 77\>)  
 Todos os alimentos têm alguma diferença conforme o clima e solo daquela terra, mas são produzidos para se adequarem aos seres humanos nascidos naquela terra. O fato de os amarelos comerem arroz e os brancos comerem trigo é assim; o fato de o Japão ser um país insular significa que se deve comer muito peixe, e está bem que os continentais comam carne.
 
 Por esta razão, a dieta vegetariana dos camponeses também condiz com a natureza. O fato de poderem suportar o trabalho sem descanso o dia todo deve-se à dieta vegetariana ser adequada. A ciência da nutrição, que desconhece essa razão, tenta ultimamente fazer os camponeses comerem carne e peixe, mas se fizerem isso, a força de trabalho dos camponeses diminuirá. Em contrapartida, os pescadores não conseguem ter trabalho contínuo devido à ingestão de peixe; trabalham intermitentemente. Além disso, comer peixe aumenta a sensibilidade, por isso é adequado para a pesca; a natureza é feita realmente muito bem\*. (20 de abril de 1950 "O Ser Humano é um Vaso de Saúde") 
@@ -126,7 +126,7 @@ Por esta razão, a dieta vegetariana dos camponeses também condiz com a naturez
 
 #### ① A Vontade Divina profunda e sutil
 
- (Su 4, seções 78-84 \<Zencho Vol. 10, pág. 275\>)  
+(Su 4, seções 78-84 \<Zencho Vol. 10, pág. 275\>)  
 Com este significado, escreverei sobre a constituição do mundo humano; explicando de forma fácil, se olharmos a humanidade horizontalmente (latitude), há mil diferenças e dez mil variações, cada um com capacidade diferente; mas se olharmos verticalmente (longitude), há apenas a diferença de superior, médio e inferior. A prova disso é que aqueles que governam um povo, um país ou uma região receberam a capacidade correspondente a isso\*; as pessoas que sobem à posição suprema são apenas algumas no mundo, mas conforme se desce, o número aumenta gradualmente. O fato de haver a maioria no nível mais baixo tem esse significado; Deus, no Plano Divino (Keirin), coloca e distribui tudo sem falta nem excesso, de forma adequada e engenhosa. Essa Vontade Divina profunda e sutil não pode ser sondada de forma alguma pelo ser humano. Além disso, comparando com os minerais, entende-se ainda melhor. Do diamante supremo, platina, ouro, prata, cobre, chumbo, até o ferro; quanto mais superior, menor a produção, e o ferro, que é o mais baixo, é o mais abundante; vendo isso é claro. Se compreenderem apenas esta realidade, a verdade da sociedade humana será reconhecida. Por esta razão, deve-se compreender quão errada é a luta de classes. (1952 "Criação da Civilização" \- "Doença Mental e Epilepsia")
 
 ***\[Explicação\]***   
@@ -161,13 +161,13 @@ Isso é a mesma coisa. Ambas se equilibram. A purificação é a salvação\*2, 
 
 #### ② Para agarrar a corda da salvação, é preciso purificar-se
 
- (Chi 3, pág. 11, col. sup. l. 2-9 \<Zenkou Vol. 3, pág. 181\>)
+(Chi 3, pág. 11, col. sup. l. 2-9 \<Zenkou Vol. 3, pág. 181\>)
 
 Mesmo que a corda da salvação desça de Deus, a pessoa que não consegue agarrá-la tem muitos pecados e impurezas, o corpo espiritual é pesado e não consegue agarrar. No entanto, depois ocorre o sofrimento de doenças e desastres devido à purificação; com isso o pecado diminui, o espírito fica leve e a mão alcança a corda da salvação. Sendo assim, para a pessoa que não consegue se agarrar à corda da salvação por mais que se pregue o bom ensinamento, não há outro jeito senão esperar o tempo até que o pecado diminua. Se fizer agarrar à força nessa hora, ela cairá. Mas, no caso acima, se receber Johrei, será purificada com facilidade e rapidez. (20 de abril de 1949\)
 
 #### ③ A purificação é uma provação de Deus?
 
- (Hikari Shin 1, pág. 78, l. 3-7 \<Zenkou Vol. 2, pág. 161\>)  
+(Hikari Shin 1, pág. 78, l. 3-7 \<Zenkou Vol. 2, pág. 161\>)  
 Na verdade, não existe provação de Deus. Foi o ser humano que inventou essa lógica. Quando Deus vai conceder algo bom ao ser humano, como o recipiente está sujo, primeiro Ele limpa esse recipiente. Esse momento é o sofrimento\*. Por isso, é a purificação. E quando termina e fica limpo, Deus concede a coisa boa. Por isso o ser humano pensa: "Ah, aquele sofrimento foi uma provação de Deus". (8 de janeiro de 1949\)
 
 ### 8\. O Nascimento do Japão como Nação Pacífica
@@ -383,7 +383,7 @@ Isso porque há uma ordem, e do lado de Deus, se for muito cedo, Ele não inform
 
 #### ① Compra do Kamiyama-so
 
- (Sui 3, pág. 41, l. 9-12 \<Zenkou Vol. 4, pág. 219\>)
+(Sui 3, pág. 41, l. 9-12 \<Zenkou Vol. 4, pág. 219\>)
 
 ***\[Trecho do Preâmbulo (Sui 3, pág. 40, l. 1 \~ 41, l. 9)\]***   
 *Para um professor que estava preocupado porque tinha que mudar o posto de difusão constantemente e as coisas não iam bem. —— Esta Obra Divina está sob o Plano de Deus (Keirin) que executa em curto período as mudanças que levaram milhares de anos no Mundo da Noite. A mudança constante de postos de difusão é um exemplo disso, e a mudança do jornal da Igreja de "Hikari", para "Kyusei", e depois "Eikou" também é exemplo. Ao comprar o Kamiyama-so em Hakone, a conversa surgiu de repente, e pensei que seria um fardo insuportável para a Igreja, mas pensando que Deus estava fazendo acontecer, decidi comprar, e depois tudo correu bem com a Força de Deus.*
@@ -462,7 +462,7 @@ Izunome é Oshin Miroku. Oshin Miroku é Kannon-Sama\*. Portanto, diz-se que Kan
 
 #### ① A Vontade de Deus é Amor e Misericórdia
 
- (Shu 149, col. sup. l. 18 \~ col. inf. l. 1 \= Ishi Shu Ge 287, col. inf. l. 9-10 \<Zencho Vol. 5, pág. 317\>) 
+(Shu 149, col. sup. l. 18 \~ col. inf. l. 1 \= Ishi Shu Ge 287, col. inf. l. 9-10 \<Zencho Vol. 5, pág. 317\>) 
 
 Primeiro, o que é a Vontade de Deus? É o Amor Absoluto e a própria Misericórdia. (5 de fevereiro de 1947 "Bem e Mal")
 
@@ -609,7 +609,7 @@ No Ofudesaki há: "Quando começar a Reconstrução, os que estiverem agarrados 
 
 ##### iii. Prolongar o Juízo para tentar salvar o maior número possível
 
- (Ronbetsu 549, col. inf. l. 3-8 \<Zenkou Vol. 4, pág. 261\>)
+(Ronbetsu 549, col. inf. l. 3-8 \<Zenkou Vol. 4, pág. 261\>)
 
 ***\[Trecho do Preâmbulo (Ronbetsu 549, col. sup. l. 9 \~ col. inf. l. 3)\]***   
 *A força de Deus está se tornando forte, e o deus maligno enfraquece gradualmente. Mas, mesmo enfraquecendo, a obstrução do deus maligno continuará até a conclusão do Mundo de Miroku (567).*
@@ -639,7 +639,7 @@ Isso não pode, esse tipo de pensamento. Primeiro, quem compreende não precisa 
 
 **c. O Coração de Grande Piedade (Daihi)**
 
- (Kyo 23, pág. 16, l. 1-7 \<Zenkou Vol. 10, pág. 274\>)
+(Kyo 23, pág. 16, l. 1-7 \<Zenkou Vol. 10, pág. 274\>)
 
 Texto omitido. Ver Capítulo 2, Item 4, 2 Keirin, 5 O Último Julgamento ④ iii (Livro pág. 646).
 
@@ -692,7 +692,7 @@ Sim. O lado de Deus não erra um milímetro, condiz com a lógica. (1 de agosto 
 
 ###### A. Seguir o exemplo de Meishu-Sama e Cristo
 
- (Sui 14, pág. 11, l. 4 \~ 12, l. 14 \<Zenkou Vol. 6, pág. 271\>) 
+(Sui 14, pág. 11, l. 4 \~ 12, l. 14 \<Zenkou Vol. 6, pág. 271\>) 
 
 O mundo é bom porque a justiça não é espezinhada, aconteça o que acontecer. Se a justiça não vencesse nem que fosse um pouco, o mundo colapsaria. É terrível. Por isso, mesmo Cristo, por ser correto, manifestou força suficiente para influenciar o mundo mesmo com a destruição do seu corpo. Portanto, o ser humano deve ter justiça — não apenas na forma. A convicção de manter a justiça até o fim é o valor do ser humano. Quanto mais forte isso for, maior o valor humano\*1. Pessoas sem isso, oportunistas ou calculistas, são apenas forma. São humanos sem ossos. Hoje em dia pode-se dizer que quase todos são assim. Por isso, é a espinha dorsal do ser humano. Antigamente, na minha época da Oomoto, houve um sujeito que veio com uma adaga; naquela época eu distribuía "Ohineri" e "Omamori" (amuletos). Ele disse para eu parar com isso. Isso se tornou um problema em toda a Oomoto. É natural. O Mestre (Onisaburo Deguchi) dizia que nem ele podia fazer. O Terceiro Líder — era criança. O que se tornou o Terceiro Líder agora, só ele podia fazer "Omamori" e "Ohineri". Isso está no Ofudesaki. No testamento. Por isso, até o Mestre dizia que nem ele podia fazer. Mas como eu estava fazendo, virou problema. Disseram que não podiam permitir ao fiel Okada, e ele veio com a adaga dizendo: "Vai parar? Se não parar, acabo com você. Responda". Eu disse: "Não posso parar"2. Então o sujeito ficou me encarando. Era perigoso. De repente, ele começou a se contorcer dizendo "Ai, ai, ai". Perguntei o que houve, e ele disse que a barriga doía muito. Era crise. Eu disse que ia curá-lo, deitei-o e curei-o. Então ele mudou completamente. Disse: "Vamos eu e você ao Mestre perguntar se pode fazer 'Omamori' e 'Ohineri'"; na manhã seguinte fomos os dois a Kameoka até o Mestre, e ele disse: "Okada faz assim e assado, o senhor permite?". A resposta do Mestre naquela hora foi interessante. Eu pensava no que ele diria, e ele disse: "Isso não pode ser feito por um fiel. Nem eu posso, deixei para o Terceiro, mas... bem, se fizer sem chamar muita atenção, tudo bem. Se chamar atenção, todos vão me atacar e será complicado, mas se todos quiserem, pode fazer, mas faça sem chamar atenção". Então o sujeito ficou surpreso. O Mestre sabia que eu não era uma pessoa comum4. (1 de outubro de 1952\)
 
@@ -711,45 +711,45 @@ Assim o mundo não pode melhorar, os maus aumentarão cada vez mais, e os bons s
 
 - *Não temerei por mais que o Maligno estorve, Pois tenho em mim a Força Infinita de Deus.* 
 
-  *(25 de maio de 1949\) (Chi 4, pág. 20, No. 3 \= Coletânea de Salmos de Mokiti Okada \[Vol. 4\], pág. 417, No. 3\)*
+*(25 de maio de 1949\) (Chi 4, pág. 20, No. 3 \= Coletânea de Salmos de Mokiti Okada \[Vol. 4\], pág. 417, No. 3\)*
 
 - *Emprestarei a Força do Deus Senhor para quebrar O profundo plano do Maligno\*.* 
 
-  *(25 de março de 1953\) (Chi 46, pág. 2, No. 6 \= Coletânea de Salmos de Mokiti Okada \[Vol. 6\], pág. 304, No. 1\)*
+*(25 de março de 1953\) (Chi 46, pág. 2, No. 6 \= Coletânea de Salmos de Mokiti Okada \[Vol. 6\], pág. 304, No. 1\)*
 
-  ###### *b. Ter convicção firme e mantê-la (Hikari 17, pág. 26, l. 12 \~ 27, l. 5 \<Zenkou Vol. 2, pág. 514\>)*
+###### *b. Ter convicção firme e mantê-la (Hikari 17, pág. 26, l. 12 \~ 27, l. 5 \<Zenkou Vol. 2, pág. 514\>)*
 
-  ***\[Trecho do Preâmbulo (Hikari 17, pág. 26, l. 1-11)\]*** 
+***\[Trecho do Preâmbulo (Hikari 17, pág. 26, l. 1-11)\]*** 
 
-  *Em resposta à pergunta "Uma pessoa que concilia a pesca, está muito ocupada com Johrei e não consegue pescar, e a família e parentes se opõem...", houve a orientação: "Pessoas para pescar há muitas. Deve-se manter o que beneficia o mundo e faz muitas pessoas felizes, mesmo com oposição".*
+*Em resposta à pergunta "Uma pessoa que concilia a pesca, está muito ocupada com Johrei e não consegue pescar, e a família e parentes se opõem...", houve a orientação: "Pessoas para pescar há muitas. Deve-se manter o que beneficia o mundo e faz muitas pessoas felizes, mesmo com oposição".*
 
-  Eu também mantive isso. Muitas vezes ouço que as autoridades investigam, que há repressão, que a Associação Médica obstrui, mas eu não ligo para nada disso. Por que? Porque o que estou fazendo é muito melhor do que o que eles fazem; tentar parar isso é que é ruim. Existindo o Deus Correto\*, o mal nunca vencerá. Além disso, se tivermos uma convicção firme, os opositores desaparecem. Haver opositores ou várias obstruções muitas vezes se deve ao fato de ainda haver brechas do nosso lado. Se houver nem que seja um pouco de dúvida ou fraqueza, o deus maligno mira aí — afinal é espírito — e atrapalha. Se decidirmos dez em dez e não houver brecha, o deus maligno não pode fazer nada. (28 de fevereiro de 1950\)
+Eu também mantive isso. Muitas vezes ouço que as autoridades investigam, que há repressão, que a Associação Médica obstrui, mas eu não ligo para nada disso. Por que? Porque o que estou fazendo é muito melhor do que o que eles fazem; tentar parar isso é que é ruim. Existindo o Deus Correto\*, o mal nunca vencerá. Além disso, se tivermos uma convicção firme, os opositores desaparecem. Haver opositores ou várias obstruções muitas vezes se deve ao fato de ainda haver brechas do nosso lado. Se houver nem que seja um pouco de dúvida ou fraqueza, o deus maligno mira aí — afinal é espírito — e atrapalha. Se decidirmos dez em dez e não houver brecha, o deus maligno não pode fazer nada. (28 de fevereiro de 1950\)
 
-  ##### C. A Justiça atrai a Felicidade 
+##### C. A Justiça atrai a Felicidade 
 
-  (Ten Fuku Sho, pág. 15, col. inf. l. 15 \~ 16, col. inf. l. 4 \= Ishi Shu Ge 94, col. sup. l. 6 \~ col. inf. l. 12 \<Zencho Vol. 12, pág. 38\>)
+(Ten Fuku Sho, pág. 15, col. inf. l. 15 \~ 16, col. inf. l. 4 \= Ishi Shu Ge 94, col. sup. l. 6 \~ col. inf. l. 12 \<Zencho Vol. 12, pág. 38\>)
 
-  A Justiça em si é Deus, e o Mal em si é o Demônio; Deus é Justiça, o Mal é o Demônio; e como é natural que Deus ame a felicidade e o Demônio ame a infelicidade, a felicidade e a infelicidade dependem da forma de pensar do ser humano; compreender esta verdade do fundo do ventre é o fundamental.
+A Justiça em si é Deus, e o Mal em si é o Demônio; Deus é Justiça, o Mal é o Demônio; e como é natural que Deus ame a felicidade e o Demônio ame a infelicidade, a felicidade e a infelicidade dependem da forma de pensar do ser humano; compreender esta verdade do fundo do ventre é o fundamental.
 
-  Pela razão acima, se não tiver o senso de justiça como base, é absolutamente impossível alcançar a felicidade. Portanto, não há nada que dê mais prejuízo do que o mal. Eu sempre digo: "Ó tolo, teu nome é vilão"; se compreenderem esta razão, tornar-se-ão imediatamente avançadores na estrada da boa sorte. No entanto, há uma condição para isso. Simplesmente falando em justiça, há dois tipos. Um é a pequena justiça que visa o interesse individual, a média justiça que visa a sociedade e a nação, e a grande justiça que visa a humanidade mundial. Mas a pequena e a média não são verdadeira justiça, são falsa justiça; a grande justiça é a verdadeira justiça. Por exemplo, a piedade filial aos pais e a lealdade ao soberano, em última análise, se forem baseadas no egoísmo, são falsa justiça. Mesmo na guerra recente, o Japão perdeu porque foi uma falsa justiça baseada apenas no interesse do Japão; se não for a grande justiça que visa o interesse do mundo todo, não se pode trazer a prosperidade eterna\*. (23 de dezembro de 1953 \- Ei 240 "Senso de Justiça")
+Pela razão acima, se não tiver o senso de justiça como base, é absolutamente impossível alcançar a felicidade. Portanto, não há nada que dê mais prejuízo do que o mal. Eu sempre digo: "Ó tolo, teu nome é vilão"; se compreenderem esta razão, tornar-se-ão imediatamente avançadores na estrada da boa sorte. No entanto, há uma condição para isso. Simplesmente falando em justiça, há dois tipos. Um é a pequena justiça que visa o interesse individual, a média justiça que visa a sociedade e a nação, e a grande justiça que visa a humanidade mundial. Mas a pequena e a média não são verdadeira justiça, são falsa justiça; a grande justiça é a verdadeira justiça. Por exemplo, a piedade filial aos pais e a lealdade ao soberano, em última análise, se forem baseadas no egoísmo, são falsa justiça. Mesmo na guerra recente, o Japão perdeu porque foi uma falsa justiça baseada apenas no interesse do Japão; se não for a grande justiça que visa o interesse do mundo todo, não se pode trazer a prosperidade eterna\*. (23 de dezembro de 1953 \- Ei 240 "Senso de Justiça")
 
-  ##### D. Responsabilidade dos Líderes (Shu 153, col. inf. l. 18 \~ 154, col. sup. l. 15 \= Ishi Shu Ge 240, col. inf. l. 7 \~ 241, col. inf. l. 1 \<Zencho Vol. 6, pág. 91\>)
+##### D. Responsabilidade dos Líderes (Shu 153, col. inf. l. 18 \~ 154, col. sup. l. 15 \= Ishi Shu Ge 240, col. inf. l. 7 \~ 241, col. inf. l. 1 \<Zencho Vol. 6, pág. 91\>)
 
-  Os fios espirituais variam em número conforme a classe do ser humano. Pessoas com muitos, por exemplo, se for o chefe de família, ligam-se à família, empregados, parentes, conhecidos. Se for presidente de empresa, a todos os funcionários. Se for homem público, chefe de vila, cidade, distrito, prefeito, governador, primeiro-ministro, presidente — rei, etc., todos têm ligação de fios espirituais com o povo da sua área de competência ou sob seu domínio, e quanto mais alta a posição, maior o número.
+Os fios espirituais variam em número conforme a classe do ser humano. Pessoas com muitos, por exemplo, se for o chefe de família, ligam-se à família, empregados, parentes, conhecidos. Se for presidente de empresa, a todos os funcionários. Se for homem público, chefe de vila, cidade, distrito, prefeito, governador, primeiro-ministro, presidente — rei, etc., todos têm ligação de fios espirituais com o povo da sua área de competência ou sob seu domínio, e quanto mais alta a posição, maior o número.
 
-  Nesse sentido, a personalidade dos líderes deve ser nobre. Se a alma do líder estiver turva, isso reflete na maioria, e o pensamento da maioria piora; portanto, um primeiro-ministro de um país, por exemplo, deve ser uma grande personalidade rica em sabedoria e despertar e que lida com as coisas com sinceridade suprema (shisei). No entanto, se o pensamento do povo piora, a moral decai e criminosos surgem sucessivamente, isso torna-se responsabilidade do governante\*.
+Nesse sentido, a personalidade dos líderes deve ser nobre. Se a alma do líder estiver turva, isso reflete na maioria, e o pensamento da maioria piora; portanto, um primeiro-ministro de um país, por exemplo, deve ser uma grande personalidade rica em sabedoria e despertar e que lida com as coisas com sinceridade suprema (shisei). No entanto, se o pensamento do povo piora, a moral decai e criminosos surgem sucessivamente, isso torna-se responsabilidade do governante\*.
 
-  Especialmente os educadores, se souberem que a sua personalidade reflete nos alunos através dos fios espirituais, devem polir sempre a sua própria alma e tornar-se pessoas que não envergonhem a posição de mestre. Especialmente os religiosos; fundadores de seitas, diretores, professores, etc., visto que são venerados como deuses vivos por muitos fiéis, a força de reflexão de suas almas é notável, por isso devem ter muito cuidado. No entanto, se houver comportamento inadequado aproveitando-se dessa alta posição, isso reflete em todos os fiéis, e por fim a religião acaba colapsando; exemplos disso são conhecidos por todos. (5 de setembro de 1948 "Sobre os Fios Espirituais")
+Especialmente os educadores, se souberem que a sua personalidade reflete nos alunos através dos fios espirituais, devem polir sempre a sua própria alma e tornar-se pessoas que não envergonhem a posição de mestre. Especialmente os religiosos; fundadores de seitas, diretores, professores, etc., visto que são venerados como deuses vivos por muitos fiéis, a força de reflexão de suas almas é notável, por isso devem ter muito cuidado. No entanto, se houver comportamento inadequado aproveitando-se dessa alta posição, isso reflete em todos os fiéis, e por fim a religião acaba colapsando; exemplos disso são conhecidos por todos. (5 de setembro de 1948 "Sobre os Fios Espirituais")
 
-  ***\[Explicação\]*** 
+***\[Explicação\]*** 
 
-  *Este ensinamento refere-se à Justiça de Deus que governa o mundo humano (ver Kyo 26, pág. 7, l. 8-12 \<Livro pág. 395\>).*
+*Este ensinamento refere-se à Justiça de Deus que governa o mundo humano (ver Kyo 26, pág. 7, l. 8-12 \<Livro pág. 395\>).*
 
-  **\[Anexo referente a D\]** 
+**\[Anexo referente a D\]** 
 
-  (Shu 119, col. sup. l. 1-4 \= Ishi Shu Ge 257, col. sup. l. 10-14 \<Zencho Vol. 5, pág. 275\>)
+(Shu 119, col. sup. l. 1-4 \= Ishi Shu Ge 257, col. sup. l. 10-14 \<Zencho Vol. 5, pág. 275\>)
 
-  Nesse sentido, o fato de a política de um país ser ruim deve-se ao fato de pessoas com aura espiritual fina governarem, e também ao fato de o povo que sofre com essa má política ter a aura espiritual fina\*, sendo algo realmente inevitável. (5 de fevereiro de 1947 "Ondas Espirituais e Aura Espiritual")
+Nesse sentido, o fato de a política de um país ser ruim deve-se ao fato de pessoas com aura espiritual fina governarem, e também ao fato de o povo que sofre com essa má política ter a aura espiritual fina\*, sendo algo realmente inevitável. (5 de fevereiro de 1947 "Ondas Espirituais e Aura Espiritual")
 
 ##### ii. Relacionado à Fé 
 
@@ -808,205 +808,204 @@ Esses casos são todos reprovação na provação de Deus. Se não for um ser hu
 
 - *O Mundo Espiritual clareia dia a dia; a purificação começa Pelas pessoas com muita mácula.* 
 
-  *(25 de agosto de 1952\) (Chi 39, pág. 2, No. 1 \= Coletânea de Salmos de Mokiti Okada \[Vol. 6\], pág. 237, No. 1\)*
+*(25 de agosto de 1952\) (Chi 39, pág. 2, No. 1 \= Coletânea de Salmos de Mokiti Okada \[Vol. 6\], pág. 237, No. 1\)*
 
-  ##### B. Sobre o rigor da Ordem (Sequência)
+##### B. Sobre o rigor da Ordem (Sequência)
 
-  ***\[Explicação\]*** 
+***\[Explicação\]*** 
 
-  *A palavra "Ordem" relaciona-se com "Posição" (Kurai). Ensina-se que o que tem "posição" mais alta deve ser tratado ① antes e ② com mais respeito do que o que tem posição mais baixa. O mais importante na ordem é:*
+*A palavra "Ordem" relaciona-se com "Posição" (Kurai). Ensina-se que o que tem "posição" mais alta deve ser tratado ① antes e ② com mais respeito do que o que tem posição mais baixa. O mais importante na ordem é:*
 
-  *1- Relação entre Deus e Homem (Ron 1320, col. sup. l. 15 \<Zencho Vol. 8, pág. 74\>). A pessoa salva deve venerar a Deus (B de a\~c) e servir a Deus — dedicar-se (C Reciprocidade da Proteção).* 
+*1- Relação entre Deus e Homem (Ron 1320, col. sup. l. 15 \<Zencho Vol. 8, pág. 74\>). A pessoa salva deve venerar a Deus (B de a\~c) e servir a Deus — dedicar-se (C Reciprocidade da Proteção).* 
 
-  *2- Relação entre Mundo Espiritual e Mundo Material. Deve-se lidar com as coisas priorizando o aspecto espiritual (B de d, e). Como a "Justiça de Deus" é "ser rigoroso contra o que não é correto", o fato de Deus ser rigoroso quanto à ordem foi incluído aqui como um dos problemas relacionados à "Justiça de Deus".*
+*2- Relação entre Mundo Espiritual e Mundo Material. Deve-se lidar com as coisas priorizando o aspecto espiritual (B de d, e). Como a "Justiça de Deus" é "ser rigoroso contra o que não é correto", o fato de Deus ser rigoroso quanto à ordem foi incluído aqui como um dos problemas relacionados à "Justiça de Deus".*
 
   
 
-  ###### *a. Tratamento dos Livros Divinos* 
+###### *a. Tratamento dos Livros Divinos* 
 
-  (Kyo 20, pág. 27, l. 17 \~ 28, l. 3 \<Zenkou Vol. 10, pág. 82\>) 
+(Kyo 20, pág. 27, l. 17 \~ 28, l. 3 \<Zenkou Vol. 10, pág. 82\>) 
 
-  No próximo relato de graças, sairá no "Eikou"; sobre isso, é uma história do Sr. Sakai de Kyushu, há vários exemplos. Na doença, o Johrei não ia bem; ao perceber, investigando os meus escritos ou o jornal "Eikou", estavam debaixo de jornais diários comuns ou imprensados; ao pensar "é isto" e tirar, o doente melhorou; é realmente claro. (15 de março de 1953\)
+No próximo relato de graças, sairá no "Eikou"; sobre isso, é uma história do Sr. Sakai de Kyushu, há vários exemplos. Na doença, o Johrei não ia bem; ao perceber, investigando os meus escritos ou o jornal "Eikou", estavam debaixo de jornais diários comuns ou imprensados; ao pensar "é isto" e tirar, o doente melhorou; é realmente claro. (15 de março de 1953\)
 
-  ###### *b. Tratamento da Caligrafia Divina (Goshotai)*
+###### *b. Tratamento da Caligrafia Divina (Goshotai)*
 
-   (Kyo 20, pág. 28, l. 4-14 \<Zenkou Vol. 10, pág. 82\>) 
+(Kyo 20, pág. 28, l. 4-14 \<Zenkou Vol. 10, pág. 82\>) 
 
-  E quanto ao que eu escrevi, isso também é incrível. Se houver algo em cima, sente-se um sofrimento inexplicável. Antigamente, quando eu estava em Hozan-so, aquele quarto dava uma sensação ruim. Eu sentia, e todos sentiam. Indo àquele quarto, todos pareciam ficar doentes. Achei estranho, mas não entendia. Mas havia um shikishi (papel quadrado para caligrafia/pintura) escrito por uma pessoa comum, que ganhei de alguém, pendurado na coluna. Percebi, e ao tirar, vi que atrás dele estava um shikishi meu; pensei "é isto", tirei, e a sensação aliviou.
+E quanto ao que eu escrevi, isso também é incrível. Se houver algo em cima, sente-se um sofrimento inexplicável. Antigamente, quando eu estava em Hozan-so, aquele quarto dava uma sensação ruim. Eu sentia, e todos sentiam. Indo àquele quarto, todos pareciam ficar doentes. Achei estranho, mas não entendia. Mas havia um shikishi (papel quadrado para caligrafia/pintura) escrito por uma pessoa comum, que ganhei de alguém, pendurado na coluna. Percebi, e ao tirar, vi que atrás dele estava um shikishi meu; pensei "é isto", tirei, e a sensação aliviou.
 
-  Está escrito em vários relatos de graças desta vez, lendo entenderão, mas deve-se ter muito cuidado com isso. Ficar doente e não curar por vários dias, e ao entender, curar imediatamente. Acontece muito em doenças de crianças. O que é isso? É porque a ordem está errada\*. Por isso, mesmo em casa, nunca coloco o jornal "Eikou" embaixo. E nunca coloco meus escritos ou fotos embaixo. Não é só pelas pessoas, eu mesmo sinto-me mal. (15 de março de 1953\)
+Está escrito em vários relatos de graças desta vez, lendo entenderão, mas deve-se ter muito cuidado com isso. Ficar doente e não curar por vários dias, e ao entender, curar imediatamente. Acontece muito em doenças de crianças. O que é isso? É porque a ordem está errada\*. Por isso, mesmo em casa, nunca coloco o jornal "Eikou" embaixo. E nunca coloco meus escritos ou fotos embaixo. Não é só pelas pessoas, eu mesmo sinto-me mal. (15 de março de 1953\)
 
-  ###### *c. Tratamento de cópias dos Ensinamentos (Sui 15, pág. 10, l. 13 \~ 11, l. 5 \<Zenkou Vol. 6, pág. 295\>)*
+###### *c. Tratamento de cópias dos Ensinamentos (Sui 15, pág. 10, l. 13 \~ 11, l. 5 \<Zenkou Vol. 6, pág. 295\>)*
 
-  ―― No caso de copiar os Livros Divinos... Como assim? ―― No caso de copiar para divulgação ou referência, a Luz reside da mesma forma? Não entendo bem o que você diz... A Luz é a mesma do que está impresso no livro. ―― Então, o tratamento deve ser o mesmo dos Livros Divinos? Pode tratar igual. Afinal, os tipos móveis também foram feitos por humanos. Feitos com chumbo e óleo. Mesmo que um humano escreva, molhando o pincel na tinta ou com caneta tinteiro... É a mesma coisa\*. (1 de novembro de 1952\)
+―― No caso de copiar os Livros Divinos... Como assim? ―― No caso de copiar para divulgação ou referência, a Luz reside da mesma forma? Não entendo bem o que você diz... A Luz é a mesma do que está impresso no livro. ―― Então, o tratamento deve ser o mesmo dos Livros Divinos? Pode tratar igual. Afinal, os tipos móveis também foram feitos por humanos. Feitos com chumbo e óleo. Mesmo que um humano escreva, molhando o pincel na tinta ou com caneta tinteiro... É a mesma coisa\*. (1 de novembro de 1952\)
 
-  ###### *d. Quando não condiz com a lógica, há aviso (Kyo 26, pág. 8, l. 7-15 \<Zenkou Vol. 11, pág. 69\>)*
+###### *d. Quando não condiz com a lógica, há aviso (Kyo 26, pág. 8, l. 7-15 \<Zenkou Vol. 11, pág. 69\>)*
 
-  ***\[Trecho do Preâmbulo (Kyo 26, pág. 7, l. 14 \~ 8, l. 7)\]*** 
+***\[Trecho do Preâmbulo (Kyo 26, pág. 7, l. 14 \~ 8, l. 7)\]*** 
 
-  *Quase ocorreu um grande incidente num posto de difusão de uma Igreja Regional em Tóquio. Investigando, não havia Chefe de Igreja nesse posto. Se não houver responsável num posto, não se pode lidar com doenças dos fiéis, o que não condiz com a lógica.*
+*Quase ocorreu um grande incidente num posto de difusão de uma Igreja Regional em Tóquio. Investigando, não havia Chefe de Igreja nesse posto. Se não houver responsável num posto, não se pode lidar com doenças dos fiéis, o que não condiz com a lógica.*
 
-  Por isso, quando não condiz com a lógica, certamente há um aviso. Se houver algo estranho, nem que seja um pouco, ao investigar tudo, certamente há algo errado. Portanto, se acharem algo que não condiz com a lógica\* ou algo estranho, pensem nisso; se pensarem que há algo errado em algum lugar, certamente há. Isso também, se não tiver sabedoria e despertar, não se pode descobrir. Portanto, descobrir o ponto vital e não errar a ordem. Errar a ordem acontece muito. Errar significa não perceber. E também há o desconhecimento. Por exemplo, não saber a distinção de fazer isto primeiro e aquilo depois, ou não perceber, acontece muito. Essas coisas parecem um pouco trabalhosas, mas quando se sabe, acerta-se a ordem inconscientemente. (5 de setembro de 1953\)
+Por isso, quando não condiz com a lógica, certamente há um aviso. Se houver algo estranho, nem que seja um pouco, ao investigar tudo, certamente há algo errado. Portanto, se acharem algo que não condiz com a lógica\* ou algo estranho, pensem nisso; se pensarem que há algo errado em algum lugar, certamente há. Isso também, se não tiver sabedoria e despertar, não se pode descobrir. Portanto, descobrir o ponto vital e não errar a ordem. Errar a ordem acontece muito. Errar significa não perceber. E também há o desconhecimento. Por exemplo, não saber a distinção de fazer isto primeiro e aquilo depois, ou não perceber, acontece muito. Essas coisas parecem um pouco trabalhosas, mas quando se sabe, acerta-se a ordem inconscientemente. (5 de setembro de 1953\)
 
-  ###### *e. No Mundo Espiritual a ordem é rigorosa* 
+###### *e. No Mundo Espiritual a ordem é rigorosa* 
 
-  (Kyo 26, pág. 10, l. 1-7, 10, l. 12 \~ 11, l. 5 \<Zenkou Vol. 11, pág. 70\>)
+(Kyo 26, pág. 10, l. 1-7, 10, l. 12 \~ 11, l. 5 \<Zenkou Vol. 11, pág. 70\>)
 
-  O Mundo Espiritual não é bagunçado, é realmente rigoroso; pela Lei de Espírito Precede a Matéria, se a ordem estiver errada, a influência vem na mesma medida, causando sofrimento, as coisas não andam, sente-se um mal-estar. Por isso, eu falando aqui do alto, é fácil falar e para vocês é fácil ouvir, mas se fosse o contrário seria estranho. Portanto, "Deus é Ordem", e Deus é muito rigoroso com a ordem. Sempre que oro aos Budas, vêm muitos antepassados, mas a ordem é realmente perfeita. Os grandes antepassados ficam no nível superior, e descendo para os antepassados mais recentes, pais e irmãos, parentes, a ordem está alinhada corretamente. Mas no Mundo Espiritual há vários deuses malignos e espíritos do lado oposto1, e eles tentam quebrar a ordem o tempo todo. Isso reflete no corpo e acontecem várias coisas. O deus maligno está sempre me mirando. Mas como tem medo da luz, não pode chegar perto, então age à distância. Quando acontece algo, percebo logo que é obra do deus maligno; eles mudam a ordem de forma absurda. Dizendo detalhadamente, vocês pensariam "será que tal coisa influencia?"... Tentam me colocar para baixo2. Não de forma visível\*3, é algo realmente sutil, mas com isso a minha luz é cortada um pouco.
+O Mundo Espiritual não é bagunçado, é realmente rigoroso; pela Lei de Espírito Precede a Matéria, se a ordem estiver errada, a influência vem na mesma medida, causando sofrimento, as coisas não andam, sente-se um mal-estar. Por isso, eu falando aqui do alto, é fácil falar e para vocês é fácil ouvir, mas se fosse o contrário seria estranho. Portanto, "Deus é Ordem", e Deus é muito rigoroso com a ordem. Sempre que oro aos Budas, vêm muitos antepassados, mas a ordem é realmente perfeita. Os grandes antepassados ficam no nível superior, e descendo para os antepassados mais recentes, pais e irmãos, parentes, a ordem está alinhada corretamente. Mas no Mundo Espiritual há vários deuses malignos e espíritos do lado oposto1, e eles tentam quebrar a ordem o tempo todo. Isso reflete no corpo e acontecem várias coisas. O deus maligno está sempre me mirando. Mas como tem medo da luz, não pode chegar perto, então age à distância. Quando acontece algo, percebo logo que é obra do deus maligno; eles mudam a ordem de forma absurda. Dizendo detalhadamente, vocês pensariam "será que tal coisa influencia?"... Tentam me colocar para baixo2. Não de forma visível\*3, é algo realmente sutil, mas com isso a minha luz é cortada um pouco.
 
-  Quanto mais corta, mais a vida do deus maligno se prolonga. Eles sabem que não durarão muito, mas como ainda têm autoridade como deus maligno, querem prolongar essa autoridade nem que seja por um dia. Por isso obstruem a minha luz. Os vários incidentes até agora foram todos isso. Com isso prolongam temporariamente. Mas o meu lado vai ficando mais forte, e no fim o outro lado desiste (morre). Então vem o Mundo de Miroku. (5 de setembro de 1953\)
+Quanto mais corta, mais a vida do deus maligno se prolonga. Eles sabem que não durarão muito, mas como ainda têm autoridade como deus maligno, querem prolongar essa autoridade nem que seja por um dia. Por isso obstruem a minha luz. Os vários incidentes até agora foram todos isso. Com isso prolongam temporariamente. Mas o meu lado vai ficando mais forte, e no fim o outro lado desiste (morre). Então vem o Mundo de Miroku. (5 de setembro de 1953\)
 
-  ###### *F. Quando quiser receber Johrei, peça baixando a cabeça\* (Kyo 22, pág. 59, l. 4-12 \<Zenkou Vol. 10, pág. 257\>)*
+###### *f. Quando quiser receber Johrei, peça baixando a cabeça\* (Kyo 22, pág. 59, l. 4-12 \<Zenkou Vol. 10, pág. 257\>)*
 
-  Em suma, Johrei feito de qualquer jeito não funciona muito. Por isso, mesmo eu, por mais que minha esposa esteja sofrendo, nunca faço se ela não pedir para fazer. Se disser "estou sofrendo aqui", "dói aqui, por favor faça", tudo bem; mas o ser humano é estranho e lança enigmas. Diz "ah, aqui está ruim" ou "aqui dói", mas eu finjo que não ouço. Não faço até que o outro lado baixe a cabeça. Não é por maldade nem nada. Se não for assim, a cura é ruim. O pior é a venda forçada. Dizer "vamos, vou fazer" e fazer, isso não pode. Claro, bebês são exceção, mas se tiver discernimento, não tem efeito se não fizer depois que o outro disser "por favor". Portanto, devem saber bem disso. (27 de maio de 1953\)
+Em suma, Johrei feito de qualquer jeito não funciona muito. Por isso, mesmo eu, por mais que minha esposa esteja sofrendo, nunca faço se ela não pedir para fazer. Se disser "estou sofrendo aqui", "dói aqui, por favor faça", tudo bem; mas o ser humano é estranho e lança enigmas. Diz "ah, aqui está ruim" ou "aqui dói", mas eu finjo que não ouço. Não faço até que o outro lado baixe a cabeça. Não é por maldade nem nada. Se não for assim, a cura é ruim. O pior é a venda forçada. Dizer "vamos, vou fazer" e fazer, isso não pode. Claro, bebês são exceção, mas se tiver discernimento, não tem efeito se não fizer depois que o outro disser "por favor". Portanto, devem saber bem disso. (27 de maio de 1953\)
 
-  ###### *g. Ao fazer pedidos* 
+###### *g. Ao fazer pedidos* 
 
-  (Kyo 22, pág. 59, l. 12 \~ 60, l. 11 \<Zenkou Vol. 10, pág. 257\>) 
+(Kyo 22, pág. 59, l. 12 \~ 60, l. 11 \<Zenkou Vol. 10, pág. 257\>) 
 
-  É como ir a santuários e templos querendo receber uma graça em alguma ocasião; se disser "por favor, me ajude", recebe-se a graça. Se ficar andando de um lado para o outro distraidamente, Deus também vira o rosto, perguntando o que está fazendo1. Não se deve esquecer que há diferença de posição entre o ser humano e Deus. E dizer "se curar eu agradeço" ou "se curar, permita-me entrar na fé" está bem, mas dizer "se curar eu entro na fé (como favor)" não se sabe quem está acima. Basicamente, agradecer se curar é como contratar Deus para trabalhar2, como pagar salário. "Faça este trabalho que eu dou este salário"; assim Deus também vira o rosto. Isso é difícil.
+É como ir a santuários e templos querendo receber uma graça em alguma ocasião; se disser "por favor, me ajude", recebe-se a graça. Se ficar andando de um lado para o outro distraidamente, Deus também vira o rosto, perguntando o que está fazendo1. Não se deve esquecer que há diferença de posição entre o ser humano e Deus. E dizer "se curar eu agradeço" ou "se curar, permita-me entrar na fé" está bem, mas dizer "se curar eu entro na fé (como favor)" não se sabe quem está acima. Basicamente, agradecer se curar é como contratar Deus para trabalhar2, como pagar salário. "Faça este trabalho que eu dou este salário"; assim Deus também vira o rosto. Isso é difícil.
 
-  Além disso, dizer para dar dinheiro quando não há muita graça também é errado. Antes, professores da Tenrikyo diziam muito que se desse tanto dinheiro a doença curava. Então davam o dinheiro, mas às vezes não curava e a pessoa morria; eu costumava dizer que não era Deus fazendo, mas o intermediário de Deus cometendo fraude. O correto é dar com sentimento de gratidão verdadeira por ter recebido a graça; fazer dar como venda casada não pode. Mas também, receber tal graça, ter a vida salva, e esquecer, ou gastar muito em coisas fúteis e dar só um pouco como agradecimento, também não condiz com a lógica. Portanto, como disse antes, tem que condizer com a lógica. (27 de maio de 1953\)
+Além disso, dizer para dar dinheiro quando não há muita graça também é errado. Antes, professores da Tenrikyo diziam muito que se desse tanto dinheiro a doença curava. Então davam o dinheiro, mas às vezes não curava e a pessoa morria; eu costumava dizer que não era Deus fazendo, mas o intermediário de Deus cometendo fraude. O correto é dar com sentimento de gratidão verdadeira por ter recebido a graça; fazer dar como venda casada não pode. Mas também, receber tal graça, ter a vida salva, e esquecer, ou gastar muito em coisas fúteis e dar só um pouco como agradecimento, também não condiz com a lógica. Portanto, como disse antes, tem que condizer com a lógica. (27 de maio de 1953\)
 
-  ###### *h. Não resolver outros assuntos antes de visitar o Santuário (Sui 29, pág. 14, l. 11 \~ 15, l. 1 \<Zenkou Vol. 12, pág. 50\>)*
+###### *h. Não resolver outros assuntos antes de visitar o Santuário (Sui 29, pág. 14, l. 11 \~ 15, l. 1 \<Zenkou Vol. 12, pág. 50\>)*
 
-  Primeiro vai-se adorar a Deus, e depois não importa que assuntos se trate. Mas se resolver outros assuntos primeiro e deixar a adoração a Deus para depois, a ordem está errada, então nunca dá certo. As coisas não fluem bem. Por isso, tem que distinguir claramente o principal e o secundário. Assim dá certo. (1 de março de 1954\)
+Primeiro vai-se adorar a Deus, e depois não importa que assuntos se trate. Mas se resolver outros assuntos primeiro e deixar a adoração a Deus para depois, a ordem está errada, então nunca dá certo. As coisas não fluem bem. Por isso, tem que distinguir claramente o principal e o secundário. Assim dá certo. (1 de março de 1954\)
 
-  ##### C. Reciprocidade da Proteção 
+##### C. Reciprocidade da Proteção 
 
-  ###### 
 
-  ###### *a. A reciprocidade da proteção vista na re-purificação (Shu 24, col. inf. l. 17 \~ 25, col. sup. l. 5 \= Ishi Shu Ge 60, col. sup. l. 11 \~ col. inf. l. 9 \<Zencho Vol. 11, pág. 507\>)*
+###### *a. A reciprocidade da proteção vista na re-purificação (Shu 24, col. inf. l. 17 \~ 25, col. sup. l. 5 \= Ishi Shu Ge 60, col. sup. l. 11 \~ col. inf. l. 9 \<Zencho Vol. 11, pág. 507\>)*
 
-  Explicando essa lógica de forma mais fácil: se o valor da vida for dez, e a gratidão for dez, o saldo é zero\*; se for mais de dez, o excesso torna-se positivo, e Deus concede graças muitas vezes maiores. Ao contrário, se a gratidão for cinco, o saldo é cinco negativo, tornando-se uma dívida com Deus. Então, deve-se pagar o mais rápido possível; se negligenciar, os juros acumulam-se e a dívida aumenta. Nesse ponto não há diferença em relação ao mundo material; isso também é a Lei da Concordância (Souou no Ri). Então, quando a dívida se acumula e ultrapassa certo limite, vem a cobrança ou penhora do Tribunal de Direito Divino. Isso é a re-purificação; portanto, se perceber isso, pedir perdão de coração e pagar o principal e os juros, é natural que seja salvo. (27 de maio de 1953 \- Ei 210 "A Racionalidade da Fé e a Re-purificação")
+Explicando essa lógica de forma mais fácil: se o valor da vida for dez, e a gratidão for dez, o saldo é zero\*; se for mais de dez, o excesso torna-se positivo, e Deus concede graças muitas vezes maiores. Ao contrário, se a gratidão for cinco, o saldo é cinco negativo, tornando-se uma dívida com Deus. Então, deve-se pagar o mais rápido possível; se negligenciar, os juros acumulam-se e a dívida aumenta. Nesse ponto não há diferença em relação ao mundo material; isso também é a Lei da Concordância (Souou no Ri). Então, quando a dívida se acumula e ultrapassa certo limite, vem a cobrança ou penhora do Tribunal de Direito Divino. Isso é a re-purificação; portanto, se perceber isso, pedir perdão de coração e pagar o principal e os juros, é natural que seja salvo. (27 de maio de 1953 \- Ei 210 "A Racionalidade da Fé e a Re-purificação")
 
-  ###### *b. A reciprocidade da proteção vista no agradecimento pelas graças (Sui 16, pág. 7, l. 4 \~ 8, l. 6 \<Zenkou Vol. 6, pág. 311\>)*
+###### *b. A reciprocidade da proteção vista no agradecimento pelas graças (Sui 16, pág. 7, l. 4 \~ 8, l. 6 \<Zenkou Vol. 6, pág. 311\>)*
 
-  Se avaliar a graça, salvar uma vida perdida significa que a pessoa não se importa em sacrificar qualquer coisa. Supondo que receba cem de graça e agradeça dez a Deus, noventa vira dívida. Como vira dívida, a graça posterior não vem muito. Por isso, falando estritamente, chega-se a isso. Mas a pessoa comum, se recebe cem de graça e dá cinquenta a Deus, já é bom. Se der tudo fica sem nada... Mas como dá vinte ou trinta, os oitenta ou setenta restantes viram dívida. Então o depois fica ruim. Se for dinheiro, ao dar dinheiro, geralmente volta dez vezes mais. Se for uma religião onde se dá dinheiro e fica pobre, é melhor parar com a fé. É porque Deus não tem força1. ―― Por isso eu digo: façam como eu digo, e se não acontecer assim, eu assumo a responsabilidade, então tentem fazer. Coisas assim eu não digo muito normalmente. Porque é fácil ser visto como religião exploradora tipo Tenrikyo, então não digo, mas em ocasiões como hoje, como não são fiéis comuns, mas pessoas do ginásio da fé para cima2, eu digo. Na verdade é assim. Por isso em tudo é assim. Hoje no mundo, têm medo de pegar resfriado ou de contágio de tuberculose, têm medo da doença, mas ao entrar na Igreja Messiânica essa preocupação desaparece. Só o fato de dizer que a doença é boa já é uma graça imensa. Não há gente no mundo que tema menos a doença do que os fiéis da Igreja Messiânica. Portanto, se deixar por conta de Deus, seja como for, nunca haverá erro. Como isso nunca existiu até hoje, é muito difícil para o mundo em geral compreender até esse ponto com a cabeça religiosa. (1 de dezembro de 1952\)
+Se avaliar a graça, salvar uma vida perdida significa que a pessoa não se importa em sacrificar qualquer coisa. Supondo que receba cem de graça e agradeça dez a Deus, noventa vira dívida. Como vira dívida, a graça posterior não vem muito. Por isso, falando estritamente, chega-se a isso. Mas a pessoa comum, se recebe cem de graça e dá cinquenta a Deus, já é bom. Se der tudo fica sem nada... Mas como dá vinte ou trinta, os oitenta ou setenta restantes viram dívida. Então o depois fica ruim. Se for dinheiro, ao dar dinheiro, geralmente volta dez vezes mais. Se for uma religião onde se dá dinheiro e fica pobre, é melhor parar com a fé. É porque Deus não tem força1. ―― Por isso eu digo: façam como eu digo, e se não acontecer assim, eu assumo a responsabilidade, então tentem fazer. Coisas assim eu não digo muito normalmente. Porque é fácil ser visto como religião exploradora tipo Tenrikyo, então não digo, mas em ocasiões como hoje, como não são fiéis comuns, mas pessoas do ginásio da fé para cima2, eu digo. Na verdade é assim. Por isso em tudo é assim. Hoje no mundo, têm medo de pegar resfriado ou de contágio de tuberculose, têm medo da doença, mas ao entrar na Igreja Messiânica essa preocupação desaparece. Só o fato de dizer que a doença é boa já é uma graça imensa. Não há gente no mundo que tema menos a doença do que os fiéis da Igreja Messiânica. Portanto, se deixar por conta de Deus, seja como for, nunca haverá erro. Como isso nunca existiu até hoje, é muito difícil para o mundo em geral compreender até esse ponto com a cabeça religiosa. (1 de dezembro de 1952\)
 
-  ##### D. Seleção — Intervenção da Vontade Divina
+##### D. Seleção — Intervenção da Vontade Divina
 
-  ***\[Explicação\]*** 
+***\[Explicação\]*** 
 
-  *O que permeia os ensinamentos deste subitem é que o fato de a pessoa deixar a fé deve-se à "Intervenção da Vontade Divina" — ou seja, deixar a fé depende, em última análise, da Vontade de Deus. Se Deus julgar que o coração é impuro e não pode ter fé verdadeira, Deus fará com que essa pessoa sinta vontade de deixar a fé. Portanto, deve-se estar ciente de que manter a fé é também proteção (graça) de Meishu-Sama, e dedicar-se ao serviço com gratidão (ver também Sui 25, pág. 4, l. 8-14 \<Livro pág. 363\>).*
+*O que permeia os ensinamentos deste subitem é que o fato de a pessoa deixar a fé deve-se à "Intervenção da Vontade Divina" — ou seja, deixar a fé depende, em última análise, da Vontade de Deus. Se Deus julgar que o coração é impuro e não pode ter fé verdadeira, Deus fará com que essa pessoa sinta vontade de deixar a fé. Portanto, deve-se estar ciente de que manter a fé é também proteção (graça) de Meishu-Sama, e dedicar-se ao serviço com gratidão (ver também Sui 25, pág. 4, l. 8-14 \<Livro pág. 363\>).*
 
-  ###### *a Ser testado e expulso (Sui 3, pág. 45, l. 5-7 \<Zenkou Vol. 4, pág. 223\>) Não é bem assim. Se for alguém que ouve o que eu digo, fico tranquilo. Porque é mais perigoso do que a prática de humildade (Geza no gyo). Deus testa\*. Se mesmo assim não servir, expulsa. Não é a pessoa que desiste ou sai por conta própria, é expulsa por Deus. (8 de outubro de 1951\)*
+###### *a Ser testado e expulso (Sui 3, pág. 45, l. 5-7 \<Zenkou Vol. 4, pág. 223\>) Não é bem assim. Se for alguém que ouve o que eu digo, fico tranquilo. Porque é mais perigoso do que a prática de humildade (Geza no gyo). Deus testa\*. Se mesmo assim não servir, expulsa. Não é a pessoa que desiste ou sai por conta própria, é expulsa por Deus. (8 de outubro de 1951\)*
 
-  ***\[Explicação\]*** 
+***\[Explicação\]*** 
 
-  *Um aspirante a professor muito culto, por ser arrogante, foi mandado pela Igreja trabalhar numa estalagem para aprender a humildade (Geza). No entanto, envolveu-se numa relação impura com uma funcionária da estalagem, e houve a palavra: "Não é prática de humildade, é prática de queda (Geraku)" (Sui 3, pág. 43, l. 3-5 \<Zenkou Vol. 4, pág. 223\>). Ou seja, "reprovado no teste de Deus". — Parece que ele deixou a fé por vontade própria, mas na verdade, como sua fé era impura, Deus fez surgir a vontade de desistir ou criou circunstâncias que o forçaram a desistir. — Compreende-se com isso que Deus intervém na vontade humana conforme a necessidade. Assim, separam-se as pessoas de fé verdadeira das de fé falsa.*
+*Um aspirante a professor muito culto, por ser arrogante, foi mandado pela Igreja trabalhar numa estalagem para aprender a humildade (Geza). No entanto, envolveu-se numa relação impura com uma funcionária da estalagem, e houve a palavra: "Não é prática de humildade, é prática de queda (Geraku)" (Sui 3, pág. 43, l. 3-5 \<Zenkou Vol. 4, pág. 223\>). Ou seja, "reprovado no teste de Deus". — Parece que ele deixou a fé por vontade própria, mas na verdade, como sua fé era impura, Deus fez surgir a vontade de desistir ou criou circunstâncias que o forçaram a desistir. — Compreende-se com isso que Deus intervém na vontade humana conforme a necessidade. Assim, separam-se as pessoas de fé verdadeira das de fé falsa.*
 
-  ###### *b Expulso de modo a não gerar rancor (Sui 8, pág. 42, l. 4-12 \<Zenkou Vol. 6, pág. 84\>)*
+###### *b Expulso de modo a não gerar rancor (Sui 8, pág. 42, l. 4-12 \<Zenkou Vol. 6, pág. 84\>)*
 
-  Há muitos fiéis, e aumentarão cada vez mais. Entre eles há pessoas erradas e pessoas absurdas. No meio de muitos. Mas Deus reúne muitos — são pessoas com vínculo (innen), vou falar sobre vínculo também — e depois seleciona1. Como resultado da seleção, se não serve de jeito nenhum — é melhor que tal pessoa não esteja. Há algumas que não têm qualificação para ficar. Então, tem que expulsar essa pessoa da Igreja. Se a Igreja expulsar, o outro lado guarda rancor — se guardar rancor, esse pensamento atrapalha, então para não guardar rancor, Deus cria uma coisa errada2. Isso é o vínculo (innen)\*3. Então, as pessoas que vão ser expulsas acreditam nisso. Assim, Deus faz da melhor maneira. Afligem-se dizendo "aquela pessoa vai sair da Igreja, que pena", mas Deus, havendo essa necessidade, cria líderes que expulsam da Igreja. (1 de abril de 1952\)
+Há muitos fiéis, e aumentarão cada vez mais. Entre eles há pessoas erradas e pessoas absurdas. No meio de muitos. Mas Deus reúne muitos — são pessoas com vínculo (innen), vou falar sobre vínculo também — e depois seleciona1. Como resultado da seleção, se não serve de jeito nenhum — é melhor que tal pessoa não esteja. Há algumas que não têm qualificação para ficar. Então, tem que expulsar essa pessoa da Igreja. Se a Igreja expulsar, o outro lado guarda rancor — se guardar rancor, esse pensamento atrapalha, então para não guardar rancor, Deus cria uma coisa errada2. Isso é o vínculo (innen)\*3. Então, as pessoas que vão ser expulsas acreditam nisso. Assim, Deus faz da melhor maneira. Afligem-se dizendo "aquela pessoa vai sair da Igreja, que pena", mas Deus, havendo essa necessidade, cria líderes que expulsam da Igreja. (1 de abril de 1952\)
 
-  ###### *c A seleção de Deus que o ser humano não compreende (Sui 16, pág. 4, l. 4-14 \<Zenkou Vol. 6, pág. 309\>)*
+###### *c A seleção de Deus que o ser humano não compreende (Sui 16, pág. 4, l. 4-14 \<Zenkou Vol. 6, pág. 309\>)*
 
-  Há quem receba graças e não entre na fé, e há quem queira entrar na fé mas tem impedimentos. O que é isso? É que Deus não permite1. E acontece muito isto: há uma pessoa fervorosa, e de repente para de vir, ou faz outras coisas; pensam que é um sujeito tolo, mas não é. Deus diz: "Eu deixei você entrar, mas tem coisa suja, então sofra mais", ou seja, por não ter qualificação, Deus expulsa2. Nesse ponto a interpretação é diferente. Portanto, entrar não é porque a pessoa quer entrar, é porque Deus permite que ela entra. Pensando centrado em Deus, entende-se3. E dizem: "Aquele sujeito atrapalha, é terrível, por que Deus deixa viver e permite um sujeito desses?", mas Deus tem algum motivo. Naquele momento é assim, mas futuramente usará para algo. Portanto, em suma, o julgamento humano não compreende4. Não há nada tão profundo quanto Deus. Muitas vezes acontece o oposto. (1 de dezembro de 1952\)
+Há quem receba graças e não entre na fé, e há quem queira entrar na fé mas tem impedimentos. O que é isso? É que Deus não permite1. E acontece muito isto: há uma pessoa fervorosa, e de repente para de vir, ou faz outras coisas; pensam que é um sujeito tolo, mas não é. Deus diz: "Eu deixei você entrar, mas tem coisa suja, então sofra mais", ou seja, por não ter qualificação, Deus expulsa2. Nesse ponto a interpretação é diferente. Portanto, entrar não é porque a pessoa quer entrar, é porque Deus permite que ela entra. Pensando centrado em Deus, entende-se3. E dizem: "Aquele sujeito atrapalha, é terrível, por que Deus deixa viver e permite um sujeito desses?", mas Deus tem algum motivo. Naquele momento é assim, mas futuramente usará para algo. Portanto, em suma, o julgamento humano não compreende4. Não há nada tão profundo quanto Deus. Muitas vezes acontece o oposto. (1 de dezembro de 1952\)
 
-  ###### *d A seleção feita por Kannon-Sama* 
+###### *d A seleção feita por Kannon-Sama* 
 
-  Ronbetsu 109, col. sup. l. 9 \~ col. inf. l. 9 \<Zenkou Vol. 1, pág. 91\>) 
+Ronbetsu 109, col. sup. l. 9 \~ col. inf. l. 9 \<Zenkou Vol. 1, pág. 91\>) 
 
-  Kannon-Sama usou o Sr. Azuma1. Portanto, dependendo da conveniência de Kannon-Sama, não se sabe quem será usado no trabalho daquele momento. Mesmo no futuro, Kannon-Sama usará quem for, se houver necessidade. Se a pessoa usada pensar "fui usado porque sou assim" ou "porque sou assado", há um erro. Receber tal destaque de Kannon-Sama é a honra de uma vida inteira, e quanto a isso não deve haver nada além de gratidão. Se agradecer e achar precioso, será usado novamente depois. Se pensar nem que seja um pouco que foi ele quem fez, Kannon-Sama não usará mais. Este ponto é muito importante; mesmo no desenvolvimento da Associação Kannon, Kannon-Sama é muito suave e rigoroso; chama muitas pessoas, testa a todas sem exceção \*2 seleciona e seleciona, deixando apenas "esta pessoa", e solidifica a construção com essas pessoas\*3; nesse ponto é realmente inabalável, não expande apenas num estouro. No mundo costumam fazer apenas para mostrar a forma, mas Kannon-Sama detesta muito esse jeito. Não faz trabalhos temporários ou de improviso. Em suma, verdade sem enfeites, sem a ostentação humana. O verdadeiro teste é não olhar para si mesmo. Apenas o sentimento incontrolável de ter que salvar a humanidade mundial, e vendo o estado deste mundo, achar realmente triste, digno de pena, não poder ficar olhando, mas a força humana nada pode fazer; porém, como Kannon-Sama exerce a Força de Kannon, querer participar nem que seja de uma parte e fazer o máximo possível; se houver desejo de honra aí, o resultado será o oposto. (11 de agosto de 1935 "Palestra")
+Kannon-Sama usou o Sr. Azuma1. Portanto, dependendo da conveniência de Kannon-Sama, não se sabe quem será usado no trabalho daquele momento. Mesmo no futuro, Kannon-Sama usará quem for, se houver necessidade. Se a pessoa usada pensar "fui usado porque sou assim" ou "porque sou assado", há um erro. Receber tal destaque de Kannon-Sama é a honra de uma vida inteira, e quanto a isso não deve haver nada além de gratidão. Se agradecer e achar precioso, será usado novamente depois. Se pensar nem que seja um pouco que foi ele quem fez, Kannon-Sama não usará mais. Este ponto é muito importante; mesmo no desenvolvimento da Associação Kannon, Kannon-Sama é muito suave e rigoroso; chama muitas pessoas, testa a todas sem exceção \*2 seleciona e seleciona, deixando apenas "esta pessoa", e solidifica a construção com essas pessoas\*3; nesse ponto é realmente inabalável, não expande apenas num estouro. No mundo costumam fazer apenas para mostrar a forma, mas Kannon-Sama detesta muito esse jeito. Não faz trabalhos temporários ou de improviso. Em suma, verdade sem enfeites, sem a ostentação humana. O verdadeiro teste é não olhar para si mesmo. Apenas o sentimento incontrolável de ter que salvar a humanidade mundial, e vendo o estado deste mundo, achar realmente triste, digno de pena, não poder ficar olhando, mas a força humana nada pode fazer; porém, como Kannon-Sama exerce a Força de Kannon, querer participar nem que seja de uma parte e fazer o máximo possível; se houver desejo de honra aí, o resultado será o oposto. (11 de agosto de 1935 "Palestra")
 
-  ##### E. Doença e Morte como Punição
+##### E. Doença e Morte como Punição
 
-  ***\[Explicação\]*** 
+***\[Explicação\]*** 
 
-  *A definição geral de doença é: "A doença é a ação de excreção de toxinas que não deveriam estar no corpo" (K1 seção 1 \<Zencho Vol. 10, pág. 139\>), no início da Parte Científica de Criação da Civilização. No entanto, esta é uma definição para facilitar a compreensão dos iniciantes; no Capítulo 13 "Espírito Precede a Matéria", seções 9-27 (parte incluída no Livro pág. 465), esclarece-se que o pecado e a impureza são a raiz da doença, e nos Capítulos 14 e 15 "Malefícios dos Remédios", seções 17-25 (Livro pág. 272), esclarece-se que o sangue fica turvo pelos remédios também porque "o uso de remédios em si contraria a Lei Divina". Ou seja, em todo o sistema doutrinário, há vários estágios na interpretação da doença. A "Lei da Purificação" por trás desta "Doença e Morte como Punição" também foi criada, na verdade, a partir da Vontade de "Justiça" (ver índice de Capítulo 2, Item 4, 1 Criação, 2 "Leis").*
+*A definição geral de doença é: "A doença é a ação de excreção de toxinas que não deveriam estar no corpo" (K1 seção 1 \<Zencho Vol. 10, pág. 139\>), no início da Parte Científica de Criação da Civilização. No entanto, esta é uma definição para facilitar a compreensão dos iniciantes; no Capítulo 13 "Espírito Precede a Matéria", seções 9-27 (parte incluída no Livro pág. 465), esclarece-se que o pecado e a impureza são a raiz da doença, e nos Capítulos 14 e 15 "Malefícios dos Remédios", seções 17-25 (Livro pág. 272), esclarece-se que o sangue fica turvo pelos remédios também porque "o uso de remédios em si contraria a Lei Divina". Ou seja, em todo o sistema doutrinário, há vários estágios na interpretação da doença. A "Lei da Purificação" por trás desta "Doença e Morte como Punição" também foi criada, na verdade, a partir da Vontade de "Justiça" (ver índice de Capítulo 2, Item 4, 1 Criação, 2 "Leis").*
 
-  ###### *a. Doença como punição por erro (Ron 1614, col. sup. l. 13-21 \= Ishi Jo Jo 341, col. sup. l. 14 \~ col. inf. l. 8 \<Zencho Vol. 9, pág. 416\>)*
+###### *a. Doença como punição por erro (Ron 1614, col. sup. l. 13-21 \= Ishi Jo Jo 341, col. sup. l. 14 \~ col. inf. l. 8 \<Zencho Vol. 9, pág. 416\>)*
 
-  A questão é: como se forma o sangue turvo? Isso é criado de forma realmente racional pela Lei da Concordância de todas as coisas. Ou seja, o ser humano deve conscientizar-se da função determinada por Deus\*1 e executá-la corretamente, mas muitos humanos acabam cometendo injustiças e erros; como resultado, o espírito nubla-se; quando o espírito nubla, o sangue turva, e isso se torna a origem da doença e do sofrimento; portanto, é uma punição pelo erro. Se não for assim, o ser humano não cumpre sua função corretamente e ainda causa danos ao mundo, por isso, inevitavelmente, Deus criou dessa forma.\*2 (1 de agosto de 1951 \- Ei 115 "Os Micróbios são Dignos de Gratidão")
+A questão é: como se forma o sangue turvo? Isso é criado de forma realmente racional pela Lei da Concordância de todas as coisas. Ou seja, o ser humano deve conscientizar-se da função determinada por Deus\*1 e executá-la corretamente, mas muitos humanos acabam cometendo injustiças e erros; como resultado, o espírito nubla-se; quando o espírito nubla, o sangue turva, e isso se torna a origem da doença e do sofrimento; portanto, é uma punição pelo erro. Se não for assim, o ser humano não cumpre sua função corretamente e ainda causa danos ao mundo, por isso, inevitavelmente, Deus criou dessa forma.\*2 (1 de agosto de 1951 \- Ei 115 "Os Micróbios são Dignos de Gratidão")
 
-  ###### *b. O processo de geração da doença como punição (Kesshin pág. 14, l. 6-12 \= Ishi Jo Jo 152, col. inf. l. 4 \~ 153, col. sup. l. 3 \<Zencho Vol. 10, pág. 63\>)*
+###### *b. O processo de geração da doença como punição (Kesshin pág. 14, l. 6-12 \= Ishi Jo Jo 152, col. inf. l. 4 \~ 153, col. sup. l. 3 \<Zencho Vol. 10, pág. 63\>)*
 
-  Este mundo é constituído de Mundo Espiritual e Mundo Material; da mesma forma, o ser humano é constituído de espírito e corpo, havendo uma relação inseparável entre ambos, sendo o princípio a unidade espírito-corpo. Assim, se a mácula do espírito refletir no corpo, torna-se sangue turvo, e se o sangue turvo refletir no espírito, torna-se mácula. Este é o ponto mais importante, leiam com isso em mente. Explicando a partir do espírito: quando o ser humano pratica um ato mau, esse pecado torna-se mácula no espírito; quando o acúmulo dessa mácula atinge certo grau, ocorre aqui a ação de purificação. Isso é doença, desastre ou punição pela lei; a parte que escapa disso recebe punição espiritual pela Lei de Deus. No entanto, por mais habilmente que se escape dessa punição\*, como a de Deus é absoluta, ela se projeta no corpo tornando-se um grande sofrimento. Claro, a doença nesse caso é maligna, e muitas vezes atinge a vida. (1 de dezembro de 1952 "A Dissecação da Toxina")
+Este mundo é constituído de Mundo Espiritual e Mundo Material; da mesma forma, o ser humano é constituído de espírito e corpo, havendo uma relação inseparável entre ambos, sendo o princípio a unidade espírito-corpo. Assim, se a mácula do espírito refletir no corpo, torna-se sangue turvo, e se o sangue turvo refletir no espírito, torna-se mácula. Este é o ponto mais importante, leiam com isso em mente. Explicando a partir do espírito: quando o ser humano pratica um ato mau, esse pecado torna-se mácula no espírito; quando o acúmulo dessa mácula atinge certo grau, ocorre aqui a ação de purificação. Isso é doença, desastre ou punição pela lei; a parte que escapa disso recebe punição espiritual pela Lei de Deus. No entanto, por mais habilmente que se escape dessa punição\*, como a de Deus é absoluta, ela se projeta no corpo tornando-se um grande sofrimento. Claro, a doença nesse caso é maligna, e muitas vezes atinge a vida. (1 de dezembro de 1952 "A Dissecação da Toxina")
 
-  ***\[Anexo referente a b\] (Ron 114, col. sup. l. 1-12 \<Zencho Vol. 1, pág. 190\>)*** 
+***\[Anexo referente a b\] (Ron 114, col. sup. l. 1-12 \<Zencho Vol. 1, pág. 190\>)*** 
 
-  *A intenção do Deus Senhor ao criar o ser humano era originalmente um corpo saudável; a doença é mantida inevitavelmente para advertir a vontade e o ato do ser humano que quebra ou tenta quebrar as leis do céu e da terra. É indubitável que a Vontade do Deus Senhor é desejar que o ser humano não quebre a Lei Celestial\* e, portanto, não adoeça. Em outras palavras, a doença é a punição pelo ato incorreto do ser humano. Portanto, o sofrimento da doença tem dois significados. Um é a advertência para não cometer o mal novamente, e o outro é o trabalho de cura do próprio corpo. Sendo assim, febre ou dor são trabalhos e atividades para curar a doença, então esse sofrimento está aliviando a doença passo a passo, momento a momento. (1935 "Princípios e Objetivos da Terapia de Pressão Digital Estilo Okada")*
+*A intenção do Deus Senhor ao criar o ser humano era originalmente um corpo saudável; a doença é mantida inevitavelmente para advertir a vontade e o ato do ser humano que quebra ou tenta quebrar as leis do céu e da terra. É indubitável que a Vontade do Deus Senhor é desejar que o ser humano não quebre a Lei Celestial\* e, portanto, não adoeça. Em outras palavras, a doença é a punição pelo ato incorreto do ser humano. Portanto, o sofrimento da doença tem dois significados. Um é a advertência para não cometer o mal novamente, e o outro é o trabalho de cura do próprio corpo. Sendo assim, febre ou dor são trabalhos e atividades para curar a doença, então esse sofrimento está aliviando a doença passo a passo, momento a momento. (1935 "Princípios e Objetivos da Terapia de Pressão Digital Estilo Okada")*
 
-  ###### *c. O que é a morte (Shu 179, col. sup. l. 17-22 \= Ishi Shu Ge 333, col. sup. l. 5-12 \<Zencho Vol. 6, pág. 258\>)*
+###### *c. O que é a morte (Shu 179, col. sup. l. 17-22 \= Ishi Shu Ge 333, col. sup. l. 5-12 \<Zencho Vol. 6, pág. 258\>)*
 
-  Como dito antes, pela ordem de Deus, decide-se o destino e até a vida e morte\* do ser humano; portanto, o caractere "mei" (命 \- vida) da vida humana é o mesmo caractere "mei" (命 \- ordem/comando) de ordem. Portanto, a morte é o cancelamento da ordem por parte de Deus. Isso ocorre porque se causa danos ao mundo ou não há valor na existência; portanto, o ser humano não poderá obter longevidade e felicidade a menos que se torne um ser humano útil à sociedade e amado por Deus, para que a ordem não seja cancelada. (25 de agosto de 1949 "Mundo das Camadas Espirituais")
+Como dito antes, pela ordem de Deus, decide-se o destino e até a vida e morte\* do ser humano; portanto, o caractere "mei" (命 \- vida) da vida humana é o mesmo caractere "mei" (命 \- ordem/comando) de ordem. Portanto, a morte é o cancelamento da ordem por parte de Deus. Isso ocorre porque se causa danos ao mundo ou não há valor na existência; portanto, o ser humano não poderá obter longevidade e felicidade a menos que se torne um ser humano útil à sociedade e amado por Deus, para que a ordem não seja cancelada. (25 de agosto de 1949 "Mundo das Camadas Espirituais")
 
-  ##### F. O Pecado da Blasfêmia\*
+##### F. O Pecado da Blasfêmia\*
 
-  ***\[Explicação\]*** 
+***\[Explicação\]*** 
 
-  *Blasfêmia é insultar e desprezar a Deus direta ou indiretamente através de palavras, obras, pensamentos e gestos (rigorosamente falando, inclui o pensamento \- Sounen). Sendo um pecado contra Deus, é o maior de todos os pecados. Casos de blasfêmia contra o próprio Deus (Kyo 20, pág. 20, l. 17 \~ 21, l. 5 \<Livro pág. 391, pessoa que chamou Kunitokotachi no Mikoto de demônio\>), contra Meishu-Sama (representante de Deus) (Kyo 22, pág. 44, l. 3-17 \<Livro pág. 17\>, 20, pág. 20, l. 9-16 \<Livro pág. 391, pessoa que chamou os ensinamentos de Meishu-Sama de farsa\>), desrespeito à Imagem Sagrada e à Imagem Divina são blasfêmias diretas; blasfêmia contra a Igreja (Kyo 20, pág. 20, l. 2-8 \<Livro pág. 390, pessoa que chamou a Igreja Messiânica de ladra\>), Caligrafia Divina, Livros Divinos, etc., são blasfêmias indiretas.*
+*Blasfêmia é insultar e desprezar a Deus direta ou indiretamente através de palavras, obras, pensamentos e gestos (rigorosamente falando, inclui o pensamento \- Sounen). Sendo um pecado contra Deus, é o maior de todos os pecados. Casos de blasfêmia contra o próprio Deus (Kyo 20, pág. 20, l. 17 \~ 21, l. 5 \<Livro pág. 391, pessoa que chamou Kunitokotachi no Mikoto de demônio\>), contra Meishu-Sama (representante de Deus) (Kyo 22, pág. 44, l. 3-17 \<Livro pág. 17\>, 20, pág. 20, l. 9-16 \<Livro pág. 391, pessoa que chamou os ensinamentos de Meishu-Sama de farsa\>), desrespeito à Imagem Sagrada e à Imagem Divina são blasfêmias diretas; blasfêmia contra a Igreja (Kyo 20, pág. 20, l. 2-8 \<Livro pág. 390, pessoa que chamou a Igreja Messiânica de ladra\>), Caligrafia Divina, Livros Divinos, etc., são blasfêmias indiretas.*
 
-  ###### *a. A maior blasfêmia (Hikari Ho 41, l. 13 \~ 42, l. 5 \<Zencho Vol. 1, pág. 397\>)*
+###### *a. A maior blasfêmia (Hikari Ho 41, l. 13 \~ 42, l. 5 \<Zencho Vol. 1, pág. 397\>)*
 
-  ―― Qual é o julgamento para o pecado de blasfêmia contra Deus pelo ser humano?
+―― Qual é o julgamento para o pecado de blasfêmia contra Deus pelo ser humano?
 
-  Doença ou sofrimento extremo.
+Doença ou sofrimento extremo.
 
-  ―― Nesse caso, pode-se saber pelos sintomas da doença?
+―― Nesse caso, pode-se saber pelos sintomas da doença?
 
-  Sabe-se. A família inteira morre, não acaba em um só. Cortar árvores grandes de santuários sem permissão é terrível. Geralmente a família inteira morre. Eu já presenciei muito o terror da blasfêmia contra Deus. Dentre eles, o mais pesado é, ou seja, o pecado de ter aprisionado Deus antigamente, e o pecado de ter ficado do lado de quem aprisionou, isso é terrível, e agora é o tempo desse julgamento\*. (28 de abril de 1948\)
+Sabe-se. A família inteira morre, não acaba em um só. Cortar árvores grandes de santuários sem permissão é terrível. Geralmente a família inteira morre. Eu já presenciei muito o terror da blasfêmia contra Deus. Dentre eles, o mais pesado é, ou seja, o pecado de ter aprisionado Deus antigamente, e o pecado de ter ficado do lado de quem aprisionou, isso é terrível, e agora é o tempo desse julgamento\*. (28 de abril de 1948\)
 
-  ###### *b. Raiz do Pecado ―― Ter aprisionado Deus (Março de 1954 \- Orientação recebida pessoalmente)* 
+###### *b. Raiz do Pecado ―― Ter aprisionado Deus (Março de 1954 \- Orientação recebida pessoalmente)* 
 
-  Texto omitido. Ver Capítulo 1, Item 1, 13 Compreender sobre Meishu-Sama é o segredo da fé — Sobre a Raiz do Pecado (Livro pág. 24).
+Texto omitido. Ver Capítulo 1, Item 1, 13 Compreender sobre Meishu-Sama é o segredo da fé — Sobre a Raiz do Pecado (Livro pág. 24).
 
-  ###### *c. O que significa "Aprisionar Deus" (Kyo 31, pág. 1, l. 10 \~ 2, l. 1, 2, l. 7-10 \<Zenkou Vol. 12, pág. 174\>)*
+###### *c. O que significa "Aprisionar Deus" (Kyo 31, pág. 1, l. 10 \~ 2, l. 1, 2, l. 7-10 \<Zenkou Vol. 12, pág. 174\>)*
 
-  Houve uma época em que o Deus chamado Kunitokotachi no Mikoto governava mundialmente (ver \[Explicação\]). Mas como era um Deus muito rigoroso e não permitia coisas erradas\* — vendo o Ofudesaki da Oomoto Kyo entende-se —, ou seja, por ser muito rigoroso, os oito milhões de deuses não aguentaram e disseram que não teriam sossego se não aprisionassem um Deus tão barulhento; por isso Ele foi aprisionado. Esse Deus encostou na Fundadora da Oomoto Kyo, Sra. Nao Deguchi, em 1892 (Meiji 25\) e gritou muito. Gritou tomando a boca da Sra. Nao Deguchi. O primeiro grito foi: "As flores de ameixeira abrem-se de uma vez nos três mil mundos, tornou-se o mundo de Ushitora no Konjin. Tornou-se o País Divino que abre com ameixeira e governa com pinheiro. O Japão é o País Divino. É o mundo em que Deus tem que intervir. O bambu é o estrangeiro"; este foi o primeiro rugido do leão (Shishiku). (4 de fevereiro de 1954\)
+Houve uma época em que o Deus chamado Kunitokotachi no Mikoto governava mundialmente (ver \[Explicação\]). Mas como era um Deus muito rigoroso e não permitia coisas erradas\* — vendo o Ofudesaki da Oomoto Kyo entende-se —, ou seja, por ser muito rigoroso, os oito milhões de deuses não aguentaram e disseram que não teriam sossego se não aprisionassem um Deus tão barulhento; por isso Ele foi aprisionado. Esse Deus encostou na Fundadora da Oomoto Kyo, Sra. Nao Deguchi, em 1892 (Meiji 25\) e gritou muito. Gritou tomando a boca da Sra. Nao Deguchi. O primeiro grito foi: "As flores de ameixeira abrem-se de uma vez nos três mil mundos, tornou-se o mundo de Ushitora no Konjin. Tornou-se o País Divino que abre com ameixeira e governa com pinheiro. O Japão é o País Divino. É o mundo em que Deus tem que intervir. O bambu é o estrangeiro"; este foi o primeiro rugido do leão (Shishiku). (4 de fevereiro de 1954\)
 
-  ***\[Explicação\]*** 
+***\[Explicação\]*** 
 
-  *O fato de Kunitokotachi no Mikoto ter governado mundialmente deveu-se à Vontade do Deus Senhor (Sushin). Kunitokotachi no Mikoto foi o líder do Mundo do Dia anterior (Kyo 31, pág. 20, l. 4 \<Livro pág. 542, l. 5\>, pág. 26, l. 14 \<Livro pág. 543, l. 2\>) (ver Ensinamento 13 na pág. 24). Aprofunde o conhecimento através dos ensinamentos citados de Kyo 31 listados no "Índice de Fontes Originais" anexo ao final do livro. Ver também Capítulo 2, Item 4, 2 ③ Significado Espiritual da Transição Noite-Dia (Livro pág. 585\) e 3 ⑭ Contexto Espiritual da Grande Transição da Civilização (Livro pág. 610).*
+*O fato de Kunitokotachi no Mikoto ter governado mundialmente deveu-se à Vontade do Deus Senhor (Sushin). Kunitokotachi no Mikoto foi o líder do Mundo do Dia anterior (Kyo 31, pág. 20, l. 4 \<Livro pág. 542, l. 5\>, pág. 26, l. 14 \<Livro pág. 543, l. 2\>) (ver Ensinamento 13 na pág. 24). Aprofunde o conhecimento através dos ensinamentos citados de Kyo 31 listados no "Índice de Fontes Originais" anexo ao final do livro. Ver também Capítulo 2, Item 4, 2 ③ Significado Espiritual da Transição Noite-Dia (Livro pág. 585\) e 3 ⑭ Contexto Espiritual da Grande Transição da Civilização (Livro pág. 610).*
 
-  ###### *d. Exemplo de blasfêmia inconsciente (Kyo 22, pág. 44, l. 3-17 \<Zenkou Vol. 10, pág. 244\>)*
+###### *d. Exemplo de blasfêmia inconsciente (Kyo 22, pág. 44, l. 3-17 \<Zenkou Vol. 10, pág. 244\>)*
 
-  Texto omitido. Ver Capítulo 1, Item 1, 9 O caso do discípulo que pediu a Meishu-Sama a avaliação de uma cerâmica (Livro pág. 17).
+Texto omitido. Ver Capítulo 1, Item 1, 9 O caso do discípulo que pediu a Meishu-Sama a avaliação de uma cerâmica (Livro pág. 17).
 
   
 
-  ###### *e. Relacionado à Consagração da Imagem Divina* 
+###### *e. Relacionado à Consagração da Imagem Divina* 
 
-  **\- (Sui 3, pág. 50, l. 9 \~ 51, l. 12 \<Zenkou Vol. 4, pág. 229\>)** 
+**\- (Sui 3, pág. 50, l. 9 \~ 51, l. 12 \<Zenkou Vol. 4, pág. 229\>)** 
 
-  ― Há um caso de pais e filhos que não se davam bem entre parentes; falei sobre esta salvação e consagraram a Imagem Divina, mas depois não vieram ao culto e a criança rasgou a Imagem Divina. Isso foi há cerca de três anos. O pai entrou na fé? ―― Sim. Por que entrou na fé? ―― Como a família não se dava bem, recomendei para acabar com isso; depois que a criança fez a travessura, falei para receber novamente e disseram que queriam, mas como a casa não estava em ordem na época, consagrei na minha casa. Devo esperar que venham buscar?
+― Há um caso de pais e filhos que não se davam bem entre parentes; falei sobre esta salvação e consagraram a Imagem Divina, mas depois não vieram ao culto e a criança rasgou a Imagem Divina. Isso foi há cerca de três anos. O pai entrou na fé? ―― Sim. Por que entrou na fé? ―― Como a família não se dava bem, recomendei para acabar com isso; depois que a criança fez a travessura, falei para receber novamente e disseram que queriam, mas como a casa não estava em ordem na época, consagrei na minha casa. Devo esperar que venham buscar?
 
-  Claro. Consagraram forçado desde o início. Como disse agora, usaram Deus como ferramenta para fazer as pazes. Se a própria pessoa entrar na fé, ler os Livros Divinos e tiver uma fé admirável...
+Claro. Consagraram forçado desde o início. Como disse agora, usaram Deus como ferramenta para fazer as pazes. Se a própria pessoa entrar na fé, ler os Livros Divinos e tiver uma fé admirável...
 
-  Se disser "Por favor, permita-me consagrar", está bem; mas fazer consagrar empurrando sem que entendam de verdade é desrespeito a Deus. Só quando consagram com o sentimento fervoroso de "sou grato, quero muito adorar tal Deus", é que Deus — é igual ao ser humano — se sente bem. Mesmo com humanos, é melhor ir aonde a pessoa diz "quero muito que venha, quero que ajude". Se for empurrando sem que haja esse sentimento, o outro não recebe de coração, e se não for de coração, a Luz não sai forte. Ao consagrar, se o ser humano reverenciar e adorar verdadeiramente, a Luz se fortalece. Por isso, se a família toda reunir-se e consagrar no lugar mais puro, a Luz é diferente. Se colocar abaixo do ser humano — se houver pessoas morando no andar de cima — a Luz não sai. É assim que funciona. (8 de outubro de 1951\)
+Se disser "Por favor, permita-me consagrar", está bem; mas fazer consagrar empurrando sem que entendam de verdade é desrespeito a Deus. Só quando consagram com o sentimento fervoroso de "sou grato, quero muito adorar tal Deus", é que Deus — é igual ao ser humano — se sente bem. Mesmo com humanos, é melhor ir aonde a pessoa diz "quero muito que venha, quero que ajude". Se for empurrando sem que haja esse sentimento, o outro não recebe de coração, e se não for de coração, a Luz não sai forte. Ao consagrar, se o ser humano reverenciar e adorar verdadeiramente, a Luz se fortalece. Por isso, se a família toda reunir-se e consagrar no lugar mais puro, a Luz é diferente. Se colocar abaixo do ser humano — se houver pessoas morando no andar de cima — a Luz não sai. É assim que funciona. (8 de outubro de 1951\)
 
-  **\- (Sui 4, pág. 65, l. 3-13 \<Zenkou Vol. 4, pág. 314\>)**
+**\- (Sui 4, pág. 65, l. 3-13 \<Zenkou Vol. 4, pág. 314\>)**
 
-  ―― Caiu goteira na letra "Dai" (Grande) do Daikomyo Nyorai... Isso não pode. ―― Se pedir para tirar a mancha, usam produtos químicos, pode ser...?
+―― Caiu goteira na letra "Dai" (Grande) do Daikomyo Nyorai... Isso não pode. ―― Se pedir para tirar a mancha, usam produtos químicos, pode ser...?
 
-  Tirar mancha também não pode. Se não tocar na letra — se for no papel, o montador pode fazer, mas se tocar na letra já não pode. Tem que trocar. ―― E depois, como fazer...? Guarde. Não, é melhor queimar. Peça bastante perdão. Afinal, há algum ponto errado. ―― No dia em que a avó faleceu, fizemos o casamento e a consagração do Daikomyo Nyorai, pois ela dizia que não podia morrer sem ver isso... É isso. Porque está errado\*. Portanto, peça perdão e queime. (8 de novembro de 1951\)
+Tirar mancha também não pode. Se não tocar na letra — se for no papel, o montador pode fazer, mas se tocar na letra já não pode. Tem que trocar. ―― E depois, como fazer...? Guarde. Não, é melhor queimar. Peça bastante perdão. Afinal, há algum ponto errado. ―― No dia em que a avó faleceu, fizemos o casamento e a consagração do Daikomyo Nyorai, pois ela dizia que não podia morrer sem ver isso... É isso. Porque está errado\*. Portanto, peça perdão e queime. (8 de novembro de 1951\)
 
-  ###### *f. Contra os Livros Divinos, Caligrafia Divina, etc. (Kyo 20, pág. 27, l. 17 \~ 28, l. 3, 28, l. 4-9 \<Zenkou Vol. 10, pág. 82\>)*
+###### *f. Contra os Livros Divinos, Caligrafia Divina, etc. (Kyo 20, pág. 27, l. 17 \~ 28, l. 3, 28, l. 4-9 \<Zenkou Vol. 10, pág. 82\>)*
 
-  Texto omitido. Ver Item 2, 2 ③ Justiça ii B a (Livro pág. 365).
+Texto omitido. Ver Item 2, 2 ③ Justiça ii B a (Livro pág. 365).
 
-  ###### *g. Punição contra blasfemadores (Kyo 20, pág. 19, l. 12 \~ 21, l. 9 \<Zenkou Vol. 10, pág. 74\>)*
+###### *g. Punição contra blasfemadores (Kyo 20, pág. 19, l. 12 \~ 21, l. 9 \<Zenkou Vol. 10, pág. 74\>)*
 
-  (Ensinamento após a leitura dos Artigos "O que é Milagre"\*1, "Espírito Precede a Matéria"\*2, "Espírito e Matéria"\*3)
+(Ensinamento após a leitura dos Artigos "O que é Milagre"\*1, "Espírito Precede a Matéria"\*2, "Espírito e Matéria"\*3)
 
-  Esta parte final é a essencial. As religiões de até agora... eram ensinamento, mas só com ensinamento a força é fraca. Mas a Igreja Messiânica mostra o fato junto com o ensinamento; com isso, o ser humano compreende pela primeira vez que Deus existe de verdade, e assim conclui que não pode fazer coisas ruins, tornando-se assim um verdadeiro ser humano. E o que mostra que Deus existe de verdade é o milagre. Não se pode acreditar na realidade de Deus exceto através de milagres\*4. Mas até agora, sem mostrar tais milagres, diziam apenas "Deus existe, existe, acredite", mas na verdade não condiz com a lógica. Por isso, não são salvos verdadeiramente.
+Esta parte final é a essencial. As religiões de até agora... eram ensinamento, mas só com ensinamento a força é fraca. Mas a Igreja Messiânica mostra o fato junto com o ensinamento; com isso, o ser humano compreende pela primeira vez que Deus existe de verdade, e assim conclui que não pode fazer coisas ruins, tornando-se assim um verdadeiro ser humano. E o que mostra que Deus existe de verdade é o milagre. Não se pode acreditar na realidade de Deus exceto através de milagres\*4. Mas até agora, sem mostrar tais milagres, diziam apenas "Deus existe, existe, acredite", mas na verdade não condiz com a lógica. Por isso, não são salvos verdadeiramente.
 
-  Pessoa que chamou a Igreja Messiânica de ladra Há uma história interessante sobre isso. Ouvi ontem; para o entretenimento da Grande Cerimônia desta vez, o pessoal de Azabu foi contratar Katsuhiko Haida (cantor). Ele pediu um preço muito alto. Disseram: "Não está muito caro?", e o gerente disse: "A Igreja Messiânica rouba dinheiro como ladrão, então pode pagar". E essa pessoa morreu três ou quatro dias depois. ―― Meishu-Sama, permito-me informar. Ele estava correndo de carro entre Kyoto e Osaka, estava nevando na hora, e o carro escorregou da Rodovia Nacional Keihan e caiu, e ele morreu. Morreu de acidente de carro, mas isso é um fato claro.
+Pessoa que chamou a Igreja Messiânica de ladra Há uma história interessante sobre isso. Ouvi ontem; para o entretenimento da Grande Cerimônia desta vez, o pessoal de Azabu foi contratar Katsuhiko Haida (cantor). Ele pediu um preço muito alto. Disseram: "Não está muito caro?", e o gerente disse: "A Igreja Messiânica rouba dinheiro como ladrão, então pode pagar". E essa pessoa morreu três ou quatro dias depois. ―― Meishu-Sama, permito-me informar. Ele estava correndo de carro entre Kyoto e Osaka, estava nevando na hora, e o carro escorregou da Rodovia Nacional Keihan e caiu, e ele morreu. Morreu de acidente de carro, mas isso é um fato claro.
 
-  Pessoa que chamou os ensinamentos de Meishu-Sama de "farsa" Antes houve algo assim. Quando eu ainda estava no Hozan-so em Tóquio, um estudioso da seita Nichiren, esqueci o nome, mas era alguém famoso que todos conheciam. Ele viu meu livro "A Medicina de Amanhã" e falou coisas muito ruins. "Escrever isso e enganar as pessoas é o cúmulo da farsa", algo assim. Disse coisas piores, mas esqueci. E exatamente um ano depois, morreu atropelado na rua. Primeiro bateu num carro e caiu no trilho do bonde, e num instante veio o bonde e passou por cima do rosto dele. O rosto ficou destruído. Naquela época o Sr. Nakajima veio contar que "finalmente recebeu o castigo"; houve isso. Ainda há casos assim, mas este Deus\*6 é um Deus muito rigoroso. Há várias histórias interessantes, mas como não há tempo não posso contar detalhadamente.
+Pessoa que chamou os ensinamentos de Meishu-Sama de "farsa" Antes houve algo assim. Quando eu ainda estava no Hozan-so em Tóquio, um estudioso da seita Nichiren, esqueci o nome, mas era alguém famoso que todos conheciam. Ele viu meu livro "A Medicina de Amanhã" e falou coisas muito ruins. "Escrever isso e enganar as pessoas é o cúmulo da farsa", algo assim. Disse coisas piores, mas esqueci. E exatamente um ano depois, morreu atropelado na rua. Primeiro bateu num carro e caiu no trilho do bonde, e num instante veio o bonde e passou por cima do rosto dele. O rosto ficou destruído. Naquela época o Sr. Nakajima veio contar que "finalmente recebeu o castigo"; houve isso. Ainda há casos assim, mas este Deus\*6 é um Deus muito rigoroso. Há várias histórias interessantes, mas como não há tempo não posso contar detalhadamente.
 
-  Pessoa que chamou Kunitokotachi no Mikoto de demônio Além disso, quando a Fundadora da Oomoto estava no início da prática, houve isso. Em Osaka havia a "Adivinhação do Ábaco"\*7; ela foi lá e disseram: "Sra. Nao Deguchi, o deus que encostou na senhora não é um deus verdadeiro, é um demônio, cuidado". A Fundadora ficou assustada. Achava que era um grande Deus, mas disseram que era demônio, então ao voltar perguntou a Deus. Esse Deus era Kunitokotachi no Mikoto\*8, e disse: "Nao, daqui a uma semana peça para adivinhar de novo". Uma semana depois, ao ir lá, não estava; perguntou e disseram: "Morreu". Chamar um Deus tão grandioso de demônio é imperdoável. É mais grave do que dizer "A Igreja Messiânica rouba dinheiro como ladrão". Este Deus Kunitokotachi é realmente rigoroso, um Deus que absolutamente não perdoa o mal; houve coisas assim. Ainda há várias coisas, mas como não há tempo, fico por aqui. (7 de março de 1953\)
+Pessoa que chamou Kunitokotachi no Mikoto de demônio Além disso, quando a Fundadora da Oomoto estava no início da prática, houve isso. Em Osaka havia a "Adivinhação do Ábaco"\*7; ela foi lá e disseram: "Sra. Nao Deguchi, o deus que encostou na senhora não é um deus verdadeiro, é um demônio, cuidado". A Fundadora ficou assustada. Achava que era um grande Deus, mas disseram que era demônio, então ao voltar perguntou a Deus. Esse Deus era Kunitokotachi no Mikoto\*8, e disse: "Nao, daqui a uma semana peça para adivinhar de novo". Uma semana depois, ao ir lá, não estava; perguntou e disseram: "Morreu". Chamar um Deus tão grandioso de demônio é imperdoável. É mais grave do que dizer "A Igreja Messiânica rouba dinheiro como ladrão". Este Deus Kunitokotachi é realmente rigoroso, um Deus que absolutamente não perdoa o mal; houve coisas assim. Ainda há várias coisas, mas como não há tempo, fico por aqui. (7 de março de 1953\)
 
-  ***\[Anexo referente a g\]*** 
+***\[Anexo referente a g\]*** 
 
-  *O Deus Senhor desta Igreja (Kyo 31, pág. 8, l. 4-6 \<Zenkou Vol. 12, pág. 180\>)*
+*O Deus Senhor desta Igreja (Kyo 31, pág. 8, l. 4-6 \<Zenkou Vol. 12, pág. 180\>)*
 
-  *Texto omitido. Ver Capítulo 2, Item 4, 2 Keirin, 6 Progresso da Obra Divina ① ix (Livro pág. 674).*
+*Texto omitido. Ver Capítulo 2, Item 4, 2 Keirin, 6 Progresso da Obra Divina ① ix (Livro pág. 674).*
 
-  ###### *h. Exemplo na Medicina* 
+###### *h. Exemplo na Medicina* 
 
-  (A Kyu, pág. 12, l. 7-11 \= Ishi Jo Ge 214, col. inf. l. 7 \~ 215, col. sup. l. 7 \<Zencho Vol. 11, pág. 19\>) Uma vez que se danifica uma parte do corpo humano, por menor que seja, não pode deixar de haver influência. Por exemplo, na apendicite, se tirassem apenas o pus estaria bem, mas como a medicina não consegue fazer isso, acaba cortando até o apêndice vermiforme, o que se deve dizer que é extrema barbárie. A razão é que o Criador não deve ter criado nada desnecessário no corpo humano. Sobre isso, os médicos costumam dizer que o ceco é desnecessário, ou que não faz mal não ter um dos rins, mas isso é totalmente porque a necessidade é desconhecida; mostra quão infantil é a medicina de hoje e, por outro lado, é também uma blasfêmia contra Deus\*. (1 de janeiro de 1953 "Sobre a Cirurgia") 
+(A Kyu, pág. 12, l. 7-11 \= Ishi Jo Ge 214, col. inf. l. 7 \~ 215, col. sup. l. 7 \<Zencho Vol. 11, pág. 19\>) Uma vez que se danifica uma parte do corpo humano, por menor que seja, não pode deixar de haver influência. Por exemplo, na apendicite, se tirassem apenas o pus estaria bem, mas como a medicina não consegue fazer isso, acaba cortando até o apêndice vermiforme, o que se deve dizer que é extrema barbárie. A razão é que o Criador não deve ter criado nada desnecessário no corpo humano. Sobre isso, os médicos costumam dizer que o ceco é desnecessário, ou que não faz mal não ter um dos rins, mas isso é totalmente porque a necessidade é desconhecida; mostra quão infantil é a medicina de hoje e, por outro lado, é também uma blasfêmia contra Deus\*. (1 de janeiro de 1953 "Sobre a Cirurgia") 
 
 #####  iii Relacionado à Guerra, Política, etc. 
 
@@ -1236,134 +1235,131 @@ Se a medicina estiver errada, pode-se dizer que o perigo à vida é indescritív
 
 - *Eu, que possuo o poder de curar as multidões, estou acima de todos os santos. (17 de março de 1954\) (Eikou, nº 25, Nº 3 \= Okada Mokichi Zenshu Shika-hen \[6\], pág. 443, Nº 3\)*
 
-  ### ④ Manifestação do Poder Infinito 
+### ④ Manifestação do Poder Infinito 
 
-  (無限力の表れ)
+(無限力の表れ)
 
-  #### i. Poder Finito e Poder Infinito (Kyo, nº 26, pág. 80, linhas 2-11 \<Zenko, Vol. 11, pág. 130\>) Texto omitido. Vide Capítulo 2, Item 2, 3 Infinito, ① (pág. 255 deste livro).
+#### i. Poder Finito e Poder Infinito (Kyo, nº 26, pág. 80, linhas 2-11 \<Zenko, Vol. 11, pág. 130\>) Texto omitido. Vide Capítulo 2, Item 2, 3 Infinito, ① (pág. 255 deste livro).
 
-  #### ii. O que é o verdadeiro Poder Infinito (Kyo, nº 27, pág. 6, linha 12 a pág. 7, linha 6 \<Zenko, Vol. 11, pág. 147\>) Texto omitido. Vide Capítulo 2, Item 2, 3 Infinito, ② (pág. 256 deste livro).
+#### ii. O que é o verdadeiro Poder Infinito (Kyo, nº 27, pág. 6, linha 12 a pág. 7, linha 6 \<Zenko, Vol. 11, pág. 147\>) Texto omitido. Vide Capítulo 2, Item 2, 3 Infinito, ② (pág. 256 deste livro).
 
-  ### 
 
-  ### ⑤ Extinguir a natureza animal humana\* 
+### ⑤ Extinguir a natureza animal humana\* 
 
-  (人間の獣性を消滅させる)(Geisha, pág. 239, parte superior, linhas 2-8; linhas 11-14; linha 22 a parte inferior, linha 6; parte inferior, linhas 12-18 \= Sha-shu, pág. 40, parte superior, linhas 5-13; parte inferior, linhas 1-4; pág. 40, parte inferior, linha 5 a pág. 41, parte superior, linha 6; pág. 41, parte superior, linha 14 a parte inferior, linha 6 \<Zenshu, Vol. 9, pág. 436\>)  
+(人間の獣性を消滅させる)(Geisha, pág. 239, parte superior, linhas 2-8; linhas 11-14; linha 22 a parte inferior, linha 6; parte inferior, linhas 12-18 \= Sha-shu, pág. 40, parte superior, linhas 5-13; parte inferior, linhas 1-4; pág. 40, parte inferior, linha 5 a pág. 41, parte superior, linha 6; pág. 41, parte superior, linha 14 a parte inferior, linha 6 \<Zenshu, Vol. 9, pág. 436\>)  
     
-  Em termos gerais, as leis têm o mesmo significado de jaulas para abrigar feras; ou seja, como há o perigo de causar danos a humanos e animais se não houver a jaula, apenas se consegue controlar rigorosamente através de grades grossas e redes. Como elas tentam escapar ao menor descuido, as grades tornam-se cada vez mais estreitas e sem frestas. Como meio para isso, a cada ano as leis tornam-se mais densas e o controle mais rigoroso, o que deveria ser considerado, antes, uma vergonha para o ser humano.  
+Em termos gerais, as leis têm o mesmo significado de jaulas para abrigar feras; ou seja, como há o perigo de causar danos a humanos e animais se não houver a jaula, apenas se consegue controlar rigorosamente através de grades grossas e redes. Como elas tentam escapar ao menor descuido, as grades tornam-se cada vez mais estreitas e sem frestas. Como meio para isso, a cada ano as leis tornam-se mais densas e o controle mais rigoroso, o que deveria ser considerado, antes, uma vergonha para o ser humano.  
     
-  A expressão "fera com forma humana", muito usada desde outrora, talvez se aplique aos homens modernos. Dizendo isso em poucas palavras, eles ainda não saíram do estágio de meio-civilizados e meio-selvagens.  
+A expressão "fera com forma humana", muito usada desde outrora, talvez se aplique aos homens modernos. Dizendo isso em poucas palavras, eles ainda não saíram do estágio de meio-civilizados e meio-selvagens.  
     
-  Visto da era selvagem, a inteligência humana progrediu, e tanto na política quanto na estrutura social, em todos os aspectos,  
-    
-    
-  houve um progresso e desenvolvimento admiráveis. Não se pode ignorar o benefício da educação, mas, mesmo assim, é inegável que o poder foi insuficiente para a melhoria do aspecto espiritual, isto é, da alma. Afinal, até hoje não se conseguiu tornar desnecessária a jaula chamada lei.  
-    
-  A questão é como retirar verdadeiramente a natureza animal do ser humano e construir uma sociedade que não necessite de jaulas; é óbvio que para isso deve surgir um poder fenomenal que transcenda toda a cultura existente.  
-    
-  Contudo, alegrai-vos: esse poder é justamente o que nos foi concedido por Jeová, como o Deus Supremo, e que se está manifestando na realidade agora. Sendo esta a essência desta religião, ela é uma existência grandiosa e totalmente supra-religiosa. (22 de agosto de 1951, Eikou nº 118, "As Leis e a Natureza Selvagem do Homem")
-
-  ***\[Anexo referente ao item ⑤\]***   
-  *1 Se adorarmos a Deus de coração\*, ser-nos-á concedido o poder de vencer o mal (So, pág. 36, parte superior, linhas 9-14 \= So-shu Inferior, pág. 76, parte superior, linha 15 a parte inferior, linha 5 \<Zenshu, Vol. 9, pág. 341\>)*
-
-  *Quem faz praticar o mal é o espírito guardião secundário, e quem faz praticar o bem é o espírito guardião principal, mas como aquele que ordena o bem absoluto acima deles é o espírito guardião primordial, no fim, deve-se fazer com que a autoridade do espírito guardião primordial aumente, sendo este o poder para conquistar o mal fundamental. Portanto, o ser humano deve sempre se esforçar para cultivar este poder, e o único método para isso é adorar a Deus e tornar a fé absoluta.*  
-  *(20 de junho de 1951, Eikou nº 109, "Vença o seu próprio mal")*
-
-  ***\[Explicação\]***   
-  *Sobre o espírito guardião primordial (alma), vide Capítulo 1, Item 4-II, Sabedoria 1, ① Sabedoria para seguir a Vontade Divina (pág. 183 deste livro).*  
-  *O espírito guardião principal pode conduzir ao bem, mas, exceto em circunstâncias especiais e excepcionais (por exemplo, perigo iminente de vida), não possui o poder de decisão final sobre o corpo carnal. O poder de decisão absoluta pertence ao espírito guardião primordial (alma).* 
-
+Visto da era selvagem, a inteligência humana progrediu, e tanto na política quanto na estrutura social, em todos os aspectos,  
     
     
-  ***2\. Purificar a alma dos que creem profundamente***   
-  (Sui, nº 26, pág. 22, linha 14 a pág. 23, linha 6 \<Zenshu, Vol. 9, pág. 274\>)
+houve um progresso e desenvolvimento admiráveis. Não se pode ignorar o benefício da educação, mas, mesmo assim, é inegável que o poder foi insuficiente para a melhoria do aspecto espiritual, isto é, da alma. Afinal, até hoje não se conseguiu tornar desnecessária a jaula chamada lei.  
+    
+A questão é como retirar verdadeiramente a natureza animal do ser humano e construir uma sociedade que não necessite de jaulas; é óbvio que para isso deve surgir um poder fenomenal que transcenda toda a cultura existente.  
+    
+Contudo, alegrai-vos: esse poder é justamente o que nos foi concedido por Jeová, como o Deus Supremo, e que se está manifestando na realidade agora. Sendo esta a essência desta religião, ela é uma existência grandiosa e totalmente supra-religiosa. (22 de agosto de 1951, Eikou nº 118, "As Leis e a Natureza Selvagem do Homem")
 
-  ***\[Trecho do Preâmbulo (Sui, nº 26, pág. 21, linha 14 a pág. 22, linha 13\) Extrato\]***   
-  *Houve uma pergunta sobre qual critério usar para julgar se a alma é branca ou preta. Foi dito: "O ser humano não pode decidir se a alma é branca ou preta. Alguém que era branco há pouco pode tornar-se preto agora. Além disso, mesmo no caso de um ladrão, não se sabe se sua alma é branca ou preta\*, e não se deve decidir o preto ou branco com base em atos objetivos."*
+***\[Anexo referente ao item ⑤\]***   
+*1 Se adorarmos a Deus de coração\*, ser-nos-á concedido o poder de vencer o mal (So, pág. 36, parte superior, linhas 9-14 \= So-shu Inferior, pág. 76, parte superior, linha 15 a parte inferior, linha 5 \<Zenshu, Vol. 9, pág. 341\>)*
+
+*Quem faz praticar o mal é o espírito guardião secundário, e quem faz praticar o bem é o espírito guardião principal, mas como aquele que ordena o bem absoluto acima deles é o espírito guardião primordial, no fim, deve-se fazer com que a autoridade do espírito guardião primordial aumente, sendo este o poder para conquistar o mal fundamental. Portanto, o ser humano deve sempre se esforçar para cultivar este poder, e o único método para isso é adorar a Deus e tornar a fé absoluta.*  
+*(20 de junho de 1951, Eikou nº 109, "Vença o seu próprio mal")*
+
+***\[Explicação\]***   
+*Sobre o espírito guardião primordial (alma), vide Capítulo 1, Item 4-II, Sabedoria 1, ① Sabedoria para seguir a Vontade Divina (pág. 183 deste livro).*  
+*O espírito guardião principal pode conduzir ao bem, mas, exceto em circunstâncias especiais e excepcionais (por exemplo, perigo iminente de vida), não possui o poder de decisão final sobre o corpo carnal. O poder de decisão absoluta pertence ao espírito guardião primordial (alma).* 
 
     
-  *—— Nesse caso, qual seria o padrão para o ser humano branco ou preto mencionado nos Ensinamentos?*  
-  *—— A forma de pensar sobre o aprimoramento humano...*  
-  *Não é necessário decidir se é preto ou branco. Tentar decidir é o que está errado.*  
-  *Quem se aprimora é você mesmo, não é? Portanto, basta que você se aprimore.*  
-  *—— Quanto ao método para isso...*  
-  *Se acreditar em Deus, é certo que ficará branco. Apenas não há como saber o branco ou preto das outras pessoas.*  
-  *(1 de novembro de 1953\)*  
     
-    
-  ***3\. Poder de transformar a alma***   
-  *(魂を変える力)(Kyo, nº 26, pág. 20, linha 14 \- pág. 21, linha 4 \<Zenko, Vol. 11, pág. 80\>)*  
-    
-  *Ou seja, querer beber sake, ter vontade, mas aguentar firmemente dizendo que isso é ruim perante Deus, não é o verdadeiro estado. O verdadeiro é não querer beber, não pensar em beber. Eu nunca disse "não bebam sake". Digo àqueles que gostam de sake que bebam. Mesmo assim, eles deixam de querer beber\*1; portanto, isso é o verdadeiro. Assim, uma religião capaz de fazer com que a pessoa, naturalmente e por si mesma, deixe de praticar o mal, deixe de ser astuta e deixe de conseguir beber sake é algo que não existia até agora. O fato de não ter existido significa que Deus não tinha força e, por isso, não conseguia tornar os seres humanos assim. Por essa razão, empenharam-se em reprimir externamente; todos os métodos eram externos. Toda a civilização até o presente é assim. A medicina também o é.*  
-  *(7 de setembro de 1953\)*
+***2\. Purificar a alma dos que creem profundamente***   
+(Sui, nº 26, pág. 22, linha 14 a pág. 23, linha 6 \<Zenshu, Vol. 9, pág. 274\>)
 
-  ***\[Explicação\]***   
-  *Ao ser questionado no rádio sobre o fato de os preceitos serem considerados importantes em outras religiões, Meishu-Sama demonstrou neste ensinamento que "conduzir ao bem através de 'preceitos'3 não é um método superior. A forma de salvação desta religião consiste em transformar a alma humana através do poder de Deus, libertando-a do mal chamado pecado".* 
-
-  ***4 Purificar e conceder divindade***   
-  *(So, pág. 35, parte inferior, linhas 1-7 \= So-shu Inferior, pág. 75, parte superior, linhas 8-16 \<Zenshu, Vol. 7, pág. 489\>)*  
-  *Texto omitido. Vide Capítulo 2, Item 4-II, Plano Divino 1, Paraíso Terrestre, ①-i-E-d (pág. 541 deste livro).*   
-    
-  ***5 Almas elevadas não têm pensamentos malignos***   
-  *(Sui, nº 24, pág. 22, linhas 2-7 \<Zenko, Vol. 9, pág. 217\>)*  
-  *Texto omitido. Vide Capítulo 2, Item 4-II, Plano Divino 1, Paraíso Terrestre, ①-i-D (pág. 539 deste livro).*
-
-  ### ⑥ O Poder de Deus e a Ciência de Deus 
-
-  (神の力と神の科学)(Ron-betsu, pág. 698, parte superior, linha 2 a parte inferior, linha 2 / parte inferior, linhas 10-12; linhas 13-22 \<Zenshu, Vol. 11, pág. 203\>)
-
-  ***\[Trecho do Preâmbulo (Ron-betsu, pág. 698, parte inferior, linha 1 a pág. 699, parte superior, linha 1\) Extrato\]***   
-  *Explicarei aqui o princípio do Johrei "cientificamente". O campo de pesquisa da ciência atual limita-se ao mundo material, criando, por isso, uma medicina distorcida que poderia ser descrita como medicina de germes. Considero que deveriam existir três estágios: a ciência sobre a matéria, a ciência sobre o espírito e a ciência sobre Deus. Como a verdadeira causa da doença são as nuvens espirituais, a ciência material não consegue captar isso e, portanto, não conseguiu curar verdadeiramente as doenças.*
+***\[Trecho do Preâmbulo (Sui, nº 26, pág. 21, linha 14 a pág. 22, linha 13\) Extrato\]***   
+*Houve uma pergunta sobre qual critério usar para julgar se a alma é branca ou preta. Foi dito: "O ser humano não pode decidir se a alma é branca ou preta. Alguém que era branco há pouco pode tornar-se preto agora. Além disso, mesmo no caso de um ladrão, não se sabe se sua alma é branca ou preta\*, e não se deve decidir o preto ou branco com base em atos objetivos."*
 
     
-  Não se trata apenas da medicina. Toda a cultura tem sido assim; a sua quase totalidade constitui-se de paliativos temporários, sem perenidade. Nesse sentido, quanto aos métodos de tratamento, como mencionado anteriormente, existiam apenas dois: a ciência material dentre os três estágios, e a terapia pela fé dentro da ciência espiritual. Omito a primeira, mas, na última, os métodos de cura eram orações, ascetismo, encantamentos, etc., e, tal qual a medicina, não apresentavam efeitos notáveis. Além disso, esta é outra questão, mas mesmo Shaka ou Cristo, embora se diga que atingiram o estado de "Percepção da Verdade" (Ken-shinjitsu), historicamente não foram absolutos, situando-se no nível superior do segundo estágio, com sabedoria e poder correspondentes. Isso também foi inevitável devido às circunstâncias do tempo. Contudo, no meu caso, visto que fui colocado na posição suprema do primeiro estágio mencionado acima, apreendo a Grande Origem infinita e absoluta, sou versado em todas as coisas e posso manifestar milagres surpreendentes em relação a doenças e a todos os assuntos. Mesmo dizendo isso, terceiros não conseguirão acreditar de imediato, mas, sendo isto a concretização da Verdade, afirmo sem hesitação que qualquer pessoa acabará sendo compelida a acreditar. Entretanto, como a humanidade até hoje não compreendia isso, venerou e acreditou em Shaka e Cristo como divindades supremas; mas, como os fatos não acompanhavam a crença, as pessoas foram envoltas em nuvens de dúvida, negaram a existência do espírito e geraram a era da onipotência científica. Assim, a Bíblia profetiza o retorno de Cristo, o Budismo prega a descida de Miroku (Maitreya) e o Judaísmo e outras seitas aguardam a vinda do Messias. Dessa forma, havia expectativas desde a antiguidade, apenas o tempo não fora revelado. Quanto a se manifestarei o poder salvador do Messias, ou a autoridade do retorno de Cristo, ou se revelarei a virtude e o poder de Miroku ou Kannon em meu trabalho futuro, ficarei satisfeito se as pessoas de todo o mundo observarem com olhos de crítica imparcial; não tenho outro desejo além desse. Retomando o assunto: se considerarmos que o princípio dos três estágios — ciência da matéria, ciência do espírito e ciência de Deus — constitui a Ciência "Daijo" (de Daijō), pode-se dizer que este é o estudo supremo que deverá liderar a era vindoura. Portanto, deve-se compreender o quão baixo era o nível da ciência até hoje. Consequentemente, sendo a nossa Kyusei-kyo a concretização da Ciência Divina administrada pelo nobre e supremo Deus, e sendo a arte médica do Johrei nascida dela, não é de se estranhar que manifeste um superpoder. (1953, "O Livro da Revolução Médica", capítulo "O que é o Johrei")  
+*—— Nesse caso, qual seria o padrão para o ser humano branco ou preto mencionado nos Ensinamentos?*  
+*—— A forma de pensar sobre o aprimoramento humano...*  
+*Não é necessário decidir se é preto ou branco. Tentar decidir é o que está errado.*  
+*Quem se aprimora é você mesmo, não é? Portanto, basta que você se aprimore.*  
+*—— Quanto ao método para isso...*  
+*Se acreditar em Deus, é certo que ficará branco. Apenas não há como saber o branco ou preto das outras pessoas.*  
+*(1 de novembro de 1953\)*  
+    
+    
+***3\. Poder de transformar a alma***   
+*(魂を変える力)(Kyo, nº 26, pág. 20, linha 14 \- pág. 21, linha 4 \<Zenko, Vol. 11, pág. 80\>)*  
+    
+*Ou seja, querer beber sake, ter vontade, mas aguentar firmemente dizendo que isso é ruim perante Deus, não é o verdadeiro estado. O verdadeiro é não querer beber, não pensar em beber. Eu nunca disse "não bebam sake". Digo àqueles que gostam de sake que bebam. Mesmo assim, eles deixam de querer beber\*1; portanto, isso é o verdadeiro. Assim, uma religião capaz de fazer com que a pessoa, naturalmente e por si mesma, deixe de praticar o mal, deixe de ser astuta e deixe de conseguir beber sake é algo que não existia até agora. O fato de não ter existido significa que Deus não tinha força e, por isso, não conseguia tornar os seres humanos assim. Por essa razão, empenharam-se em reprimir externamente; todos os métodos eram externos. Toda a civilização até o presente é assim. A medicina também o é.*  
+*(7 de setembro de 1953\)*
+
+***\[Explicação\]***   
+*Ao ser questionado no rádio sobre o fato de os preceitos serem considerados importantes em outras religiões, Meishu-Sama demonstrou neste ensinamento que "conduzir ao bem através de 'preceitos'3 não é um método superior. A forma de salvação desta religião consiste em transformar a alma humana através do poder de Deus, libertando-a do mal chamado pecado".* 
+
+***4 Purificar e conceder divindade***   
+*(So, pág. 35, parte inferior, linhas 1-7 \= So-shu Inferior, pág. 75, parte superior, linhas 8-16 \<Zenshu, Vol. 7, pág. 489\>)*  
+*Texto omitido. Vide Capítulo 2, Item 4-II, Plano Divino 1, Paraíso Terrestre, ①-i-E-d (pág. 541 deste livro).*   
+    
+***5 Almas elevadas não têm pensamentos malignos***   
+*(Sui, nº 24, pág. 22, linhas 2-7 \<Zenko, Vol. 9, pág. 217\>)*  
+*Texto omitido. Vide Capítulo 2, Item 4-II, Plano Divino 1, Paraíso Terrestre, ①-i-D (pág. 539 deste livro).*
+
+### ⑥ O Poder de Deus e a Ciência de Deus 
+
+(神の力と神の科学)(Ron-betsu, pág. 698, parte superior, linha 2 a parte inferior, linha 2 / parte inferior, linhas 10-12; linhas 13-22 \<Zenshu, Vol. 11, pág. 203\>)
+
+***\[Trecho do Preâmbulo (Ron-betsu, pág. 698, parte inferior, linha 1 a pág. 699, parte superior, linha 1\) Extrato\]***   
+*Explicarei aqui o princípio do Johrei "cientificamente". O campo de pesquisa da ciência atual limita-se ao mundo material, criando, por isso, uma medicina distorcida que poderia ser descrita como medicina de germes. Considero que deveriam existir três estágios: a ciência sobre a matéria, a ciência sobre o espírito e a ciência sobre Deus. Como a verdadeira causa da doença são as nuvens espirituais, a ciência material não consegue captar isso e, portanto, não conseguiu curar verdadeiramente as doenças.*
+
+    
+Não se trata apenas da medicina. Toda a cultura tem sido assim; a sua quase totalidade constitui-se de paliativos temporários, sem perenidade. Nesse sentido, quanto aos métodos de tratamento, como mencionado anteriormente, existiam apenas dois: a ciência material dentre os três estágios, e a terapia pela fé dentro da ciência espiritual. Omito a primeira, mas, na última, os métodos de cura eram orações, ascetismo, encantamentos, etc., e, tal qual a medicina, não apresentavam efeitos notáveis. Além disso, esta é outra questão, mas mesmo Shaka ou Cristo, embora se diga que atingiram o estado de "Percepção da Verdade" (Ken-shinjitsu), historicamente não foram absolutos, situando-se no nível superior do segundo estágio, com sabedoria e poder correspondentes. Isso também foi inevitável devido às circunstâncias do tempo. Contudo, no meu caso, visto que fui colocado na posição suprema do primeiro estágio mencionado acima, apreendo a Grande Origem infinita e absoluta, sou versado em todas as coisas e posso manifestar milagres surpreendentes em relação a doenças e a todos os assuntos. Mesmo dizendo isso, terceiros não conseguirão acreditar de imediato, mas, sendo isto a concretização da Verdade, afirmo sem hesitação que qualquer pessoa acabará sendo compelida a acreditar. Entretanto, como a humanidade até hoje não compreendia isso, venerou e acreditou em Shaka e Cristo como divindades supremas; mas, como os fatos não acompanhavam a crença, as pessoas foram envoltas em nuvens de dúvida, negaram a existência do espírito e geraram a era da onipotência científica. Assim, a Bíblia profetiza o retorno de Cristo, o Budismo prega a descida de Miroku (Maitreya) e o Judaísmo e outras seitas aguardam a vinda do Messias. Dessa forma, havia expectativas desde a antiguidade, apenas o tempo não fora revelado. Quanto a se manifestarei o poder salvador do Messias, ou a autoridade do retorno de Cristo, ou se revelarei a virtude e o poder de Miroku ou Kannon em meu trabalho futuro, ficarei satisfeito se as pessoas de todo o mundo observarem com olhos de crítica imparcial; não tenho outro desejo além desse. Retomando o assunto: se considerarmos que o princípio dos três estágios — ciência da matéria, ciência do espírito e ciência de Deus — constitui a Ciência "Daijo" (de Daijō), pode-se dizer que este é o estudo supremo que deverá liderar a era vindoura. Portanto, deve-se compreender o quão baixo era o nível da ciência até hoje. Consequentemente, sendo a nossa Kyusei-kyo a concretização da Ciência Divina administrada pelo nobre e supremo Deus, e sendo a arte médica do Johrei nascida dela, não é de se estranhar que manifeste um superpoder. (1953, "O Livro da Revolução Médica", capítulo "O que é o Johrei")  
   
 
-  ***\[Explicação\]***   
-  *Em relação a "O Livro da Revolução Médica", foi dito: "Considerando as palavras do Dr. Yukawa sobre a Conferência Internacional de Física Teórica realizada atualmente, a pesquisa da física teórica chegou a um passo do mundo espiritual. Por isso, pretendo escrever 'Espiritualismo Divino Teórico' após 'O Livro da Revolução Médica', para definir os domínios que a física teórica deve investigar no futuro" (Kyo, nº 26, pág. 75, linha 2 a pág. 76, linha 8 \<Zenko, Vol. 11, pág. 126\>).*   
+***\[Explicação\]***   
+*Em relação a "O Livro da Revolução Médica", foi dito: "Considerando as palavras do Dr. Yukawa sobre a Conferência Internacional de Física Teórica realizada atualmente, a pesquisa da física teórica chegou a um passo do mundo espiritual. Por isso, pretendo escrever 'Espiritualismo Divino Teórico' após 'O Livro da Revolução Médica', para definir os domínios que a física teórica deve investigar no futuro" (Kyo, nº 26, pág. 75, linha 2 a pág. 76, linha 8 \<Zenko, Vol. 11, pág. 126\>).*   
     
-  *Tais verdades profundas foram demonstradas por Meishu-Sama através da Sabedoria Divina, e a civilização científica está posicionada no item "Demonstrando os limites da civilização científica" (pág. 86 deste livro), dentro da seção Sabedoria Divina do Capítulo 1\. Além disso, em "Superciência", escrito como um dos manuscritos para "O Livro da Revolução Médica", está escrito com base nas declarações do Dr. Yukawa que "a pesquisa da física teórica está prestes a entrar no domínio do espírito" (Ron, pág. 2081 \= So-shu Johrei Superior, pág. 7).*  
-  *(Kesshin, pág. 12, linhas 2-3, 8-10; pág. 12, linha 15 a pág. 13, linha 1 \= So-shu Johrei Superior, pág. 149, parte inferior, linha 16 a pág. 150, parte superior, linha 2; pág. 150, parte superior, linha 14 a parte inferior, linha 4; pág. 150, parte inferior, linha 13 a pág. 151, parte superior, linha 4 \<Zenshu, Vol. 10, pág. 60\>)*
+*Tais verdades profundas foram demonstradas por Meishu-Sama através da Sabedoria Divina, e a civilização científica está posicionada no item "Demonstrando os limites da civilização científica" (pág. 86 deste livro), dentro da seção Sabedoria Divina do Capítulo 1\. Além disso, em "Superciência", escrito como um dos manuscritos para "O Livro da Revolução Médica", está escrito com base nas declarações do Dr. Yukawa que "a pesquisa da física teórica está prestes a entrar no domínio do espírito" (Ron, pág. 2081 \= So-shu Johrei Superior, pág. 7).*  
+*(Kesshin, pág. 12, linhas 2-3, 8-10; pág. 12, linha 15 a pág. 13, linha 1 \= So-shu Johrei Superior, pág. 149, parte inferior, linha 16 a pág. 150, parte superior, linha 2; pág. 150, parte superior, linha 14 a parte inferior, linha 4; pág. 150, parte inferior, linha 13 a pág. 151, parte superior, linha 4 \<Zenshu, Vol. 10, pág. 60\>)*
 
-  ### ⑦ A luz intermediada pelo Ohikari \*1
+### ⑦ A luz intermediada pelo Ohikari \*1
 
-  #### i Ondas de luz emitidas pelo Ohikari 
-
-    
-  ***\[Trecho do Preâmbulo (Kesshin, pág. 9, linha 9 a pág. 12, linha 1\) Extrato\]***   
-  *Este mundo é constituído por três estágios: o mundo material de primeira dimensão, o mundo do ar de segunda dimensão e o mundo do espírito de terceira dimensão. Com a ciência atual, não se pode apreender o mundo espiritual de terceira dimensão supracitado. A verdadeira causa da doença (são as nuvens espirituais), mas a medicina não consegue apreendê-la. Explicação detalhada sobre as nuvens omitida.*
+#### i Ondas de luz emitidas pelo Ohikari 
 
     
-  Se tentarmos curar radicalmente a doença com base no princípio acima\*2, é evidente que não há outro método de tratamento verdadeiro senão dissipar as nuvens espirituais, que são a fonte de geração dos germes. A dissipação das nuvens ocorre quando o ministrante impõe a palma da mão sobre a parte afetada do paciente; nesse momento, uma espécie de onda de luz é irradiada da palma do ministrante. Se perguntarem o que é essa onda de luz, para facilitar o entendimento, é a essência do sol, a qual denominei Elemento Fogo (Kaso).  
+***\[Trecho do Preâmbulo (Kesshin, pág. 9, linha 9 a pág. 12, linha 1\) Extrato\]***   
+*Este mundo é constituído por três estágios: o mundo material de primeira dimensão, o mundo do ar de segunda dimensão e o mundo do espírito de terceira dimensão. Com a ciência atual, não se pode apreender o mundo espiritual de terceira dimensão supracitado. A verdadeira causa da doença (são as nuvens espirituais), mas a medicina não consegue apreendê-la. Explicação detalhada sobre as nuvens omitida.*
+
     
-  Então, por que tal espírito de fogo com poder de cura pode ser irradiado quando se torna fiel desta religião? Trata-se de ondas de luz emitidas pelo Ohikari que o fiel usa pendurado no pescoço. Este Ohikari contém letras escritas por mim — existem três tipos: Hikari (Luz), Komyo (Luz Brilhante) e Daikomyo (Grande Luz Brilhante). O Espírito Divino do Senhor Deus (Jeová) é transmitido ao Ohikari tendo meu corpo espiritual como intermediário e, do Ohikari, é irradiado através da palma da mão do fiel. (1 de dezembro de 1952, "Geração de Germes")
-
-  #### ii Receptor de ondas de luz (A-Kyu, pág. 38, linhas 8-15 \<Zenshu, Vol. 11, pág. 29\>)
-
-  O referido poder de purificação deve-se ao fato de que Deus Jeová me concedeu a bola de Luz Espiritual, que pode ser chamada de fonte do Elemento Fogo (esta bola situa-se no centro do abdômen, tem cerca de seis centímetros de diâmetro e há quem a veja a olho nu); desta bola são irradiadas ondas de luz infinitamente. Como método de transmissão, escrevo com tinta e pincel os caracteres de "Luz" em um pedaço de papel de cerca de meio metro, que é dobrado e colocado junto ao peito. Assim, as ondas de luz que saem de mim transmitem-se ao ministrante através do elo espiritual e são irradiadas por sua palma. Este é o método do Johrei. É exatamente como uma estação de rádio, uma antena e um receptor; o Ohikari mencionado nos relatórios de experiências é isto.  
+Se tentarmos curar radicalmente a doença com base no princípio acima\*2, é evidente que não há outro método de tratamento verdadeiro senão dissipar as nuvens espirituais, que são a fonte de geração dos germes. A dissipação das nuvens ocorre quando o ministrante impõe a palma da mão sobre a parte afetada do paciente; nesse momento, uma espécie de onda de luz é irradiada da palma do ministrante. Se perguntarem o que é essa onda de luz, para facilitar o entendimento, é a essência do sol, a qual denominei Elemento Fogo (Kaso).  
     
-  Então, por que Deus me concedeu tal método? Porque chegou a oportunidade da Era da qual Cristo profetizou: "O Reino dos Céus está próximo". Como base fundamental para isso, primeiramente Deus me ensinou o método de redução e extinção das doenças, visando banir a doença da humanidade. (1 de janeiro de 1953, "Tuberculose")
+Então, por que tal espírito de fogo com poder de cura pode ser irradiado quando se torna fiel desta religião? Trata-se de ondas de luz emitidas pelo Ohikari que o fiel usa pendurado no pescoço. Este Ohikari contém letras escritas por mim — existem três tipos: Hikari (Luz), Komyo (Luz Brilhante) e Daikomyo (Grande Luz Brilhante). O Espírito Divino do Senhor Deus (Jeová) é transmitido ao Ohikari tendo meu corpo espiritual como intermediário e, do Ohikari, é irradiado através da palma da mão do fiel. (1 de dezembro de 1952, "Geração de Germes")
 
-  ### 
+#### ii Receptor de ondas de luz (A-Kyu, pág. 38, linhas 8-15 \<Zenshu, Vol. 11, pág. 29\>)
 
-  ### ⑧ A luz que transcende o tempo e o espaço 
-
-  (時空を越える光)(Kyo, nº 25, pág. 50, linhas 1-8 \<Zenko, Vol. 11, pág. 49\>)  
+O referido poder de purificação deve-se ao fato de que Deus Jeová me concedeu a bola de Luz Espiritual, que pode ser chamada de fonte do Elemento Fogo (esta bola situa-se no centro do abdômen, tem cerca de seis centímetros de diâmetro e há quem a veja a olho nu); desta bola são irradiadas ondas de luz infinitamente. Como método de transmissão, escrevo com tinta e pincel os caracteres de "Luz" em um pedaço de papel de cerca de meio metro, que é dobrado e colocado junto ao peito. Assim, as ondas de luz que saem de mim transmitem-se ao ministrante através do elo espiritual e são irradiadas por sua palma. Este é o método do Johrei. É exatamente como uma estação de rádio, uma antena e um receptor; o Ohikari mencionado nos relatórios de experiências é isto.  
     
-  Estão surgindo milagres sucessivamente, não perdendo para os do Japão. Houve um milagre maravilhoso em Los Angeles também, que publicarei no próximo número do "Eikou". Isso significa que, mesmo eu estando aqui no Japão, a luz está chegando até lá. Ou seja, no poder de Deus, quase não existe diferença entre longe e perto. Isto é, transcender o tempo e o espaço é a Verdade; é exatamente como se o espaço fosse transcendido, sendo quase como se fosse o vizinho. O mesmo ocorre com o tempo: é instantâneo. Portanto, a situação tornar-se-á tal que, futuramente, pessoas da América ou da África, se pedirem, receberão a graça imediatamente\*; por isso, é imperativo salvar o mundo inteiro. O fato de ter surgido alguém em Los Angeles que se tornou praticante apenas através de cartas recentes é algo realmente surpreendente. (25 de agosto de 1953\)
+Então, por que Deus me concedeu tal método? Porque chegou a oportunidade da Era da qual Cristo profetizou: "O Reino dos Céus está próximo". Como base fundamental para isso, primeiramente Deus me ensinou o método de redução e extinção das doenças, visando banir a doença da humanidade. (1 de janeiro de 1953, "Tuberculose")
 
-  ### ⑨ O que é o Deus Supremo desta religião 
 
-  (本教主宰神とは何か)(Kyo, nº 31, pág. 8, linhas 4-6 \<Zenko, Vol. 12, pág. 180\>)  
+### ⑧ A luz que transcende o tempo e o espaço 
+
+(時空を越える光)(Kyo, nº 25, pág. 50, linhas 1-8 \<Zenko, Vol. 11, pág. 49\>)  
     
-  Ushitora no Konjin\* é o Deus Supremo que caiu para baixo, enquanto os deuses dos ramos se alastraram em cima fazendo o que bem entendiam — há a Palavra: "Deus também lamenta". É esse o significado. De qualquer forma, isso continuou por três mil anos no mundo material e agora vai finalmente aparecer na superfície; a instituição para isso é a Kyusei-kyo. (4 de fevereiro de 1954\)
+Estão surgindo milagres sucessivamente, não perdendo para os do Japão. Houve um milagre maravilhoso em Los Angeles também, que publicarei no próximo número do "Eikou". Isso significa que, mesmo eu estando aqui no Japão, a luz está chegando até lá. Ou seja, no poder de Deus, quase não existe diferença entre longe e perto. Isto é, transcender o tempo e o espaço é a Verdade; é exatamente como se o espaço fosse transcendido, sendo quase como se fosse o vizinho. O mesmo ocorre com o tempo: é instantâneo. Portanto, a situação tornar-se-á tal que, futuramente, pessoas da América ou da África, se pedirem, receberão a graça imediatamente\*; por isso, é imperativo salvar o mundo inteiro. O fato de ter surgido alguém em Los Angeles que se tornou praticante apenas através de cartas recentes é algo realmente surpreendente. (25 de agosto de 1953\)
 
-  ### 
+### ⑨ O que é o Deus Supremo desta religião 
 
-  ### ⑩ O Poder do Deus Supremo desta Religião 
+(本教主宰神とは何か)(Kyo, nº 31, pág. 8, linhas 4-6 \<Zenko, Vol. 12, pág. 180\>)  
+    
+Ushitora no Konjin\* é o Deus Supremo que caiu para baixo, enquanto os deuses dos ramos se alastraram em cima fazendo o que bem entendiam — há a Palavra: "Deus também lamenta". É esse o significado. De qualquer forma, isso continuou por três mil anos no mundo material e agora vai finalmente aparecer na superfície; a instituição para isso é a Kyusei-kyo. (4 de fevereiro de 1954\)
 
-  (本教主宰神の力)(Chi, nº 8, pág. 15, parte superior, linhas 10-14 \<Zenko, Vol. 3, pág. 66\>)  
-  Texto omitido. Vide Item 3, Poder de Deus, 3, Através de milagres e do Johrei, ⑬ (pág. 449 deste livro).
+
+### ⑩ O Poder do Deus Supremo desta Religião 
+
+(本教主宰神の力)(Chi, nº 8, pág. 15, parte superior, linhas 10-14 \<Zenko, Vol. 3, pág. 66\>)  
+Texto omitido. Vide Item 3, Poder de Deus, 3, Através de milagres e do Johrei, ⑬ (pág. 449 deste livro).
 
 ### 3 Através de milagres e do Johrei 
 
@@ -1437,37 +1433,37 @@ Explicarei sobre o relatório à esquerda\*: diz-se desde a antiguidade que a lo
 
 - *Justamente agora, quando estava prestes a se apagar,* 
 
-  *é Minha Obra Divina que reconecta o cordão único da alma.* 
+*é Minha Obra Divina que reconecta o cordão único da alma.* 
 
-  *(6 de março de 1946\) (Meikin, pág. 47, Nº 2 \= Okada Mokichi Zenshu Shika-hen \[5\], pág. 61, Nº 1\)*
+*(6 de março de 1946\) (Meikin, pág. 47, Nº 2 \= Okada Mokichi Zenshu Shika-hen \[5\], pág. 61, Nº 1\)*
 
   
 
 - Ainda que a vida humana esteja determinada, 
 
-  Eu a trocarei à vontade através da Obra Divina. 
+Eu a trocarei à vontade através da Obra Divina. 
 
-  (6 de março de 1946\) (Meikin, pág. 47, Nº 1 \= Okada Mokichi Zenshu Shika-hen \[5\], pág. 60, Nº 5\)
+(6 de março de 1946\) (Meikin, pág. 47, Nº 1 \= Okada Mokichi Zenshu Shika-hen \[5\], pág. 60, Nº 5\)
 
 - Justamente agora, quando a tua vida estava prestes a extinguir-se, 
 
-  Eu a reconectarei e a deterei com o Meu poder. 
+Eu a reconectarei e a deterei com o Meu poder. 
 
-  (21 de abril de 1954\) (Eikou, nº 257, Nº 2 \= Okada Mokichi Zenshu Shika-hen \[6\], pág. 456, Nº 2\)
+(21 de abril de 1954\) (Eikou, nº 257, Nº 2 \= Okada Mokichi Zenshu Shika-hen \[6\], pág. 456, Nº 2\)
 
-  ### ⑨ Poder que fez escapar da bomba atômica e outros 
+### ⑨ Poder que fez escapar da bomba atômica e outros 
 
-  (原爆等を免れさせた力)(So, pág. 209, parte inferior, linhas 6-20 \= So-shu Inferior, pág. 396, parte inferior, linha 6 a pág. 397, parte superior, linha 8 \<Zenshu, Vol. 10, pág. 468\>)
+(原爆等を免れさせた力)(So, pág. 209, parte inferior, linhas 6-20 \= So-shu Inferior, pág. 396, parte inferior, linha 6 a pág. 397, parte superior, linha 8 \<Zenshu, Vol. 10, pág. 468\>)
 
-  ***\[Explicação\]*** 
+***\[Explicação\]*** 
 
-  *Será possível escapar do poder destrutivo da bomba atômica? Para responder a esta pergunta, é necessário conhecer duas premissas: ① Tudo neste universo é formado por espírito e corpo (matéria); ② O poder do espírito é muito mais forte que o poder da matéria (vide Capítulo 2, Item 2, Conceito de Deus 3, Infinito). Com base nessas premissas, Meishu-Sama ensinou o seguinte:*
+*Será possível escapar do poder destrutivo da bomba atômica? Para responder a esta pergunta, é necessário conhecer duas premissas: ① Tudo neste universo é formado por espírito e corpo (matéria); ② O poder do espírito é muito mais forte que o poder da matéria (vide Capítulo 2, Item 2, Conceito de Deus 3, Infinito). Com base nessas premissas, Meishu-Sama ensinou o seguinte:*
 
-  Ou seja, mesmo a bomba atômica é fundamentalmente matéria, sendo apenas uma força extrema.
+Ou seja, mesmo a bomba atômica é fundamentalmente matéria, sendo apenas uma força extrema.
 
-  Portanto, para se defender dela, basta utilizar uma força superior, isto é, uma força que poderia ser chamada de bomba atômica espiritual. Ao dizer "bomba atômica espiritual", pode-se pensar que algo tão fantástico não existiria hoje, mas o grande problema é que ela existe com certeza. Essa força é um poder supercientífico capaz de não aceitar a bomba atômica, e esse poder é o poder absoluto manifestado pelo Espírito Divino. E através do que esse poder é manifestado? É o Poder Divino manifestado através do meu corpo físico. Isso tem sido assegurado até hoje através de experiências, ainda que em pequena escala. O fato é que, por ocasião do bombardeio atômico em Hiroshima e Nagasaki, as pessoas que portavam o Ohikari feito por mim foram todas salvas. Como publiquei agora alguns relatórios escritos pelos próprios indivíduos, ao lê-los, qualquer pessoa, por mais cética que seja, não terá como não acreditar. (23 de abril de 1952, Eikou nº 153, "Não há o que temer na Bomba Atômica")
+Portanto, para se defender dela, basta utilizar uma força superior, isto é, uma força que poderia ser chamada de bomba atômica espiritual. Ao dizer "bomba atômica espiritual", pode-se pensar que algo tão fantástico não existiria hoje, mas o grande problema é que ela existe com certeza. Essa força é um poder supercientífico capaz de não aceitar a bomba atômica, e esse poder é o poder absoluto manifestado pelo Espírito Divino. E através do que esse poder é manifestado? É o Poder Divino manifestado através do meu corpo físico. Isso tem sido assegurado até hoje através de experiências, ainda que em pequena escala. O fato é que, por ocasião do bombardeio atômico em Hiroshima e Nagasaki, as pessoas que portavam o Ohikari feito por mim foram todas salvas. Como publiquei agora alguns relatórios escritos pelos próprios indivíduos, ao lê-los, qualquer pessoa, por mais cética que seja, não terá como não acreditar. (23 de abril de 1952, Eikou nº 153, "Não há o que temer na Bomba Atômica")
 
-  ***\[Resumo de Relatos\]*** 
+***\[Resumo de Relatos\]*** 
 
 1. *Província de Hiroshima \- U.S. (Milagres, pág. 135 \= Zenshu Complementar Vol. 3, pág. 475\) Sempre realizava atividades na cidade de Hiroshima pela manhã e depois ia para a fábrica no subúrbio. No dia 6 de agosto, por acaso, saí de casa em Hiroshima cedo, às seis e meia, rumo à fábrica. No momento do lançamento da bomba atômica, às oito e quinze, eu estava no subúrbio e não sofri danos. A partir do dia seguinte, fui à cidade todos os dias e fui banhado pela radiação, mas meu corpo não apresentou absolutamente nenhuma anormalidade.*
 
@@ -1477,85 +1473,84 @@ Explicarei sobre o relatório à esquerda\*: diz-se desde a antiguidade que a lo
 
    
 
-   1. *Província de Fukui \- Y.I. (Milagres, pág. 134 \= Zenshu Complementar Vol. 3, pág. 473\) Fui bombardeado em Nagasaki, a cerca de quatro quilômetros do hipocentro; os danos foram tais que a casa virou uma montanha de escombros. Sofri ferimentos na cabeça, mas minha vida foi salva. O ferimento na cabeça também se recuperou satisfatoriamente com o Johrei.*
+1. *Província de Fukui \- Y.I. (Milagres, pág. 134 \= Zenshu Complementar Vol. 3, pág. 473\) Fui bombardeado em Nagasaki, a cerca de quatro quilômetros do hipocentro; os danos foram tais que a casa virou uma montanha de escombros. Sofri ferimentos na cabeça, mas minha vida foi salva. O ferimento na cabeça também se recuperou satisfatoriamente com o Johrei.*
 
-   ### 
 
-   ### ⑩ Poder de regenerar órgãos corroídos e caídos 
+### ⑩ Poder de regenerar órgãos corroídos e caídos 
 
-   (腐食脱落した器官も復活させる力) (Milagres, pág. 151, linhas 1-15 \<Zenshu, Vol. 11, pág. 134\>)
-
-   
-
-      ***\[Explicação\]*** 
-
-      *Este ensinamento refere-se ao relato de graça onde "um menino de seis anos sofria de retenção urinária; por duas vezes, o médico extraiu a urina através de sonda. Depois disso, confiando apenas no Johrei, passaram-se as oito horas que o médico alertou serem perigosas e, finalmente, após seis dias sem urinar, o menino entrou em estado de coma. No momento em que se preparavam para a morte, a urina saiu, a dor desapareceu e ele começou a se recuperar bem. Contudo, o pênis e os testículos começaram a corroer e acabaram caindo. Mas, posteriormente, os testículos e o pênis começaram a regenerar-se pouco a pouco e, em cerca de três meses, recuperaram a forma original".*
+(腐食脱落した器官も復活させる力) (Milagres, pág. 151, linhas 1-15 \<Zenshu, Vol. 11, pág. 134\>)
 
    
 
-   
+***\[Explicação\]*** 
 
-   Quando esta religião se tornar uma grande religião mundial, não há dúvida de que este milagre se tornará conhecido por toda a humanidade como algo inédito. Portanto, observando apenas este fato, não há margem para dúvida de que esta religião é presidida pelo Deus Supremo que exerce o poder absoluto.
-
-   
-
-   Conforme este relatório, parece que na medicina considera-se perigoso se a urina não sair por mais de oito horas; o fato de a vida ter sido mantida mesmo sem sair uma gota sequer por seis dias deve ser registrado como algo inédito na história da medicina. Afinal, um supermilagre dessa magnitude transcende as diferenças entre ciência e religião, não havendo exemplo igual. Além disso, apesar de ter inchado como uma bola devido à retenção urinária e ter ficado inconsciente, é estranho que não tenha ocorrido uremia. Ou talvez tenha ocorrido, mas pelo poder de Deus o corpo não a aceitou; de qualquer forma, mesmo os médicos jamais conseguiriam acreditar.
+*Este ensinamento refere-se ao relato de graça onde "um menino de seis anos sofria de retenção urinária; por duas vezes, o médico extraiu a urina através de sonda. Depois disso, confiando apenas no Johrei, passaram-se as oito horas que o médico alertou serem perigosas e, finalmente, após seis dias sem urinar, o menino entrou em estado de coma. No momento em que se preparavam para a morte, a urina saiu, a dor desapareceu e ele começou a se recuperar bem. Contudo, o pênis e os testículos começaram a corroer e acabaram caindo. Mas, posteriormente, os testículos e o pênis começaram a regenerar-se pouco a pouco e, em cerca de três meses, recuperaram a forma original".*
 
    
 
-   Diante deste fato, a ninguém ocorrerão palavras de crítica ou impressões. Apenas engolirão em seco, fecharão os olhos e passarão momentos de "Munem Muso" (ausência de pensamentos), transcendendo o espanto. Isso será ainda maior do que quando surgiu a bomba atômica e todos ficaram estupefatos diante de um milagre quase impensável.
+   
+
+Quando esta religião se tornar uma grande religião mundial, não há dúvida de que este milagre se tornará conhecido por toda a humanidade como algo inédito. Portanto, observando apenas este fato, não há margem para dúvida de que esta religião é presidida pelo Deus Supremo que exerce o poder absoluto.
 
    
 
-   É claro que, no caso da bomba atômica, há uma explicação científica, mas quanto a este milagre, provavelmente a explicação é impossível tanto pela ciência quanto pela religião. Contudo, mesmo que houvesse explicação, não escreverei porque não seria compreendida, pois a Obra de Deus transcende o mundo da sabedoria humana. (22 de julho de 1953, Eikou nº 218, "Supermilagre") 
+Conforme este relatório, parece que na medicina considera-se perigoso se a urina não sair por mais de oito horas; o fato de a vida ter sido mantida mesmo sem sair uma gota sequer por seis dias deve ser registrado como algo inédito na história da medicina. Afinal, um supermilagre dessa magnitude transcende as diferenças entre ciência e religião, não havendo exemplo igual. Além disso, apesar de ter inchado como uma bola devido à retenção urinária e ter ficado inconsciente, é estranho que não tenha ocorrido uremia. Ou talvez tenha ocorrido, mas pelo poder de Deus o corpo não a aceitou; de qualquer forma, mesmo os médicos jamais conseguiriam acreditar.
 
    
 
-   ### ⑪ Chega o dia e o Deus do Sol exerce Seu poder
-
-   (昼が来て日の神が力を振るう) (Kyo, nº 29, pág. 58, linha 12 \- pág. 60, linha 6 \<Zenko, Vol. 11, pág. 321\>)
-
-   Texto omitido. Vide Capítulo 2, Item 4-II, Plano Divino 2, Transição da Noite para o Dia, ①-ii (pág. 564 deste livro).
+Diante deste fato, a ninguém ocorrerão palavras de crítica ou impressões. Apenas engolirão em seco, fecharão os olhos e passarão momentos de "Munem Muso" (ausência de pensamentos), transcendendo o espanto. Isso será ainda maior do que quando surgiu a bomba atômica e todos ficaram estupefatos diante de um milagre quase impensável.
 
    
 
-      ***\[Anexo referente ao item ⑪\]*** 
+É claro que, no caso da bomba atômica, há uma explicação científica, mas quanto a este milagre, provavelmente a explicação é impossível tanto pela ciência quanto pela religião. Contudo, mesmo que houvesse explicação, não escreverei porque não seria compreendida, pois a Obra de Deus transcende o mundo da sabedoria humana. (22 de julho de 1953, Eikou nº 218, "Supermilagre") 
 
-      *Poema Divino (御詠)*
+   
+
+### ⑪ Chega o dia e o Deus do Sol exerce Seu poder
+
+(昼が来て日の神が力を振るう) (Kyo, nº 29, pág. 58, linha 12 \- pág. 60, linha 6 \<Zenko, Vol. 11, pág. 321\>)
+
+Texto omitido. Vide Capítulo 2, Item 4-II, Plano Divino 2, Transição da Noite para o Dia, ①-ii (pág. 564 deste livro).
+
+   
+
+***\[Anexo referente ao item ⑪\]*** 
+
+*Poema Divino (御詠)*
 
 - *Com a manifestação do Deus do Sol, o mundo inteiro,* 
 
-  *sem deixar recantos, há de clarear.* 
+*sem deixar recantos, há de clarear.* 
 
-  *(25 de julho de 1953\) (Chi, nº 50, pág. 3, Nº 6 \= Okada Mokichi Zenshu Shika-hen \[6\], pág. 347, Nº 5\)*
+*(25 de julho de 1953\) (Chi, nº 50, pág. 3, Nº 6 \= Okada Mokichi Zenshu Shika-hen \[6\], pág. 347, Nº 5\)*
 
-  ### ⑫ A fé profunda em Meishu-Sama concede grande poder 
+### ⑫ A fé profunda em Meishu-Sama concede grande poder 
 
-  (明主様への深い信仰が大いなる力を授ける) (Kyo, nº 33, pág. 34, linha 15 \- pág. 35, linha 3 \<Zenko, Vol. 12, pág. 343\> \[Versão revisada por gravação\])
+(明主様への深い信仰が大いなる力を授ける) (Kyo, nº 33, pág. 34, linha 15 \- pág. 35, linha 3 \<Zenko, Vol. 12, pág. 343\> \[Versão revisada por gravação\])
 
-  Texto omitido. Vide Capítulo 1, Item 1, 14, "Se compreenderem sobre Meishu-Sama, receberão força" (pág. 27 deste livro). 
+Texto omitido. Vide Capítulo 1, Item 1, 14, "Se compreenderem sobre Meishu-Sama, receberão força" (pág. 27 deste livro). 
 
-  ### ⑬ A origem do Poder de Kannon 
+### ⑬ A origem do Poder de Kannon 
 
-  (観音力の根元) (Chi, nº 8, pág. 15, parte superior, linhas 10-14 \<Zenko, Vol. 3, pág. 66\>)
+(観音力の根元) (Chi, nº 8, pág. 15, parte superior, linhas 10-14 \<Zenko, Vol. 3, pág. 66\>)
 
-  ***\[Trecho do Preâmbulo (Chi, nº 8, pág. 15, parte superior, linhas 7-9) Extrato\]*** 
+***\[Trecho do Preâmbulo (Chi, nº 8, pág. 15, parte superior, linhas 7-9) Extrato\]*** 
 
-  *O Grande Deus do Mundo Oculto (Kakuriyo no Ookami) é o Deus que governa o Mundo Espiritual; originalmente, era Kunitokotachi no Mikoto.*
+*O Grande Deus do Mundo Oculto (Kakuriyo no Ookami) é o Deus que governa o Mundo Espiritual; originalmente, era Kunitokotachi no Mikoto.*
 
-  (Kunitokotachi no Mikoto) agora está trabalhando no mundo material. Ele me protege. Quando há algo que não entendo, pergunto a Kunitokotachi no Mikoto e Ele me ensina de forma extremamente simples. É uma Divindade de poder, e nenhum deus maligno pode com Ele\*1. A origem do Poder de Kannon é o poder de Kunitokotachi no Mikoto. Ele é também o Deus do Julgamento. (25 de setembro de 1949\)
+(Kunitokotachi no Mikoto) agora está trabalhando no mundo material. Ele me protege. Quando há algo que não entendo, pergunto a Kunitokotachi no Mikoto e Ele me ensina de forma extremamente simples. É uma Divindade de poder, e nenhum deus maligno pode com Ele\*1. A origem do Poder de Kannon é o poder de Kunitokotachi no Mikoto. Ele é também o Deus do Julgamento. (25 de setembro de 1949\)
 
-  ***\[Anexo referente ao item ⑬\]*** 
+***\[Anexo referente ao item ⑬\]*** 
 
-  *Poema Divino (御詠)*
+*Poema Divino (御詠)*
 
 - *Ocultando o poder de diamante que sustenta o céu e a terra\*2, o Deus do Ushitora escondeu-se. (4 de março de 1935\)*
 
-  *(Kosei, nº 2, pág. 6, Nº 7 \= Okada Mokichi Zenshu Shika-hen \[4\], pág. 37, Nº 4\)*
+*(Kosei, nº 2, pág. 6, Nº 7 \= Okada Mokichi Zenshu Shika-hen \[4\], pág. 37, Nº 4\)*
 
 - *Por mais maligno que seja o deus de Magatsu,* 
 
-  *poderá ele enfrentar o poder de diamante que eu exerço?* 
+*poderá ele enfrentar o poder de diamante que eu exerço?* 
 
-  *(25 de dezembro de 1953\) (Chi, nº 55, pág. 7, Nº 4 \= Okada Mokichi Zenshu Shika-hen \[6\], pág. 408, Nº 1\)*
+*(25 de dezembro de 1953\) (Chi, nº 55, pág. 7, Nº 4 \= Okada Mokichi Zenshu Shika-hen \[6\], pág. 408, Nº 1\)*
 

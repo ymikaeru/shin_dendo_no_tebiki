@@ -22,3 +22,6 @@ _notes_proposals.json.tmp
 
 # Config local do Claude Code (permissões/launch locais)
 .claude/
+
+# Site público gerado (tools/build_site.py) — publicado pelo GitHub Actions
+site/

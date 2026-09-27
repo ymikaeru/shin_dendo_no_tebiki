@@ -289,6 +289,7 @@ def parse_ensinamento(title_raw, body_lines):
 # Notas: renumera [^id] por ensinamento (titulo conta primeiro) e liga as defs.
 # ----------------------------------------------------------------------------
 NOTE_REF = re.compile(r'\[\^([^\]]+)\]')
+IMG_DEF = re.compile(r'^\[(image\d+)\]:\s*<(data:image/[a-z]+;base64,[A-Za-z0-9+/=]+)>\s*$')
 
 def apply_notes(title, ens, defs):
     order, seen = [], set()
@@ -340,6 +341,13 @@ def build(files):
             continue
         capn, itemn = mm.group(1), str(int(mm.group(2)))
         lines = open(f, encoding='utf-8').read().split('\n')
+        # imagens embutidas (export do Google Docs):  [imageN]: <data:image/...>  -> book['imagens'];
+        # no texto fica a referência ![][imageN], que o leitor troca pela imagem.
+        for i, ln in enumerate(lines):
+            im = IMG_DEF.match(ln)
+            if im:
+                book.setdefault('imagens', {})[im.group(1)] = im.group(2)
+                lines[i] = ''
 
         # ---- headers crus (limitam os corpos) e secao [## Notas] ----
         heads = []                       # (line_idx, raw_after_hash)

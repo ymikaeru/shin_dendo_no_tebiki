@@ -71,7 +71,7 @@ O meu caso é mais direto do que o transe divino. O transe divino é, de certa f
 
  (Ronbetsu 563, col. sup. l. 2-7 \<Zencho Vol. 10, pág. 98\>)
 
-Primeiramente, ao escrever sobre mim, quem mais se sente intrigado sou eu mesmo. Isso porque sou rico em natureza mística; neste sentido, pretendo dissecar a mim mesmo sob os aspectos subjetivo e objetivo, mas quanto a isso, mesmo aqueles que estão próximos de mim há anos ou décadas parecem não entender verdadeiramente até hoje\*3. Aliás, nem mesmo a minha esposa parece entender muito bem.  
+==Primeiramente, ao escrever sobre mim, quem mais se sente intrigado sou eu mesmo.==[^c1i1-5-1] Isso porque sou rico em ==natureza mística==[^c1i1-5-2]; neste sentido, pretendo dissecar a mim mesmo sob os aspectos subjetivo e objetivo, mas quanto a isso, mesmo aqueles que estão próximos de mim há anos ou décadas ==parecem não entender verdadeiramente até hoje==[^c1i1-5-3]. Aliás, nem mesmo a minha esposa parece entender muito bem.  
 (Ano 27 da Era Showa, "Watashi Monogatari" \- "Sou Deus ou Homem?")
 
 ## 6\. Sobre Meishu-Sama, só se compreende conforme o nível do espírito (Mitama) 
@@ -83,14 +83,14 @@ Primeiramente, ao escrever sobre mim, quem mais se sente intrigado sou eu mesmo.
 ***\[Trecho do Preâmbulo (Shu 401, col. inf. l. 6 \~ 402, col. sup. l. 16)\]***   
 *Finalmente chegou o Mundo do Dia, e a civilização do dia será criada por mim. Dentro do meu corpo existe uma bola de luz, cuja força é imensa; se colocarem no peito os amuletos "Hikari", "Komyo" ou "Daikomyo" escritos por mim, qualquer pessoa poderá curar doenças. Além disso, se me pedirem proteção, sintomas graves serão curados num instante. E também, qualquer que seja a pergunta que receba, a resposta sai instantaneamente da minha boca.*
 
-Esta é uma explicação geral, mas é apenas uma pequena parte da minha força; não é fácil explicar o todo. Acima de tudo, peço que de agora em diante observem com os olhos bem abertos o trabalho que realizarei. Pessoas com inteligência ativa certamente compreenderão até certo ponto. Falando em termos de fé, pode-se captar conforme o nível do espírito (Mitama Souou)[^c1i1-6a-1]; também neste sentido, os fiéis devem polir ao máximo suas almas e mantê-las sem máculas; agindo assim, obterão o despertar e deverão compreender a minha virtude de poder.  
+Esta é uma explicação geral, mas é apenas uma pequena parte da minha força; não é fácil explicar o todo. Acima de tudo, peço que de agora em diante observem com os olhos bem abertos o trabalho que realizarei. Pessoas com inteligência ativa certamente compreenderão até certo ponto. ==Falando em termos de fé, pode-se captar conforme o nível do espírito (Mitama Souou)==[^c1i1-6a-1]; também neste sentido, os fiéis devem polir ao máximo suas almas e mantê-las sem máculas; agindo assim, obterão o despertar e deverão compreender a minha virtude de poder.  
  (25 de maio de 1952 \- Chi 36 "Minha Luz")
 
 ### ② Compreender conforme a Sabedoria
 
 (Ronbetsu 562, col. inf. l. 3-10 \<Zencho Vol. 10, pág. 97\>)
 
-Provavelmente não existe religião com tantos mistérios[^c1i1-6b-1] quanto a nossa Igreja Messiânica (Sekai Kyusei Kyo). Acima de tudo, ao ver o rápido desenvolvimento desta Igreja, hão de concordar. E se a fonte principal desses milagres sou eu, nem se pode imaginar quão abundante é o poder misterioso inerente a mim; por isso, desejo fazer com que compreendam o máximo possível, mas esta explicação é realmente difícil. De qualquer forma, acima de certo grau, não há outra maneira senão compreender conforme a sabedoria e o despertar de cada um; portanto, devem polir ao máximo a alma e tornar-se despertos (Kakusha).  
+Provavelmente não existe religião com tantos ==mistérios==[^c1i1-6b-1] quanto a nossa Igreja Messiânica (Sekai Kyusei Kyo). Acima de tudo, ao ver o rápido desenvolvimento desta Igreja, hão de concordar. ==E se a fonte principal desses milagres sou eu==[^c1i1-6-1], nem se pode imaginar quão abundante é o poder misterioso inerente a mim; por isso, desejo fazer com que compreendam o máximo possível, mas esta explicação é realmente difícil. De qualquer forma, acima de certo grau, não há outra maneira senão compreender conforme a sabedoria e o despertar de cada um; portanto, devem polir ao máximo a alma e tornar-se despertos (Kakusha).  
 (1952 – Watashimonogatari, 「Meu Mistério」
 
 ### ③ Salmo (御詠 \- Gyoei)
@@ -310,3 +310,7 @@ E há uns quatro ou cinco dias, o assistente do chefe da seção de assuntos rel
 [^c1i1-12-3]: Hikari, nº 15, pág. 6, linhas 3 a 4 (Zenkou, vol. 2, pág. 427); Sui, nº 6, pág. 16, linhas 1 a 5 (Zenkou, vol. 4, pág. 46).
 [^c1i1-12-4]: "Qual é o Espírito Divino, Shinrei (神霊), que n'Ele habitava?", desta seção (pág. 8 desta obra), e ⅱ de ⑭, de 3, "A grande transição da civilização", de 2, "A Obra Divina", do item 4 do Capítulo 2 (pág. 611 desta obra).
 [^c1i1-12-5]: Outro nome de Kunitokotachi no Mikoto. Foi assim chamado por ter sido confinado em Ushitora (direção Nordeste). "Konjin" refere-se aos deuses da linhagem do sol.
+[^c1i1-5-1]: 1 — Nesta passagem, quem "acha misterioso" é Meishu-Sama em Sua condição humana, ao passo que quem realiza essa "atuação misteriosa" é o Shinrei (神霊) que n'Ele habitava. — Meishu-Sama era ser humano e também era Deus. — Isso nos permite compreender que Ele possuía ambas as naturezas: a divina e a humana.
+[^c1i1-5-2]: *2 — O termo "místico" empregado nesta passagem indica que, embora Ele ostentasse a forma de um "ser humano", Sua essência era "Deus", e, por intermédio de Meishu-Sama, ocorriam diversos fenômenos miraculosos (Ele possuía simultaneamente a "natureza divina" e a "natureza humana").
+[^c1i1-5-3]: *3 — Consultar o item 13, "Compreender a respeito de Meishu-Sama é o mistério mais profundo da fé" (página 24 desta obra).
+[^c1i1-6-1]: *2 — O poder de Deus em Seu ventre (Consultar os itens 11 a 14 desta seção <página 19 desta obra>, e o Capítulo 2, Item 3, 3 "O Poder de Deus", 2 "O Poder do Deus que Preside Nossa Religião" <página 40 desta obra>).

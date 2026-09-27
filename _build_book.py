@@ -70,7 +70,7 @@ def page_of(fn, raw_after_hash):
 # (LABEL de _markers.py, ampliado com Resumo e um Trecho generico)
 # ----------------------------------------------------------------------------
 LABEL = r'(Explicação|Resumo[^\]]*|Trecho do Preâmbulo[^\]]*|Trecho do Posfácio[^\]]*|Trecho[^\]]*|Anexo[^\]]*)'
-MARKER = re.compile(r'^(?P<pre>\**)\\?\[(?P<label>' + LABEL + r')\\?\](?P<post>\**)(?P<rest>.*)$')
+MARKER = re.compile(r'^[ \t]*(?P<pre>\**)\\?\[(?P<label>' + LABEL + r')\\?\](?P<post>\**)(?P<rest>.*)$')
 
 def marker_type(label):
     if label.startswith('Trecho do Posfácio'): return 'posfacio'

@@ -846,6 +846,7 @@ document.addEventListener('click',e=>{
   if(chip && chip.dataset.id){ e.preventDefault(); closeAxMenu(); openNoteEditor(chip); return; }
   const axb=e.target.closest && e.target.closest('.ens-anexo [data-axraw]');
   if(axb){ e.preventDefault(); closeNoteEditor(); openAxTagMenu(axb); return; }
+  if((window.getSelection()+'').trim()) return;   // soltou o mouse após selecionar texto — não fecha o editor de nota
   closeNoteEditor(); closeAxMenu();
 });
 (function(){
@@ -858,7 +859,9 @@ document.addEventListener('click',e=>{
     if(!GRIFO_EDIT) return;
     if(e.target.closest && (e.target.closest('#grifoMenu')||e.target.closest('#noteEditor'))) return;
     const sel=window.getSelection(); const txt=(sel&&sel.toString()||'').replace(/\s+/g,' ').trim();
-    const inDetail = txt.length>=2 && e.target.closest && !!e.target.closest('#detail');
+    // checa onde a SELEÇÃO está (não onde o mouse foi solto — pode soltar fora do painel)
+    const selEl=(function(){ if(!sel||!sel.rangeCount) return null; const n=sel.getRangeAt(0).commonAncestorContainer; return n.nodeType===1?n:n.parentElement; })();
+    const inDetail = txt.length>=2 && selEl && !!selEl.closest('#detail');
     if(inDetail) _lastSel=txt;
     const ed=document.getElementById('noteEditor');
     if(ed){ hideGMenu(); if(inDetail){ ed.querySelector('.ne-sel').textContent='Selecionado: «'+txt.slice(0,70)+'»'; ed.querySelector('.ne-guse').disabled=false; } return; }

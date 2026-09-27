@@ -190,13 +190,29 @@
        "ensinamento": {
         "fonte": "Ronbetsu 563, col. sup. l. 2-7 <Zencho Vol. 10, pág. 98>",
         "preambulo": null,
-        "texto": "Primeiramente, ao escrever sobre mim, quem mais se sente intrigado sou eu mesmo. Isso porque sou rico em natureza mística; neste sentido, pretendo dissecar a mim mesmo sob os aspectos subjetivo e objetivo, mas quanto a isso, mesmo aqueles que estão próximos de mim há anos ou décadas parecem não entender verdadeiramente até hoje*3. Aliás, nem mesmo a minha esposa parece entender muito bem.",
+        "texto": "==Primeiramente, ao escrever sobre mim, quem mais se sente intrigado sou eu mesmo.==[^1] Isso porque sou rico em ==natureza mística==[^2]; neste sentido, pretendo dissecar a mim mesmo sob os aspectos subjetivo e objetivo, mas quanto a isso, mesmo aqueles que estão próximos de mim há anos ou décadas ==parecem não entender verdadeiramente até hoje==[^3]. Aliás, nem mesmo a minha esposa parece entender muito bem.",
         "posfacio": null,
         "data": "Ano 27 da Era Showa, \"Watashi Monogatari\" - \"Sou Deus ou Homem?\"",
         "explicacao": null,
         "resumo": null,
         "referencias": [],
-        "notas": [],
+        "notas": [
+         {
+          "n": 1,
+          "id": "c1i1-5-1",
+          "texto": "1 — Nesta passagem, quem \"acha misterioso\" é Meishu-Sama em Sua condição humana, ao passo que quem realiza essa \"atuação misteriosa\" é o Shinrei (神霊) que n'Ele habitava. — Meishu-Sama era ser humano e também era Deus. — Isso nos permite compreender que Ele possuía ambas as naturezas: a divina e a humana."
+         },
+         {
+          "n": 2,
+          "id": "c1i1-5-2",
+          "texto": "*2 — O termo \"místico\" empregado nesta passagem indica que, embora Ele ostentasse a forma de um \"ser humano\", Sua essência era \"Deus\", e, por intermédio de Meishu-Sama, ocorriam diversos fenômenos miraculosos (Ele possuía simultaneamente a \"natureza divina\" e a \"natureza humana\")."
+         },
+         {
+          "n": 3,
+          "id": "c1i1-5-3",
+          "texto": "*3 — Consultar o item 13, \"Compreender a respeito de Meishu-Sama é o mistério mais profundo da fé\" (página 24 desta obra)."
+         }
+        ],
         "anexo": []
        }
       },
@@ -219,7 +235,7 @@
          "ensinamento": {
           "fonte": "Shu 402, col. sup. l. 17 ~ col. inf. l. 1 = Ishi Shu Jo 43, col. inf. l. 6-14 <Zencho Vol. 10, pág. 499>",
           "preambulo": "Finalmente chegou o Mundo do Dia, e a civilização do dia será criada por mim. Dentro do meu corpo existe uma bola de luz, cuja força é imensa; se colocarem no peito os amuletos \"Hikari\", \"Komyo\" ou \"Daikomyo\" escritos por mim, qualquer pessoa poderá curar doenças. Além disso, se me pedirem proteção, sintomas graves serão curados num instante. E também, qualquer que seja a pergunta que receba, a resposta sai instantaneamente da minha boca.",
-          "texto": "Esta é uma explicação geral, mas é apenas uma pequena parte da minha força; não é fácil explicar o todo. Acima de tudo, peço que de agora em diante observem com os olhos bem abertos o trabalho que realizarei. Pessoas com inteligência ativa certamente compreenderão até certo ponto. Falando em termos de fé, pode-se captar conforme o nível do espírito (Mitama Souou)[^1]; também neste sentido, os fiéis devem polir ao máximo suas almas e mantê-las sem máculas; agindo assim, obterão o despertar e deverão compreender a minha virtude de poder.",
+          "texto": "Esta é uma explicação geral, mas é apenas uma pequena parte da minha força; não é fácil explicar o todo. Acima de tudo, peço que de agora em diante observem com os olhos bem abertos o trabalho que realizarei. Pessoas com inteligência ativa certamente compreenderão até certo ponto. ==Falando em termos de fé, pode-se captar conforme o nível do espírito (Mitama Souou)==[^1]; também neste sentido, os fiéis devem polir ao máximo suas almas e mantê-las sem máculas; agindo assim, obterão o despertar e deverão compreender a minha virtude de poder.",
           "posfacio": null,
           "data": "25 de maio de 1952 - Chi 36 \"Minha Luz\"",
           "explicacao": null,
@@ -246,7 +262,7 @@
          "ensinamento": {
           "fonte": "Ronbetsu 562, col. inf. l. 3-10 <Zencho Vol. 10, pág. 97>",
           "preambulo": null,
-          "texto": "Provavelmente não existe religião com tantos mistérios[^1] quanto a nossa Igreja Messiânica (Sekai Kyusei Kyo). Acima de tudo, ao ver o rápido desenvolvimento desta Igreja, hão de concordar. E se a fonte principal desses milagres sou eu, nem se pode imaginar quão abundante é o poder misterioso inerente a mim; por isso, desejo fazer com que compreendam o máximo possível, mas esta explicação é realmente difícil. De qualquer forma, acima de certo grau, não há outra maneira senão compreender conforme a sabedoria e o despertar de cada um; portanto, devem polir ao máximo a alma e tornar-se despertos (Kakusha). (1952 – Watashimonogatari, 「Meu Mistério」",
+          "texto": "Provavelmente não existe religião com tantos ==mistérios==[^1] quanto a nossa Igreja Messiânica (Sekai Kyusei Kyo). Acima de tudo, ao ver o rápido desenvolvimento desta Igreja, hão de concordar. ==E se a fonte principal desses milagres sou eu==[^2], nem se pode imaginar quão abundante é o poder misterioso inerente a mim; por isso, desejo fazer com que compreendam o máximo possível, mas esta explicação é realmente difícil. De qualquer forma, acima de certo grau, não há outra maneira senão compreender conforme a sabedoria e o despertar de cada um; portanto, devem polir ao máximo a alma e tornar-se despertos (Kakusha). (1952 – Watashimonogatari, 「Meu Mistério」",
           "posfacio": null,
           "data": null,
           "explicacao": null,
@@ -257,6 +273,11 @@
             "n": 1,
             "id": "c1i1-6b-1",
             "texto": "Milagre. Como é uma frase dentro de um artigo intitulado \"Meus Mistérios\", usou-se a palavra mistério."
+           },
+           {
+            "n": 2,
+            "id": "c1i1-6-1",
+            "texto": "*2 — O poder de Deus em Seu ventre (Consultar os itens 11 a 14 desta seção <página 19 desta obra>, e o Capítulo 2, Item 3, 3 \"O Poder de Deus\", 2 \"O Poder do Deus que Preside Nossa Religião\" <página 40 desta obra>)."
            }
           ],
           "anexo": []
@@ -1053,10 +1074,10 @@
            "ensinamento": {
             "fonte": "Ron 2413, col. sup. l. 16 ~ col. inf. l. 1 = Ishi Shu Jo 367, col. inf. l. 10 ~ 368, col. sup. l. 1 <Zenkou Vol. 8, pág. 410>",
             "preambulo": null,
-            "texto": "Enquanto praticava a fé, aos poucos fui compreendendo a Deus. Foi na época em que o Imperador Taisho faleceu*, no final do ano, que entrei em transe divino (Kamigakari). Quando chegava por volta da meia-noite, sentia-me extremamente bem. Achava estranho, mas sentia vontade de falar algo. Saía pela boca e não conseguia parar. E então, falava várias coisas que eu nem sabia. (25 de outubro de 1952 \"Conversa Real, Conversa Vazia - Histórias de Transe Divino\")\n\n**[Explicação]** *Do diálogo com o Sr. Shoichi Hioki, consultor da revista Bungeishunju.*",
+            "texto": "Enquanto praticava a fé, aos poucos fui compreendendo a Deus. Foi na época em que o Imperador Taisho faleceu*, no final do ano, que entrei em transe divino (Kamigakari). Quando chegava por volta da meia-noite, sentia-me extremamente bem. Achava estranho, mas sentia vontade de falar algo. Saía pela boca e não conseguia parar. E então, falava várias coisas que eu nem sabia.",
             "posfacio": null,
-            "data": null,
-            "explicacao": null,
+            "data": "25 de outubro de 1952 \"Conversa Real, Conversa Vazia - Histórias de Transe Divino\"",
+            "explicacao": "Do diálogo com o Sr. Shoichi Hioki, consultor da revista Bungeishunju.",
             "resumo": null,
             "referencias": [],
             "notas": [],

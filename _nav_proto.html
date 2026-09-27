@@ -142,6 +142,25 @@
   a.xref:hover{border-bottom-style:solid}
   .ens-texto a.xref,.db-body a.xref{font-size:.8em}
   sup.fn .fn-pop a.xref{font-size:.95em}
+  span.xref-na{color:var(--mut);border-bottom:1px dotted var(--line2);cursor:help;white-space:nowrap;font-size:.9em;font-family:var(--sans)}
+  .ens-texto span.xref-na,.db-body span.xref-na{font-size:.8em}
+  /* prévia da remissão (hover) */
+  #peek{position:fixed;z-index:400;width:390px;max-width:92vw;background:var(--pop-bg);color:var(--pop-fg);border:1px solid var(--line2);border-radius:12px;box-shadow:var(--shadow);padding:12px 15px 11px;pointer-events:none;font:13px/1.5 var(--sans)}
+  #peek .pk-path{color:var(--mut);font-size:11.5px;margin-bottom:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  #peek .pk-t{font:600 15.5px/1.35 var(--serif);margin-bottom:3px}
+  #peek .pk-mk{color:var(--acc);margin-right:5px}
+  #peek .pk-f{color:var(--mut);font-size:11.5px;margin-bottom:7px}
+  #peek .pk-x{font:14px/1.62 var(--serif);color:var(--fg2)}
+  #peek .pk-h{margin-top:8px;padding-top:7px;border-top:1px solid var(--line);color:var(--mut);font-size:11px}
+  /* "dedo na página": volta ao ponto de onde saiu ao seguir uma remissão */
+  #backPill{position:fixed;left:50%;transform:translateX(-50%);bottom:18px;z-index:350;display:flex;background:var(--panel);border:1px solid var(--acc);border-radius:999px;box-shadow:var(--shadow);overflow:hidden;max-width:min(620px,92vw)}
+  #backPill button{background:transparent;border:0;color:var(--fg);cursor:pointer;font:13.5px var(--sans);padding:8px 15px}
+  #backPill button:hover{background:var(--hover)}
+  #backPill .bp-go{display:flex;gap:6px;align-items:baseline;min-width:0;white-space:nowrap}
+  #backPill .bp-l{color:var(--mut);flex:none}
+  #backPill .bp-t{font-weight:600;overflow:hidden;text-overflow:ellipsis;min-width:0}
+  #backPill .bp-n{color:var(--acc);font-size:12px;flex:none}
+  #backPill .bp-x{border-left:1px solid var(--line);color:var(--mut);padding:8px 13px}
 
   /* ================= NAVEGAÇÃO ANTERIOR / PRÓXIMO ================= */
   .navbar{display:flex;gap:12px;margin:40px 0 6px;border-top:1px solid var(--line);padding-top:20px}
@@ -259,7 +278,7 @@
     .pathline .c{max-width:150px}
   }
   @media print{
-    #top,#side,.navbar,#copyLink,#review{display:none!important}
+    #top,#side,.navbar,#copyLink,#review,#backPill,#peek{display:none!important}
     #detail{overflow:visible;padding:0} .page{max-width:none;padding:0}
     details{border:none!important} details>summary::before{display:none}
   }
@@ -361,12 +380,22 @@ const CIT_TOK=/(p[áa]g\.?|col\.|\bl\.\s|\bvol\b|se[çc]|linha|&lt;|&gt;|\bRon\b
 // Referência a página do próprio livro → link para o ensinamento daquela página.
 const PG_RE=/Livro,?\s*p[áa]g\.?\s*(\d+)|p[áa]g(?:ina)?\.?\s*(\d+)\s*(?:deste|desta)\s*(?:livro|obra)/gi;
 let PAGED=null;   // [ [pagina, nó] ] em ordem de leitura (páginas crescentes)
+function isDesc(m,n){ let p=m._p; while(p){ if(p===n) return true; p=p._p; } return false; }
+// Página do livro → nó. Só liga quando é SEGURO: se entre o último nó com página ≤ N e o próximo com
+// página > N houver seções com texto SEM página (que não são filhas dele), não dá para saber onde N cai
+// → não liga. Link para o lugar errado é pior que nenhum link (ex.: pág. 611 caía na pág. 560).
 function pageNode(pg){
-  if(!PAGED) PAGED=flat.filter(n=>n.pagina).map(n=>[n.pagina,n]);
-  const ex=PAGED.find(([p])=>p===pg); if(ex) return ex[1];          // começa exatamente nessa página
-  let best=null; for(const [p,n] of PAGED){ if(p<pg) best=n; else break; } return best;   // senão: o último que começa antes
+  if(!PAGED) PAGED=flat.map((n,i)=>[n.pagina,n,i]).filter(x=>x[0]);
+  let k=-1; for(let j=0;j<PAGED.length;j++){ if(PAGED[j][0]<=pg) k=j; else break; }
+  if(k<0) return null;
+  if(PAGED[k][0]===pg){ while(k>0 && PAGED[k-1][0]===pg) k--; return PAGED[k][1]; }   // começa exatamente nessa página
+  const [,n,i]=PAGED[k], nxt=PAGED[k+1];
+  if(!nxt) return null;                                  // depois da última página mapeada: extensão desconhecida
+  for(let x=i+1;x<nxt[2];x++){ const m=flat[x]; if(ownContent(m) && !isDesc(m,n)) return null; }
+  return n;                                              // o último que começa antes, e tudo até o próximo é dele
 }
-function xrefA(pg,label,title){ const n=pageNode(pg); if(!n) return null;
+function xrefA(pg,label,title){ const n=pageNode(pg);
+  if(!n) return `<span class="xref-na" title="${(title?title+' — ':'')}pág. ${pg}: trecho do livro ainda sem mapa de páginas">${label}</span>`;
   return `<a class="xref" href="#${n.id}" title="${(title||('ir para a pág. '+pg)).replace(/"/g,'&quot;')}">${label}</a>`; }
 // liga as referências de página que sobraram no texto (fora de tags)
 function linkPages(html){
@@ -1069,6 +1098,69 @@ function home(){
     <div class="home-tip">Use o índice ao lado (☰ no celular) ou a busca, que procura no texto inteiro — títulos, ensinamentos, explicações e notas.</div>
   </article></div>`;
   $('#detail').scrollTop=0;
+}
+// ===== O livro é uma TEIA de remissões ("ver pág. N deste livro"). Seguir um fio não pode fazer perder o lugar. =====
+// "Dedo na página": ao clicar numa remissão, guarda de onde saiu (página + rolagem + seção em leitura);
+// o botão ↩ volta exatamente ali. Várias remissões em sequência empilham e voltam passo a passo.
+const BACK=[];
+function sectionInView(){ const top=$('#detail').getBoundingClientRect().top+70; let on=null;
+  document.querySelectorAll('#detail .page-body .pg-sub').forEach(h=>{ if(h.getBoundingClientRect().top<top) on=h; });
+  return on; }
+function backLabel(){ const h=sectionInView(); return h ? (h.dataset.mk+' '+h.dataset.title).trim() : navLabel(cur); }
+function renderBack(){
+  let el=document.getElementById('backPill');
+  if(!BACK.length){ if(el) el.remove(); return; }
+  if(!el){ el=document.createElement('div'); el.id='backPill'; document.body.appendChild(el); }
+  const t=BACK[BACK.length-1];
+  el.innerHTML=`<button class="bp-go" title="voltar ao ponto onde você estava lendo"><span class="bp-l">↩ Voltar para</span><span class="bp-t">${esc(t.label)}</span>${BACK.length>1?`<span class="bp-n">+${BACK.length-1}</span>`:''}</button><button class="bp-x" title="esquecer o caminho">×</button>`;
+  el.querySelector('.bp-go').onclick=backGo;
+  el.querySelector('.bp-x').onclick=()=>{ BACK.length=0; renderBack(); };
+}
+function backRestore(t){ const d=$('#detail'), set=()=>{ d.scrollTop=t.scroll; }; set(); requestAnimationFrame(set); setTimeout(set,120); }
+function backGo(){
+  const t=BACK.pop(); renderBack(); if(!t) return;
+  const n=flat.find(x=>x.id===t.id); if(!n) return;
+  select(n,{force:true}); backRestore(t);
+}
+document.addEventListener('click',e=>{
+  const a=e.target.closest && e.target.closest('a.xref'); if(!a || !cur) return;
+  if(e.ctrlKey||e.metaKey||e.shiftKey||e.button) return;          // abrir em nova aba: não mexe na pilha
+  BACK.push({id:cur.id, scroll:$('#detail').scrollTop, label:backLabel()}); if(BACK.length>30) BACK.shift();
+  hidePeek(); renderBack();
+}, true);
+// voltar do navegador até o ponto guardado também consome o topo da pilha (e restaura a rolagem)
+window.addEventListener('popstate',()=>{ const t=BACK[BACK.length-1]; if(t && cur && cur.id===t.id){ BACK.pop(); renderBack(); backRestore(t); } });
+
+// Prévia ao passar o mouse numa remissão: espia o destino sem sair do lugar.
+let _peekT=null;
+function peekTarget(n){ if(ownContent(n)) return n; return flat.slice(flat.indexOf(n)+1).find(x=>isDesc(x,n) && ownContent(x)) || n; }
+function peekHtml(n){
+  const c=peekTarget(n), e=c.ensinamento||{};
+  let txt=plain(e.texto||c.explicacao||e.preambulo||'').replace(/!\[[^\]]*\]\[\w+\]/g,'').trim();
+  if(txt.length>430){ txt=txt.slice(0,430); txt=txt.slice(0,txt.lastIndexOf(' '))+' …'; }
+  const path=[]; let p=n._p; while(p && p._p){ path.unshift(p.nivel==='capitulo'||p.nivel==='item' ? p.marcador : mkLabel(p)); p=p._p; }
+  const sub = c!==n ? `<div class="pk-f">↳ ${esc(mkLabel(c)+' '+cleanTitle(c.title))}</div>` : '';
+  return `<div class="pk-path">${esc(path.join(' › '))}${n.pagina?' · pág. '+n.pagina:''}</div>
+    <div class="pk-t"><span class="pk-mk">${esc(mkLabel(n))}</span>${esc(cleanTitle(n.title))}</div>${sub}
+    ${e.fonte?`<div class="pk-f">📜 ${esc(plain(e.fonte))}</div>`:''}
+    ${txt?`<div class="pk-x">${esc(txt)}</div>`:''}
+    <div class="pk-h">clique para ir · o botão ↩ traz você de volta</div>`;
+}
+function hidePeek(){ clearTimeout(_peekT); const el=document.getElementById('peek'); if(el) el.remove(); }
+function showPeek(a){
+  const n=flat.find(x=>x.id===decodeURIComponent((a.getAttribute('href')||'').slice(1))); if(!n) return;
+  let el=document.getElementById('peek'); if(!el){ el=document.createElement('div'); el.id='peek'; document.body.appendChild(el); }
+  el.innerHTML=peekHtml(n);
+  const r=a.getBoundingClientRect(), w=el.offsetWidth, h=el.offsetHeight;
+  const x=Math.max(8, Math.min(r.left, innerWidth-w-8));
+  const y=(r.bottom+8+h<innerHeight) ? r.bottom+8 : Math.max(8, r.top-h-8);
+  el.style.left=x+'px'; el.style.top=y+'px';
+}
+if(matchMedia('(hover: hover)').matches){       // no toque, a remissão só navega (sem prévia)
+  document.addEventListener('mouseover',e=>{ const a=e.target.closest && e.target.closest('a.xref'); if(!a) return;
+    clearTimeout(_peekT); _peekT=setTimeout(()=>showPeek(a),230); });
+  document.addEventListener('mouseout',e=>{ const a=e.target.closest && e.target.closest('a.xref');
+    if(a && !a.contains(e.relatedTarget)) hidePeek(); });
 }
 function restoreCur(){
   const h=nodeFromHash(); if(h){ select(h,{noHist:true}); return; }

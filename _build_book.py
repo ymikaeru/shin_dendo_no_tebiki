@@ -53,17 +53,24 @@ def unesc(s):
 # ----------------------------------------------------------------------------
 # Paginas (de _editor_map.json)  -- mesma logica do _build_tree.py
 # ----------------------------------------------------------------------------
+def _page_key(s):
+    # o mapa foi gravado com o título da época (ex. "...habitou?*1"); depois o título ganhou nota/grifo
+    # ("...habitou?[^c1i1-2-1]") -> compara sem escapes, notas, grifos, tags e marcadores crus *N
+    s = re.sub(r'\\(.)', r'\1', s)
+    s = re.sub(r'\[\^[^\]]+\]|==|\{\{\w+\}\}', '', s)
+    s = re.sub(r'\*\s?\d{1,3}(?!\d)|\*+\s*$', '', s)
+    return re.sub(r'\s+', ' ', s).strip()
+
 PAGES = {}
 if os.path.exists('_editor_map.json'):
     for fn, secs in json.load(open('_editor_map.json', encoding='utf-8')).items():
         PAGES[fn] = {}
         for k, v in secs.items():
             if isinstance(v, dict):
-                PAGES[fn][k] = v.get('pag')
+                PAGES[fn][_page_key(k)] = v.get('pag')
 
 def page_of(fn, raw_after_hash):
-    key = re.sub(r'\\(.)', r'\1', raw_after_hash).strip()
-    return PAGES.get(fn, {}).get(key)
+    return PAGES.get(fn, {}).get(_page_key(raw_after_hash))
 
 # ----------------------------------------------------------------------------
 # Marcadores editoriais  ***[Explicacao] / [Trecho do Preambulo ...] / [Anexo ...]***

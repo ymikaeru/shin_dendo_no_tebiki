@@ -49,6 +49,12 @@ python servidor.py          # → abre localhost:8000/nav (leitor de estudo, sem
 
 ---
 
+## 🆕 Fila de notas (a IA propõe, você aprova)
+- `python tools/notes_inventory.py` → varre os `.md` e grava `_notes_proposals.json`: **uma vaga por marcador cru** (`\*N`/`*N` **e** dígito colado `boca2.`). Hoje: **656 vagas** (todas `sem-fonte`). Rodar de novo é seguro (preserva o trabalho feito).
+- No `/nav`, botão **📝 Notas pendentes** → painel da fila: filtra por arquivo/status, acende o `*N` e o trecho proposto no texto, e oferece **Aprovar** (grava `==trecho==[^id]` + def no `## Notas`, com trava de prosa + backup), **Rejeitar**, **Marcador espúrio** (remove só o `*N`), **Rascunho**. Atalhos: `A` `R` `D` `M` (usar seleção como trecho) `J`/`K`.
+- Marcadores pendentes aparecem no leitor como chip laranja tracejado (`*N`).
+- Próximo passo: os extratores das fontes (`Nao Organizados/*.md`, já liberados no `.gitignore`) preenchem `texto`/`trecho`/`origem`/`confianca` das vagas → status `pendente`.
+
 ## ⏳ O que FALTA — **Fase B: NOTAS** (projeto focado, cuidadoso)
 Hoje a maioria dos ensinamentos mostra marcadores crus `*1 *2`; só o piloto C1_Item01 §2 tem as 3 notas reais (`[^id]` → chip 📝). Falta extrair/traduzir/injetar o resto.
 

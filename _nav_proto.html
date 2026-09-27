@@ -138,6 +138,45 @@
   #noteEditor .ne-guse{background:#2f6fed;color:#fff;border:none;border-radius:7px;padding:5px 11px;cursor:pointer;font-size:12.5px}
   #noteEditor .ne-guse:disabled{background:#3a4150;cursor:default;opacity:.55}
   #noteEditor .ne-gclear{background:transparent;color:var(--mut);border:1px solid var(--line);border-radius:7px;padding:5px 10px;cursor:pointer;font-size:12.5px}
+  /* ----- marcador cru de nota (\*N ainda sem nota) + painel de revisão ----- */
+  sup.rawmk{font-size:10px;vertical-align:super;color:#e0a96d;border:1px dashed rgba(224,169,109,.55);border-radius:7px;padding:0 4px;margin:0 1px;cursor:default}
+  body.review sup.rawmk{cursor:pointer}
+  sup.rawmk.cur{background:#e0a96d;color:#1b1406;border-style:solid;animation:rkpulse 1.2s ease-in-out 2}
+  @keyframes rkpulse{50%{box-shadow:0 0 0 5px rgba(224,169,109,.35)}}
+  .ghost{background:rgba(224,169,109,.22);box-shadow:0 0 0 1px rgba(224,169,109,.45);border-radius:3px}
+  #revBtn{background:transparent;border:1px solid var(--line);color:var(--fg);border-radius:7px;padding:3px 10px;cursor:pointer;font-size:13px;white-space:nowrap}
+  #revBtn.on{background:#b5701f;border-color:#b5701f;color:#fff}
+  #review{display:none;width:400px;flex:none;border-left:1px solid var(--line);background:var(--panel);overflow:auto;padding:12px 14px 30px;font-size:13.5px}
+  body.review #review{display:block}
+  #review h3{margin:2px 0 8px;font-size:14px}
+  #review .rv-filters{display:flex;gap:6px;margin-bottom:8px}
+  #review select,#review input,#review textarea{background:var(--bg);color:var(--fg);border:1px solid var(--line);border-radius:7px;padding:5px 8px;font:inherit}
+  #review select{flex:1;min-width:0}
+  #review .rv-prog{font-size:12px;color:var(--mut);margin:4px 0 10px;line-height:1.5}
+  #review .rv-bar{height:6px;background:var(--line);border-radius:4px;overflow:hidden;margin:3px 0 8px}
+  #review .rv-bar i{display:block;height:100%;background:#1f9d57}
+  #review .rv-card{border:1px solid var(--line);border-radius:10px;padding:10px 12px;background:var(--bg)}
+  #review .rv-h{display:flex;gap:6px;align-items:center;flex-wrap:wrap;margin-bottom:6px}
+  #review .rv-tag{font-size:11px;border-radius:10px;padding:1px 8px;border:1px solid var(--line);color:var(--mut)}
+  #review .st-pendente{color:#7fb3ff;border-color:#27496e} #review .st-sem-fonte{color:#e0a96d;border-color:#6b4d2c}
+  #review .st-aprovada{color:#7fe0a8;border-color:#2c6b4a} #review .st-rejeitada,#review .st-descartada{color:#ff9b9b;border-color:#6b2c2c}
+  #review .rv-node{color:var(--acc);cursor:pointer;font-weight:600;margin:4px 0 6px;display:block}
+  #review .rv-ctx{font-size:13px;line-height:1.6;color:var(--mut);background:var(--panel);border-radius:7px;padding:6px 9px;margin-bottom:8px}
+  #review .rv-ctx b{color:#e0a96d}
+  #review label{display:block;font-size:12px;color:var(--mut);margin:8px 0 3px}
+  #review .rv-trow{display:flex;gap:6px} #review .rv-trow input{flex:1;min-width:0}
+  #review textarea{width:100%;min-height:110px;resize:vertical;line-height:1.5}
+  #review .rv-src{font-size:11.5px;color:var(--mut);margin-top:4px}
+  #review .rv-btns{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+  #review button{border:none;border-radius:7px;padding:6px 11px;cursor:pointer;font-size:13px;background:#3a4150;color:#fff}
+  #review button:hover{filter:brightness(1.15)}
+  #review .b-ok{background:#1f9d57} #review .b-rej{background:#8a3a3a} #review .b-drop{background:#6b4d2c} #review .b-sel{background:#2f6fed;padding:5px 9px}
+  #review .rv-nav{display:flex;justify-content:space-between;align-items:center;margin:10px 0 4px;color:var(--mut);font-size:12px}
+  #review .rv-msg{min-height:18px;font-size:12.5px;margin-top:8px}
+  #review .rv-msg.err{color:#ff9b9b} #review .rv-msg.ok{color:#7fe0a8}
+  #review .rv-keys{font-size:11px;color:var(--mut);margin-top:12px;line-height:1.6}
+  #review kbd{border:1px solid var(--line);border-radius:4px;padding:0 4px;font-size:10.5px}
+  body.light sup.rawmk{color:#9a5a12;border-color:rgba(154,90,18,.45)}
   /* ===================== TEMA CLARO ===================== */
   body.light{ --bg:#f7f6f2; --panel:#fffefb; --line:#dcd8cf; --fg:#222630; --mut:#6a7280; --acc:#2f6fed; }
   body.light #side{background:#f0eee7}
@@ -185,6 +224,7 @@
     <div id="tree"></div>
   </div>
   <div id="detail"><div class="hint">Selecione um item na árvore ou busque acima.<br>Os 9 níveis ficam sempre visíveis na trilha do topo — você não se perde.</div></div>
+  <aside id="review"></aside>
 </div>
 <script>
 const $=s=>document.querySelector(s);
@@ -224,12 +264,22 @@ function refChips(html){
   return html.replace(/\(([^()]{2,300})\)/g,(mm,inner)=> CIT_TOK.test(inner)
     ? `<sup class="ref" title="${inner.replace(/"/g,'&quot;')}">📖</sup>` : mm);
 }
+// Marcador cru de OCR ainda sem nota: "\*3"/"*3" ou dígito colado ("boca2.", "Isso6 é").
+// Só troca em TEXTO (fora de tags/atributos) → chip <sup.rawmk>.
+function rawMarks(html){
+  const mk=(n,shown)=>`<sup class="rawmk" data-rn="${n}" title="nota ${n} ainda não inserida">${shown}</sup>`;
+  return html.split(/(<[^>]*>)/).map((part,i)=> i%2 ? part : part
+    .replace(/(?<![*\\])\*(\d{1,2})(?![\d*])/g,(_,n)=>mk(n,'*'+n))
+    .replace(/([a-zà-ÿ]{2}|[a-zà-ÿ][)"”»])(\d{1,2})(?![\d*])(?=[\s.,;:!?)"”»\]]|$)/g,(_,w,n)=>w+mk(n,n))
+  ).join('');
+}
 function renderNotas(text, notas){
   const m={}; (notas||[]).forEach(x=>m[x.n]={t:x.texto,id:x.id||''});
   let s=refChips(esc(text||''));                       // 1) citações inline viram chip 📖
   const chip=(n)=>{const o=m[n]||{};return `<sup class="fn" data-fn="${n}" data-id="${o.id||''}" tabindex="0">${n}<span class="fn-pop">${esc(o.t||'')}</span></sup>`;};
   s=s.replace(/==(.+?)==([^\[]*?)\[\^(\d+)\]/g,(_,p,mid,n)=>`<span class="nspan" data-fn="${n}">${p}</span>${mid}${chip(n)}`); // 2) trecho citado grifável + nota
   s=s.replace(/\[\^(\d+)\]/g,(_,n)=>chip(n));           // 3) notas soltas
+  s=rawMarks(s);   // 4) marcador cru de OCR (*3 ou dígito colado boca2.) = nota pendente
   return s.replace(/\n{2,}/g,'<br><br>').replace(/\n/g,'<br>');   // 3) parágrafos
 }
 // Título com nota: [^N] vira chip 📝 (a nota pode estar ancorada no título). Sem refChips/parágrafos.
@@ -239,6 +289,7 @@ function renderTitle(title, notas){
   let s=esc(title||'').replace(/==/g,'');   // título não usa grifo explícito — o título inteiro é o trecho
   s=s.replace(/^(.+?)\s*\[\^(\d+)\]\s*$/,(_,pre,n)=>`<span class="nspan" data-fn="${n}">${pre}</span>${chip(n)}`); // [^N] no fim → o título inteiro é o trecho da nota (grifa no hover)
   s=s.replace(/\[\^(\d+)\]/g,(_,n)=>chip(n));   // [^N] restantes (no meio) → só chip
+  s=rawMarks(s);
   return s;
 }
 // Anexo com NÍVEIS: segmenta sub-itens, [Rótulos]→bloco recolhível, salmo→verso. Marca {{tipo}} do usuário tem prioridade.
@@ -358,7 +409,7 @@ function renderPage(n){
   return h || `<div class="hint">Aqui entraria o <b>ensinamento</b> — ligado ao scan da pág. ${n.pagina||'?'}.</div>`;
 }
 // Navegação sequencial pelo CONTEÚDO (intros de capítulo/item + ensinamentos), em ordem.
-function navLabel(n){ return (mkLabel(n)+' '+(n.title||'').replace(/\[\^\d+\]/g,'')).trim().slice(0,46); }
+function navLabel(n){ return (mkLabel(n)+' '+(n.title||'').replace(/\[\^\d+\]|\*\d{1,2}(?!\d)/g,'')).trim().slice(0,46); }
 function navTargets(n){
   const L=flat.filter(ownContent); let p=null,nx=null, i=L.indexOf(n);
   if(i>=0){ p=L[i-1]||null; nx=L[i+1]||null; }
@@ -391,7 +442,7 @@ function node(n){
   const row=document.createElement('div'); row.className='row n-'+n.nivel; row.style.paddingLeft=(6+n._d*15)+'px';
   const tog=document.createElement('span'); tog.className='tog'; tog.textContent=(n.children&&n.children.length)?'▶':'';
   const mk=document.createElement('span'); mk.className='mk'; mk.textContent=mkLabel(n);
-  const lab=document.createElement('span'); lab.className='lab'; lab.textContent=' '+(n.title||'').replace(/\[\^\d+\]/g,'');
+  const lab=document.createElement('span'); lab.className='lab'; lab.textContent=' '+(n.title||'').replace(/\[\^\d+\]|\*\d{1,2}(?!\d)/g,'');
   const pg=document.createElement('span'); pg.className='pg'; pg.textContent=n.pagina?('p.'+n.pagina):'';
   row.append(tog,mk,lab,pg);
   n._row=row;
@@ -567,6 +618,175 @@ document.addEventListener('click',e=>{
     const rc=sel.getRangeAt(0).getBoundingClientRect();
     _gmenu.style.left=Math.max(8,Math.min(window.innerWidth-_gmenu.offsetWidth-8,rc.left))+'px';
     _gmenu.style.top=(rc.bottom+8)+'px';
+  });
+})();
+// ===== 📝 REVISÃO DE NOTAS: fila de propostas (_notes_proposals.json) — a IA propõe, você aprova =====
+// Cada marcador cru *N é uma vaga. Aprovar grava ==trecho==[^id] + def no .md (trava de prosa + backup no servidor).
+const RV={items:[],summary:{},i:-1,file:'',st:'abertas',on:false};
+const RV_ST={pendente:'com proposta',['sem-fonte']:'sem fonte',aprovada:'aprovada',rejeitada:'rejeitada',descartada:'descartada'};
+function rvFold(t){ return (t||'').normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/\s+/g,' ').toLowerCase().trim(); }
+function rvList(){
+  return RV.items.filter(p=>(!RV.file||p.file===RV.file) &&
+    (RV.st==='todas' || (RV.st==='abertas' ? (p.status==='pendente'||p.status==='sem-fonte') : p.status===RV.st)));
+}
+async function rvLoad(){
+  const j=await (await fetch('/api/proposals?'+Math.random())).json();
+  RV.items=j.items||[]; RV.summary=j.summary||{};
+}
+function rvProg(){
+  const tot={a:0,t:0}; let rows='';
+  Object.keys(RV.summary).sort().forEach(f=>{ const d=RV.summary[f]; const t=Object.values(d).reduce((x,y)=>x+y,0);
+    const done=(d.aprovada||0)+(d.rejeitada||0)+(d.descartada||0); tot.a+=done; tot.t+=t;
+    rows+=`<div>${f.replace('ShinDendo_','').replace('.md','')} — ${done}/${t} · <span title="com texto proposto">${d.pendente||0} propostas</span> · ${d['sem-fonte']||0} sem fonte</div>`; });
+  const pc=tot.t?Math.round(100*tot.a/tot.t):0;
+  return `<div class="rv-prog"><b>${tot.a}/${tot.t}</b> vagas resolvidas (${pc}%)<div class="rv-bar"><i style="width:${pc}%"></i></div>${rows}</div>`;
+}
+function rvCur(){ const L=rvList(); return L[RV.i]||null; }
+function rvRender(msg,cls){
+  const box=$('#review'); if(!box) return;
+  const L=rvList(); if(RV.i>=L.length) RV.i=L.length-1; if(RV.i<0&&L.length) RV.i=0;
+  const p=L[RV.i];
+  const files=Object.keys(RV.summary).sort();
+  let h=`<h3>📝 Revisão de notas</h3>
+   <div class="rv-filters"><select id="rvFile"><option value="">todos os arquivos</option>${files.map(f=>`<option ${f===RV.file?'selected':''} value="${f}">${f.replace('ShinDendo_','').replace('.md','')}</option>`).join('')}</select>
+   <select id="rvSt">${[['abertas','abertas'],['pendente','com proposta'],['sem-fonte','sem fonte'],['aprovada','aprovadas'],['rejeitada','rejeitadas'],['descartada','descartadas'],['todas','todas']].map(([v,l])=>`<option value="${v}" ${v===RV.st?'selected':''}>${l}</option>`).join('')}</select></div>`
+   + rvProg();
+  if(!p){ h+=`<div class="rv-card">Nada nesta lista. 🎉</div>`; box.innerHTML=h; rvBind(); return; }
+  const nd=flat.find(n=>n.id===p.node);
+  const nodeLbl=nd?((nd.nivel==='circulo'?CIRC(nd.marcador):nd.marcador)+' '+(nd.title||'').replace(/\[\^\d+\]|\*\d{1,2}/g,'')).slice(0,70):p.node;
+  const conf=p.confianca!=null?` · confiança ${Math.round(p.confianca*100)}%`:'';
+  const ro=p.status==='aprovada';
+  h+=`<div class="rv-nav"><button id="rvPrev">◀</button><span>${RV.i+1} de ${L.length}</span><button id="rvNext">▶</button></div>
+  <div class="rv-card">
+   <div class="rv-h"><b>nota *${p.n}</b><span class="rv-tag st-${p.status}">${RV_ST[p.status]||p.status}</span>${p.origem?`<span class="rv-tag">${esc(p.origem)}</span>`:''}<span class="rv-tag">${p.id}</span></div>
+   <a class="rv-node" id="rvGo">${esc(nodeLbl)}</a>
+   <div class="rv-ctx">…${esc(p.ctx.slice(-110))}<b>*${p.n}</b>${esc(p.ctx_after||'')}…</div>
+   <label>Trecho grifado (a frase que a nota explica)</label>
+   <div class="rv-trow"><input id="rvTrecho" value="${esc(p.trecho||'').replace(/"/g,'&quot;')}" ${ro?'disabled':''}><button class="b-sel" id="rvSel" title="usar o texto selecionado no painel (M)">🖊 seleção</button></div>
+   <label>Texto da nota</label>
+   <textarea id="rvTexto" placeholder="${p.status==='sem-fonte'?'sem nota nas fontes digitais — digite (ou deixe para a leitura do scan)':''}" ${ro?'disabled':''}>${esc(p.texto||'')}</textarea>
+   <div class="rv-src">${p.fonte_ref?('fonte: '+esc(p.fonte_ref)):''}${conf}${p.ref_id?(' · gravada como [^'+esc(p.ref_id)+']'):''}${p.obs?('<br>obs: '+esc(p.obs)):''}</div>
+   <div class="rv-btns">${ro?'':`<button class="b-ok" id="rvOk">✓ Aprovar</button><button class="b-rej" id="rvRej">✗ Rejeitar</button><button class="b-drop" id="rvDrop" title="o *N é espúrio: some do texto, sem nota">🗑 Marcador espúrio</button><button id="rvSave">💾 Rascunho</button>`}${p.status==='rejeitada'?'<button id="rvReopen">↺ Reabrir</button>':''}</div>
+   <div class="rv-msg ${cls||''}">${msg?esc(msg):''}</div>
+  </div>
+  <div class="rv-keys"><kbd>A</kbd> aprovar · <kbd>R</kbd> rejeitar · <kbd>D</kbd> espúrio · <kbd>M</kbd> usar seleção · <kbd>J</kbd>/<kbd>K</kbd> próxima/anterior · <kbd>Ctrl</kbd>+<kbd>Enter</kbd> aprovar (no texto)</div>`;
+  box.innerHTML=h; rvBind(); rvShow(p);
+}
+function rvBind(){
+  const on=(id,f)=>{ const e=document.getElementById(id); if(e) e.onclick=f; };
+  const fs=$('#rvFile'); if(fs) fs.onchange=e=>{ RV.file=e.target.value; RV.i=0; rvRender(); };
+  const ss=$('#rvSt'); if(ss) ss.onchange=e=>{ RV.st=e.target.value; RV.i=0; rvRender(); };
+  on('rvPrev',()=>rvStep(-1)); on('rvNext',()=>rvStep(1));
+  on('rvGo',()=>{ const p=rvCur(); if(p) rvShow(p,true); });
+  on('rvSel',rvUseSel); on('rvOk',rvApprove); on('rvRej',()=>rvAct('status',{status:'rejeitada'}));
+  on('rvDrop',()=>{ if(confirm('Remover o marcador *'+rvCur().n+' do texto (sem criar nota)?')) rvAct('drop'); });
+  on('rvSave',()=>rvAct('status',{},'rascunho salvo'));
+  on('rvReopen',()=>rvAct('status',{status:'sem-fonte'}));
+}
+function rvStep(d){ const L=rvList(); if(!L.length) return; RV.i=Math.max(0,Math.min(L.length-1,RV.i+d)); rvRender(); }
+function rvFields(){ return {texto:($('#rvTexto')||{}).value||'', trecho:($('#rvTrecho')||{}).value||''}; }
+async function rvPost(body){
+  const r=await fetch('/api/proposal',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});
+  return r.json();
+}
+async function rvAct(action,extra,okMsg){
+  const p=rvCur(); if(!p) return;
+  const body=Object.assign({id:p.id,action},rvFields(),extra||{});
+  try{
+    const j=await rvPost(body);
+    if(!j.ok){ rvRender(j.msg||j.error||'erro','err'); return; }
+    Object.assign(p,j.item);
+    if(action==='approve'||action==='drop'){ bumpRev(p.file); await reloadBook(cur&&cur.id); }
+    await rvLoad();
+    if(okMsg){ rvRender(okMsg,'ok'); return; }
+    rvRender();   // o item saiu da lista 'abertas' -> RV.i já aponta a próxima
+  }catch(e){ rvRender('erro: '+e,'err'); }
+}
+async function rvApprove(){
+  const f=rvFields();
+  if(!f.texto.trim()){ rvRender('a nota está sem texto','err'); return; }
+  await rvAct('approve',{},null);
+}
+function rvUseSel(){
+  const t=(window.getSelection&&window.getSelection().toString()||'').replace(/\s+/g,' ').trim();
+  if(!t){ rvRender('selecione o trecho no texto do ensinamento primeiro','err'); return; }
+  const inp=$('#rvTrecho'); if(inp){ inp.value=t; rvGhost(rvCur()); }
+}
+// mostra a vaga no painel principal: seleciona o nó, acende o *N certo e o trecho proposto
+function rvShow(p,force){
+  if(!p) return;
+  const nd=flat.find(n=>n.id===p.node); if(!nd) return;
+  // se o nó está dentro da página agrupada atual (container), não troca de página
+  const inPage=cur && (cur===nd || document.getElementById('anc-'+nd.id.replace(/\./g,'_')));
+  if(force||!inPage) select(nd);
+  requestAnimationFrame(()=>rvGhost(p,true));
+}
+function rvFindChip(p){
+  const want=rvFold(p.ctx).slice(-24);
+  let best=null, bs=-1;
+  document.querySelectorAll('#detail sup.rawmk[data-rn="'+p.n+'"]').forEach(ch=>{
+    const blk=ch.closest('.ens-texto,.db-body,.ax-text,.ax-verse,.ax-pre-p,h1,h2,h3,h4,h5')||ch.parentNode;
+    const r=document.createRange(); r.setStart(blk,0); r.setEndBefore(ch);
+    const got=rvFold(r.toString()).slice(-24);
+    let k=0; while(k<Math.min(want.length,got.length) && want[want.length-1-k]===got[got.length-1-k]) k++;
+    if(k>bs){ bs=k; best=ch; }
+  });
+  return best;
+}
+function rvGhost(p,scroll){
+  document.querySelectorAll('#detail .ghost').forEach(g=>{ g.replaceWith(...g.childNodes); });
+  document.querySelectorAll('#detail sup.rawmk.cur').forEach(c=>c.classList.remove('cur'));
+  if(!p) return;
+  const ch=rvFindChip(p);
+  if(!ch){ return; }
+  ch.classList.add('cur');
+  if(scroll) ch.scrollIntoView({block:'center',behavior:'smooth'});
+  const tr=(($('#rvTrecho')||{}).value||p.trecho||'').replace(/\s+/g,' ').trim(); if(!tr) return;
+  // procura o trecho no MESMO bloco, na ocorrência mais próxima do marcador
+  const blk=ch.closest('.ens-texto,.db-body,.ax-text,.ax-verse,.ax-pre-p')||ch.parentNode;
+  const nodes=[]; const tw=document.createTreeWalker(blk,NodeFilter.SHOW_TEXT,{acceptNode:n=>n.parentNode.closest('.fn-pop,sup.rawmk,sup.ref')?NodeFilter.FILTER_REJECT:NodeFilter.FILTER_ACCEPT});
+  let all='', n; while((n=tw.nextNode())){ nodes.push([n,all.length]); all+=n.data; }
+  const flatT=all.replace(/\s/g,' '), needle=tr.replace(/\s/g,' ');
+  const r0=document.createRange(); r0.setStart(blk,0); r0.setEndBefore(ch); const chPos=r0.toString().length;
+  let pos=-1, bd=1e9, i=flatT.indexOf(needle);
+  while(i>=0){ const d=Math.min(Math.abs(i+needle.length-chPos),Math.abs(i-chPos)); if(d<bd){bd=d;pos=i;} i=flatT.indexOf(needle,i+1); }
+  if(pos<0) return;
+  const at=(off)=>{ for(let k=nodes.length-1;k>=0;k--){ if(nodes[k][1]<=off) return [nodes[k][0],off-nodes[k][1]]; } return null; };
+  const atEnd=(off)=>{ for(let k=nodes.length-1;k>=0;k--){ if(nodes[k][1]<off) return [nodes[k][0],off-nodes[k][1]]; } return null; };
+  const s=at(pos), e=atEnd(pos+needle.length); if(!s||!e) return;
+  try{ const r=document.createRange(); r.setStart(s[0],s[1]); r.setEnd(e[0],e[1]);
+    const span=document.createElement('span'); span.className='ghost'; span.appendChild(r.extractContents()); r.insertNode(span); }catch(_){ }
+}
+(function(){
+  const btn=document.createElement('button'); btn.id='revBtn'; btn.textContent='📝 Notas pendentes';
+  btn.title='Revisar a fila de notas propostas (aprovar / rejeitar)';
+  const top=document.getElementById('top'); top.insertBefore(btn, document.getElementById('themeBtn'));
+  btn.onclick=async()=>{
+    RV.on=!RV.on; btn.classList.toggle('on',RV.on); document.body.classList.toggle('review',RV.on);
+    if(RV.on){ try{ await rvLoad(); rvRender(); }catch(e){ $('#review').innerHTML='<div class="rv-msg err">fila indisponível: rode <code>python tools/notes_inventory.py</code></div>'; } }
+    else rvGhost(null);
+  };
+  // clique num *N pendente -> abre a vaga correspondente
+  document.addEventListener('click',e=>{
+    if(!RV.on) return; const ch=e.target.closest&&e.target.closest('#detail sup.rawmk'); if(!ch) return;
+    const blk=ch.closest('.ens-texto,.db-body,.ax-text,.ax-verse,.ax-pre-p,h1,h2,h3,h4,h5')||ch.parentNode;
+    const r=document.createRange(); r.setStart(blk,0); r.setEndBefore(ch); const got=rvFold(r.toString()).slice(-24);
+    RV.file=''; RV.st='todas';
+    const L=rvList(); const k=L.findIndex(p=>p.n===+ch.dataset.rn && rvFold(p.ctx).endsWith(got.slice(-16)));
+    if(k>=0){ RV.i=k; rvRender(); }
+  });
+  document.addEventListener('keydown',e=>{
+    if(!RV.on) return;
+    const typing=/^(INPUT|TEXTAREA|SELECT)$/.test((document.activeElement||{}).tagName||'');
+    if(e.key==='Enter'&&(e.ctrlKey||e.metaKey)){ e.preventDefault(); rvApprove(); return; }
+    if(typing||e.ctrlKey||e.metaKey||e.altKey) return;
+    const k=e.key.toLowerCase();
+    if(k==='a'){ e.preventDefault(); rvApprove(); }
+    else if(k==='r'){ e.preventDefault(); rvAct('status',{status:'rejeitada'}); }
+    else if(k==='d'){ e.preventDefault(); const b=$('#rvDrop'); if(b) b.click(); }
+    else if(k==='m'){ e.preventDefault(); rvUseSel(); }
+    else if(k==='j'||e.key==='ArrowRight'&&e.shiftKey){ e.preventDefault(); rvStep(1); }
+    else if(k==='k'||e.key==='ArrowLeft'&&e.shiftKey){ e.preventDefault(); rvStep(-1); }
   });
 })();
 // Carrega o livro real (shin-dendo-tebiki.json: raiz 'sections', ensinamentos

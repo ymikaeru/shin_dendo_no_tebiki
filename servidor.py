@@ -217,6 +217,10 @@ class Handler(http.server.BaseHTTPRequestHandler):
                     return self._json({'error': 'nome invalido'}, 400)
                 with open(os.path.join(ROOT, name), encoding='utf-8') as f:
                     return self._json({'name': name, 'content': f.read()})
+            if path == '/api/proposals':
+                import _notes_review as R
+                q = R.load()
+                return self._json({'items': q['items'], 'summary': R.summary(q)})
             if path == '/api/map':
                 data = {}
                 if os.path.exists(MAP_FILE):
@@ -309,6 +313,25 @@ class Handler(http.server.BaseHTTPRequestHandler):
                     return self._json({'error': 'tag invalida'}, 400)
                 ok, msg = set_anexotag(name, cw, tag)
                 return self._json({'ok': ok, 'msg': msg}, 200 if ok else 400)
+            if u == '/api/proposal':
+                # fila de notas propostas: approve | drop (marcador espurio) | status (rejeitar/reabrir/editar)
+                import _notes_review as R
+                pid = body.get('id', ''); action = body.get('action', '')
+                if not re.match(r'^p\d{4,}$', pid or ''):
+                    return self._json({'error': 'id invalido'}, 400)
+                try:
+                    if action == 'approve':
+                        p = R.approve(pid, body.get('texto', ''), body.get('trecho', ''))
+                    elif action == 'drop':
+                        p = R.drop_marker(pid)
+                    elif action == 'status':
+                        p = R.set_status(pid, body.get('status'), texto=body.get('texto'),
+                                         trecho=body.get('trecho'), obs=body.get('obs'))
+                    else:
+                        return self._json({'error': 'acao invalida'}, 400)
+                except (ValueError, KeyError) as e:
+                    return self._json({'ok': False, 'msg': str(e).strip("'")}, 400)
+                return self._json({'ok': True, 'item': p})
             return self._json({'error': 'rota desconhecida'}, 404)
         except Exception as e:
             return self._json({'error': str(e)}, 500)

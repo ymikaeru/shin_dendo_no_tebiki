@@ -1,8 +1,9 @@
 # Material de origem pesado (scans CZUR) — fica só local
 CZUR_Scan/
 
-# Pasta de staging / não-organizados
-Nao Organizados/
+# Pasta de staging / não-organizados: só os .md (fontes das notas, texto leve) vão pro git
+Nao Organizados/*
+!Nao Organizados/*.md
 
 # Backups automáticos do editor e das fases
 _backup_editor/
@@ -17,6 +18,7 @@ __pycache__/
 # Temporários / snapshots de trabalho
 _tmp_check.md
 _notes_prev_*.md
+_notes_proposals.json.tmp
 
 # Config local do Claude Code (permissões/launch locais)
 .claude/

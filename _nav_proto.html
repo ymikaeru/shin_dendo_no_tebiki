@@ -11,6 +11,7 @@
     --sel:#ecdfc2; --hover:#ece5d6; --mark:#f6dc8a; --mark-fg:inherit;
     --exp-bg:#f5f0e4; --exp-bd:#c9a66a; --pre-bg:#f1ede5; --pre-bd:#ddd5c5; --res-bg:#f3eff7; --res-bd:#cbbfe0;
     --pop-bg:#fffdf8; --pop-fg:#2a2520; --shadow:0 1px 2px rgba(60,45,20,.06),0 10px 28px rgba(60,45,20,.12);
+    --arc-f:#b0782c; --arc-b:#2f7d8c; --band1:#ece4d2; --band2:#f5efe3;
     --serif:'Literata','Source Serif 4','Noto Serif JP',Georgia,'Times New Roman',serif;
     --sans:'Inter',system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif;
   }
@@ -20,6 +21,7 @@
     --sel:#2f2a21; --hover:#25272c; --mark:#6d561c; --mark-fg:#fff3cf;
     --exp-bg:#1e2124; --exp-bd:#8d6f3b; --pre-bg:#1c1e22; --pre-bd:#30333a; --res-bg:#211f28; --res-bd:#443c58;
     --pop-bg:#26282d; --pop-fg:#ece7de; --shadow:0 1px 2px rgba(0,0,0,.3),0 12px 32px rgba(0,0,0,.45);
+    --arc-f:#dcae62; --arc-b:#62b6c4; --band1:#2a2c31; --band2:#222428;
   }
   *{box-sizing:border-box}
   html,body{margin:0;height:100%;background:var(--bg);color:var(--fg);font:14px/1.5 var(--sans);-webkit-font-smoothing:antialiased}
@@ -36,7 +38,7 @@
   #crumb{display:none}
   .tbtn{background:transparent;border:1px solid var(--line);color:var(--fg2);border-radius:8px;padding:5px 11px;cursor:pointer;font-size:13px;white-space:nowrap;transition:border-color .12s,background .12s}
   .tbtn:hover{border-color:var(--acc);color:var(--fg)}
-  #themeBtn{margin-left:auto}
+  #webBtn{margin-left:auto} #themeBtn{margin-left:0}
   #grifoBtn,#revBtn{background:transparent;border:1px solid var(--line);color:var(--fg2);border-radius:8px;padding:5px 11px;cursor:pointer;font-size:13px;white-space:nowrap}
   #grifoBtn.on{background:#2f6fed;border-color:#2f6fed;color:#fff}
   #revBtn.on{background:#b5701f;border-color:#b5701f;color:#fff}
@@ -161,6 +163,62 @@
   #backPill .bp-t{font-weight:600;overflow:hidden;text-overflow:ellipsis;min-width:0}
   #backPill .bp-n{color:var(--acc);font-size:12px;flex:none}
   #backPill .bp-x{border-left:1px solid var(--line);color:var(--mut);padding:8px 13px}
+  /* ===== TEIA: "Citado por" ===== */
+  .cited{margin:22px 0 6px;border-top:1px dashed var(--line2);padding-top:12px}
+  .cited>summary{cursor:pointer;list-style:none;color:var(--mut);font:600 12.5px var(--sans);letter-spacing:.02em}
+  .cited>summary::-webkit-details-marker{display:none}
+  .cited>summary b{color:var(--acc)} .cited>summary:hover{color:var(--fg2)}
+  .cited-list{display:flex;flex-direction:column;gap:2px;margin-top:8px}
+  a.xref.cited-it{display:flex;gap:10px;align-items:baseline;border:0;white-space:normal;font:13.5px/1.45 var(--sans);color:var(--fg2);padding:6px 9px;border-radius:7px}
+  a.xref.cited-it:hover{background:var(--hover);color:var(--fg)}
+  .cited-it .ci-mk{color:var(--acc);font-weight:600;flex:none;min-width:2.2em}
+  .cited-it .ci-t{flex:1;min-width:0}
+  .cited-it .ci-path{display:block;color:var(--mut);font-size:11.5px}
+  .cited-it .ci-k{flex:none;color:var(--mut);font-size:11.5px;white-space:nowrap}
+  .meta a.cited-badge{color:var(--acc);text-decoration:none;cursor:pointer;border-bottom:1px dotted currentColor}
+  /* ===== TEIA: mapa ===== */
+  #webMap{position:fixed;inset:0;z-index:500;background:var(--bg);display:flex;flex-direction:column}
+  #webMap[hidden]{display:none}
+  .wm-top{display:flex;align-items:center;gap:14px;padding:12px 18px;border-bottom:1px solid var(--line);background:var(--panel);flex-wrap:wrap}
+  .wm-top h2{margin:0;font:600 18px var(--serif)}
+  .wm-stats{color:var(--mut);font-size:12.5px}
+  .wm-leg{display:flex;gap:14px;color:var(--mut);font-size:12px;margin-left:auto;align-items:center;flex-wrap:wrap}
+  .wm-leg i{display:inline-block;width:18px;height:0;border-top:2px solid;vertical-align:middle;margin-right:5px}
+  .wm-leg .dot{width:9px;height:9px;border-radius:50%;border:1.5px solid var(--acc);display:inline-block;vertical-align:middle;margin-right:5px}
+  .wm-leg .dot.on{background:var(--acc)}
+  .wm-body{flex:1;min-height:0;min-width:0;display:flex}
+  #webMap{overflow:hidden} .wm-top{min-width:0}
+  .wm-canvas{flex:1;min-width:0;overflow:auto;padding:10px 14px}
+  .wm-canvas svg{display:block}
+  .wm-side{width:330px;flex:none;border-left:1px solid var(--line);background:var(--side);overflow:auto;padding:14px 16px}
+  .wm-side h3{font:600 12px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--mut);margin:14px 0 6px}
+  .wm-side h3:first-child{margin-top:0}
+  .wm-card .wc-path{color:var(--mut);font-size:12px}
+  .wm-card .wc-t{font:600 16px/1.35 var(--serif);margin:3px 0 6px}
+  .wm-card .wc-n{color:var(--fg2);font-size:13px;margin-bottom:10px}
+  .wm-card button.wc-go{background:var(--acc);color:#fff;border:0;border-radius:8px;padding:7px 14px;cursor:pointer;font:600 13px var(--sans)}
+  .wm-link{display:flex;gap:8px;align-items:baseline;padding:5px 7px;border-radius:6px;cursor:pointer;font-size:13px;color:var(--fg2)}
+  .wm-link:hover{background:var(--hover);color:var(--fg)}
+  .wm-link .wl-a{flex:none;font-size:11px;width:14px}
+  .wm-link .wl-p{margin-left:auto;color:var(--mut);font-size:11.5px;flex:none}
+  .wm-hint{color:var(--mut);font-size:12.5px;line-height:1.5}
+  #webMap .arc{fill:none;stroke-width:1.1;opacity:.28;transition:opacity .15s}
+  #webMap .arc.f{stroke:var(--arc-f)} #webMap .arc.b{stroke:var(--arc-b)}
+  #webMap svg.focus .arc{opacity:.05} #webMap svg.focus .arc.hl{opacity:.95;stroke-width:1.8}
+  #webMap .nd{fill:var(--bg);stroke:var(--acc);stroke-width:1.2;cursor:pointer}
+  #webMap .nd.seen{fill:var(--acc)}
+  #webMap .nd.sel{stroke:var(--fg);stroke-width:2.4}
+  #webMap svg.focus .nd{opacity:.3} #webMap svg.focus .nd.hl{opacity:1}
+  #webMap .tick{stroke:var(--line2);stroke-width:1}
+  #webMap .tick.seen{stroke:var(--acc)}
+  #webMap .band{fill:var(--band1)} #webMap .band.alt{fill:var(--band2)}
+  #webMap .band-t{fill:var(--fg2);font:600 11px var(--sans)}
+  #webMap .cap-t{fill:var(--mut);font:600 10.5px var(--sans);letter-spacing:.08em}
+  #webMap .here{stroke:var(--fg);stroke-width:1.2;stroke-dasharray:3 3}
+  #webMap .here-t{fill:var(--fg);font:600 10.5px var(--sans)}
+  #webMap .lbl{fill:var(--fg2);font:11px var(--serif);pointer-events:none}
+  #wmTip{position:fixed;z-index:520;background:var(--pop-bg);color:var(--pop-fg);border:1px solid var(--line2);border-radius:8px;padding:6px 10px;font:12.5px/1.4 var(--sans);box-shadow:var(--shadow);pointer-events:none;max-width:300px}
+  @media (max-width: 820px){ .wm-body{flex-direction:column} .wm-canvas{flex:1 1 auto;min-height:0;width:100%} .wm-side{width:auto;border-left:0;border-top:1px solid var(--line);height:38vh;flex:none} .wm-leg{margin-left:0} .wm-top{padding:10px 14px;gap:8px} .wm-top h2{font-size:16px} }
 
   /* ================= NAVEGAÇÃO ANTERIOR / PRÓXIMO ================= */
   .navbar{display:flex;gap:12px;margin:40px 0 6px;border-top:1px solid var(--line);padding-top:20px}
@@ -264,6 +322,7 @@
     #brand{font-size:15.5px;overflow:hidden;text-overflow:ellipsis}
     #brand small{display:none}
     #menuBtn{display:inline-block}
+    #top .tl{display:none} #top .tbtn,#grifoBtn,#revBtn{padding:5px 9px}
     #side{position:fixed;z-index:300;top:0;bottom:0;left:0;width:88vw;max-width:380px;transform:translateX(-102%);transition:transform .22s;box-shadow:var(--shadow)}
     body.drawer #side{transform:none}
     body.drawer::after{content:"";position:fixed;inset:0;background:rgba(20,15,5,.4);z-index:250}
@@ -278,7 +337,7 @@
     .pathline .c{max-width:150px}
   }
   @media print{
-    #top,#side,.navbar,#copyLink,#review,#backPill,#peek{display:none!important}
+    #top,#side,.navbar,#copyLink,#review,#backPill,#peek,#webMap,.cited{display:none!important}
     #detail{overflow:visible;padding:0} .page{max-width:none;padding:0}
     details{border:none!important} details>summary::before{display:none}
   }
@@ -319,6 +378,7 @@
   <button id="menuBtn" title="Índice">☰</button>
   <div id="brand" title="Início">Novo Manual de Difusão<small>新・伝道の手引き</small></div>
   <span id="crumb"></span>
+  <button id="webBtn" class="tbtn" title="Ver o livro como teia de remissões">🕸<span class="tl"> Teia</span></button>
   <button id="themeBtn" class="tbtn" title="Alternar tema claro/escuro">☾ Escuro</button>
 </div>
 <div id="main">
@@ -336,7 +396,7 @@ const $=s=>document.querySelector(s);
 const STATIC=!!window.SD_STATIC;
 if(STATIC) document.body.classList.add('static');
 (function(){ const b=document.getElementById('themeBtn'); if(!b) return;
-  function apply(t){ document.body.classList.toggle('dark', t==='dark'); b.textContent = t==='dark' ? '☀ Claro' : '☾ Escuro'; }
+  function apply(t){ document.body.classList.toggle('dark', t==='dark'); b.innerHTML = t==='dark' ? '☀<span class="tl"> Claro</span>' : '☾<span class="tl"> Escuro</span>'; }
   let t=null; try{ t=localStorage.getItem('nav-theme'); }catch(_){ }
   if(!t) t=(window.matchMedia&&matchMedia('(prefers-color-scheme: dark)').matches)?'dark':'light';   // 1ª visita: segue o sistema
   apply(t);
@@ -397,6 +457,50 @@ function pageNode(pg){
 function xrefA(pg,label,title){ const n=pageNode(pg);
   if(!n) return `<span class="xref-na" title="${(title?title+' — ':'')}pág. ${pg}: trecho do livro ainda sem mapa de páginas">${label}</span>`;
   return `<a class="xref" href="#${n.id}" title="${(title||('ir para a pág. '+pg)).replace(/"/g,'&quot;')}">${label}</a>`; }
+// ===== TEIA: índice das remissões internas (quem remete a quem), de todos os campos do ensinamento =====
+let CITES=null;   // {edges:[{from,to,kind,pg,ctx}], in:Map(id→[edge]), out:Map(id→[edge])}
+function citeIndex(){
+  if(CITES) return CITES;
+  const C={edges:[], in:new Map(), out:new Map()};
+  const push=(m,k,e)=>{ if(!m.has(k)) m.set(k,[]); m.get(k).push(e); };
+  const add=(n,kind,txt)=>{
+    if(!txt) return; const s=plain(txt);
+    for(const m of s.matchAll(PG_RE)){
+      const pg=+(m[1]||m[2]), t=pageNode(pg); if(!t || t===n) continue;
+      const a=Math.max(0,m.index-110); let ctx=s.slice(a,m.index).replace(/[\s(（<〈,;:—–-]+$/,'').trim();
+      if(a>0) ctx='…'+ctx.replace(/^\S*\s/,'');
+      const e={from:n,to:t,kind,pg,ctx}; C.edges.push(e); push(C.out,n.id,e); push(C.in,t.id,e);
+    }
+  };
+  for(const n of flat){
+    const e=n.ensinamento;
+    if(e){
+      add(n,'fonte',e.fonte); add(n,'preâmbulo',e.preambulo); add(n,'texto',e.texto); add(n,'posfácio',e.posfacio);
+      add(n,'resumo',e.resumo); add(n,'explicação',e.explicacao);
+      (e.referencias||[]).forEach(r=>add(n,'referências',r));
+      (e.anexo||[]).forEach(x=>add(n,'anexo',x.texto));
+      (e.notas||[]).forEach(x=>add(n,'nota '+x.n,x.texto));
+    }
+    if(n.explicacao) add(n,'explicação',n.explicacao);
+  }
+  return CITES=C;
+}
+// caminho curto: "Cap. 2 · Item 4 › II › 5 › ⑦"
+function shortPath(n){
+  const a=[]; let p=n; while(p && p._p){ a.unshift(p); p=p._p; }
+  return a.map(x=>x.nivel==='capitulo'?x.marcador.replace('Capítulo','Cap.'):x.nivel==='item'?x.marcador:mkLabel(x).replace(/\.$/,'')).join(' › ').replace(' › Item',' · Item');
+}
+// agrupa as remissões recebidas por ensinamento de origem (um item por origem, com os tipos juntos)
+function citedBy(n){
+  const L=(citeIndex().in.get(n.id)||[]), by=new Map();
+  L.forEach(e=>{ const o=by.get(e.from.id)||{from:e.from,kinds:[],ctx:e.ctx}; if(!o.kinds.includes(e.kind)) o.kinds.push(e.kind); by.set(e.from.id,o); });
+  return [...by.values()].sort((a,b)=>flat.indexOf(a.from)-flat.indexOf(b.from));
+}
+function citedBlock(n){
+  const L=citedBy(n); if(!L.length) return '';
+  const it=o=>`<a class="xref cited-it" href="#${o.from.id}" title="${esc(o.ctx).replace(/"/g,'&quot;')}"><span class="ci-mk">${esc(mkLabel(o.from))}</span><span class="ci-t">${esc(cleanTitle(o.from.title))}<span class="ci-path">${esc(shortPath(o.from._p||o.from))}</span></span><span class="ci-k">${esc(o.kinds.join(', '))}${o.from.pagina?' · pág. '+o.from.pagina:''}</span></a>`;
+  return `<details class="cited" id="cited-${n.id.replace(/\./g,'_')}"${L.length<=4?' open':''}><summary>↩ Citado por <b>${L.length}</b> ${L.length===1?'ensinamento':'ensinamentos'} deste livro</summary><div class="cited-list">${L.map(it).join('')}</div></details>`;
+}
 // liga as referências de página que sobraram no texto (fora de tags)
 function linkPages(html){
   return html.split(/(<[^>]*>)/).map((part,i)=> i%2 ? part :
@@ -564,6 +668,7 @@ function renderChild(c, depth){
   if(c.subtitulo) h+=`<div class="ens-subtitulo">―― ${esc(c.subtitulo)} ――</div>`;
   if(c.ensinamento) h+=renderEnsinamento(c.ensinamento);
   else if(c.explicacao) h+=expBlock(c.explicacao);
+  h+=citedBlock(c);
   (c.children||[]).forEach(g=>{ if(ownContent(g)||hasContentDesc(g)) h+=renderChild(g,depth+1); });
   return h+'</section>';
 }
@@ -581,6 +686,7 @@ function renderPage(n){
   if(n.subtitulo) h+=`<div class="ens-subtitulo">―― ${esc(n.subtitulo)} ――</div>`;
   if(n.ensinamento) h+=renderEnsinamento(n.ensinamento);
   else if(n.explicacao) h+=expBlock(n.explicacao);
+  h+=citedBlock(n);
   if(n._pg) (n.children||[]).forEach(c=>{ if(ownContent(c)||hasContentDesc(c)) h+=renderChild(c,1); });
   else h+=subToc(n);
   return h || `<div class="hint">Sem texto nesta seção.</div>`;
@@ -667,7 +773,8 @@ function select(n, opt){
   let target=null; if(n._inPage){ target=n; n=pageOf(n); }
   const same=(cur===n) && !opt.force;
   if(cur&&cur._row) cur._row.classList.remove('sel');
-  cur=n; try{ localStorage.setItem('nav-cur', n.id); }catch(_){ }   // lembra a página p/ restaurar no F5
+  cur=n; try{ localStorage.setItem('nav-cur', n.id); }catch(_){ }
+  markSeen(n);   // lembra a página p/ restaurar no F5
   const hid=(target||n).id;
   if(!opt.noHist && decodeURIComponent(location.hash.slice(1))!==hid){   // link direto: #c1.i1.2 (voltar/avançar do navegador funcionam)
     try{ history[opt.replace?'replaceState':'pushState'](null,'','#'+hid); }catch(_){ }
@@ -683,13 +790,14 @@ function select(n, opt){
     det.innerHTML=`<div class="layout"><article class="page">
       <nav class="pathline">${crumbs}</nav>
       <h1><span class="h-mk">${mkLabel(n)}</span>${renderTitle(n.title,(n.ensinamento||{}).notas)}</h1>
-      <div class="meta">${n.pagina?`<span>pág. ${n.pagina} do livro</span>`:''}<span class="only-local">${niceNivel} · <code>${n.id}</code></span><button id="copyLink" title="copiar o link direto deste ensinamento">Copiar link</button></div>
+      <div class="meta">${n.pagina?`<span>pág. ${n.pagina} do livro</span>`:''}${(()=>{const k=citedBy(n).length; return k?`<a class="cited-badge" data-cited="${n.id}" title="ensinamentos deste livro que remetem a este">↩ citado ${k}×</a>`:'';})()}<span class="only-local">${niceNivel} · <code>${n.id}</code></span><button id="copyLink" title="copiar o link direto deste ensinamento">Copiar link</button></div>
       <details class="otl-inline"><summary>Nesta página</summary><div class="otl-list"></div></details>
       <div class="page-body">${renderPage(n)}</div>
       ${navBar(n)}
     </article><nav id="outline" hidden></nav></div>`;
     det.querySelector('.pathline').onclick=e=>{ const a=e.target.closest('a.c'); if(!a) return;
       if(a.dataset.home){ goHome(); return; } const x=flat.find(y=>y.id===a.dataset.id); if(x) select(x); };
+    const cb=det.querySelector('a.cited-badge'); if(cb) cb.onclick=()=>{ const el=document.getElementById('cited-'+cb.dataset.cited.replace(/\./g,'_')); if(el){ el.open=true; el.scrollIntoView({block:'center',behavior:'smooth'}); } };
     const cl=$('#copyLink'); if(cl) cl.onclick=()=>{ const u=location.href.split('#')[0]+'#'+(location.hash.slice(1)||n.id);
       (navigator.clipboard?navigator.clipboard.writeText(u):Promise.reject()).then(()=>{cl.textContent='✓ Link copiado';},()=>{prompt('Link deste ensinamento:',u);}); };
     if(!opt.keepScroll) det.scrollTop=0;
@@ -796,7 +904,7 @@ async function reloadBook(keepId){
     const det=$('#detail'); const sc=det?det.scrollTop:0;       // lembra a rolagem dentro da página
     const t=await (await fetch('/_book.json?'+Math.random())).json();
     if(t.sections && !t.children) t.children=t.sections;
-    TREE=t; flat=[]; walk(TREE,null,0); markPages(TREE,false); PAGED=null; SIDX=null; render(); cur=null;
+    TREE=t; flat=[]; walk(TREE,null,0); markPages(TREE,false); PAGED=null; SIDX=null; CITES=null; render(); cur=null;
     if(keepId){ const a=flat.find(n=>n.id===keepId); if(a){ select(a,{noHist:true,keepScroll:true,force:true}); const d=$('#detail'); if(d) d.scrollTop=sc; } }  // mesmo nó + mesma rolagem
   } finally { _reloading=false; }
 }
@@ -879,7 +987,7 @@ document.addEventListener('click',e=>{
   closeNoteEditor(); closeAxMenu();
 });
 (function(){
-  const btn=document.createElement('button'); btn.id='grifoBtn'; btn.textContent='✏️ Editar';
+  const btn=document.createElement('button'); btn.id='grifoBtn'; btn.innerHTML='✏️<span class="tl"> Editar</span>';
   btn.title='Modo edição: clique na nota p/ editar o texto; selecione um trecho p/ grifar';
   document.getElementById('top').appendChild(btn);
   btn.onclick=()=>{ GRIFO_EDIT=!GRIFO_EDIT; btn.classList.toggle('on',GRIFO_EDIT); document.body.classList.toggle('grifo-edit',GRIFO_EDIT); hideGMenu(); };
@@ -1049,7 +1157,7 @@ function rvGhost(p,scroll){
     const span=document.createElement('span'); span.className='ghost'; span.appendChild(r.extractContents()); r.insertNode(span); }catch(_){ }
 }
 (function(){
-  const btn=document.createElement('button'); btn.id='revBtn'; btn.textContent='📝 Notas pendentes';
+  const btn=document.createElement('button'); btn.id='revBtn'; btn.innerHTML='📝<span class="tl"> Notas pendentes</span>';
   btn.title='Revisar a fila de notas propostas (aprovar / rejeitar)';
   const top=document.getElementById('top'); top.insertBefore(btn, document.getElementById('themeBtn'));
   btn.onclick=async()=>{
@@ -1162,6 +1270,136 @@ if(matchMedia('(hover: hover)').matches){       // no toque, a remissão só nav
   document.addEventListener('mouseout',e=>{ const a=e.target.closest && e.target.closest('a.xref');
     if(a && !a.contains(e.relatedTarget)) hidePeek(); });
 }
+// ===== TEIA: o que já foi lido (por página aberta: a página e as seções dentro dela) =====
+let SEEN=null;
+function seenSet(){ if(SEEN) return SEEN; try{ SEEN=new Set(JSON.parse(localStorage.getItem('nav-seen')||'[]')); }catch(_){ SEEN=new Set(); } return SEEN; }
+function markSeen(n){
+  const S=seenSet(), k0=S.size; S.add(n.id);
+  (function rec(x){ (x.children||[]).forEach(c=>{ if(c._inPage){ S.add(c.id); rec(c); } }); })(n);
+  if(S.size!==k0) try{ localStorage.setItem('nav-seen', JSON.stringify([...S])); }catch(_){ }
+}
+
+// ===== TEIA: mapa do livro (diagrama de arcos) =====
+// Eixo = ordem de leitura. Arco ACIMA = remete adiante; ABAIXO = remete para trás. Ponto = ensinamento que
+// participa da teia (tamanho = quantos o citam); tracinho na faixa = ensinamento (aceso = já lido).
+const WM={sel:null, U:null, X:null};
+function wmTip(html,ev){ let t=document.getElementById('wmTip'); if(!html){ if(t) t.remove(); return; }
+  if(!t){ t=document.createElement('div'); t.id='wmTip'; document.body.appendChild(t); }
+  t.innerHTML=html; const w=t.offsetWidth,h=t.offsetHeight;
+  t.style.left=Math.min(innerWidth-w-8,ev.clientX+14)+'px'; t.style.top=Math.max(8,ev.clientY-h-10)+'px'; }
+function wmDeg(n){ const C=citeIndex(); return {inn:citedBy(n).length, out:new Set((C.out.get(n.id)||[]).map(e=>e.to.id)).size}; }
+function openWebMap(){
+  const C=citeIndex(), S=seenSet();
+  const U=flat.filter(n=>n._p && n.nivel!=='capitulo' && (ownContent(n)||C.in.has(n.id)||C.out.has(n.id)));
+  let m=document.getElementById('webMap');
+  if(!m){ m=document.createElement('div'); m.id='webMap'; document.body.appendChild(m); }
+  const seenN=U.filter(n=>S.has(n.id)).length;
+  m.hidden=false;
+  m.innerHTML=`<div class="wm-top"><h2>O livro como teia</h2>
+      <span class="wm-stats">${C.edges.length} remissões · ${C.in.size} ensinamentos citados · você já leu ${seenN} de ${U.length}</span>
+      <span class="wm-leg"><span><i style="border-color:var(--arc-f)"></i>remete adiante</span><span><i style="border-color:var(--arc-b)"></i>remete para trás</span><span><span class="dot"></span>citado</span><span><span class="dot on"></span>já lido</span></span>
+      <button class="tbtn" id="wmClose">✕ Voltar à leitura</button></div>
+    <div class="wm-body"><div class="wm-canvas"></div><aside class="wm-side" id="wmSide"></aside></div>`;
+  const cv=m.querySelector('.wm-canvas');
+  // 1 unidade = 1 px (texto nítido); estreito demais → rola na horizontal
+  const W=Math.max(760, cv.clientWidth-28), H=Math.max(300, Math.min(cv.clientHeight-24, W*0.8)), y0=Math.round(H*0.56), pad=26, X=new Map();
+  U.forEach((n,i)=>X.set(n.id, pad+i*(W-2*pad)/(U.length-1)));
+  WM.U=U; WM.X=X;
+  const xOf=n=>{ if(X.has(n.id)) return X.get(n.id); const i=flat.indexOf(n); const nx=U.find(u=>flat.indexOf(u)>=i); return nx?X.get(nx.id):W-pad; };
+  let g='';
+  // faixas dos itens + rótulos; capítulos no topo
+  const items=flat.filter(n=>n.nivel==='item');
+  items.forEach((it,k)=>{
+    const us=U.filter(u=>u===it||isDesc(u,it)); if(!us.length) return;
+    const x1=X.get(us[0].id)-2, x2=X.get(us[us.length-1].id)+2, w=x2-x1;
+    g+=`<rect class="band${k%2?' alt':''}" x="${x1}" y="${y0-7}" width="${w}" height="14" rx="3"/>`;
+    const lab=w>150?`${it.marcador} · ${cleanTitle(it.title)}`:w>60?it.marcador:it.marcador.replace('Item ','I');
+    const max=Math.floor(w/6.4); g+=`<text class="band-t" x="${x1+w/2}" y="${H-10}" text-anchor="middle">${esc(lab.length>max?lab.slice(0,max-1)+'…':lab)}</text>`;
+    g+=`<line class="tick" x1="${x1}" x2="${x1}" y1="${H-24}" y2="${H-4}"/>`;
+  });
+  const caps=(TREE.children||[]).map(c=>{ const us=U.filter(u=>isDesc(u,c)); return us.length?[c,X.get(us[0].id)]:null; }).filter(Boolean);
+  caps.forEach(([c,x],k)=>{ const room=((caps[k+1]||[])[1]||W)-x-16, full=(c.marcador+' · '+c.title).toUpperCase(), max=Math.floor(room/6.6);
+    g+=`<text class="cap-t" x="${x}" y="16">${esc(full.length>max?full.slice(0,Math.max(10,max-1))+'…':full)}</text>`; });
+  // tracinhos de leitura
+  U.forEach(n=>{ const x=X.get(n.id).toFixed(1); g+=`<line class="tick${S.has(n.id)?' seen':''}" x1="${x}" x2="${x}" y1="${y0-5}" y2="${y0+5}"/>`; });
+  // arcos
+  const upMax=y0-34, dnMax=H-y0-44;
+  C.edges.forEach((e,i)=>{
+    const a=xOf(e.from), b=xOf(e.to); if(Math.abs(a-b)<1) return;
+    const fwd=b>a, x1=Math.min(a,b), x2=Math.max(a,b), rx=(x2-x1)/2;
+    const ry=Math.min(rx,(fwd?upMax:dnMax)*Math.min(1,Math.pow((x2-x1)/(W*0.55),0.62)));
+    g+=`<path class="arc ${fwd?'f':'b'}" data-e="${i}" data-a="${e.from.id}" data-b="${e.to.id}" d="M${x1.toFixed(1)},${y0} A${rx.toFixed(1)},${ry.toFixed(1)} 0 0 ${fwd?1:0} ${x2.toFixed(1)},${y0}"/>`;
+  });
+  // pontos (participantes) — maiores = mais citados; rótulo nos mais citados
+  const part=new Set(); C.edges.forEach(e=>{ part.add(e.from.id); part.add(e.to.id); });
+  const nodes=[...part].map(id=>flat.find(n=>n.id===id)).filter(Boolean);
+  const top=nodes.map(n=>[n,wmDeg(n).inn]).sort((a,b)=>b[1]-a[1]).slice(0,6).map(x=>x[0]);
+  nodes.sort((a,b)=>wmDeg(a).inn-wmDeg(b).inn).forEach(n=>{
+    const d=wmDeg(n), r=2.4+Math.sqrt(d.inn)*2.3, x=xOf(n);
+    g+=`<circle class="nd${S.has(n.id)?' seen':''}" data-id="${n.id}" cx="${x.toFixed(1)}" cy="${y0}" r="${r.toFixed(1)}"/>`;
+  });
+  const lanes=[];   // cada nível guarda onde termina o último rótulo
+  top.sort((a,b)=>xOf(a)-xOf(b)).forEach(n=>{ const x=xOf(n), t=cleanTitle(n.title); const s=t.length>30?t.slice(0,29)+'…':t;
+    const w=s.length*5.9+8, x1=Math.max(4,Math.min(W-w-4,x-6));
+    let k=lanes.findIndex(end=>end<x1); if(k<0){ k=lanes.length; lanes.push(0); } lanes[k]=x1+w;
+    const y=y0-18-k*15;
+    g+=`<line class="tick" x1="${x.toFixed(1)}" x2="${x.toFixed(1)}" y1="${y+3}" y2="${y0-6}" style="opacity:.6"/>`;
+    g+=`<text class="lbl" x="${x1.toFixed(1)}" y="${y}" style="paint-order:stroke;stroke:var(--bg);stroke-width:3px">${esc(s)}</text>`; });
+  if(cur){ const x=xOf(cur).toFixed(1); g+=`<line class="here" x1="${x}" x2="${x}" y1="26" y2="${H-30}"/><text class="here-t" x="${+x+5}" y="36">você está aqui</text>`; }
+
+  cv.innerHTML=`<svg viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="Mapa das remissões internas do livro">${g}</svg>`;
+  const svg=cv.querySelector('svg');
+  $('#wmClose').onclick=closeWebMap;
+  svg.addEventListener('mousemove',ev=>{
+    const c=ev.target.closest('.nd'), p=ev.target.closest('.arc');
+    if(c){ const n=flat.find(x=>x.id===c.dataset.id), d=wmDeg(n); if(!WM.sel) wmFocus(n.id,false);
+      wmTip(`<b>${esc(mkLabel(n)+' '+cleanTitle(n.title))}</b><br><span style="opacity:.75">${esc(shortPath(n._p||n))}${n.pagina?' · pág. '+n.pagina:''}</span><br>citado por ${d.inn} · remete a ${d.out}`,ev); return; }
+    if(p){ const e=C.edges[+p.dataset.e]; wmTip(`${esc(cleanTitle(e.from.title).slice(0,50))}<br>→ <b>${esc(cleanTitle(e.to.title).slice(0,50))}</b><br><span style="opacity:.75">${esc(e.kind)} · “pág. ${e.pg}”</span>`,ev); return; }
+    wmTip(null); if(!WM.sel) wmFocus(null);
+  });
+  svg.addEventListener('mouseleave',()=>{ wmTip(null); if(!WM.sel) wmFocus(null); });
+  svg.addEventListener('click',ev=>{ const c=ev.target.closest('.nd'); if(c) wmSelect(c.dataset.id); else if(!ev.target.closest('.arc')) wmSelect(null); });
+  wmSelect(cur && part.has(cur.id) ? cur.id : null);
+}
+function wmFocus(id){
+  const svg=document.querySelector('#webMap svg'); if(!svg) return;
+  svg.querySelectorAll('.hl').forEach(x=>x.classList.remove('hl'));
+  svg.classList.toggle('focus',!!id); if(!id) return;
+  svg.querySelectorAll(`.arc[data-a="${id}"],.arc[data-b="${id}"]`).forEach(p=>{ p.classList.add('hl');
+    [p.dataset.a,p.dataset.b].forEach(k=>{ const c=svg.querySelector(`.nd[data-id="${k}"]`); if(c) c.classList.add('hl'); }); });
+  const c=svg.querySelector(`.nd[data-id="${id}"]`); if(c) c.classList.add('hl');
+}
+function wmSelect(id){
+  WM.sel=id; const side=$('#wmSide'); if(!side) return;
+  document.querySelectorAll('#webMap .nd.sel').forEach(c=>c.classList.remove('sel'));
+  wmFocus(id);
+  const C=citeIndex();
+  const link=(n,arrow,extra)=>`<div class="wm-link" data-id="${n.id}"><span class="wl-a">${arrow}</span><span>${esc(mkLabel(n)+' '+cleanTitle(n.title))}</span><span class="wl-p">${extra||''}</span></div>`;
+  if(!id){
+    const top=[...C.in.keys()].map(k=>flat.find(n=>n.id===k)).filter(Boolean).map(n=>[n,wmDeg(n).inn]).sort((a,b)=>b[1]-a[1]).slice(0,12);
+    side.innerHTML=`<h3>Como ler</h3><p class="wm-hint">Cada tracinho na faixa é um ensinamento, na ordem do livro; os acesos você já leu. Cada arco é uma remissão “ver pág. N”: <b>acima</b>, remete adiante; <b>abaixo</b>, remete para trás. Os pontos maiores são os mais citados — os lugares para onde muitos caminhos levam. Clique num ponto para ver seus fios.</p>
+      <h3>Mais citados</h3>${top.map(([n,k])=>link(n,'●',k+'×')).join('')}`;
+  } else {
+    const n=flat.find(x=>x.id===id), d=wmDeg(n);
+    const c=document.querySelector(`#webMap .nd[data-id="${id}"]`); if(c) c.classList.add('sel');
+    const outs=[...new Map((C.out.get(id)||[]).map(e=>[e.to.id,e])).values()];
+    side.innerHTML=`<div class="wm-card"><div class="wc-path">${esc(shortPath(n._p||n))}${n.pagina?' · pág. '+n.pagina:''}</div>
+        <div class="wc-t">${esc(mkLabel(n)+' '+cleanTitle(n.title))}</div>
+        <div class="wc-n">citado por ${d.inn} · remete a ${d.out}${seenSet().has(id)?' · já lido':''}</div>
+        <button class="wc-go">Abrir no livro</button></div>
+      ${outs.length?`<h3>Remete a</h3>${outs.map(e=>link(e.to,'→',e.kind)).join('')}`:''}
+      ${d.inn?`<h3>Citado por</h3>${citedBy(n).map(o=>link(o.from,'←',o.kinds.join(', '))).join('')}`:''}
+      <h3></h3><div class="wm-link" data-clear="1"><span class="wl-a">✕</span><span>limpar seleção</span></div>`;
+    side.querySelector('.wc-go').onclick=()=>{ if(cur){ BACK.push({id:cur.id, scroll:$('#detail').scrollTop, label:backLabel()}); renderBack(); } closeWebMap(); select(n); };
+  }
+  side.querySelectorAll('.wm-link').forEach(l=>l.onclick=()=>wmSelect(l.dataset.clear?null:l.dataset.id));
+}
+function closeWebMap(){ const m=document.getElementById('webMap'); if(m){ m.hidden=true; m.innerHTML=''; } wmTip(null); WM.sel=null; }
+document.addEventListener('keydown',e=>{ if(e.key==='Escape'){ const m=document.getElementById('webMap'); if(m && !m.hidden) closeWebMap(); } });
+// redesenha no novo tamanho (1 unidade = 1 px), mantendo a seleção
+window.addEventListener('resize',()=>{ clearTimeout(WM._rz); WM._rz=setTimeout(()=>{ const m=document.getElementById('webMap');
+  if(m && !m.hidden){ const keep=WM.sel; openWebMap(); wmSelect(keep); } },180); });
+$('#webBtn').onclick=openWebMap;
 function restoreCur(){
   const h=nodeFromHash(); if(h){ select(h,{noHist:true}); return; }
   let id, sc; try{ id=localStorage.getItem('nav-cur'); sc=+localStorage.getItem('nav-scroll')||0; }catch(_){ }

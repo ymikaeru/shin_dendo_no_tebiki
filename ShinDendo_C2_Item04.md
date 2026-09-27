@@ -90,13 +90,13 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   *(25 de junho de 1952\) (Eikou, nº 162, Nº 2 \= Okada Mokichi Zenshu Shika-hen **\[6\]**, pág. 222, Nº 2\)*
 
-  ### 
+### 
 
-  ### ② Exemplos representativos da "Lei" 
+### ② Exemplos representativos da "Lei" 
 
-  #### i Lei da Ordem 
+#### i Lei da Ordem 
 
-  ##### A. Deus é Ordem
+##### A. Deus é Ordem
 
   (Shin-zatsu, pág. 70, linhas 8-11 \= Sha-shu, pág. 156, parte inferior, linha 7 a pág. 157, parte superior, linha 2 \<Zenshu, Vol. 6, pág. 72\>)
 
@@ -104,23 +104,23 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   (5 de setembro de 1948, "Não Erreis a Ordem")
 
-  ##### B. Aprender com a Grande Natureza (Kyo, nº 20, pág. 29, linhas 7-11 \<Zenko, Vol. 10, pág. 83\>)
+##### B. Aprender com a Grande Natureza (Kyo, nº 20, pág. 29, linhas 7-11 \<Zenko, Vol. 10, pág. 83\>)
 
   Em tudo, a ordem é o essencial. Para isso, deve-se aprender com a Grande Natureza. Não importa o que aconteça, a cerejeira jamais floresce antes da ameixeira; portanto, na Grande Natureza existe ordem. Por isso, aprender com a Grande Natureza é o fundamento da fé1. Mesmo na Agricultura Natural ou no Johrei, o fundamento é a Grande Natureza2. Portanto, a ordem consiste em aprender com a Grande Natureza, e assim não haverá erro. (15 de março de 1953\)
 
-  ##### C. Também no Plano Divino há ordem (Kyo, nº 25, pág. 49, linhas 10-16 \<Zenko, Vol. 11, pág. 49\>) Texto omitido. Vide Capítulo 2, Item 4-II, Plano Divino 6, Progresso da Obra Divina, ①-viii (pág. 671 deste livro).
+##### C. Também no Plano Divino há ordem (Kyo, nº 25, pág. 49, linhas 10-16 \<Zenko, Vol. 11, pág. 49\>) Texto omitido. Vide Capítulo 2, Item 4-II, Plano Divino 6, Progresso da Obra Divina, ①-viii (pág. 671 deste livro).
 
-  ##### D. Ordem e Modelo (Kyo, nº 27, pág. 32, linhas 6-9 \<Zenko, Vol. 11, pág. 169\>) Nas coisas de Deus, tudo prossegue através de modelos (Kata); à medida que o modelo é feito, ele se expande exatamente da mesma forma no Mundo Espiritual. Este ponto é muito diferente do trabalho humano. Portanto, é ordem e modelo. Observando isso, compreende-se; além disso, eu estou agindo dessa maneira. Por isso, não há nada com que se preocupar ou hesitar. (16 de outubro de 1953\)
+##### D. Ordem e Modelo (Kyo, nº 27, pág. 32, linhas 6-9 \<Zenko, Vol. 11, pág. 169\>) Nas coisas de Deus, tudo prossegue através de modelos (Kata); à medida que o modelo é feito, ele se expande exatamente da mesma forma no Mundo Espiritual. Este ponto é muito diferente do trabalho humano. Portanto, é ordem e modelo. Observando isso, compreende-se; além disso, eu estou agindo dessa maneira. Por isso, não há nada com que se preocupar ou hesitar. (16 de outubro de 1953\)
 
-  #### \*ii Lei do Espírito Precede a Matéria (Reishu Taiju) \*\* 
+#### \*ii Lei do Espírito Precede a Matéria (Reishu Taiju) \*\* 
 
-  ##### A. Espírito Precede a Matéria 
+##### A. Espírito Precede a Matéria 
 
   (Shin-zatsu, pág. 71, linhas 3-4 \= Sha-shu, pág. 157, parte superior, linhas 9-11 \<Zenshu, Vol. 6, pág. 73\>) Primeiramente, sobre a ordem, deve-se saber que todos os fenômenos do mundo material são projeções do Mundo Espiritual e, ao mesmo tempo, os fenômenos do mundo material também refletem no Mundo Espiritual. (5 de setembro de 1948, "Não Erreis a Ordem")
 
-  ##### B. Nível Espiritual (Reii) e Destino 
+##### B. Nível Espiritual (Reii) e Destino 
 
-  ###### *a. Nível Espiritual e Boa Sorte (Ron, pág. 2182, parte inferior, linha 21 a pág. 2183, parte superior, linha 5 \= So-shu Inferior, pág. 51, parte superior, linhas 3-11 \<Zenshu, Vol. 12, pág. 207\>)*
+###### *a. Nível Espiritual e Boa Sorte (Ron, pág. 2182, parte inferior, linha 21 a pág. 2183, parte superior, linha 5 \= So-shu Inferior, pág. 51, parte superior, linhas 3-11 \<Zenshu, Vol. 12, pág. 207\>)*
 
   ***\[Trecho do Preâmbulo (Ron, pág. 2182, parte superior, linha 2 a parte inferior, linha 20\) Extrato\]*** 
 
@@ -132,19 +132,19 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   *O mais importante neste ensinamento é o fato de que Deus criou a lei "Espírito Precede a Matéria" e criou o mundo para ser governado por essa lei.*
 
-  ###### *b. Nível Espiritual e Circunstâncias (So, pág. 23, parte superior, linha 20 \= So-shu Inferior, pág. 55, parte superior, linha 13 a pág. 56, parte superior, linha 10 \<Zenshu, Vol. 10, pág. 433\>) Texto omitido. Vide Capítulo 2, Item 4-I, Criação 2, Lei, ②-v-D (pág. 481 deste livro).*
+###### *b. Nível Espiritual e Circunstâncias (So, pág. 23, parte superior, linha 20 \= So-shu Inferior, pág. 55, parte superior, linha 13 a pág. 56, parte superior, linha 10 \<Zenshu, Vol. 10, pág. 433\>) Texto omitido. Vide Capítulo 2, Item 4-I, Criação 2, Lei, ②-v-D (pág. 481 deste livro).*
 
-  ##### C. Nuvens e Incêndios (So, pág. 204, parte inferior, linha 16 a pág. 205, parte superior, linha 1 \= So-shu Inferior, pág. 387, parte inferior, linha 15 a pág. 388, parte superior, linha 9 \<Zenshu, Vol. 8, pág. 564\>)
+##### C. Nuvens e Incêndios (So, pág. 204, parte inferior, linha 16 a pág. 205, parte superior, linha 1 \= So-shu Inferior, pág. 387, parte inferior, linha 15 a pág. 388, parte superior, linha 9 \<Zenshu, Vol. 8, pág. 564\>)
 
   Antigamente, ouvi o seguinte de uma certa pessoa. Essa pessoa possuía clarividência e, alguns anos antes do Grande Terremoto de Kanto, ao caminhar pela cidade de Tóquio, viu com olhos espirituais que todas as casas, ruas e grandes edifícios estavam alinhados como barracos precários. Ela achou estranho, mas, como esperado, ocorreu aquele grande terremoto, e ela compreendeu o porquê. O que sempre dizemos, que tudo ocorre primeiro no Mundo Espiritual, é a verdade. Ou seja, pela Lei do Espírito Precede a Matéria, o Mundo Espiritual é purificado um passo antes, e isso é projetado no mundo material. (20 de maio de 1950, Eikou nº 63, "Considerações Espirituais sobre Incêndios")
 
   ***\[Explicação\]** Na sequência, é mencionado que, na ocasião do grande incêndio de Atami, a Sede Provisória de Shimizu-cho, que não tinha impurezas, não se queimou; e que, durante a Segunda Guerra Mundial, cidades europeias consideradas incombustíveis foram destruídas por bombas para a liquidação de pecados e impurezas.*
 
-  #### iii Lei da Purificação 
+#### iii Lei da Purificação 
 
-  ##### A. Disposições Básicas 
+##### A. Disposições Básicas 
 
-  ###### *a. Se sujar, será limpo* 
+###### *a. Se sujar, será limpo* 
 
   **1: Insetos que comem sujeira (Kyo, nº 14, pág. 12, linhas 12-15 \<Zenko, Vol. 8, pág. 70\>)**
 
@@ -158,9 +158,9 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   \- (pág. 453 deste livro).
 
-  ###### 
+###### 
 
-  ###### *b. O sofrimento é a purificação do pecado* 
+###### *b. O sofrimento é a purificação do pecado* 
 
   **1: Todo sofrimento é purificação (Kyo, nº 15, pág. 5, linhas 1-2 \<Zenko, Vol. 8, pág. 132\>)**
 
@@ -184,21 +184,21 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Vocês se preocupam com várias coisas, não é? Esse sofrimento é ação de purificação. Todo sofrimento é a purificação de pecados e impurezas. No entanto, ao acumular virtudes, as condições que levariam ao sofrimento diminuem. (30 de julho de 1949\)
 
-  ##### B. O acúmulo de impurezas gera purificação: Lei da Concordância 
+##### B. O acúmulo de impurezas gera purificação: Lei da Concordância 
 
-  ###### *a. Guerra como ação de purificação (Kyo, nº 2, pág. 86, linhas 7-10 \<Zenko, Vol. 4, pág. 549\>) Texto omitido. Vide Capítulo 2, Item 4-I, Criação 2, Lei, ①-i-C (pág. 454 deste livro).*
+###### *a. Guerra como ação de purificação (Kyo, nº 2, pág. 86, linhas 7-10 \<Zenko, Vol. 4, pág. 549\>) Texto omitido. Vide Capítulo 2, Item 4-I, Criação 2, Lei, ①-i-C (pág. 454 deste livro).*
 
-  ###### *b. Se macular, será purificado (Kyo, nº 24, pág. 36, linhas 14-15 \<Zenko, Vol. 10, pág. 361\>) Devem saber também o seguinte. Como sempre digo, a Lei da Concordância significa que, se algo se macular, surge naturalmente aquilo que purificará essa mácula. (16 de julho de 1953\)*
+###### *b. Se macular, será purificado (Kyo, nº 24, pág. 36, linhas 14-15 \<Zenko, Vol. 10, pág. 361\>) Devem saber também o seguinte. Como sempre digo, a Lei da Concordância significa que, se algo se macular, surge naturalmente aquilo que purificará essa mácula. (16 de julho de 1953\)*
 
-  ##### C. A purificação chamada doença\* (K4, seções 32-33 \<Zenshu, Vol. 10, pág. 153\>) 
+##### C. A purificação chamada doença\* (K4, seções 32-33 \<Zenshu, Vol. 10, pág. 153\>) 
 
   32 Desta forma, a ação de purificação realiza-se da maneira mais natural e racional, o que nos faz admirar a técnica divina do Criador. 33 Afinal, o Criador, ou seja, Deus, tendo criado o ser humano, jamais lhe daria algo como a doença para fazê-lo sofrer e impedir sua atividade; embora deva ser sempre saudável, o ser humano, por pensamentos errôneos, cria e acumula toxinas, surgindo a necessidade inevitável de eliminá-las. Se isso é a doença, no caso de um resfriado, se não for feito nenhum tratamento e for deixado naturalmente, a purificação se realizará completamente, a cura será tranquila e a saúde aumentará. (1952, "Criação da Civilização", capítulo "O que é a Doença — Resfriado")
 
-  ##### 
+##### 
 
-  ##### D. Purificação do corpo e purificação do mundo natural 
+##### D. Purificação do corpo e purificação do mundo natural 
 
-  ###### *a. Tudo entre o céu e a terra é purificado (K13, seções 9-25 \<Zenshu, Vol. 10, pág. 182\>)*
+###### *a. Tudo entre o céu e a terra é purificado (K13, seções 9-25 \<Zenshu, Vol. 10, pág. 182\>)*
 
   ***\[Trecho do Preâmbulo (K13, seções 2-8) Extrato\]*** 
 
@@ -210,41 +210,41 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Originalmente, a alma é um ponto (poti) minúsculo e, claro, possui sua própria individualidade; enquanto houver vida, ela detém o domínio absoluto sobre o ser humano, como todos sabem. O que envolve a alma de forma protetora é a mente (Kokoro), e o que envolve a mente é o espírito (Rei); como o espírito preenche todo o corpo, ele tem a mesma forma do corpo humano7. Visto que espírito e corpo são unos, a condição da alma reflete-se diretamente no espírito através da mente8, e a condição do espírito reflete-se na alma através da mente\*9. Desta forma, a alma, a mente e o espírito possuem uma relação mútua de grande-médio-pequeno e pequeno-médio-grande, constituindo, por assim dizer, uma trindade. Contudo, qualquer ser humano, enquanto vive, pratica tanto o bem quanto o mal; nesse processo, quanto mais o mal superar o bem, mais se torna pecado e impureza, nublando a alma. Essa nuvem nubla a mente e, em seguida, nubla o espírito. E quando essas nuvens se acumulam e ultrapassam certa quantidade, ocorre naturalmente a ação de purificação, realizando a dissolução e eliminação das nuvens. (1952, "Criação da Civilização", capítulo "Espírito Precede a Matéria")
 
-  ###### *b. Toda a criação e a ação de purificação (Ron, pág. 2074, parte inferior, linhas 6-9 \= So-shu Inferior, pág. 383, parte superior, linhas 10-15 \<Zenshu, Vol. 11, pág. 59\>)*
+###### *b. Toda a criação e a ação de purificação (Ron, pág. 2074, parte inferior, linhas 6-9 \= So-shu Inferior, pág. 383, parte superior, linhas 10-15 \<Zenshu, Vol. 11, pág. 59\>)*
 
   É uma lei que, em toda a criação (Shinra Bansho) neste mundo, acumule-se sujeira incessantemente e, ao mesmo tempo, ocorra a ação de purificação para limpá-la. Portanto, tanto no Mundo Espiritual quanto no mundo material da terra, a sujeira se acumula incessantemente e, ao ultrapassar certo limite, gera-se a ação de purificação. (29 de julho de 1953, Eikou nº 219, "Considerações Espirituais sobre Tufões")
 
-  ##### E. Purificação do dinheiro\* 
+##### E. Purificação do dinheiro\* 
 
   (Tenfuku-sho, pág. 104, parte inferior, linhas 8-13 \= So-shu Inferior, pág. 56, parte inferior, linha 14 a pág. 57, parte superior, linha 4 \<Zenshu, Vol. 12, pág. 141\>)
 
   Isso não se restringe apenas a doenças. Todas as outras calamidades são iguais; tudo é ação de purificação. Contudo, mesmo sendo a mesma ação de purificação, é natural que a forma da purificação difira dependendo da causa. Por exemplo, pecados e impurezas relacionados a dinheiro ou bens materiais, como roubo, apropriação indébita, causar prejuízo a outros, luxo desproporcional à própria condição, etc., são expiados também através de dinheiro e bens materiais. (2 de dezembro de 1953, Eikou nº 237, "Percebam a Vontade Divina")
 
-  ##### F. Purificação baseada no sofrimento causado a outros\*1 (Tenfuku-sho, pág. 105, parte inferior, linhas 1-5 \<Zenshu, Vol. 12, pág. 142\>)
+##### F. Purificação baseada no sofrimento causado a outros\*1 (Tenfuku-sho, pág. 105, parte inferior, linhas 1-5 \<Zenshu, Vol. 12, pág. 142\>)
 
   Portanto, pecados de enganar os olhos alheios resultam em doenças oculares; pecados de palavras que doem aos ouvidos resultam em dores de ouvido ou doenças na língua; atos que causam dor de cabeça aos outros resultam em dor de cabeça; o pecado de usar os braços apenas para benefício próprio resulta em dores nos braços. Desta forma, a purificação ocorre pela Lei da Concordância2 em tudo3. (2 de dezembro de 1953, Eikou nº 237, "Percebam a Vontade Divina")
 
-  ##### G. Existência de maus elementos 
+##### G. Existência de maus elementos 
 
   (Kyo, nº 14, pág. 7, linha 8 \- pág. 8, linha 1 \<Zenko, Vol. 8, pág. 66\>)
 
   As pragas humanas são as pessoas más. Elas são pragas. Contudo, como o ser humano faz coisas erradas, seu espírito se macula. Então, para remover a mácula do espírito humano, surgem as pragas. Só que as pragas humanas também são seres humanos. Surgem em forma de gente. Assim, as pessoas más fazem sofrer — ao tornar a sociedade ruim e causar diversos sofrimentos, elas estão aplicando a purificação. Portanto, o fato de surgirem pessoas más significa que há necessidade de elas surgirem; afinal, como o ser humano acumula pecados ruins, as pessoas más fazem a limpeza dos pecados. Logo, ser atormentado por pessoas más significa que há pecados e impurezas suficientes para ser atormentado. Como elas fazem a limpeza, as pessoas más também são necessárias — soa um pouco estranho dizer isso, mas é algo racional. O fato de haver males sociais e muitos indivíduos astutos e maus significa que estamos criando um mundo onde tais pessoas más são necessárias. Além disso, as pessoas más aplicam a ação de purificação e, com isso, criam o mal novamente, surgindo então outras pessoas más para limpar isso. É exatamente como criar doença com remédio, reprimir a doença com remédio, e isso tornar-se novamente a causa da doença. (6 de setembro de 1952\)
 
-  ##### H. Existência de microrganismos patogênicos 
+##### H. Existência de microrganismos patogênicos 
 
   (A-Kyu, pág. 54, linhas 1-7 \= So-shu Johrei Superior, pág. 342, parte superior, linha 6 a parte inferior, linha 7 \<Zenshu, Vol. 11, pág. 30\>)
 
   Como escrevi repetidas vezes, contra o sangue turvado por toxinas de remédios (Yakudoku), sempre ocorre a purificação. Esta é a providência da natureza. Por isso, mesmo para as doenças contagiosas, Deus criou um método engenhoso. Inicialmente, no sangue da pessoa com maior turbidez sanguínea entre os humanos, surgem microrganismos. São os germes das doenças contagiosas. Estes germes contagiam o sangue da próxima pessoa com sangue turvo, através de alguma substância. Ou seja, os germes penetram nos vasos sanguíneos. E multiplicam-se devorando as micropartículas de turbidez no sangue. Isso porque a turbidez no sangue serve de alimento para os germes; se eles comerem tudo, o sangue torna-se limpo e a cura acontece. Portanto, os germes de doenças contagiosas foram criados por Deus com a função de purificar o sangue humano; são, por assim dizer, os faxineiros do sangue. (1 de janeiro de 1953, "Doenças Contagiosas")
 
-  #### iv Lei de Causa e Efeito 
+#### iv Lei de Causa e Efeito 
 
-  ##### A. Boa Causa Bom Efeito, Má Causa Mau Efeito
+##### A. Boa Causa Bom Efeito, Má Causa Mau Efeito
 
    (So, pág. 16, parte superior, linha 14 a pág. 17, parte superior, linha 3 \= So-shu Inferior, pág. 37, parte inferior, linha 4 a pág. 38, parte superior, linha 12 \<Zenshu, Vol. 6, pág. 126\>)
 
   Para tudo, há uma causa e um efeito. Naturalmente, se isso se aplica também à felicidade, o ponto de partida para a solução do problema deve ser conhecer primeiro a causa. Consequentemente, enquanto a causa for desconhecida, por mais que se esforce, é certo que não há possibilidade de realização. Então, qual é essa causa? Tentarei expô-la. O que se diz desde a antiguidade, "Boa causa bom efeito, má causa mau efeito", é de fato uma verdade que atravessa os tempos. Conhecer este princípio e esforçar-se para fazer os outros felizes deve ser a condição absoluta para fazer a si mesmo feliz. No entanto, no mundo, há pessoas demais que não se importam com a infelicidade alheia e tentam ser felizes sozinhas. É uma conversa totalmente tola, pois tentam obter o fruto da felicidade enquanto semeiam a semente da infelicidade de um lado. É exatamente como empurrar a água: ela flui para longe; e ao puxá-la, ela flui para cá. A necessidade da religião para o ser humano reside neste ponto. Ou seja, tanto o Amor do Cristianismo quanto a Misericórdia do Budismo têm como essência implantar a ideia altruísta de fazer o outro feliz. O ser humano tem dificuldade em reconhecer até mesmo uma lógica tão simples. Por isso, Deus e Buda criaram diversas doutrinas, mostraram padrões de pensamento, palavras e ações, ensinaram a existência do invisível e, através de intermediários, conduzem à fé com sinceridade. (1 de dezembro de 1948, Chi nº 1, "Felicidade")
 
-  ##### B. A Causa da Sorte e do Azar 
+##### B. A Causa da Sorte e do Azar 
 
   (Milagres, pág. 7, linhas 8-9 \= So-shu Inferior, pág. 233, parte inferior, linhas 1-4 \<Zenshu, Vol. 11, pág. 128\>)
 
@@ -258,9 +258,9 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   (10 de setembro de 1953, "Espírito e Matéria")
 
-  ##### 
+##### 
 
-  ##### C. Tudo ocorre por afinidade (In-nen) 
+##### C. Tudo ocorre por afinidade (In-nen) 
 
   (Sui, nº 29, pág. 31, linha 7 a pág. 34, linha 8 \<Zenko, Vol. 12, pág. 67\>)
 
@@ -302,19 +302,19 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   (1936)
 
-  #### 
+#### 
 
-  #### v Lei da Concordância (Souou no Ri)\* 
+#### v Lei da Concordância (Souou no Ri)\* 
 
-  ##### A. Recompensas e Punições no Mundo Espiritual 
+##### A. Recompensas e Punições no Mundo Espiritual 
 
-  ###### *a. Recompensas e Punições no Mundo Espiritual e o Aprimoramento (So, pág. 129, parte inferior, linhas 5-18 \= So-shu Inferior, pág. 302, parte superior, linha 8 a parte inferior, linha 8 \<Zenshu, Vol. 6, pág. 204\>)*
+###### *a. Recompensas e Punições no Mundo Espiritual e o Aprimoramento (So, pág. 129, parte inferior, linhas 5-18 \= So-shu Inferior, pág. 302, parte superior, linha 8 a parte inferior, linha 8 \<Zenshu, Vol. 6, pág. 204\>)*
 
   O Tribunal de Enma\* é o mesmo que um tribunal no mundo material. Além disso, ao terminar de cruzar o Rio Sanzu, a cor da veste mortuária muda. Ou seja, aqueles com menos pecados e impurezas vestem branco, seguidos por cores claras variadas, amarelo, vermelho, azul e preto, tornando-se tais cores de acordo com a gravidade dos pecados e impurezas. Apenas o roxo existe como veste divina. No Tribunal de Enma, o Deus da Purificação (Haraedo no Kami) torna-se o chefe, e cada oficial do submundo encarrega-se do interrogatório, decidindo as recompensas e punições correspondentes (Souou); nessa ocasião, os extremamente bondosos vão para o Céu/Paraíso, os extremamente maus caem no Inferno, e as pessoas comuns vão para o Mundo Intermediário (Chuu-u-kai) — chamado no Xintoísmo de Yachimata e no Budismo de Rokudo no Tsuji. A grande maioria vai para este Mundo Intermediário e realiza o aprimoramento lá. O primeiro passo do aprimoramento é ouvir as palestras dos capelães; aqueles que conseguem se regenerar com isso vão para o Paraíso, e aqueles que não conseguem, vão para o Inferno.
 
   O período de aprimoramento mencionado acima tem como limite geral trinta anos, quando o destino é decidido. Está estabelecido que os capelães são professores de cada religião. (25 de agosto de 1949, "Mundo Espiritual e Mundo Material")
 
-  ###### *b. O Tribunal de Enma e o Bem e o Mal* 
+###### *b. O Tribunal de Enma e o Bem e o Mal* 
 
   (So, pág. 33, parte superior, linhas 5-14 \= So-shu Inferior, pág. 72, parte inferior, linha 12 a pág. 73, parte superior, linha 8 \<Zenshu, Vol. 9, pág. 625\>)
 
@@ -326,13 +326,13 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   "Por mais que o ser humano tente fazer o que bem entende, por mais que estabeleça objetivos, aqueles que estão errados são detidos subitamente. Apenas, dependendo da época, isso é exatamente como um remédio: os narcóticos causam reação imediata, por isso assustam, mas outros remédios têm um período mais longo que os narcóticos e a reação não vem de imediato, então são usados como se fossem bons; a lógica é a mesma. Quando o Mundo Espiritual se torna Dia, a descoberta é rápida, mas (no mundo da Noite) há um intervalo até que se saiba, criando a ilusão de que se pode passar despercebido." (Sui, nº 26, pág. 27, linhas 6-12 \<Zenko, Vol. 9, pág. 278\>).
 
-  ##### B. Injustiça ou erro e a geração de nuvens 
+##### B. Injustiça ou erro e a geração de nuvens 
 
   (Ron, pág. 1614, parte superior, linhas 13-18 \<Zenshu, Vol. 9, pág. 416\>)
 
   Texto omitido. Vide Capítulo 2, Item 3-II, Vontade de Deus 2, Manifestação Externa da Vontade Divina ③ Justiça ii-E-a (pág. 381 deste livro).
 
-  ##### C. Tamanho do pecado e quantidade de nuvens / Recompensa às boas ações (Méritos) 
+##### C. Tamanho do pecado e quantidade de nuvens / Recompensa às boas ações (Méritos) 
 
   (Kesshin, pág. 15, linhas 8-15 \= So-shu Johrei Superior, pág. 153, parte inferior, linha 7 a pág. 154, parte superior, linha 7 \<Zenshu, Vol. 10, pág. 64\>)
 
@@ -340,33 +340,33 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Sendo esta a forma do Mundo Espiritual e a Verdade absoluta, não resta ao ser humano senão acreditar nela e segui-la. Conforme dito acima, se a ação de purificação das nuvens é a causa de doenças e outras calamidades, se o ser humano deseja obter felicidade, deve deixar o mal, praticar o bem e cuidar para não nublar o espírito. (1 de dezembro de 1952, "Anatomia das Toxinas")
 
-  ##### 
+##### 
 
-  ##### D. Nível Espiritual e Circunstâncias 
+##### D. Nível Espiritual e Circunstâncias 
 
   (So, pág. 23, parte superior, linha 20 a parte inferior, linha 20 \= So-shu Inferior, pág. 55, parte superior, linha 13 a pág. 56, parte superior, linha 10 \<Zenshu, Vol. 10, pág. 433\>)
 
   Qualquer Divindade encontra-se em um dos cento e oitenta estágios\*. Isso refere-se à verticalidade (Tate); agora, falando da horizontalidade (Yoko), cada camada da extensão horizontal difere, do Inferno ao Paraíso. Supondo que seja o próprio espírito atualmente: se estiver nos vinte estágios mais baixos dos sessenta inferiores, isso corresponde (Souou) ao Inferno mais profundo; é um mundo cheio de sofrimentos insuperáveis, e isso reflete-se no corpo, colocando a pessoa no fundo do poço da adversidade. Se subir para os vinte estágios acima desses, torna-se um pouco mais fácil, e nos vinte estágios ainda acima, melhora mais; assim, é natural que o sofrimento e o prazer difiram degrau a degrau em cada estágio. Se ultrapassar os sessenta estágios inferiores mencionados, entra-se no estágio intermediário. Ou seja, o Mundo Intermediário (Chuu-u-kai) ou Yachimata, que corresponde ao mundo material. Entrando nos sessenta estágios superiores a partir do meio, é o Paraíso, tornando-se a posição de anjo (Tenjin) e uma circunstância de alegria e prazer. Como descrito à direita, o destino é exatamente conforme o estágio onde a pessoa está; portanto, deve-se procurar subir nem que seja um degrau, pois quanto mais alto, mais desaparecem as coisas dolorosas e detestáveis, e a felicidade aumenta. Isso porque desaparece a necessidade de sofrimento para purificação. Portanto, enquanto o corpo espiritual estiver nos estágios inferiores, não adianta o ser humano exercer sabedoria ou esforçar-se. Isso porque esta é a Regra Celestial de Deus, e a Lei do Espírito Precede a Matéria é rigorosa e não pode ser violada. Logo, para ser feliz, não há absolutamente outro método senão purificar o espírito, torná-lo leve e procurar elevar-se nem que seja um pouco; nisto reside o grande significado do Johrei. (25 de março de 1952, Chi nº 34, "Johrei e Felicidade")
 
-  ##### E. Nível espiritual do criador da imagem e a elevação da divindade ou buda que nela se assenta 
+##### E. Nível espiritual do criador da imagem e a elevação da divindade ou buda que nela se assenta 
 
   (So, pág. 155, parte inferior, linhas 10-16 \= So-shu Inferior, pág. 244, parte superior, linhas 4-11 \<Zenshu, Vol. 7, pág. 480\>)
 
   Suponha-se que uma imagem de divindade ou buda seja feita através de pintura ou escultura. Ocorre naturalmente uma diferença de nível no espírito divino ou búdico que nela se assenta, dependendo da personalidade do criador. Ou seja, a personalidade do criador determina isso: se for altíssima, descende um Espírito Divino de alta classe correspondente (Souou). Portanto, mesmo que a forma seja idêntica, se a personalidade do criador for baixa, assenta-se um espírito divino representante ou um espírito fracionário correspondente a ela. (25 de outubro de 1949, Chi nº 9, "Mistérios do Mundo Espiritual")
 
-  ##### F. Nível do Espírito Divino e benefícios 
+##### F. Nível do Espírito Divino e benefícios 
 
   (Ron, pág. 1963, parte inferior, linhas 10-16 \<Zenshu, Vol. 11, pág. 401\>)
 
   Observando o mundo até hoje, se fosse um deus digno desse nome, é historicamente claro que concedeu benefícios correspondentes através de seus feitos; contudo, há graus nisso, e pode-se dizer que não houve nenhuma religião com força\* suficiente para obter a verdadeira paz de espírito (Anshin Ritsumei). E, como há diferenças de tamanho e nível entre os deuses, e quanto mais alto o nível do deus, mais o poder corresponde a isso, o fato de haver muitos milagres nesta religião, e de serem maravilhosos, narra exatamente a grandiosidade da Divindade. (18 de fevereiro de 1953, Eikou nº 196, Prefácio da "Coletânea de Milagres da Kyusei-kyo")
 
-  ##### G. Gravidade do Pecado e Gravidade da Punição 
+##### G. Gravidade do Pecado e Gravidade da Punição 
 
-  ###### *a. Pecado Leve (Kyo, nº 7, pág. 84, linhas 1-12 \<Zenko, Vol. 7, pág. 87\>) Texto omitido. Vide Capítulo 1, Item 4-I, Como receber os Ensinamentos 4, Observar rigorosamente as Palavras ② (pág. 166 deste livro).*
+###### *a. Pecado Leve (Kyo, nº 7, pág. 84, linhas 1-12 \<Zenko, Vol. 7, pág. 87\>) Texto omitido. Vide Capítulo 1, Item 4-I, Como receber os Ensinamentos 4, Observar rigorosamente as Palavras ② (pág. 166 deste livro).*
 
-  ###### *b. Pecado Grave (Kyo, nº 20, pág. 19, linha 12 \- pág. 21, linha 9 \<Zenko, Vol. 10, pág. 74\>) Texto omitido. Vide Capítulo 2, Item 3-II, Vontade de Deus 2, Manifestação Externa da Vontade Divina ③ Justiça ii-F-g (pág. 389 deste livro).*
+###### *b. Pecado Grave (Kyo, nº 20, pág. 19, linha 12 \- pág. 21, linha 9 \<Zenko, Vol. 10, pág. 74\>) Texto omitido. Vide Capítulo 2, Item 3-II, Vontade de Deus 2, Manifestação Externa da Vontade Divina ③ Justiça ii-F-g (pág. 389 deste livro).*
 
-  ###### *c. Doença e morte como punição Texto omitido. Vide Capítulo 2, Item 3-II, Vontade de Deus 2, Manifestação Externa da Vontade Divina ③ Justiça ii-E (pág. 380 deste livro).*
+###### *c. Doença e morte como punição Texto omitido. Vide Capítulo 2, Item 3-II, Vontade de Deus 2, Manifestação Externa da Vontade Divina ③ Justiça ii-E (pág. 380 deste livro).*
 
   ***\[Anexo referente a G\]*** 
 
@@ -378,25 +378,25 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   *(2 de maio de 1951, Eikou nº 102, "Sofrimento, Acúmulo, Extinção e Caminho / Caminho, Lei, Etiqueta e Moderação")*
 
-  ## 3 Espíritos Divinos e Anjos como Criaturas\* (被造物としての神霊・天使) 
+## 3 Espíritos Divinos e Anjos como Criaturas\* (被造物としての神霊・天使) 
 
   ***\[Explicação\]*** 
 
   *Os Espíritos Divinos e os Anjos (denominados nesta religião) (So, pág. 43, parte inferior, linhas 7-13 \<vide pág. 488 deste livro\>) também já nasceram como seres humanos (Kyo, nº 31, pág. 20, linhas 3-4 \<vide pág. 542 deste livro\>). Ou seja, embora o nível da alma seja muito mais elevado do que o de um ser humano comum, e por isso sua percepção espiritual, poder espiritual e sabedoria sejam excepcionais, nos demais aspectos são iguais aos seres humanos. Portanto, os ensinamentos recebidos no item "5. Ser Humano" aplicam-se tal como são ao item "3. Espíritos Divinos e Anjos como Criaturas". — O trecho de Hikari nº 6, pág. 16, linhas 12-13 \<Zenko, Vol. 4, pág. 47\> do item 3-⑤, foi classificado provisoriamente neste subitem.*
 
-  ### 
+### 
 
-  ### ① A divisão da salvação entre Deuses e Budas 
+### ① A divisão da salvação entre Deuses e Budas 
 
-  #### i. A salvação de Deuses e Budas e as várias religiões (Shin-zatsu, pág. 102, linha 10 a pág. 103, linha 3 \= So-shu Johrei Superior, pág. 5, parte inferior, linha 13 a pág. 6, parte superior, linha 12 \<Zenko, Vol. 6, pág. 101\>)
+#### i. A salvação de Deuses e Budas e as várias religiões (Shin-zatsu, pág. 102, linha 10 a pág. 103, linha 3 \= So-shu Johrei Superior, pág. 5, parte inferior, linha 13 a pág. 6, parte superior, linha 12 \<Zenko, Vol. 6, pág. 101\>)
 
   Tentarei uma explicação científica sobre a salvação de Deuses e Budas e a essência dos pecados e impurezas. Em primeiro lugar, existem no mundo diversas religiões, grandes, médias e pequenas; em qualquer uma delas, os respectivos Espíritos Divinos e Búdicos, sob a intenção de salvar a humanidade, estendem Suas mãos do Mundo Espiritual e realizam a obra de salvação através de seres humanos com afinidade (In-nen) no mundo material. Naturalmente, o fundamento disso reside no Plano Divino do Deus Supremo; a obra de salvação foi delegada a eles em certa época, para certo povo, em certa região e por certo período. Em última análise, isso ocorreu porque os pecados e impurezas acumularam-se naquela região a ponto de impedir o progresso da cultura. Desde a antiguidade, como princípio religioso, foi realizada a remoção de pecados e impurezas, que são a causa da infelicidade humana. Se perguntarem o que são pecados e impurezas, espiritualmente falando: individualmente, são nuvens no espírito; socialmente, são as nuvens no Mundo Espiritual daquela região.
 
   (5 de setembro de 1948, "Religião e Ciência")
 
-  #### 
+#### 
 
-  #### ii. A salvação pelos Deuses no Mundo Espiritual (So, pág. 472, parte superior, linhas 3-6 \= So-shu Inferior, pág. 368, parte superior, linha 13 a parte inferior, linha 4 \<Zenshu, Vol. 10, pág. 611\>)
+#### ii. A salvação pelos Deuses no Mundo Espiritual (So, pág. 472, parte superior, linhas 3-6 \= So-shu Inferior, pág. 368, parte superior, linha 13 a parte inferior, linha 4 \<Zenshu, Vol. 10, pág. 611\>)
 
   Não é preciso dizer que a religião, pela Lei do Espírito Precede a Matéria, consiste em Deuses no Mundo Espiritual realizarem a salvação adequada ao tempo, lugar e povo, obedecendo às ordens do Deus Supremo; o Cristianismo, o Budismo e o Islamismo são os maiores exemplos disso.
 
@@ -408,11 +408,11 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   *Tais religiões ensinam o bem e visam tornar a sociedade humana um Paraíso, mas os deuses malignos (Jashin) tentam criar seres humanos maus e fazer um mundo infernal, lutando incessantemente contra os deuses justos; isso reflete no mundo material, tornando o mundo um inferno.*
 
-  #### iii. Os três estágios do Paraíso (So, pág. 143, parte inferior, linhas 5-13 \= So-shu Inferior, pág. 311, parte superior, linha 3 a parte inferior, linha 2 \<Zenshu, Vol. 6, pág. 213\>)
+#### iii. Os três estágios do Paraíso (So, pág. 143, parte inferior, linhas 5-13 \= So-shu Inferior, pág. 311, parte superior, linha 3 a parte inferior, linha 2 \<Zenshu, Vol. 6, pág. 213\>)
 
   O Paraíso, como mencionado anteriormente, divide-se em três estágios superiores: o Primeiro Paraíso, o Segundo Paraíso e o Terceiro Paraíso. No Primeiro Paraíso residem os Deuses Supremos, que administram incessantemente o Plano Divino (Keirin) para o governo do mundo. No Segundo Paraíso, Deuses auxiliam os Deuses do Primeiro Paraíso, dividindo entre si as respectivas funções. Já no Terceiro Paraíso, numerosos Deuses\* continuam suas atividades para cumprir as missões que lhes foram atribuídas; naturalmente, como são atividades que abrangem todos os aspectos do mundo inteiro, suas ações são infinitamente variadas. Os Deuses do Terceiro Paraíso são aqueles que ascenderam do Mundo Intermediário (Chuu-u-kai) e obtiveram a divindade, sendo os mais próximos dos seres humanos; são também chamados de Angels (Anjos). (25 de agosto de 1949, "Paraíso e Inferno")
 
-  ### ② Hierarquia dos Espíritos Divinos e ordens aos humanos 
+### ② Hierarquia dos Espíritos Divinos e ordens aos humanos 
 
   (Su 4, seções 73-76 \<Zenshu, Vol. 10, pág. 275\>)
 
@@ -426,15 +426,15 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Assim, também em Deus há hierarquia e, tal qual no mundo humano, há distinção de funções (Oyaku); portanto, ao dar ordens aos seres humanos, isso é feito pela Divindade correspondente (Souou). (1952, "Criação da Civilização", capítulo "Doença Mental e Epilepsia")
 
-  ### 
+### 
 
-  ### ③ Hierarquia dos Espíritos Divinos 
+### ③ Hierarquia dos Espíritos Divinos 
 
   (So, pág. 294, parte inferior, linhas 9-13 \= So-shu Superior, pág. 233, parte superior, linhas 3-8 \<Zenshu, Vol. 9, pág. 260\>)
 
   No mundo, há uma tendência de venerar tudo da mesma forma, como se não houvesse tanta diferença apenas por ser chamado de "Deus". Contudo, mesmo dizendo simplesmente "Deus", existem classes alta, média e baixa; descendo desde os Deuses Supremos, há até divindades tutelares (Ubusuna), Tengu, Ryujin (Deus Dragão), Inari, etc. Portanto, deve-se reconhecer bem este ponto. (11 de abril de 1951, Eikou nº 99, "Religião é Milagre")
 
-  ### ④ Nível do Espírito Divino e a intensidade da Luz 
+### ④ Nível do Espírito Divino e a intensidade da Luz 
 
   (Sui, nº 12, pág. 30, linha 11 a pág. 32, linha 2 \<Zenko, Vol. 6, pág. 227\>)
 
@@ -448,9 +448,9 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Se for um Deus elevado, tem bastante luz. O comum é fumaça branca. É como uma bruma. Quando chega ao nível de Ubusuna, há uma luz tênue. Se tiver o nome de Deus, tem uma luz tênue. Quando se torna um Deus bom, a luz vai ficando mais forte. Se for Deus Ubusuna, tem luz apenas daquela terra. Se for Deus Kuningama (Espírito da Província/País), abrange uma área considerável. Quando se trata de divindades como Amaterasu Oomikami ou Susanoo no Mikoto, a luz é do tamanho do Japão ou da Coreia. E a luz do mundo inteiro é o Deus Messias que está comigo. Isso abrange o mundo todo. Por isso chama-se Sekai Kyusei Kyo (Religião de Salvação Mundial/Messias). (1 de agosto de 1952\)
 
-  ### 
+### 
 
-  ### ⑤ Deuses Expressivos do Deus Supremo 
+### ⑤ Deuses Expressivos do Deus Supremo 
 
   (Chi, nº 3, pág. 14, parte superior, linhas 11-14 \<Zenko, Vol. 3, pág. 22\>)
 
@@ -458,7 +458,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Não se deve pensar nas coisas de Deus de forma fixa. É livre e desimpedido (Yuzu Muge). Contudo, um Deus como Kunitokotachi no Mikoto pode ser chamado de Grande Deus. (20 de abril de 1949\)
 
-  ## 4 Mundo Espiritual e Mundo Material 
+## 4 Mundo Espiritual e Mundo Material 
 
   (霊界と現界) (Ron, pág. 2182, parte inferior, linha 21 a pág. 2183, parte superior, linha 5 \= So-shu Inferior, pág. 51, parte superior, linhas 3-11 \<Zenshu, Vol. 12, pág. 207\>)
 
@@ -470,61 +470,61 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   quanto à sorte, basta que a sorte do espírito no Mundo Espiritual se abra; é natural que isso se reflita diretamente no corpo, tornando a pessoa afortunada. (3 de fevereiro de 1954, Eikou nº 246, "O Segredo da Boa Sorte") 
 
-  ## 5 Ser Humano\* 
+## 5 Ser Humano\* 
 
   (人　間)
 
-  ### ① Criado à semelhança de Deus — O mistério da sua vida (Ron, pág. 19, parte superior, linha 13 a parte inferior, linha 10 \= So-shu Johrei Superior, pág. 200, parte superior, linha 1 a parte inferior, linha 11 \<Zenshu, Vol. 1, pág. 200\>)
+### ① Criado à semelhança de Deus — O mistério da sua vida (Ron, pág. 19, parte superior, linha 13 a parte inferior, linha 10 \= So-shu Johrei Superior, pág. 200, parte superior, linha 1 a parte inferior, linha 11 \<Zenshu, Vol. 1, pág. 200\>)
 
   Originalmente, o ser humano é, dentre toda a criação (Shinra Bansho) feita por Deus, a obra de arte suprema sem comparação. A palavra da "Bíblia" de que foi criado à semelhança de Deus é certamente a verdade. Portanto, sua estrutura misteriosa e inexplicável jamais poderá ser elucidada pela ciência ou afins. Apenas a superfície ou uma parte muito pequena foi finalmente conhecida pela ciência; não se pode afirmar se serão necessários milhares de anos para resolver isso pela ciência ou se, no fim, não será possível resolver.
 
   Pensemos com calma. Não apenas o funcionamento dos membros e do corpo humano, mas o movimento sutil da vontade e dos pensamentos, a expressão do coração como alegria, ira, tristeza e prazer, a sensibilidade dos nervos que sentem uma coceira insuportável apenas com a picada de uma pulga; a língua, que sozinha transmite todas as vontades e saboreia todos os alimentos; e o mistério de que, mesmo observando os um bilhão e oitocentos milhões de seres humanos do mundo, não há rosto igual, embora tenham menos de um "shaku" (aprox. 30cm). Apenas pensando nessas coisas, não se pode deixar de louvar a força criativa do Criador. Especialmente quanto à função reprodutiva, o mistério do processo de criação de um ser humano é algo indescritível. Portanto, a menos que seja um robô criado pela ciência, é óbvio que o mistério da vida não pode ser resolvido pela ciência. (1935, "Princípios e Objetivos da Terapia Digital Estilo Okada") e como resultado da desobediência a Deus, este mundo tornou-se um mundo infernal (vide So, pág. 4, parte inferior, linhas 5-12 \<pág. 497 deste livro\>; Capítulo 1, Item 1, 12, O que é o Messias, 13, Compreender sobre Meishu-Sama é o mistério da fé — Sobre a raiz do pecado \<pág. 20 deste livro\>).
 
-  ### ② Agente da Vontade Divina 
+### ② Agente da Vontade Divina 
 
-  #### i. Preparação para o Paraíso Terrestre (So, pág. 259, parte superior, linhas 1-5 \= So-shu Superior, pág. 7, parte inferior, linhas 1-7 \<Zenshu, Vol. 8, pág. 430\>) Texto omitido. Vide Item 1, Criação 1, Preparação para o Paraíso Terrestre (pág. 451 deste livro).
+#### i. Preparação para o Paraíso Terrestre (So, pág. 259, parte superior, linhas 1-5 \= So-shu Superior, pág. 7, parte inferior, linhas 1-7 \<Zenshu, Vol. 8, pág. 430\>) Texto omitido. Vide Item 1, Criação 1, Preparação para o Paraíso Terrestre (pág. 451 deste livro).
 
-  #### ii. O ser humano criado para manifestar o Paraíso Terrestre (Ron, pág. 945, parte superior, linhas 1-4 \<Zenshu, Vol. 7, pág. 173\>)
+#### ii. O ser humano criado para manifestar o Paraíso Terrestre (Ron, pág. 945, parte superior, linhas 1-4 \<Zenshu, Vol. 7, pág. 173\>)
 
   O Grande Deus Senhor (Su), Criador do Grande Universo, vem realizando o Grande Plano Divino desde o início dos tempos para manifestar o Paraíso nesta terra. Acreditamos que, para isso, o ser humano foi criado como representante de Deus, e todas as coisas foram criadas para o ser humano. (30 de maio de 1949, Eikou Edição Extra, "Doutrina da Igreja Kannon do Japão")
 
-  #### iii. O objetivo da criação humana (So, pág. 128, parte superior, linhas 4-7 \= So-shu Inferior, pág. 299, parte inferior, linhas 1-5 \<Zenshu, Vol. 6, pág. 201\>)
+#### iii. O objetivo da criação humana (So, pág. 128, parte superior, linhas 4-7 \= So-shu Inferior, pág. 299, parte inferior, linhas 1-5 \<Zenshu, Vol. 6, pág. 201\>)
 
   Afinal, por que o ser humano nasceu neste mundo? Deve-se primeiramente reconhecer isso. Deus criou o ser humano para construir o mundo ideal, que é o objetivo do Plano Divino na terra, concedeu a cada um sua missão e fá-los agir conforme a intenção de Deus\*. (25 de agosto de 1949, "Existência do Mundo Espiritual")
 
-  ### 
+### 
 
-  ### ③ Cabeça das Criaturas (Ron, pág. 2087, parte inferior, linhas 1-7 \= So-shu Johrei Superior, pág. 21, parte superior, linha 8 a parte inferior, linha 3 \<Zenshu, Vol. 11, pág. 589\>)
+### ③ Cabeça das Criaturas (Ron, pág. 2087, parte inferior, linhas 1-7 \= So-shu Johrei Superior, pág. 21, parte superior, linha 8 a parte inferior, linha 3 \<Zenshu, Vol. 11, pág. 589\>)
 
   O fundamento do erro da medicina que eu defendo é, acima de tudo, o fato de ter colocado a medicina no campo da ciência. Originalmente, o princípio de constituição de todas as coisas é fundamentalmente distinto entre o ser humano e tudo o que não é humano, e a essência1 também é obviamente diferente. Isso porque, originalmente, o ser humano é o rei da Terra e seu governante, enquanto todas as outras substâncias são subordinadas ao ser humano, movidas conforme a livre vontade humana2, protegendo o corpo humano e cumprindo suas respectivas funções necessárias à sobrevivência humana. (9 de setembro de 1953, Eikou nº 225, "Deus e a Bola de Vidro")
 
-  ### 
+### 
 
-  ### ④ A Missão do Ser Humano 
+### ④ A Missão do Ser Humano 
 
-  #### i. Criar um mundo ideal de Verdade, Bem e Beleza (K11, seção 12, seções 14-16 \<Zenshu, Vol. 10, pág. 178\>)
+#### i. Criar um mundo ideal de Verdade, Bem e Beleza (K11, seção 12, seções 14-16 \<Zenshu, Vol. 10, pág. 178\>)
 
   Afinal, por que o Deus Supremo criou o universo e o ser humano? Foi para fazer o ser humano criar um mundo ideal perfeito em Verdade, Bem e Beleza, e fazê-lo evoluir e desenvolver-se infinitamente; esta é a verdade eterna e imortal. Portanto, se o ser humano possui um futuro brilhante que a sabedoria humana atual sequer consegue imaginar, ele deve cumprir sua vocação e missão com alegria, guardando essa luz do futuro no peito. (1952, "Criação da Civilização", capítulo "O Ser Humano e a Doença")
 
-  #### ii. Ser humano para a construção do Paraíso Terrestre (So, pág. 177, parte superior, linhas 5-13 \= So-shu Inferior, pág. 294, parte superior, linha 6 a parte inferior, linha 1 \<Zenshu, Vol. 5, pág. 344\>)
+#### ii. Ser humano para a construção do Paraíso Terrestre (So, pág. 177, parte superior, linhas 5-13 \= So-shu Inferior, pág. 294, parte superior, linha 6 a parte inferior, linha 1 \<Zenshu, Vol. 5, pág. 344\>)
 
   Se perguntarem qual é a intenção de Deus, é fazer desta terra um mundo ideal, em outras palavras, construir o Paraíso Terrestre.
 
   Contudo, não é difícil imaginar que isso tenha uma grandiosidade indescritível em sua escala e concepção. Afinal, a cultura que progride infinitamente não tem limites. Nesse sentido, a história mundial até o presente não passou de um trabalho de base. Assim, Deus concede a cada indivíduo uma missão e características, fazendo-os reencarnar repetidamente e avançar em direção ao objetivo ideal. (5 de fevereiro de 1947, "Camadas Espirituais")
 
-  #### iii. Execução do Plano Divino na Terra (So, pág. 128, parte superior, linhas 4-9 \= So-shu Inferior, pág. 299, parte inferior, linhas 1-8 \<Zenshu, Vol. 6, pág. 201\>) Texto omitido. Vide Capítulo 2, Item 2, 4, Criador e Senhor, ③ (pág. 259 deste livro).
+#### iii. Execução do Plano Divino na Terra (So, pág. 128, parte superior, linhas 4-9 \= So-shu Inferior, pág. 299, parte inferior, linhas 1-8 \<Zenshu, Vol. 6, pág. 201\>) Texto omitido. Vide Capítulo 2, Item 2, 4, Criador e Senhor, ③ (pág. 259 deste livro).
 
-  #### iv. O papel do ser humano como existência física (Shin-ken, pág. 10, linhas 3-10 \= So-shu Johrei Superior, pág. 192, parte inferior, linha 3 a pág. 193, parte superior, linha 5 \<Zenshu, Vol. 8, pág. 73\>) Texto omitido. Vide Capítulo 2, Item 3-I, Como Deus 4, Ser Humano, Ambiente e Alimento, ① (pág. 269 deste livro).
+#### iv. O papel do ser humano como existência física (Shin-ken, pág. 10, linhas 3-10 \= So-shu Johrei Superior, pág. 192, parte inferior, linha 3 a pág. 193, parte superior, linha 5 \<Zenshu, Vol. 8, pág. 73\>) Texto omitido. Vide Capítulo 2, Item 3-I, Como Deus 4, Ser Humano, Ambiente e Alimento, ① (pág. 269 deste livro).
 
-  ### ⑤ Liberdade de Vontade 
+### ⑤ Liberdade de Vontade 
 
-  #### i. Deus concede liberdade infinita ao ser humano (So, pág. 4, parte inferior, linhas 5-12 \= So-shu Inferior, pág. 7, parte superior, linhas 2-11 \<Zenshu, Vol. 8, pág. 20\>)
+#### i. Deus concede liberdade infinita ao ser humano (So, pág. 4, parte inferior, linhas 5-12 \= So-shu Inferior, pág. 7, parte superior, linhas 2-11 \<Zenshu, Vol. 8, pág. 20\>)
 
   Deus concede liberdade infinita ao ser humano. Esta é a Verdade. Aos animais e plantas, exceto o ser humano, foi concedida apenas uma liberdade limitada. Nisto reside a nobreza do ser humano. Se perguntarem o que é a liberdade humana, é porque o ser humano situa-se numa posição intermediária entre os dois extremos: se elevar-se, torna-se divindade\*; se degradar-se, torna-se besta. Aprofundando este princípio, chega-se a isto: dependendo de como o ser humano age, este mundo pode tornar-se um jardim de prazeres extremamente divertido, ou, ao contrário, um inferno extremamente miserável. (16 de julho de 1949, Eikou nº 18, "Concretização da Verdade")
 
-  #### 
+#### 
 
-  #### ii. O ser humano pode tornar-se Deus ou Demônio (So, pág. 149, parte superior, linhas 14-16 \= So-shu Inferior, pág. 287, parte inferior, linhas 4-7 \<Zenshu, Vol. 5, pág. 317\>)
+#### ii. O ser humano pode tornar-se Deus ou Demônio (So, pág. 149, parte superior, linhas 14-16 \= So-shu Inferior, pág. 287, parte inferior, linhas 4-7 \<Zenshu, Vol. 5, pág. 317\>)
 
   O ser humano tem liberdade. A liberdade referida aqui não é o liberalismo. Então, o que é? É a liberdade de que o ser humano pode tornar-se tanto Deus quanto Demônio. (5 de fevereiro de 1947, "Bem e Mal")
 
@@ -552,53 +552,53 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   *Sobre a bondade ou maldade da natureza dos animais, consultar também Hikari nº 17, pág. 46, linhas 7-13 \<Zenko, Vol. 2, pág. 529\> e Sui nº 8, pág. 10, linha 13 a pág. 11, linha 1 \<Zenko, Vol. 6, pág. 50\>.*
 
-  ### ⑥ Habilidade e Hierarquia 
+### ⑥ Habilidade e Hierarquia 
 
   (Su 4, seções 78-80 \<Zenshu, Vol. 10, pág. 275\>)
 
   78 Com este significado, escreverei sobre a constituição do mundo humano: para facilitar o entendimento, se olharmos a humanidade horizontalmente (Yoko), há infinitas variedades\*1 e capacidades diferentes; mas se olharmos verticalmente (Tate), há apenas a distinção de cima e baixo. A prova disso é que os governantes de um povo, de um país ou de uma região receberam a capacidade correspondente (Souou) a isso, e o fato de que as pessoas que sobem à posição suprema são poucas no mundo tem esse significado; Deus, no Plano Divino, coloca e distribui tudo de forma adequada e engenhosa, sem excesso ou falta. (1952, "Criação da Civilização", capítulo "Doença Mental e Epilepsia")
 
-  ### ⑦ Evolução Humana — Remoção da Bestialidade 
+### ⑦ Evolução Humana — Remoção da Bestialidade 
 
-  #### i. Remover a bestialidade e tornar-se humano pleno (Su 4, seções 58-64 \<Zenshu, Vol. 10, pág. 310\>) Texto omitido. Vide Capítulo 2, Item 4-II, Plano Divino 1, Paraíso Terrestre, ⑤-iii (pág. 527 deste livro).
+#### i. Remover a bestialidade e tornar-se humano pleno (Su 4, seções 58-64 \<Zenshu, Vol. 10, pág. 310\>) Texto omitido. Vide Capítulo 2, Item 4-II, Plano Divino 1, Paraíso Terrestre, ⑤-iii (pág. 527 deste livro).
 
-  #### ii. Conflito e Bestialidade (Hikari-ho, pág. 57, linhas 2-4 \<Zenko, Vol. 1, pág. 412\>)
+#### ii. Conflito e Bestialidade (Hikari-ho, pág. 57, linhas 2-4 \<Zenko, Vol. 1, pág. 412\>)
 
   Quando o ser humano é incivilizado, ele é feito para gostar de conflitos. Ainda há quem lute na sociedade atual, mas isso é porque ainda são incivilizados. Brigar e derramar sangue ocorre porque ainda estão em estado de besta, exatamente como se tivessem cauda ou fossem cobertos de pelos. Apenas quando tais conflitos desaparecerem é que se poderá dizer que a cultura evoluiu.\*
 
   (28 de maio de 1948\)
 
-  ### ⑧ Vida e Morte estão na Vontade de Deus 
+### ⑧ Vida e Morte estão na Vontade de Deus 
 
-  #### i. A vida humana está nas mãos de Deus (Kyo, nº 24, pág. 26, linhas 4-17 \<Zenko, Vol. 10, pág. 352\>) Texto omitido. Vide Capítulo 2, Item 3-III, Poder de Deus 1, Conceitos Básicos, ② (pág. 404 deste livro).
+#### i. A vida humana está nas mãos de Deus (Kyo, nº 24, pág. 26, linhas 4-17 \<Zenko, Vol. 10, pág. 352\>) Texto omitido. Vide Capítulo 2, Item 3-III, Poder de Deus 1, Conceitos Básicos, ② (pág. 404 deste livro).
 
-  #### ii. O ser humano foi criado para trabalhar (Kyo, nº 28, pág. 66, linhas 9-15 \<Zenko, Vol. 11, pág. 249\>) Texto omitido. Vide Anexo do Capítulo 2, Item 3-III, Poder de Deus 1, Conceitos Básicos, ② (pág. 406 deste livro).
+#### ii. O ser humano foi criado para trabalhar (Kyo, nº 28, pág. 66, linhas 9-15 \<Zenko, Vol. 11, pág. 249\>) Texto omitido. Vide Anexo do Capítulo 2, Item 3-III, Poder de Deus 1, Conceitos Básicos, ② (pág. 406 deste livro).
 
   ***\[Explicação\]*** 
 
   *Quando o ser humano foi criado, sua espiritualidade era baixa e a bestialidade era forte (Kyo, nº 12, pág. 39, linhas 8-11 \<Zenko, Vol. 7, pág. 447\>). "Quando o ser humano é incivilizado, gosta de conflitos" refere-se a isso. O ser humano desenvolveu a civilização ao longo de dezenas de milhares de anos, mas não conseguiu obter a verdadeira felicidade. Contudo, agora, ao entrar em contato com a salvação de Meishu-Sama, tornar-se-á um ser humano verdadeiramente humano e será utilizado na construção do Paraíso Terrestre. — Este ensinamento deve ser interpretado como uma descrição da situação atual das pessoas comuns que estão nesse período de transição.*
 
-  #### iii. O destino e a vida e morte são decididos por ordem de Deus (So, pág. 179, parte superior, linhas 17-22 \= So-shu Inferior, pág. 333, parte superior, linhas 5-12 \<Zenshu, Vol. 6, pág. 258\>)
+#### iii. O destino e a vida e morte são decididos por ordem de Deus (So, pág. 179, parte superior, linhas 17-22 \= So-shu Inferior, pág. 333, parte superior, linhas 5-12 \<Zenshu, Vol. 6, pág. 258\>)
 
   Texto omitido. Vide Capítulo 2, Item 3-II, Vontade de Deus 2, Manifestação Externa da Vontade Divina ③ Justiça ii-E-c (pág. 383 deste livro).
 
-  ### ⑨ Corpo Humano e seu Crescimento (Shin-ken, pág. 11, linha 12 a pág. 12, linha 10 \= So-shu Johrei Superior, pág. 193, parte inferior, linha 11 a pág. 194, parte inferior, linha 1 \<Zenshu, Vol. 8, pág. 75\>) Texto omitido. Vide Capítulo 2, Item 3-I, Conhecimento de Deus 4, Ser Humano, Ambiente e Alimento, ② (pág. 270 deste livro).
+### ⑨ Corpo Humano e seu Crescimento (Shin-ken, pág. 11, linha 12 a pág. 12, linha 10 \= So-shu Johrei Superior, pág. 193, parte inferior, linha 11 a pág. 194, parte inferior, linha 1 \<Zenshu, Vol. 8, pág. 75\>) Texto omitido. Vide Capítulo 2, Item 3-I, Conhecimento de Deus 4, Ser Humano, Ambiente e Alimento, ② (pág. 270 deste livro).
 
-  ## 6 Outras Criaturas (他の被造物)
+## 6 Outras Criaturas (他の被造物)
 
-  ### ① A utilidade de cada coisa está determinada (Kyo, nº 19, pág. 47, linhas 1-4 \<Zenko, Vol. 10, pág. 46\>)
+### ① A utilidade de cada coisa está determinada (Kyo, nº 19, pág. 47, linhas 1-4 \<Zenko, Vol. 10, pág. 46\>)
 
   Por essa razão, para qualquer coisa, Deus determinou sua utilidade1. O fato de o ser humano, com sua sabedoria humana, usar isso em outro lugar é extremamente não natural. É antinatural. Por isso, mesmo que seja bom temporariamente, no fim dá errado. A interpretação dessas coisas está toda errada. Esse é o erro da ciência materialista2. (25 de fevereiro de 1953\)
 
-  ### ② Subserviência ao ser humano (Ron, pág. 2087, parte inferior, linhas 1-11 \= So-shu Johrei Superior, pág. 21, parte superior, linha 8 a parte inferior, linha 9 \<Zenshu, Vol. 11, pág. 589\>)
+### ② Subserviência ao ser humano (Ron, pág. 2087, parte inferior, linhas 1-11 \= So-shu Johrei Superior, pág. 21, parte superior, linha 8 a parte inferior, linha 9 \<Zenshu, Vol. 11, pág. 589\>)
 
   Texto omitido. Vide Capítulo 1, Item 3, 2, Sabedoria Divina de Meishu-Sama, ③-i-G-b (pág. 106 deste livro).
 
-  ### ③ Manter a vida humana e auxiliar na realização da missão (Ron, pág. 2082, parte superior, linhas 14-17 \= So-shu Johrei Superior, pág. 9, parte inferior, linhas 1-5 \<Zenshu, Vol. 11, pág. 575\>)
+### ③ Manter a vida humana e auxiliar na realização da missão (Ron, pág. 2082, parte superior, linhas 14-17 \= So-shu Johrei Superior, pág. 9, parte inferior, linhas 1-5 \<Zenshu, Vol. 11, pág. 575\>)
 
   Não é preciso dizer que o ser humano é o primata de todas as coisas, o rei e governante da Terra; todas as coisas e fenômenos entre o céu e a terra existem necessariamente para o ser humano, sendo óbvio que, primeiramente, mantêm a vida humana e, em segundo lugar, auxiliam na missão de cada indivíduo. (19 de agosto de 1953, Eikou nº 222, "Superciência")
 
-  ### ④ Nutrir o ser humano\* (Ron, pág. 2170, parte inferior, linhas 2-4 \= So-shu Johrei Superior, pág. 135, parte superior, linhas 8-10 \<Zenshu, Vol. 12, pág. 12\>)
+### ④ Nutrir o ser humano\* (Ron, pág. 2170, parte inferior, linhas 2-4 \= So-shu Johrei Superior, pág. 135, parte superior, linhas 8-10 \<Zenshu, Vol. 12, pág. 12\>)
 
   ***\[Trecho do Preâmbulo (Ron, pág. 2170, parte superior, linha 5 a parte inferior, linha 1\) Extrato\]** Esta terra é constituída pelo Mundo Espiritual e pelo mundo material, e tudo é gerado e desenvolvido pela força natural que emana do Mundo Espiritual.*
 
@@ -606,41 +606,41 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   O ser humano é a existência de nível mais elevado, excetuando-se Deus. Por isso, todas as coisas existem para o ser humano, não sendo nada além daquilo que nutre o ser humano. (10 de fevereiro de 1954, Eikou nº 247, "Johrei é Terapia Científica")
 
-  ### 
+### 
 
-  ### ⑤ Coisas que se deve comer e coisas que não se deve comer 
+### ⑤ Coisas que se deve comer e coisas que não se deve comer 
 
-  #### i. Por que os remédios são amargos? (Shin-ken, pág. 14, linhas 3-7 \= So-shu Johrei Superior, pág. 195, parte inferior, linhas 2-10 \<Zenshu, Vol. 8, pág. 76\>)
+#### i. Por que os remédios são amargos? (Shin-ken, pág. 14, linhas 3-7 \= So-shu Johrei Superior, pág. 195, parte inferior, linhas 2-10 \<Zenshu, Vol. 8, pág. 76\>)
 
   Os remédios, na medicina chinesa (Kanpo), são extraídos de raízes de ervas e cascas de árvores; na medicina ocidental, de minerais e plantas, o que é fundamentalmente antinatural. Pensem bem. A natureza dos remédios citados acima possui, sem exceção, sabores rejeitados pelo ser humano, como amargor, mau cheiro, acidez, etc. A antiga expressão "tirar o gosto ruim da boca após o remédio" ilustra bem isso. Deve-se pensar no motivo pelo qual são difíceis de engolir: Deus está indicando que são tóxicos e, portanto, não devem ser ingeridos. (20 de abril de 1950, "O Ser Humano é um Recipiente de Saúde")
 
-  #### 
+#### 
 
-  #### ii. A razão pela qual o paladar foi dado ao ser humano (K145, seções 17-27 \<Zenshu, Vol. 10, pág. 187\>)
+#### ii. A razão pela qual o paladar foi dado ao ser humano (K145, seções 17-27 \<Zenshu, Vol. 10, pág. 187\>)
 
   Originalmente, ao criar o ser humano, o Criador criou também os alimentos suficientes para que ele pudesse viver, bem como todas as outras coisas; para isso, concedeu poder ao solo, aos mares e rios, e naturalmente às plantas, minerais, ar, sol, lua e estrelas; tudo é assim. No entanto, mesmo falando simplesmente em alimentos, há certas condições. A condição é que existe uma separação entre o que se deve comer e o que não se deve comer.\* Consequentemente, devido a essa necessidade, foi dado o paladar ao ser humano e sabor aos alimentos. Além disso, há vários tipos de alimentos, e todos foram criados para se adequarem à saúde e ao ambiente humano. Por exemplo, quando se necessita de sal, sente-se vontade de comer algo salgado; quando se necessita de açúcar, quer-se comer algo doce; quando se necessita de água, a garganta fica seca; assim, a natureza foi feita de modo que o desejo surja conforme a necessidade. Ao mesmo tempo, a função digestiva também foi feita para atender a certas condições. Ou seja, tudo o que se deve comer é digerido, mas o que não se deve comer permanece sem ser processado. Por esta razão, como o remédio é um corpo estranho, não é digerido nem processado e, ao envelhecer, transforma-se em toxina. Visto que a ação de eliminação dessa toxina é a doença, a causa da doença é, em suma, o remédio. Catarro, coriza, suor, pus, sangue tóxico, etc., são todos transformações do veneno dos remédios; portanto, não há no mundo nada mais temível do que os remédios.
 
   27 A humanidade, desconhecendo isso, acabou criando doenças na tentativa de curá-las. (1952, "Criação da Civilização", capítulo "Malefícios dos Remédios")
 
-  ### 
+### 
 
-  ### ⑥ Fornecimento de alimentos conforme o ambiente e a profissão (Shin-ken, pág. 14, linha 13 a pág. 15, linha 7 \= So-shu Johrei Superior, pág. 198, parte superior, linha 6 a parte inferior, linha 4 \<Zenshu, Vol. 8, pág. 77\>)
+### ⑥ Fornecimento de alimentos conforme o ambiente e a profissão (Shin-ken, pág. 14, linha 13 a pág. 15, linha 7 \= So-shu Johrei Superior, pág. 198, parte superior, linha 6 a parte inferior, linha 4 \<Zenshu, Vol. 8, pág. 77\>)
 
   Texto omitido. Vide Capítulo 2, Item 3-I, Conhecimento de Deus 4, Ser Humano, Ambiente e Alimento, ④ (pág. 273 deste livro).
 
-  ## 7 Preparação para a Salvação (救世の準備)
+## 7 Preparação para a Salvação (救世の準備)
 
-  ### ① A revolução médica decidida no início dos tempos (Taisho) (Ron, pág. 2027, parte superior, linhas 11-20 \= So-shu Johrei Superior, pág. 12, parte superior, linha 9 a parte inferior, linha 5 \<Zenshu, Vol. 11, pág. 482\>; Ron, pág. 2173, parte inferior, linhas 12-22 \= So-shu Superior, pág. 283, parte inferior, linha 5 a pág. 284, parte superior, linha 2 \<Zenshu, Vol. 12, pág. 189\>)
+### ① A revolução médica decidida no início dos tempos (Taisho) (Ron, pág. 2027, parte superior, linhas 11-20 \= So-shu Johrei Superior, pág. 12, parte superior, linha 9 a parte inferior, linha 5 \<Zenshu, Vol. 11, pág. 482\>; Ron, pág. 2173, parte inferior, linhas 12-22 \= So-shu Superior, pág. 283, parte inferior, linha 5 a pág. 284, parte superior, linha 2 \<Zenshu, Vol. 12, pág. 189\>)
 
   Texto omitido. Vide Capítulo 2, Item 3-I, Conhecimento de Deus 1, Onisciência e o Plano de Salvação do Início dos Tempos, ①, ② (pág. 262 deste livro).
 
-  ### ② A escolha e revelação de Meishu-Sama (Ron, pág. 1791, parte inferior, linha 17 a pág. 1792, parte superior, linha 2 \= So-shu Johrei Superior, pág. 370, parte superior, linhas 1-11 \<Zenshu, Vol. 10, pág. 454\>; Ron-betsu, pág. 802, parte inferior, linhas 5-16 \<Zenshu, Vol. 12, pág. 295\>)
+### ② A escolha e revelação de Meishu-Sama (Ron, pág. 1791, parte inferior, linha 17 a pág. 1792, parte superior, linha 2 \= So-shu Johrei Superior, pág. 370, parte superior, linhas 1-11 \<Zenshu, Vol. 10, pág. 454\>; Ron-betsu, pág. 802, parte inferior, linhas 5-16 \<Zenshu, Vol. 12, pág. 295\>)
 
   Texto omitido. Vide Capítulo 2, Item 3-II, Vontade de Deus 2, Manifestação Externa da Vontade Divina, ① Amor ii-A-b, c (pág. 329 deste livro).
 
-  # 
+# 
 
-  # II Keirin (Plano Divino)\* —— Plano e Providência de Deus
+# II Keirin (Plano Divino)\* —— Plano e Providência de Deus
 
   (経綸――神の計画と摂理)
 
@@ -648,13 +648,13 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   *"Keirin" (Plano Divino) é a doutrina sobre o governo do universo pelo Deus Supremo e Seu planejamento. Os temas principais do Plano Divino são a Transição da Noite para o Dia, a consequente transformação da civilização, a revolução médica como premissa para isso e o Juízo Final; passando por tudo isso, chegará o "Paraíso Terrestre" e, finalmente, o "Mundo de Cristal". Tudo isso foi revelado por Deus a Meishu-Sama. Desejo que aprofundem a convicção sobre o Plano Divino estudando o Capítulo 1, Item 2, "Principais Revelações". Além disso, somos ensinados que a peculiaridade dos ensinamentos de Meishu-Sama sobre o Plano Divino reside em afirmar o valor da "existência do mal" (Kyo, nº 13, pág. 34, linhas 9-11 \<Zenko, Vol. 8, pág. 37\>; pág. 47, linhas 5-6 \<vide pág. 697 deste livro\>).*
 
-  ## 1 Paraíso Terrestre
+## 1 Paraíso Terrestre
 
   (地上天国)
 
-  ### ① Sua chegada e preparação 
+### ① Sua chegada e preparação 
 
-  #### i. Paraíso Terrestre e Salvação (S1, seções 5-21 \<Zenshu, Vol. 10, pág. 110\>)
+#### i. Paraíso Terrestre e Salvação (S1, seções 5-21 \<Zenshu, Vol. 10, pág. 110\>)
 
   A Bíblia é uma compilação dos ensinamentos de Cristo, mas esta obra ("Criação da Civilização") é também uma revelação direta de Jeová1, o Pai Celestial, de quem Cristo falava repetidamente. Além disso, Cristo também disse: "O Reino dos Céus está próximo, arrependei-vos". Vendo por isso, o próprio Cristo não constrói o Reino dos Céus. Significa que alguém o construirá em tempos posteriores. Contudo, eu não digo que o Reino dos Céus está próximo. Digo isso porque já chegou o tempo da realização do Reino dos Céus. Atualmente, estou iniciando os preparativos fundamentais para o estabelecimento do Paraíso; embora seja em escala muito pequena por enquanto, progride com uma velocidade extraordinária, sendo tudo surpreendente2. Isso porque tudo é a manifestação de milagres sobre milagres3, e as pessoas estão maravilhadas. Ao examinar isso4 detalhadamente, percebe-se que Deus vinha fazendo preparativos minuciosos e prudentes5 há dezenas de milhares de anos, sem deixar escapar o menor detalhe.
 
@@ -670,9 +670,9 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   *(25 de março de 1953\) (Chi, nº 46, pág. 4, Nº 1 \= Okada Mokichi Zenshu Shika-hen **\[6\]**, pág. 305, Nº 2\)*
 
-  #### ii. Preparação
+#### ii. Preparação
 
-  ##### A. Civilização Material e o Mal (Guerra e Ateísmo) (S3, seções 51-54 \<Zenshu, Vol. 10, pág. 121\>)
+##### A. Civilização Material e o Mal (Guerra e Ateísmo) (S3, seções 51-54 \<Zenshu, Vol. 10, pág. 121\>)
 
   ***\[Trecho do Preâmbulo (S3, seções 7-50) Extrato\]*** 
 
@@ -682,7 +682,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Para construir um mundo tão maravilhoso, é necessária uma preparação correspondente. Preparação significa reunir condições suficientes, tanto espirituais quanto materiais, para formar o referido mundo. Porém, como ordem, Deus colocou o aspecto material primeiro. Isso porque o aspecto espiritual não requer tempo, podendo ser elevado de uma só vez; ao contrário, o aspecto material não é tão fácil. Requer muitos anos e meses e, para isso, acima de tudo, era necessário fazer ignorar a existência real de Deus. Com isso, o pensamento humano voltou-se naturalmente para o aspecto material. Assim nasceu o ateísmo. Portanto, o ateísmo foi, na verdade, um pensamento necessário para criar o mal.\* (1952, "Criação da Civilização", capítulo "A Ordem de Construção do Paraíso e a Expulsão do Mal")
 
-  ##### B Civilização Material e o Mal (Medicina) 
+##### B Civilização Material e o Mal (Medicina) 
 
   (物質文明と悪（医学）) (S5・Seção 25, Seções 29 a 31, Seção 33 \<Obras Completas・Vol. 10, Pág. 129\>) 
 
@@ -690,7 +690,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Além disso, a fim de reduzir ainda mais a infelicidade humana, o ser humano fez progredir a ciência não apenas na estrutura e organização social, mas também na política, economia, educação, moral, artes e em todas as facetas culturais, criando instituições e instalações engenhosas. Visto que isso progrediu e se desenvolveu criando a sociedade civilizada atual, em última análise, não passou de preparativos para o estabelecimento do vindouro Paraíso Terrestre.\*3 (1952, Bunmei no Sozou, "A Origem do Mal e a Doença")
 
-  ##### C O Mal termina seu papel e é expulso (Guerra e Ateísmo) 
+##### C O Mal termina seu papel e é expulso (Guerra e Ateísmo) 
 
   (悪は役割を終えて追放される（戦争と無神論）) (Su4・Seções 12 a 15, Seções 18 a 33 \<Obras Completas・Vol. 10, Pág. 306\>) 
 
@@ -706,15 +706,15 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   (1952, Bunmei no Sozou, "A Origem do Bem e do Mal e o Cristianismo")
 
-  ##### D. O Papel do Johrei (浄霊の役割)
+##### D. O Papel do Johrei (浄霊の役割)
 
-  ######  *a. O único método para atravessar o Julgamento (審判を切り抜ける唯一の方法)*
+######  *a. O único método para atravessar o Julgamento (審判を切り抜ける唯一の方法)*
 
    (Shū・Pág. 379, Coluna inferior, linha 21 ～ Pág. 380, Coluna superior, linha 5 ＝ Ishizue Shū Jō・Pág. 122, Coluna inferior, linha 16 ～ Pág. 123, Coluna superior, linha 8 \<Obras Completas・Vol. 9, Pág. 358\>) 
 
-  ###### 
+###### 
 
-  ###### *b O poder de resolver a doença (病を解決する力) (Shū・Pág. 176, Coluna superior, linhas 10 a 17 \<Obras Completas・Vol. 9, Pág. 448\>) Texto omitido: Consultar Capítulo 2, Seção 3, Item 2, A Vontade de Deus, 2 \- A manifestação exterior da Vontade de Deus, ① Amor iiC (Pág. 331 deste livro).*
+###### *b O poder de resolver a doença (病を解決する力) (Shū・Pág. 176, Coluna superior, linhas 10 a 17 \<Obras Completas・Vol. 9, Pág. 448\>) Texto omitido: Consultar Capítulo 2, Seção 3, Item 2, A Vontade de Deus, 2 \- A manifestação exterior da Vontade de Deus, ① Amor iiC (Pág. 331 deste livro).*
 
   A este respeito, devo escrever sobre mim. Primordialmente, eu sou alguém a quem foi incumbida a grande missão de líder sob a Providência do Deus Supremo para salvar toda a humanidade e construir o Paraíso Terrestre de absoluta inexistência de doença, pobreza e conflito por ocasião do fim do mundo.
 
@@ -722,7 +722,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   (25 de agosto de 1951, Chijo Tengoku・Edição 27, "A Causa das Doenças e o Princípio do Johrei") 
 
-  ###### *c. Informar sobre os erros da medicina e dos remédios* 
+###### *c. Informar sobre os erros da medicina e dos remédios* 
 
   (医学や薬の誤りを知らせる) (Kyō・Edição 12, Pág. 40, linhas 11 a 15 \<Coletânea de Palestras・Vol. 7, Pág. 448\>) 
 
@@ -734,15 +734,15 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   E assim, chegou o tempo do objetivo final de Deus: o mundo ideal — a construção do Paraíso Terrestre. Portanto, é preciso fazer com que se compreendam as várias coisas erradas até agora e, assim, eliminá-las. Por isso, mesmo que eu diga que a doença é veneno de remédio e que está errado, eu curo assim (com o Johrei). Se eu não mostrar isso, as pessoas não acreditarão; por isso, Ele me concedeu este poder de curar, com o sentido de informar sobre os erros da medicina e dos remédios. Este é o significado fundamental. (27 de julho de 1952\) 
 
-  ###### *d. Poema Divino (御詠)* 
+###### *d. Poema Divino (御詠)* 
 
 - ###### *O tempo antigo / E o novo tempo / A linha de fronteira / Que os conecta / O Divino Poder da salvação é nobre.* 
 
   (25 de agosto de 1952\) (Chijo Tengoku・Edição 39, Pág. 2, No. 3 ＝ Obras Completas de Mokiti Okada, Volume de Poemas **\[VI\]**, Pág. 237, No. 3\)
 
-  #### .E. Progresso da Ciência e Tecnologia e a Unificação do Pensamento Humano (科学技術の進歩と人類思想の統一) 
+#### .E. Progresso da Ciência e Tecnologia e a Unificação do Pensamento Humano (科学技術の進歩と人類思想の統一) 
 
-  ###### *a. A unificação do pensamento humano também é necessária para construir o Paraíso (Shū・Pág. 361, Coluna inferior, linhas 3 a 6 ＝ Ishizue Shū Jō・Pág. 61, Coluna superior, linhas 8 a 12 \<Obras Completas・Vol. 8, Pág. 226\>)*
+###### *a. A unificação do pensamento humano também é necessária para construir o Paraíso (Shū・Pág. 361, Coluna inferior, linhas 3 a 6 ＝ Ishizue Shū Jō・Pág. 61, Coluna superior, linhas 8 a 12 \<Obras Completas・Vol. 8, Pág. 226\>)*
 
   ***\[Trecho do Preâmbulo Anterior (Shū・Pág. 359, Coluna superior, linha 1 ～ Pág. 361, Coluna inferior, linha 3)\]*** 
 
@@ -750,15 +750,15 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Por mais que se construa o Paraíso, se a cultura for baixa, se as etnias e os países estiverem isolados uns dos outros, ou se o transporte for inconveniente, o mundo será opaco e a unificação do pensamento humano, que é fundamental, não será possível. (20 de novembro de 1950, "O Nascimento desta Religião") 
 
-  ###### 
+###### 
 
-  ###### *b O que significa o progresso da cultura material (Shū・Pág. 368, Coluna inferior, linhas 10 a 17 ＝ Ishizue Sha・Pág. 59, Coluna superior, linhas 1 a 11 \<Obras Completas・Vol. 7, Pág. 582\>) Antes de tudo, como homem moderno, deve-se reconhecer em que tipo de era estamos agora — com essa premissa, o que pretendo eu dizer?*
+###### *b O que significa o progresso da cultura material (Shū・Pág. 368, Coluna inferior, linhas 10 a 17 ＝ Ishizue Sha・Pág. 59, Coluna superior, linhas 1 a 11 \<Obras Completas・Vol. 7, Pág. 582\>) Antes de tudo, como homem moderno, deve-se reconhecer em que tipo de era estamos agora — com essa premissa, o que pretendo eu dizer?*
 
   Não é outra coisa senão o fato de que, graças à invenção do rádio e da televisão, pode-se saber num instante todos os acontecimentos que estão ocorrendo no mundo inteiro; a cultura material progrediu tanto assim, num piscar de olhos. Afinal de contas, o que isso significa? Este ponto é de extrema importância, e deve-se dizer que, quem não perceber isso acima de tudo, não tem qualificação para falar sobre a cultura moderna. (20 de dezembro de 1949, Chijo Tengoku・Edição 11, "A Arte de Deus")
 
-  ### 
+### 
 
-  ### ② A Conversão Noite-Dia (15 de Junho de 1931\) como oportunidade para construção do Paraíso 
+### ② A Conversão Noite-Dia (15 de Junho de 1931\) como oportunidade para construção do Paraíso 
 
   (夜昼転換（昭和六年六月十五日）が天国建設の契機) (Shū・Pág. 229, Coluna inferior, linhas 7 a 14 ＝ Ishizue Shū Jō・Pág. 170, Coluna superior, linha 10 ～ Coluna inferior, linha 3 \<Obras Completas・Vol. 6, Pág. 328\>)
 
@@ -772,9 +772,9 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   *Este Ensinamento deve ser interpretado no sentido de que os fiéis, ao salvarem pessoas e dedicarem-se ao serviço, têm suas almas elevadas ao Paraíso e podem salvar os outros com facilidade. Interpretar que "assim que se entra na fé, a alma sobe ao Paraíso e pode-se guiar as pessoas" seria considerado um exagero. — Embora, por conveniência de Deus, possa haver casos temporários desse tipo.*
 
-  ### 
+### 
 
-  ### ③ A eliminação dos remédios (Revolução Médica) como premissa 
+### ③ A eliminação dos remédios (Revolução Médica) como premissa 
 
   (薬をなくすこと（医学革命）が前提) (Kyō・Edição 29, Pág. 18, linha 17 ～ Pág. 19, linha 8 \<Coletânea de Palestras・Vol. 11, Pág. 287\>)
 
@@ -782,9 +782,9 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Portanto, o que criou o mal foi o remédio\*1. Com isso, ao aumentar o nublamento, a posição espiritual cai, e é por isso que a infelicidade ocorre. Para que a sorte do ser humano melhore, basta que a posição espiritual melhore. Sendo assim, a infelicidade e o sofrimento humanos têm como raiz o nublamento do espírito humano; e, como o mal também é gerado pelo remédio, a raiz acaba sendo, de fato, o remédio. Se resolvermos esse ponto, o Mundo de Miroku será possível.\*2 (7 de dezembro de 1953\)
 
-  ### 
+### 
 
-  ### ④ Um mundo com a segurança da vida assegurada (生命の安全の確保された世界)
+### ④ Um mundo com a segurança da vida assegurada (生命の安全の確保された世界)
 
   (Ron・Pág. 1577, Coluna inferior, linhas 10 a 18; Pág. 1577, Coluna inferior, linha 20 ～ Pág. 1578, Coluna superior, linha 5; Pág. 1578, Coluna superior, linhas 10 a 11, 16 a 20; Coluna inferior, linhas 3 a 10, 13 a 16; Pág. 1580, Coluna superior, linha 12 ～ Coluna inferior, linha 9 ＝ Ishizue Sha・Pág. 14, Coluna inferior, linha 13 ～ Pág. 19, Coluna inferior, linha 13 \<Coletânea de Palestras・Vol. 4, Pág. 8\>)
 
@@ -794,9 +794,9 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Quando estiver pronto, pretendo traduzi-lo para o inglês e tomar várias medidas para fazê-lo ser lido o mais amplamente possível por universidades, meios acadêmicos e pessoas notáveis de todo o mundo. (22 de maio de 1951, "O que é a Verdadeira Civilização (Palestra)", no Hibiya Public Hall)
 
-  ### ⑤ Um mundo onde, inicialmente, o Bem vence o Mal por pouco (初めは善が少し悪に勝つ世界)
+### ⑤ Um mundo onde, inicialmente, o Bem vence o Mal por pouco (初めは善が少し悪に勝つ世界)
 
-  #### i Chegou o prazo para a derrota do mal (Kyō・Edição 13, Pág. 47, linha 15 ～ Pág. 48, linha 9 \<Coletânea de Palestras・Vol. 8, Pág. 49\>)
+#### i Chegou o prazo para a derrota do mal (Kyō・Edição 13, Pág. 47, linha 15 ～ Pág. 48, linha 9 \<Coletânea de Palestras・Vol. 8, Pág. 49\>)
 
   ***\[Trecho do Preâmbulo Anterior (Kyō・Edição 13, Pág. 46, linha 13 ～ Pág. 47, linha 14)\]*** 
 
@@ -806,11 +806,11 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Porque isto (o mal) ultrapassa isto (o bem), surgem sofrimentos, infelicidades e diversas calamidades para o ser humano. Quando ficar assim (o bem por cima), isto (o bem) fará cessar. Havendo o Deus Guardião Principal1 e o deus guardião secundário, basta que o Deus Guardião Principal vença. O deus guardião secundário faz diversos estratagemas tentando fazer com que se pratiquem apenas coisas erradas e más. Isso acontece porque o Deus Guardião Principal perde; portanto, basta que o Deus Guardião Principal vença2. Ao chegar a certo ponto, Ele o reprime firmemente. Por isso, basta que o bem vença o mal, nem que seja um pouco. No mundo também, como acabei de dizer, basta que o bem vença. Assim, os conflitos desaparecerão. Pois o lado do bem reprime os conflitos. Até agora, era o lado do mal que promovia os conflitos. Além disso, o lado do mal deseja empobrecer grandemente. No entanto, chegou o prazo para a derrota do lado do mal. O mandato do lado do mal terminou. Até agora, o mal e a medicina eram necessários. Mas já não são mais necessários. (26 de agosto de 1952\) 
 
-  #### ii O mal do Shōjō (Hinayana) permanecerá1 
+#### ii O mal do Shōjō (Hinayana) permanecerá1 
 
   *(Sui・Edição 4, Pág. 59, linha 12 ～ Pág. 60, linha 1 \<Coletânea de Palestras・Vol. 4, Pág. 309\>) O mal do Shōjō permanecerá. Permanecerá por alguns séculos. Pois não acontece de o mal se despedir num período tão curto. Entre o bem e o mal, basta que o bem vença, nem que seja um pouco. Mesmo que o mal seja noventa e nove por cento, basta que o bem seja dez **\[para vencer\]**. Basta que o mal não rompa os limites. Não há problema em pensar, dizendo que gosta muito daquela mulher2, mas se pegar na mão, aí já cruzou a linha. (8 de novembro de 1951\)*
 
-  #### iii Evolução humana — Remoção da bestialidade\*1 
+#### iii Evolução humana — Remoção da bestialidade\*1 
 
   (Su4・Seções 58 a 64 \<Obras Completas・Vol. 10, Pág. 310\>)
 
@@ -820,7 +820,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Conforme explicado acima, se, à medida que a cultura avança, aquilo que era necessário torna-se desnecessário e é naturalmente selecionado, é óbvio que, ao final, nem mesmo o ser humano poderá escapar da lei natural. Sendo assim, o que seria isso em relação ao ser humano? Naturalmente, é o mal inerente ao ser humano. Como mencionado anteriormente, na era futura, visto que o mal se tornará uma existência prejudicial e inútil, é uma consequência natural que os maus sejam selecionados.2 Dizendo isso em uma palavra: como processo evolutivo, a humanidade, que era semelhante aos animais, evoluiu; o ser humano, que era metade homem e metade besta — ou seja, exteriormente humano e interiormente besta —, terá sua bestialidade removida3 para se tornar um ser humano pleno\*4. Esta é a manifestação da Vontade Divina que está para chegar agora, e aqueles que não puderem obedecer a ela estarão destinados à extinção pela seleção natural. Como dito acima, o mundo onde os seres humanos de bem e mal5 forem liquidados e os seres humanos do bem tornarem-se a grande maioria é a imagem real do Paraíso Terrestre de que fala esta religião. Como se pode ver pelo exposto, a grande Ordem Divina desta religião é fazer com que os maus, que chegaram a um passo da extinção, arrependam-se, e informar que essa salvação, que reduz o número de vítimas, é o Grande Amor de Deus. (1952, Bunmei no Sozou, "A Origem do Bem e do Mal e o Cristianismo")
 
-  ### ⑥ Mundo de Bem-Mestre e Mal-Subordinado\*1 (善主悪従の世界)
+### ⑥ Mundo de Bem-Mestre e Mal-Subordinado\*1 (善主悪従の世界)
 
   (Ron・Pág. 2171, Coluna superior, linhas 6 a 21 ＝ Ishizue Jō Jō・Pág. 136, Coluna superior, linha 10 ～ Coluna inferior, linha 13 \<Obras Completas・Vol. 12, Pág. 13\>)
 
@@ -834,21 +834,21 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   *Neste sentido, creio que o verdadeiro homem cultural é aquele que se libertou da bestialidade, e o progresso da cultura é a elevação do homem de natureza bestial para o homem de natureza divina. Portanto, o local onde se reúnem os homens de natureza divina — o que seria isso senão o Paraíso Terrestre? (5 de setembro de 1948, "O Bem e o Mal")*
 
-  ### 
+### 
 
-  ### ⑦ Mundo demonstrado pela Obra Divina de Meishu-Sama 
+### ⑦ Mundo demonstrado pela Obra Divina de Meishu-Sama 
 
   (明主様の神性業が示す世界) (Sui・Edição 30, Pág. 2, linha 12 ～ Pág. 3, linha 1 \<Coletânea de Palestras・Vol. 12, Pág. 71\>)
 
   Nas Ofudesaki (Escrituras Divinas) da Oomoto, há o dizer: "Porque desta vez é a segunda abertura da Porta de Pedra Celestial (Ama no Iwato)"1. Isto significa que, numa era muito antiga2, houve algo semelhante a isso no mundo. Então, com o meu surgimento desta vez, a Abertura da Porta de Pedra, ou seja, tornar-se o mundo do dia, será a segunda vez. (1º de abril de 1954\)
 
-  ### ⑧ Mundo onde a Verdade é clara 
+### ⑧ Mundo onde a Verdade é clara 
 
   (真理が明らかな世界) (Kyō・Edição 32, Pág. 56, linha 13 ～ Pág. 57, linha 6 \<Coletânea de Palestras・Vol. 12, Pág. 285\>)
 
   Por exemplo, no caso da medicina, o fato de estarem fazendo coisas totalmente erradas e, por causa disso, os seres humanos sofrerem com doenças ou morrerem precocemente, etc., tudo isso se deveu, na origem, ao fato de não se conhecer a verdade. Isso significa que foi uma Providência do Deus Supremo (Shushin no Keirin) o fato de que a verdade não podia ser compreendida1; portanto, estava bom assim. No entanto, o fato de que chegou o tempo em que é preciso fazer com que a verdade seja realmente compreendida e construir a verdadeira civilização, também é Providência do Deus Supremo; portanto, também está bom assim. A humanidade daqui para a frente, o ser humano, poderá obter a verdadeira felicidade. Esse papel cabe à Sekaikyuseikyo. Por isso, diz-se que "veio o que deveria vir". Pela Providência de que o mundo errado de até agora não poderia continuar, tornou-se assim2. Portanto, o ser humano não tem como saber os porquês disso ou daquilo. Agora, exatamente como sempre digo, é o momento da divisão em que o mundo da noite se torna dia; portanto, é um período realmente importante e, ao mesmo tempo, as pessoas da Sekaikyuseikyo, escolhidas para esse papel, são primeiramente muito afortunadas\*3. Pode-se dizer que é uma felicidade jamais vista desde o início da humanidade. Devido a essas circunstâncias, a notável mudança do Mundo Espiritual tornou-se extremamente clara recentemente. (24 de março de 1954\)
 
-  ### ⑨ Mundo onde as principais pessoas da humanidade atingem o Kenshinjitsu 
+### ⑨ Mundo onde as principais pessoas da humanidade atingem o Kenshinjitsu 
 
   (人類の主な人が見真実となる世界) (Kyō・Edição 32, Pág. 14, linha 13 ～ Pág. 15, linha 6 \<Coletânea de Palestras・Vol. 12, Pág. 249\>)
 
@@ -858,11 +858,11 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   ***\[Explicação\]** Deus, o Criador, é onisciente e sabe tudo desde o passado eterno até o futuro eterno. Pessoas enviadas como representantes do Deus Supremo (Shushin), como Cristo e Shaka,* participaram da onisciência de Deus proporcionalmente à altura de suas missões, por isso compreendiam até certo ponto a Verdade e o que aconteceria no futuro. Meishu-Sama chamou isso de "Kenshinjitsu". No entanto, como ainda era o mundo da noite, havia um limite na forma de compreender — era um "Kenshinjitsu de nível médio".
 
-  ### 
+### 
 
-  ### ⑩ Mundo onde a Providência é revelada se o soberano orar (主権者が祈れば経綸が知らされる世界)
+### ⑩ Mundo onde a Providência é revelada se o soberano orar (主権者が祈れば経綸が知らされる世界)
 
-  #### i Sobre o Amatsu Kanagi (Ensinamento de 1947\) (天津金木について（昭和22年御教え）)
+#### i Sobre o Amatsu Kanagi (Ensinamento de 1947\) (天津金木について（昭和22年御教え）)
 
   (Em resposta a uma pergunta sobre o "Amatsu Kanagi" nas Palestras Kannon)
 
@@ -880,7 +880,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   
 
-  #### ii A Lei do Amatsu Kanagi (天津金木の法) 
+#### ii A Lei do Amatsu Kanagi (天津金木の法) 
 
   (Kyō・Edição 28, Pág. 36, linhas 1 a 12 \<Coletânea de Palestras・Vol. 11, Pág. 23\>) 
 
@@ -888,15 +888,15 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Isso também entra num aspecto misterioso da conversa, mas antes do surgimento do Amatsu Kanagi, havia o Trono (Gyokuza), que era perfeitamente quadrado. Naquela época, não sei se era tatame ou madeira, mas faziam algo assim, e tinha a forma de uma cruz; no centro, Deus se sentava. Ou seja, quando Amaterasu Omikami governava, ela se sentava ali. Estando ali, ao fechar os olhos, compreendia as várias coisas do país. Quando Amaterasu Omikami ocultou-se, erigiram o Amatsu Kanagi como seu substituto. Isso é algo misterioso e constitui o fundamento do Xintoísmo. Mesmo os xintoístas provavelmente não sabem disso. É por essa razão que o distintivo (Emblema)\* não é apenas aquilo, mas tem também esse significado. Sobre essas coisas misteriosas, falarei em outra ocasião. (10 de novembro de 1953\)
 
-  ### 
+### 
 
-  ### ⑪ Mundo de Cristal 
+### ⑪ Mundo de Cristal 
 
   (水晶世界)
 
-  ####  i Mundo do Pensamento (想念の世界) 
+####  i Mundo do Pensamento (想念の世界) 
 
-  ##### A O Johrei é uma questão secundária — Primeiro é o pensamento (Sonen) (浄霊は二の問題——まず想念) 
+##### A O Johrei é uma questão secundária — Primeiro é o pensamento (Sonen) (浄霊は二の問題——まず想念) 
 
   (Chijo Tengoku・Edição 68, Pág. 25, Coluna inferior, linhas 21 a 24\)
 
@@ -906,13 +906,13 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   *Meishu-Sama, em Sua palestra no Salão Público de Nara em 12 de abril de 1954, ensinou que salvou os espíritos de Cristo, Shaka e Maomé; que todos os deuses e budas estavam exultantes com o aparecimento de Meishu-Sama, a quem esperaram por centenas e milhares de anos (Kyō・Edição 33, Págs. 32 a 34 \<Coletânea de Palestras・Vol. 12, Pág. 341\>); e que, se compreendêssemos sobre Meishu-Sama, receberíamos uma força extraordinária (Kyō・Edição 33, Pág. 35, linhas 1 a 2 \<Pág. 28 deste livro\>). Uma semana depois, Ele entrou em purificação. O que apresentamos aqui são as palavras recebidas por aqueles que serviam ao Seu lado na época da purificação. — Na Chijo Tengoku・Edição 68, Pág. 26, seguindo esta conversa, são apresentados vários exemplos de pessoas que receberam grande proteção na época, dependendo da forma de seu pensamento (Sonen) — especialmente em relação a Meishu-Sama.*
 
-  ##### B. A era das ondas de rádio do pensamento sem fio 
+##### B. A era das ondas de rádio do pensamento sem fio 
 
   (想念の無線電波時代)  (Hikari・Edição 16, Pág. 42, linhas 1 a 6 \<Coletânea de Palestras・Vol. 2, Pág. 499\>) Em breve virá a era do pensamento, bem, a era das ondas de rádio do pensamento sem fio. Sem usar absolutamente nenhuma máquina, por exemplo, se eu escrever letras no ar virado para você, mesmo que estejamos distantes, você entenderá o significado. E não importa se a distância é de cem ou mil ri (unidade de medida). Além disso, mesmo falando normalmente, a comunicação chegará ao interlocutor distante. Frequentemente acontece o seguinte: quando penso em alguém que não vejo há algum tempo, essa pessoa aparece inesperadamente no dia seguinte. Ou, quando penso que gostaria que alguém viesse porque tenho um assunto a tratar, muitas vezes a pessoa aparece logo em seguida. (20 de janeiro de 1950\)
 
   ***\[Explicação\]** Este texto é um exemplo das palavras sobre o mundo do pensamento (Ensinamento recebido em 1949). A ciência atual considera que a diferença mais notável entre o ser humano e outros animais é que "o ser humano possui intelecto". — No entanto, os limites do intelecto humano estão claramente indicados no Capítulo 1, Seção 3, Sabedoria Divina, ②③ \- Demonstrando os limites da civilização científica (Pág. 86 deste livro). A ação do "pensamento (Sonen)" do ser humano purificado no Paraíso Terrestre, aqui ensinada, é uma ação de dimensão superior (da alma) à ação do intelecto. — Os Ensinamentos sobre o "pensamento" enquadram-se na categoria da "ciência suprema" mencionada por Meishu-Sama (Sui・Edição 24, Pág. 23, linha 3 ～ Pág. 24, linha 4 \<Pág. 99 deste livro\>).*
 
-  ##### C. Obter a iluminação de acordo com a classe da alma (魂の階級に応じて証覚を得る) 
+##### C. Obter a iluminação de acordo com a classe da alma (魂の階級に応じて証覚を得る) 
 
   (Hikari・Edição 18, Pág. 21, linha 11 ～ Pág. 22, linha 1 \<Coletânea de Palestras・Vol. 3, Pág. 390\>)
 
@@ -920,9 +920,9 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   ***\[Explicação\]** Este Ensinamento refere-se ao estado do Paraíso no Mundo Espiritual, mas considera-se que o Paraíso na Terra também se tornará assim naturalmente. A propósito, tudo o que se manifesta no mundo deve-se à Providência de Deus. "Tornar-se possível compreender livremente coisas de séculos à frente" pode ser interpretado como "No Paraíso Terrestre, quando o espírito se torna extremamente elevado, Deus nos permitirá compreender, até certo ponto, o que Ele fará centenas de anos à frente". No entanto, deve-se ter em mente que, segundo o Ensinamento "Eternidade" no Item 2 \- Conceito de Deus (Pág. 253 deste livro), mesmo "centenas de anos à frente" não passam de "um instante" em comparação com a eternidade (de Deus).*
 
-  ##### 
+##### 
 
-  ##### D. Alma elevada não tem pensamentos malignos (高い魂に邪念なし)
+##### D. Alma elevada não tem pensamentos malignos (高い魂に邪念なし)
 
    (Sui・Edição 24, Pág. 22, linhas 2 a 7 \<Coletânea de Palestras・Vol. 9, Pág. 217\>) 
 
@@ -936,33 +936,33 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Se for remover os pensamentos malignos, já não serve. O "remover" implica que eles "existem", mas se não houver pensamentos malignos, não há necessidade de removê-los.2 O erro é tentar eliminar os pensamentos malignos; como os pensamentos malignos já desapareceram, não há necessidade desse tipo de ideia. É porque eles existem, nem que seja um pouco, que se pensa em removê-los. Eu pinto quadros, faço caligrafia, componho waka (poemas) e também faço arquitetura; como tudo é de nível supremo, no fim, é a mesma coisa. Portanto, se se alcança certo nível, tudo vai até esse nível3. (1º de setembro de 1953\)
 
-  ##### 
+##### 
 
-  ##### E. A purificação da alma 
+##### E. A purificação da alma 
 
   (魂の浄め) 
 
   ***\[Explicação\]** Este é um subitem, mas é extremamente importante para entrar no Mundo de Cristal. E o que se deve observar é que isso se torna possível através do forte poder do Deus Regente desta Religião (Sushin). — É fundamental estudar e sintetizar o Capítulo 2, Seção 3, Item 3, Poder de Deus, 2 \- Poder do Deus Regente desta Religião, ⑤ Eliminar a bestialidade humana (Pág. 423 deste livro) para obter uma compreensão precisa sobre isso. Além disso, o mais importante é que a força (para transformar a alma) é concedida através de uma fé profunda (em Meishu-Sama). Consultar Capítulo 1, Item 1, 13 \- Compreender sobre Meishu-Sama é a essência da fé (Pág. 24 deste livro) e Capítulo 1, Item 1, 14 \- Se compreender sobre Meishu-Sama, receberá força (Pág. 27 deste livro).*
 
-  ###### 
+###### 
 
-  ###### *a. Se adorar a Deus de coração, será concedida a força para vencer o mal* 
+###### *a. Se adorar a Deus de coração, será concedida a força para vencer o mal* 
 
   (Shū・Pág. 36, Coluna superior, linhas 9 a 14 ＝ Ishizue Shū Ge・Pág. 76, Coluna superior, linha 15 ～ Coluna inferior, linha 5 \<Obras Completas・Vol. 9, Pág. 341\>) Texto omitido: Consultar Capítulo 2, Seção 3, Item 3, Poder de Deus, 2 \- Poder do Deus Regente desta Religião, ⑤ Anexo 1 (Pág. 424 deste livro). 
 
-  ###### *b. A pessoa que crê profundamente em Deus tem a alma purificada*
+###### *b. A pessoa que crê profundamente em Deus tem a alma purificada*
 
    (Sui・Edição 26, Pág. 22, linha 14 ～ Pág. 23, linha 6 \<Coletânea de Palestras・Vol. 9, Pág. 274\>) Texto omitido: Consultar Capítulo 2, Seção 3, Item 3, Poder de Deus, 2 \- Poder do Deus Regente desta Religião, ⑤ Anexo 2 (Pág. 425 deste livro). 
 
-  ###### *c. O poder de transformar a alma* 
+###### *c. O poder de transformar a alma* 
 
   (Kyō・Edição 26, Pág. 20, linha 14 ～ Pág. 21, linha 4 \<Coletânea de Palestras・Vol. 11, Pág. 80\>) Texto omitido: Consultar Capítulo 2, Seção 3, Item 3, Poder de Deus, 2 \- Poder do Deus Regente desta Religião, ⑤ Anexo 3 (Pág. 426 deste livro). 
 
-  ###### *d. Vencer o mal e obter a divindade* 
+###### *d. Vencer o mal e obter a divindade* 
 
   (Shū・Pág. 35, Coluna inferior, linhas 1 a 7 ＝ Ishizue Shū Ge・Pág. 75, Coluna superior, linhas 8 a 16 \<Obras Completas・Vol. 7, Pág. 489\>) O fato de saber que é errado e não conseguir se conter deve-se à falta de força para reprimir, ou seja, falta de verdadeira coragem. Essa coragem é a coisa mais nobre do ser humano. Eu sempre digo que o ser humano, se se elevar, torna-se Deus; portanto, aquele que, ao saber que algo é mau, consegue controlá-lo perfeitamente, possuindo um coração que jamais perde para o mal, essa pessoa tornou-se um esplêndido detentor de caráter divino (Shinkaku-sha). Realmente, esta força é a verdadeira força; tal força é a verdadeira Força Kannon (Kannon-riki)*.* 
 
-  ###### *e. A era em que viviam pessoas com caráter divino1* 
+###### *e. A era em que viviam pessoas com caráter divino1* 
 
   (Kyō・Edição 31, Pág. 20, linhas 3 a 8; Pág. 26, linha 12 ～ Pág. 27, linha 1 \<Coletânea de Palestras・Vol. 12, Pág. 190\>)
 
@@ -970,7 +970,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Embora se diga mundo, não se sabe se era todo ele, mas certamente Ele governava uma área consideravelmente vasta, tendo o Japão como centro. E, embora se diga Deus, eram, afinal, seres humanos\*2. No entanto, os seres humanos daquela época possuíam uma espiritualidade muito elevada. Aquele tempo era mais ou menos o fim do mundo do dia, mas, durante a longa era subsequente, o ser humano, devido ao mundo da noite, foi se sujando cada vez mais, e o nível espiritual baixou. (6 e 7 de fevereiro de 1954\) 
 
-  ##### F. Na presença de Deus 
+##### F. Na presença de Deus 
 
   (神の御前にて) (Kyō・Edição 31, Pág. 2, linha 12 ～ Pág. 3, linha 2; Pág. 3, linhas 6 a 9 \<Coletânea de Palestras・Vol. 12, Pág. 175\>) 
 
@@ -982,7 +982,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   No Ofudesaki, está escrito: "Ushitora no Konjin aparecerá como o Enma deste mundo"; "Enma deste mundo" significa que Ele realizará o julgamento no mundo material. O Mundo Espiritual também tem três níveis, e Ele vem se aproximando um nível de cada vez. E, finalmente, tendo concluído o último nível, é a partir de hoje que Ele aparece diretamente no mundo material. Sendo assim, hoje é o primeiro dia do Juízo Final. É assustador, mas isso só é assustador se tivermos pensamentos malignos ou nublamentos; caso contrário, se tivermos um coração verdadeiramente correto e nobre, é algo de se agradecer. (4 de fevereiro de 1954\) 
 
-  #### ii Mundo de Cristal (水晶世界) ***\[Poemas\]*** 
+#### ii Mundo de Cristal (水晶世界) ***\[Poemas\]*** 
 
 - Nem poeira / De pecado ou impureza / Pode ser escondida / A esse Reino chamamos / Mundo de Cristal. (28 de maio de 1951\) (San ***\[Shin\]**・Pág. 41, No. 1 \= Obras Completas de Mokiti Okada, Volume de Poemas **\[VI\]**, Pág. 76, No. 4\)*
 
@@ -1036,11 +1036,11 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   — Os cientistas veem o ser humano como "um ser vivo totalmente diferente dos outros animais por possuir intelecto". No entanto, conceitos profundamente relacionados ao Paraíso Terrestre, como "Pensamento (Sonen)" e "Percepção Espiritual (Reikaku)", são de uma dimensão superior ao "intelecto".
 
-  ### ⑫ A Natureza especialmente preparada para o Paraíso Terrestre (地上天国のため、特に用意された自然)
+### ⑫ A Natureza especialmente preparada para o Paraíso Terrestre (地上天国のため、特に用意された自然)
 
-  ####  i Atami (熱海) 
+####  i Atami (熱海) 
 
-  ##### A A Terra Ideal de Suprema Beleza (最高最美の理想郷)
+##### A A Terra Ideal de Suprema Beleza (最高最美の理想郷)
 
    ***\[Trecho do Preâmbulo Anterior (Shū・Pág. 437, Coluna superior, linha 5 ～ Pág. 438, Coluna superior, linha 10 ＝ Ishizue Shū Jō・Pág. 80, Coluna inferior, linha 10 ～ Pág. 81, Coluna inferior, linha 13 \<Obras Completas・Vol. 9, Pág. 338\>)\]*** 
 
@@ -1048,29 +1048,29 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Aqui, se perguntarem o que é a surpreendente Grande Providência que mencionei no início, refere-se ao significado de Atami ser o local de paisagem mais bela do Japão; como sempre digo, possui todas as condições de forma impecável, como beleza das montanhas e das águas, clima, fontes termais, facilidade de transporte, etc. Provavelmente não há outro local com tamanha beleza cênica em todo o Japão. Se pensarmos profundamente sobre o porquê disso, compreenderemos o seguinte: Ou seja, quando o Criador (Zobutsu-shu) criou a Terra, Ele a projetou sob um plano eterno. Provavelmente foi há milhões ou dezenas de milhões de anos, mas ao criar a Terra, Ele determinou que no futuro o Japão seria uma terra paradisíaca, como um parque mundial, e preparou perfeitamente as condições como clima, características naturais e beleza natural, aguardando o tempo certo. Naturalmente, isso é a nossa Atami; Hakone, a seguir, também tem esse significado, e o Monte Fuji também deve ser assim. Especialmente quanto a Atami, deve ter sido visada como a Terra Ideal de Suprema Beleza. Tendo feito isso, quando o grau de progresso da cultura material finalmente se tornou adequado para a construção do Paraíso, Ele fez nascer alguém como eu, e através de vários caminhos, fez-me viver em Atami, iniciando aqui a construção do Modelo do Paraíso Terrestre, que é o Seu objetivo2. Sempre que estou no Monte Zuiun (Zuiun-zan) contemplando a paisagem, penso: certamente fui eu quem planejou e projetou isso na era mais remota, quando eu era Deus3. A ilha de Hatsushima parecendo um bonseki (pedra de paisagem em bandeja) ao longe, Oshima, os cinco cabos, a ponta de Manazuru, a cordilheira de Jukkoku-toge, o mar como um espelho que se confunde com um lago e, especialmente, a beleza das montanhas de Atami; o que seria isso senão a suprema Obra Divina? Tendo feito isso, hoje, no século XX, eu nasci como ser humano e vim a executar o plano conforme o projeto inicial; portanto, como dito antes, é natural que haja muitos milagres. Consequentemente, o que estou fazendo não se resume apenas a este pequeno Paraíso Terrestre. Pode-se imaginar que todos os outros diversos empreendimentos também foram preparados desde o tempo em que todas as coisas foram criadas*4\. (20 de junho de 1951, Eikō・Edição 109, "A Providência de Deus")* 
 
-  ##### B Deus preparou tudo perfeitamente (神様がチャンと準備してある)
+##### B Deus preparou tudo perfeitamente (神様がチャンと準備してある)
 
    *(Kyō・Edição 29, Pág. 44, linhas 4 a 7 \<Coletânea de Palestras・Vol. 11, Pág. 309\>) Texto omitido: Consultar Capítulo 2, Seção 3, Item 1, Sabedoria de Deus, 2 \- Ao criar a Grande Natureza, já havia o plano de construção atual, ① ii (Pág. 266 deste livro).* 
 
-  ##### C Deus preparou desde antes (神様が前から用意してある)
+##### C Deus preparou desde antes (神様が前から用意してある)
 
    *(Kyō・Edição 32, Pág. 6, linhas 7 a 8 \<Coletânea de Palestras・Vol. 12, Pág. 241\>) Texto omitido: Consultar Capítulo 2, Seção 3, Item 1, Sabedoria de Deus, 2 \- Ao criar a Grande Natureza, já havia o plano de construção atual, ① iii (Pág. 267 deste livro).* 
 
-  ##### D A obra meticulosamente preparada por Deus (神様の用意周到な業)
+##### D A obra meticulosamente preparada por Deus (神様の用意周到な業)
 
   *(Kyō・Edição 23, Pág. 42, linhas 13 a 17 \<Coletânea de Palestras・Vol. 10, Pág. 297\>) Hakone e Atami ficam exatamente entre os centros muito prósperos do Japão: Keihin (Tóquio-Yokohama) e Keihan (Kyoto-Osaka). Ou seja, a conveniência de transporte, permitindo vir ao Paraíso a passeio de qualquer um dos lados, também foi feita muito bem*. O fato de a Sekaikyuseikyo construir o Paraíso Terrestre ali significa que Deus realizou, de fato, uma obra meticulosamente preparada. O início é Gora, depois Atami, depois Kyoto e depois o mundo; será feito nesta ordem. (16 de junho de 1953\)
 
-  #### 
+#### 
 
-  #### ii A natureza e a cultura de Kyoto (京都の自然と文化) 
+#### ii A natureza e a cultura de Kyoto (京都の自然と文化) 
 
-  ##### A O centro da arte japonesa (日本の美術の中心) 
+##### A O centro da arte japonesa (日本の美術の中心) 
 
   (Kyō・Edição 10, Pág. 10, linha 9 ～ Pág. 11, linha 3 \<Coletânea de Palestras・Vol. 7, Pág. 279\>) Como havia um terreno em Kyoto onde se dizia que eventualmente seria construído o Paraíso Terrestre, eu fui ver. De fato, as condições correspondem em grande parte. Penso que eventualmente será construído naquele local. Como Deus fará tudo perfeitamente quando chegar o tempo, acho que não há necessidade de pensar muito. Esta é a terceira vez que venho a Kyoto desde o ano passado, e entendi em geral, mas compreende-se bem que foi preparado desde mil anos atrás para ser, sem dúvida, o futuro centro da arte japonesa.
 
   Deus preparou isso há dezenas ou centenas de milhares de anos; quanto à preparação humana, compreende-se que foi preparada há cerca de mil anos. Realmente, nem é preciso dizer agora, mas a topografia... a forma das várias montanhas, o fluxo da água e uma espécie de atmosfera espiritual (Reiki). Pode-se dizer atmosfera espiritual? É o aspecto tanto do ar quanto do espírito. É realmente bom. De qualquer forma, sente-se algo que acalma, pode-se dizer que é refinado. Não há uma sensação desagradável. Por isso, possui bem os aspectos de um futuro Paraíso Terrestre. A forma das montanhas, a cor das árvores, os tipos de árvores, a disposição, tudo é diferente de Kanto e de outras terras. Por isso, compreende-se que no futuro será construído um Grande Paraíso Terrestre. (6 de maio de 1952\) 
 
-  ##### B A Capital da Beleza — Heian-kyo (Solo Sagrado de Heian) (美の都——平安郷)
+##### B A Capital da Beleza — Heian-kyo (Solo Sagrado de Heian) (美の都——平安郷)
 
    (Kyō・Edição 15, Pág. 45, linha 12 ～ Pág. 47, linha 1 \<Coletânea de Palestras・Vol. 8, Pág. 167\>) Quanto mais grandiosa for a excelência pacífica, mais as pessoas do mundo a apreciarão. A excelência dos japoneses é uma excelência cultural e pacífica. Para expressar isso como um valor, estou construindo o Paraíso Terrestre. Especialmente Kyoto é o local mais adequado para isso. Hakone e Atami têm boas paisagens, mas não têm mais nada. No entanto, Kyoto é historicamente maravilhosa e rica em diversas coisas culturais. Tanto a topografia quanto o clima possuem, antes de tudo, coisas boas. O que acho especialmente bom em Kyoto é a ausência de vento. Penso que isso é muito bom para a construção do Paraíso Terrestre. Em Tóquio e outros lugares, suja-se muito devido à poeira levantada pelo vento. Por isso, é muito ruim ter que evitar que o vento bata forte. Nos jardins de Kyoto, espalham-se pedriscos, mas em outros lugares não se pode fazer isso. Como os pedriscos voariam, em Hakone construí caminhos de concreto, mas aquilo é realmente de mau gosto. Se não se espalharem pedras pequenas, não se obtém o verdadeiro sabor. Mas como não havia outro jeito, construí algo como caminhos de concreto entre a grama. Além disso, árvores e bambus são melhores que outras coisas. Mesmo que se construa uma casa com madeira e bambu em outro lugar, se não for material de Kyoto, não serve. De qualquer forma, essas condições de Kyoto foram perfeitamente instaladas por Deus para o futuro. Por isso, possui várias coisas. Kyoto, com a forma das montanhas, a disposição dos pinheiros e todas as coisas, é realmente a Capital da Beleza. Por isso, dei-lhe o nome de "Heian-kyo" (Solo Sagrado de Heian/Paz); depois de dar o nome Heian-kyo, investiguei bem e descobri que ali é o centro da cultura Heian. Dizem que nasceu daquela região. Ouvi dizer que as montanhas que aparecem nos rolos de pintura da era Fujiwara, etc., são as montanhas de lá. Pintaram aquilo. E quanto à lua refletida na água, que aparece em poemas, dizem que é o Lago Hirosawa. A estrada chama-se Tsuta-no-Hosomichi (Caminho estreito de hera). Especialmente nos rolos de pintura, há um famoso chamado Tsuta-no-Hosomichi, e é esse. Por essas razões, dizem que ali é o centro da cultura Heian. É interessante que Deus escolha perfeitamente esse lugar. Nesse sentido, pretendo harmonizar bem a cultura Heian, a cultura Higashiyama e a cultura Momoyama. Mas se não usarmos vidro e cimento, não servirá; por isso, usaremos materiais modernos, mas num grau que não seja forçado e não quebre a harmonia. Não sei que tipo de coisa será feita, mas acredito que será feito algo surpreendente. (20 de outubro de 1952\)
 
@@ -1078,13 +1078,13 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Ao contemplar ao longe / A aparência das montanhas e o bosque de pinheiros / Vem a saudade dos tempos antigos / Da Dinastia Heian. (25 de maio de 1953\) (Chijo Tengoku・Edição 48, Pág. 8, No. 1 ＝ Obras Completas de Mokiti Okada, Volume de Poemas ***\[VI\]**, Pág. 325, No. 2\)*
 
-  ##### C Harmonia da nova e da antiga cultura 
+##### C Harmonia da nova e da antiga cultura 
 
   (新旧文化の調和) (Kyō・Edição 15, Pág. 37, linha 8 ～ Pág. 38, linha 8 \<Coletânea de Palestras・Vol. 8, Pág. 160\>) 
 
   Basicamente, ao observar bem a cultura de Kyoto, ela tem três níveis. Primeiro a cultura Heian da Dinastia Heian, depois a cultura Higashiyama, ou seja, da era Ashikaga, e a cultura Momoyama. São exatamente três níveis: Fujiwara, Ashikaga e Toyotomi. Essa é a cultura de Kyoto; depois mudou-se para Edo e nasceu a cultura vistosa centrada em Genroku, mas, de qualquer forma, até então são exatamente três estágios. O Budismo é uma cultura que surgiu mais cedo na região de Nara, mas não há necessidade de introduzir a cultura budista novamente agora; mas pretendo adotar as partes boas e as peculiaridades da cultura desses três estágios atuais. Não adianta dizer que é imitação, mas, através da sensibilidade moderna do século XX, harmonizar bem a cultura desses três estágios e criar algo que as pessoas modernas possam aceitar imediatamente, que não seja um arcaísmo nostálgico, mas algo que adote o nostálgico e ao mesmo tempo se ajuste perfeitamente à sensibilidade da época. Falar a teoria é muito bom, mas isso é um tanto difícil em termos humanos. Harmonizar o antigo e o novo sem desajustes, criando algo que se encaixe perfeitamente, é algo difícil. É tão difícil quanto colocar um motor de automóvel numa carroça de boi. Fazer isso sem forçar e de forma que fique ainda melhor é o que faremos, mas como é Deus quem faz, acho que não haverá falhas. Ou seja, as religiões até agora eram assim, mas pensava-se que Deus era algo distante da arte. No entanto, é um grande engano; de qualquer forma, Deus dá a maior importância à arte. Apenas, até agora, mesmo que se quisesse criar algo artístico no mundo, como era o mundo da noite e o mundo do inferno, não adiantava fazer, e como as condições não estavam reunidas, não se fazia. Por isso, o Deus Supremo aguardou o tempo. Como finalmente o tempo chegou, Deus manifestará Sua verdadeira Vontade. Daqui para a frente, coisas que eram o ideal humano serão construídas rapidamente. Nesse sentido, surgirá um mundo muito divertido. (20 de outubro de 1952\) 
 
-  ##### D O significado de Saga na Providência 
+##### D O significado de Saga na Providência 
 
   (嵯峨の持つ経綸上の意味)  (Kyō・Edição 15, Pág. 28, linhas 1 a 9 \<Coletânea de Palestras・Vol. 8, Pág. 152\>) 
 
@@ -1096,7 +1096,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   (Chijo Tengoku・Edição 48, Pág. 8, No. 2 ＝ Obras Completas de Mokiti Okada, Volume de Poemas ***\[VI\]**, Pág. 325, No. 3\)*
 
-  #### iii Hakone Gora 
+#### iii Hakone Gora 
 
   (箱根強羅)  (Kyō・Edição 23, Pág. 41, linha 16 ～ Pág. 42, linha 6 \<Coletânea de Palestras・Vol. 10, Pág. 296\>) 
 
@@ -1117,13 +1117,13 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   (11 de março de 1953\) (Eikō・Edição 199, No. 1 ＝ Obras Completas de Mokiti Okada, Volume de Poemas ***\[VI\]**, Pág. 296, No. 1\)*
 
-  ### 
+### 
 
-  ### ① Conceito Básico da Conversão Noite-Dia (夜昼転換の基本概念)
+### ① Conceito Básico da Conversão Noite-Dia (夜昼転換の基本概念)
 
-  #### i Conceito Básico
+#### i Conceito Básico
 
-  ##### A Conversão do Mundo Espiritual e o reflexo no Mundo Material 
+##### A Conversão do Mundo Espiritual e o reflexo no Mundo Material 
 
   (Su6・Seções 1 a 12 \<Obras Completas・Vol. 10, Pág. 282\>) ***\[Trecho do Preâmbulo Anterior (Su5・Seções 36 a 40)\]** O maior obstáculo para construir o Paraíso Terrestre é a doença. Como discutido anteriormente, as causas da doença são os medicamentos, os fertilizantes e o pecado. Medicamentos e fertilizantes podem ser eliminados pela vontade humana. No entanto, o problema do pecado não foi resolvido pelas religiões até hoje. Esta religião resolve também este problema e pode construir um mundo sem doenças, mas, como premissa para explicar isso, preciso informar algo muito importante.1*
 
@@ -1131,11 +1131,11 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   ***\[Explicação\]** A vida humana no mundo material dura, no máximo, cem anos. Por isso, um dia no mundo material tem um ciclo de vinte e quatro horas. No entanto, no Mundo Espiritual, dependendo da alma, pode-se esperar mil anos até receber a próxima missão (Tenpuku・Pág. 66, linhas 8 a 10 \<Ishizue Shū Ge・Pág. 265\>). Quanto mais para Deus, que é eterno, dez milhões de anos são um instante (Capítulo 2, Item 2, 2 \- Eternidade \<Pág. 25 deste livro\>). O Mundo Espiritual é centrado na Providência do Deus Supremo, portanto, não existe o ciclo de "vinte e quatro horas" que reflete a vida no mundo material de um espírito humano, que é uma existência muito pequena. Do ponto de vista humano, resume-se a dizer que "o Mundo Espiritual é o mundo da vontade e do pensamento" (Shū・Pág. 55, Coluna inferior, linha 9 \<Ishizue Shū Ge・Pág. 244\>) e "um mundo que transcende tempo e espaço" (Kyō・Edição 33, Pág. 2, linha 13 \<Coletânea de Palestras・Vol. 12, Pág. 315\>). Com essas premissas, este Ensinamento torna-se mais fácil de entender.* 
 
-  ##### B O Mundo de 567 (Miroku) (Su 7・Seções 9 a 12 \<Obras Completas・Vol. 10, Pág. 287\>)
+##### B O Mundo de 567 (Miroku) (Su 7・Seções 9 a 12 \<Obras Completas・Vol. 10, Pág. 287\>)
 
   O mundo da noite até agora refere-se ao tempo em que o Sol não havia subido ao céu. Claro que é um fenômeno do Mundo Espiritual, mas se compararmos em pequena escala com a Terra, entende-se bem. À noite\*10, a Lua estava no alto do céu iluminando, mas gradualmente ela dá a volta na Terra e desce pelo extremo oeste, escondendo-se na sombra da Terra. Então, o Sol nasce no leste; se ele brilhar no meio do céu, este é o mundo do dia. Assim sendo, o Céu é Fogo, o Mundo Intermediário é o mundo do Hidrogênio\* (Elemento Água) e é Água, e a Terra continua sendo Terra; esta é a ordem de 5-6-7 (Mi-ro-ku). Dizendo isso em uma palavra: o Mundo do Dia é a forma em que o Sol, que até agora não era visível, brilha no meio do céu; e esse é o Mundo de 567 (Miroku). (1952, Bunmei no Sozou, "O Fim de Buda e o Mundo de 567") 
 
-  #### ii O Dia chegou e o Deus Sol exerce Seu poder — A felicidade dos fiéis desta religião 
+#### ii O Dia chegou e o Deus Sol exerce Seu poder — A felicidade dos fiéis desta religião 
 
   (Kyō・Edição 29, Pág. 58, linha 12 ～ Pág. 60, linha 6 \<Coletânea de Palestras・Vol. 11, Pág. 321\>)
 
@@ -1149,11 +1149,11 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   
 
-  # Parei aqui\~\!
+# Parei aqui\~\!
 
-  ### ② Significado Concreto da Conversão Noite-Dia (夜昼転換の具体的意味)
+### ② Significado Concreto da Conversão Noite-Dia (夜昼転換の具体的意味)
 
-  #### i Aumento do Elemento Fogo, Cura pelo Johrei
+#### i Aumento do Elemento Fogo, Cura pelo Johrei
 
   (Shū・Pág. 114, Coluna superior, linha 22 ～ Coluna inferior, linha 21; Pág. 116, Coluna superior, linha 13 ～ Coluna inferior, linha 2; Coluna inferior, linhas 9 a 15 ＝ Ishizue Shū Jō・Pág. 112, Coluna superior, linha 5 ～ Coluna inferior, linha 16; Pág. 115, Coluna superior, linha 10 ～ Coluna inferior, linha 9; Pág. 116, Coluna superior, linhas 1 a 9 \<Obras Completas・Vol. 5, Pág. 258\>)
 
@@ -1165,7 +1165,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Por essa razão, agora chegou o tempo da mudança entre noite e dia no Mundo Espiritual, que deveria vir naturalmente após alguns milhares ou dezenas de milhares de anos. Este é um assunto importante e, a menos que se saiba disso, não se pode compreender o princípio desta arte médica. À medida que se avança para o Mundo do Dia, o Elemento Fogo (Kaso) no Mundo Espiritual aumenta gradualmente. Isso porque a fonte da irradiação do Elemento Fogo é o Sol. E, além de ser eficaz na cura de doenças, o Elemento Fogo tem outro ponto importante. É que o aumento do Elemento Fogo no Mundo Espiritual acelera ainda mais a ação de purificação do corpo humano. Ou seja, as mudanças no Mundo Espiritual influenciam diretamente o corpo espiritual (Reitai). O aumento do Elemento Fogo torna-se um fortalecimento do poder de purificação, que se pode chamar de papel de apoio, contra o nublamento do corpo espiritual. Consequentemente, as doenças tornam-se mais fáceis de ocorrer, e o efeito da terapia de solidificação da medicina existente torna-se fraco, até se tornar impossível. Por exemplo, no mundo da noite, toxinas que, uma vez solidificadas, levavam vários anos até a reincidência, tiveram esse tempo encurtado gradualmente para um ano, meio ano, três meses, um mês, até que se torna impossível solidificá-las. Mesmo por isso, saberão que estamos transitando gradualmente da noite para o dia. Realmente, como método de tratamento de doenças durante o período da noite, solidificar era mais vantajoso do que dissolver. Isso porque o Elemento Fogo necessário para a dissolução das toxinas era insuficiente. Portanto, como método secundário, era inevitável adotar o método de solidificar. O fato de isso ter se tornado, por fim, a causa de sofrimentos como vida curta, doenças, fome e guerras para a sociedade humana foi, na verdade, um erro terrível. (5 de fevereiro de 1947, "Conversão Noite-Dia")
 
-  ####  ii Aumento do Elemento Fogo 
+####  ii Aumento do Elemento Fogo 
 
   (Ron・Pág. 2205, Coluna inferior, linha 20 ～ Pág. 2206, Coluna superior, linha 1; Coluna superior, linhas 4 a 10 ＝ Ishizue Jō Jō・Pág. 18, Coluna superior, linhas 10 a 14; Coluna inferior, linhas 1 a 9 \<Obras Completas・Vol. 12, Pág. 261\>) ***\[Trecho do Preâmbulo Anterior (Ron・Pág. 2205, Coluna superior, linha 9 ～ Coluna inferior, linha 20)\]** A ciência até agora tem como objeto apenas o mundo material e é de nível baixo, mas o que eu explico é a ciência do espírito, e o efeito do Johrei prova quão alto é o seu nível. O fato de o Johrei ter aparecido neste mundo deve-se à Grande Conversão do Mundo Espiritual da noite para o dia após três mil anos. Então, quando foi essa Grande Conversão?*
 
@@ -1175,7 +1175,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   *Este Ensinamento ensina que a visão de mundo deve ser alterada fundamentalmente. — A visão de mundo científica e materialista mudará para uma visão de mundo centrada em Deus (Consultar Capítulo 1, Seção 3, 2-③ Demonstrando os limites da civilização científica \<Pág. 86 deste livro\>, ④ Conhecer os erros da cultura existente através da Sabedoria Divina \<Pág. 116 deste livro\>).*
 
-  #### iii Ocorrência de doenças violentas
+#### iii Ocorrência de doenças violentas
 
    (Shū・Pág. 377, Coluna inferior, linha 16 ～ Pág. 378, Coluna inferior, linha 9 ＝ Ishizue Shū Jō・Pág. 119, Coluna superior, linha 7 ～ Pág. 120, Coluna inferior, linha 9 \<Obras Completas・Vol. 7, Pág. 603\>)
 
@@ -1187,7 +1187,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Como a doença humana é originalmente uma ação de purificação pelo Elemento Fogo, é natural que uma purificação mais intensa ocorra naqueles que retêm grande quantidade de impurezas no corpo. No entanto, as doenças até hoje eram purificações que vinham de forma extremamente lenta, por isso não chegavam a colocar a vida em perigo; mas a doença do tempo final será uma grande purificação extremamente brusca, portanto, terá um curso rapidíssimo. Por exemplo, sintomas como dor de cabeça, tosse, diarreia, etc., se forem dois ou três, não chegam a ameaçar a vida; mas se ocorrerem sete ou oito de uma vez, será insuportável. Nesse caso, mesmo que consultem um médico, como a causa da doença é totalmente desconhecida, a morte rápida é inevitável. Não é assustador? Como resultado de tal grande purificação atacar a humanidade, surgirá uma era de grande terror, e pode-se imaginar que inúmeras pessoas perecerão. Em relação a isso, Cristo também emitiu um grande aviso com as palavras "Juízo Final". Apenas, como até hoje a verdade e o tempo desse julgamento não eram conhecidos com clareza, a humanidade não pôde obter a verdadeira consciência. No entanto, agora que o tempo é iminente, Deus fez com que eu escrevesse concretamente para dar um grande aviso aqui. Nesse sentido, neste outono (momento) em que o Grande Julgamento está prestes a cobrir a cabeça de toda a humanidade, visto que é o Grande Amor de Deus salvar nem que seja mais um ser humano, e sendo Ele o executor do Grande Julgamento e Aquele que detém a vida humana, não há absolutamente outro método para atravessar esta dificuldade senão apegar-se às Mãos de Deus e ter os pecados perdoados. Ou seja, não há caminho para a salvação a menos que a carga de pecados que a humanidade carrega seja removida e purificada pelas Mãos de Deus\*2. Visto que eu, como executor desta última salvação, toco aqui um grande sino de alerta para cumprir a responsabilidade conforme a delegação de Deus, para aqueles que tapam os ouvidos e não desejam ouvir, não há outra palavra senão dizer que são pessoas que escolhem por si mesmas o destino da destruição. Aviso que, mesmo que se arrependam quando chegar o momento derradeiro, já não haverá volta, e assim deponho a pena. (31 de dezembro de 1949, Eikō・Edição 42, "O fim da noite está próximo, arrependei-vos")
 
-  #### iv Após 15 de junho de 1931, a cura religiosa de doenças e a medicina chegaram a um impasse 
+#### iv Após 15 de junho de 1931, a cura religiosa de doenças e a medicina chegaram a um impasse 
 
   (Shū・Pág. 318, Coluna superior, linhas 1 a 12; Coluna superior, linha 13 ～ Coluna inferior, linha 8 ＝ Ishizue Shū Jō・Pág. 270, Coluna superior, linha 12 ～ Pág. 271, Coluna inferior, linha 2 \<Obras Completas・Vol. 10, Pág. 677\>)
 
@@ -1209,9 +1209,9 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   *3 (Kyō・Edição 14, Pág. 22, linhas 13 a 15 \<Coletânea de Palestras・Vol. 8, Pág. 184\>) Os caracteres de Meiji (明治) são Sol (日) e Lua (月); governar com Sol e Lua. Até agora governava-se com a Lua, mas desta vez o Sol entra e governa-se com Sol e Lua; isso também é muito misterioso. E depois veio a Era Taisho. (15 de setembro de 1952\)* 
 
-  ###### 
+###### 
 
-  #### v A única religião que não precisa de hospitais é a Sekaikyuseikyo 
+#### v A única religião que não precisa de hospitais é a Sekaikyuseikyo 
 
   (Kyō・Edição 16, Pág. 6, linhas 3 a 13 \<Coletânea de Palestras・Vol. 8, Pág. 184\>) 
 
@@ -1221,7 +1221,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Se não tivesse a força / De curar a doença / A religião seria / Inferior à ciência. (16 de setembro de 1953\) (Eikō・Edição 22, No. 1 ＝ Obras Completas de Mokiti Okada, Volume de Poemas ***\[VI\]**, Pág. 363, No. 3\)* 
 
-  #### vi 15 de Junho de 1931 — Ritual da Conversão Noite-Dia 
+#### vi 15 de Junho de 1931 — Ritual da Conversão Noite-Dia 
 
   (Shū・Pág. 398, Coluna superior, linhas 8 a 14 ＝ Ishizue Shū Jō・Pág. 16, Coluna superior, linhas 2 a 11 \<Obras Completas・Vol. 10, Pág. 684\>)
 
@@ -1231,17 +1231,17 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Na alvorada de 15 de junho de 1931, acompanhado de pouco mais de trinta pessoas, subi ao topo do Monte Kenkon do Templo Nihon-ji em Awa (Chiba); enquanto entoava a oração xintoísta (Norito) em direção ao céu oriental, algo misterioso foi realizado. Ainda não posso divulgar o que foi, mas esse ritual foi a Providência como a linha divisória onde a noite se tornou dia. O interessante é que o Monte Kiyosumi fica a uma curta distância a leste do referido Monte Kenkon, sendo montanhas irmãs. Além disso, o nome do templo ser Nihon-ji (Templo do Japão) também sugere o referido mistério. (12 de novembro de 1952, Eikō・Edição 182, "A Luz do Oriente") 
 
-  #### vii Tornar-se Bem-Mestre e Mal-Subordinado 
+#### vii Tornar-se Bem-Mestre e Mal-Subordinado 
 
   (Ron・Pág. 2171, Coluna superior, linhas 6 a 12 ＝ Ishizue Jō Jō・Pág. 136, Coluna superior, linha 10 ～ Coluna inferior, linha 1 \<Obras Completas・Vol. 12, Pág. 13\>)
 
   Texto omitido: Consultar neste Item, 2 \- Providência, 1 \- Paraíso Terrestre ⑥ (Pág. 529 deste livro).
 
-  #### viii Fenômenos Astronômicos e Bandeiras Nacionais — O Futuro dos Países Desenvolvidos (Meii ③・Pág. 5, linha 1 ～ Pág. 6, linha 8; Pág. 6, linha 8 ～ Pág. 7, linha 2 \<Obras Completas・Vol. 4, Pág. 408\>)
+#### viii Fenômenos Astronômicos e Bandeiras Nacionais — O Futuro dos Países Desenvolvidos (Meii ③・Pág. 5, linha 1 ～ Pág. 6, linha 8; Pág. 6, linha 8 ～ Pág. 7, linha 2 \<Obras Completas・Vol. 4, Pág. 408\>)
 
   Ao explicar a verdade sobre o problema sem precedentes na história da humanidade que é a Grande Conversão mundial, escrevo sobre o destino dos principais países do mundo e as mudanças, isto é, o destino dos que prosperam e dos que perecem, ou seja, a visão do futuro ao encontrar a Conversão Noite-Dia. No Xintoísmo japonês, diz-se que Céu e Terra são espelhos um do outro1; isso é uma verdade. Ou seja, a configuração dos corpos celestes reflete-se na Terra e, naturalmente, as mudanças dos corpos celestes também se refletem na Terra. Com esse significado, tentarei examinar. Ou seja, o Japão é o Sol, o Reino Unido é a Lua, os Estados Unidos são a Estrela, a União Soviética é a Nuvem, a Alemanha é a Terra, a Itália é o Mar e a França é a Névoa. Explicarei resumidamente sobre eles. O Japão não precisa de explicação, mas o fato de o Reino Unido ser a Lua é narrado por sua bandeira nacional. Ou seja, a cor de fundo da bandeira é a cor do céu ao luar, e as faixas vermelhas que atravessam em oito direções são a forma da luz da lua estendendo-se em oito direções refletindo a luz do Sol. E as faixas brancas na borda das faixas vermelhas representam a cor da própria Lua; e o fato de haver neblina densa em Londres é porque é a Capital da Lua. E o fato de ter cantado a hegemonia no mundo até hoje deve-se ao fato de que, no mundo da noite, a Lua é o rei. Também acho interessante a bandeira listrada e estrelada dos Estados Unidos. A abundância material deste país deve-se ao fato de que o número de estrelas é incontável. E a relação com o Reino Unido deve-se ao fato de que Lua e Estrelas emitem brilho juntas no mundo da noite. Os britânicos imigraram para a América, o que se tornou a base da colonização, resultando na grande América de hoje. A seguir, o fato de a União Soviética ser a Nuvem deve-se ao fato de que em todo o país há muita neve, o que significa muita umidade, sendo sempre sombrio. Além disso, a atividade das nuvens não é constante; ora expandem, ora contraem, tornam-se nuvens brancas, tornam-se nuvens negras; realmente há algo imprevisível\*3. (23 de outubro de 1943, "O Significado da Tríplice Aliança") 
 
-  #### ix Japão aparece gradualmente para o mundo 
+#### ix Japão aparece gradualmente para o mundo 
 
   (Kyō・Edição 14, Pág. 25, linha 6 ～ Pág. 26, linha 1\) ***\[Trecho\]***
 
@@ -1249,15 +1249,15 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   O interessante é que o Japão foi reconhecido pelo mundo — até então estava escondido no canto do Extremo Oriente, mas apareceu mundialmente a partir da vinda do americano Perry; portanto, no fim das contas, quem deu à luz o Japão foi a América. No entanto, a América é o país da Estrela, mas "Estrela" (星) escreve-se "nascer o Sol" (日を生む). Isso também é misterioso\*. Então, a Estrela dá à luz o Sol; ou seja, quando a Lua se esconde, torna-se o mundo das Estrelas. Portanto, a Lua é o Reino Unido. O Reino Unido declinou e o país da Estrela, os Estados Unidos, ascendeu. Quando o país da Estrela ascendeu, era noite escura, por isso as estrelas brilhavam. Isso está muito bem manifestado. O Reino Unido declina e, inversamente, os Estados Unidos brilham. À medida que a Lua se esconde, a Estrela aumenta o brilho; essa é a ordem. Isso se manifesta bem nos países. Então a Estrela aparece, e depois o Sol aparece — o Japão nasce. É assim que acontece. A ordem em que o Japão nasce gradualmente é, como acabei de dizer, São Nichiren — há seiscentos e dezenas de anos — celebramos o festival de 650 anos há algumas décadas —, depois veio Meiji e clareou novamente, e depois 15 de junho de 1931, que está no meu livro — li agora há pouco; dessa forma, o Mundo Intermediário clareou. E então, finalmente, o Sol sai no mundo material. Isso é daqui para a frente. Com isso, o mundo material sofrerá uma grande mudança. Isso é, em suma, o Juízo Final. (16 de setembro de 1952\)
 
-  #### x Japão é Sol, EUA é Estrela, Reino Unido é Lua — Restauração Meiji 
+#### x Japão é Sol, EUA é Estrela, Reino Unido é Lua — Restauração Meiji 
 
   (Kyō・Edição 14, Pág. 30, linha 8 ～ Pág. 31, linha 7 \<Coletânea de Palestras・Vol. 8, Pág. 87\>) Há ocasiões em que se diz que a linhagem do Imperador Jinmu é a linhagem do Sol. Diz-se que é a linhagem de Amaterasu Omikami, mas tornou-se uma linhagem colateral de Amaterasu Omikami. Portanto, bem... pode-se dizer que é uma linhagem. A verdadeira linhagem foi aprisionada. Tornou-se o ocultamento na Porta de Pedra (Iwato-gakure). Essa linhagem colateral tornou-se o Imperador Jinmu. Então, Okuninushi no Mikoto é da linhagem de Susanoo no Mikoto, portanto, linhagem da Lua. Então, pensando em derrotar a linhagem do Sol, lutaram o tempo todo. Essa foi a causa das guerras sucessivas no Japão. E o fim foi Tokugawa Ieyasu. Porque ele é da linhagem de Susanoo no Mikoto. Então, desta vez, derrotar o lado de Susanoo no Mikoto e fazer com que a linhagem do Sol se levante; isso é Meiji. A Restauração Imperial. Um dos ajudantes, apoiadores mais fundamentais disso é a América. Da América, vieram Perry e outros para a abertura do Japão. Por que isso aconteceu? Passando a era da Lua — eu digo que a Inglaterra é o país da Lua —, a Lua foi se escondendo gradualmente — quando a Lua se esconde, fica escuro, e então as estrelas brilham. À medida que a Inglaterra declinava, a América ascendia. A América é o país da Estrela. E quando a Estrela passa, o Sol sai. Falando astronomicamente, isso também é bem compreensível. Quando a Lua desaparece, fica tudo escuro e as estrelas brilham. E então o Sol sai. Por isso, no caractere "Estrela" (星) está escrito "o Sol nasce" (日が生まれる). A América deu à luz a linhagem do Sol do Japão. Porque a América abriu o Japão, o xogunato Tokugawa caiu. E o lado do Imperador, que é a linhagem do Sol, governou o país. A propósito, essa forma manifesta-se religiosamente\*2. O mais interessante é que, agora, todas as religiões, em qualquer lugar, começaram a construir hospitais. (17 de setembro de 1952\) xi Conversão Noite-Dia — Incidente da Manchúria — Guerra do Pacífico — Derrota e Liberdade Religiosa (Kyō・Edição 14, Pág. 23, linhas 10 a 14 \<Coletânea de Palestras・Vol. 8, Pág. 80\>)
 
   A partir dali\*1 começou o Alvorecer. Começou o amanhecer do Japão. Isso foi em 15 de junho de 1931\. E então — três meses e três dias depois, ocorreu o Incidente da Manchúria. O Incidente da Manchúria expandiu-se gradualmente e tornou-se a Grande Guerra do Leste Asiático (Guerra do Pacífico), e assim o Japão sofreu uma revolução. A grande revolução do Japão. Virou de cabeça para baixo. Desde aquela época, Deus administrou a Providência (Keirin) na ordem correta. Ao explicar essas coisas, é realmente perfeito. Está vindo corretamente\*2. (15 de setembro de 1952\)
 
-  ### ③ Significado Espiritual da Conversão Noite-Dia (夜昼転換の霊的意義)
+### ③ Significado Espiritual da Conversão Noite-Dia (夜昼転換の霊的意義)
 
-  #### i O Grande Drama dos Três Mil Mundos (三千世界の大芝居)
+#### i O Grande Drama dos Três Mil Mundos (三千世界の大芝居)
 
   (Kyō・Edição 31, Pág. 1, linha 10 ～ Pág. 2, linha 1; Pág. 20, linha 12 ～ Pág. 21, linha 6 \<Coletânea de Palestras・Vol. 12, Pág. 174\>)
 
@@ -1273,15 +1273,15 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   País de Ushitora\*1 / Capital de Ushitora / Com o nome de Kannon / O Deus Rigoroso (Izu no Okami). (4 de março de 1935\) (Kōsei・Edição 2, Pág. 6, No. 1 ＝ Obras Completas de Mokiti Okada, Volume de Poemas ***\[IV\]**, Pág. 36, No. 2\)* 
 
-  #### ii Setsubun (節分)
+#### ii Setsubun (節分)
 
    (Kyō・Edição 31, Pág. 26, linha 10 ～ Pág. 27, linha 1; Pág. 27, linhas 6 a 8 \<Coletânea de Palestras・Vol. 12, Pág. 196\>) Diz-se que o Setsubun refere-se à época em que um Deus chamado Kunitokotachi no Mikoto governava o mundo numa era antiga; como era aquela época, não se sabe se era todo o mundo, mas certamente Ele governava uma área consideravelmente vasta, tendo o Japão como centro. E, embora se diga Deus, eram, afinal, seres humanos. No entanto, os seres humanos daquela época possuíam uma espiritualidade muito elevada. Aquele tempo era mais ou menos o fim do mundo do dia, mas, durante a longa era subsequente, o ser humano, devido ao mundo da noite, foi se sujando cada vez mais, e o nível espiritual baixou. Esse Deus era muito rigoroso, ou seja, de suprema retidão e honestidade, e não perdoava a menos que fosse algo muito correto; por causa disso — isso também consta no Xintoísmo — muitos deuses se uniram e O aprisionaram na noite de Setsubun. (7 de fevereiro de 1954\) 
 
-  #### iii A Providência de Deus é realmente profunda (神の経綸は実に深い)
+#### iii A Providência de Deus é realmente profunda (神の経綸は実に深い)
 
    (Kyō・Edição 31, Pág. 8, linhas 4 a 6 \<Coletânea de Palestras・Vol. 12, Pág. 180\>) Texto omitido: Consultar neste Item, 2 \- Providência, 6 \- O Progresso da Obra Divina, ① ix (Pág. 674 deste livro). 
 
-  #### iv Setsubun (Poemas) (節分（御詠）) 
+#### iv Setsubun (Poemas) (節分（御詠）) 
 
   Ushitora no / Konjin que foi retirado na noite / De Setsubun / A alegria de aparecer novamente. (4 de março de 1935\) (Kōsei・Edição 2, Pág. 5, No. 6 ＝ Obras Completas de Mokiti Okada, Volume de Poemas ***\[IV\]**, Pág. 36, No. 1\)*
 
@@ -1291,23 +1291,23 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Kanzeon / A força que exerce / Reside na Força do Diamante / Do Deus de Ushitora\*. (4 de março de 1935\) (Kōsei・Edição 2, Pág. 6, No. 6 ＝ Obras Completas de Mokiti Okada, Volume de Poemas ***\[IV\]**, Pág. 37, No. 3\)*
 
-  ## 3 A Grande Transição da Civilização\* (文明の大転換)
+## 3 A Grande Transição da Civilização\* (文明の大転換)
 
    ***\[Explicação\]** O termo "Grande Transição da Civilização" é utilizado com bastante frequência por Meishu-Sama e é um conceito importante na doutrina. O mais importante é compreender que a "Grande Transição da Civilização" ocorre, na verdade, porque "a Noite se converteu em Dia", devendo ser entendida dentro da grande estrutura da "Conversão Noite-Dia". Este ponto é frequentemente abordado nos Ensinamentos abaixo, portanto, leiam com atenção. Além disso, a razão pela qual a civilização moderna se tornou parcial também é um ponto importante, e isso é discutido gradualmente nos Ensinamentos do Capítulo Geral de A Criação da Civilização. (A Grande Transição da Civilização é o tema mais importante desde o Prefácio até o Capítulo 7, "O Salvador e o Redentor", de A Criação da Civilização \= Obras Completas・Vol. 10, Págs. 110 a 137).*
 
-  ### ① O nascimento da Verdadeira Civilização (真文明の誕生) (S1・Seções 1 a 3, Seções 8 a 13 \<Obras Completas・Vol. 10, Pág. 110\>)
+### ① O nascimento da Verdadeira Civilização (真文明の誕生) (S1・Seções 1 a 3, Seções 8 a 13 \<Obras Completas・Vol. 10, Pág. 110\>)
 
   Esta obra\* é um grande escrito jamais visto desde o início da história e, em uma palavra, pode ser chamada de projeto da nova civilização mundial; é o evangelho do Paraíso e a Bíblia do século XX. Isso porque a civilização atual não é a verdadeira civilização, sendo uma civilização provisória até que nasça a nova civilização. O "fim do mundo" na Bíblia refere-se ao fim deste mundo de civilização provisória. (1952, Bunmei no Sozou, Prefácio)
 
   Trecho posterior (S1・Seções 8 a 13\) omitido: Consultar neste Item, 2, 1 \- Paraíso Terrestre, ① i (Pág. 508 deste livro).
 
-  ### ② A Providência muda da Noite para o Dia (経綸は夜から昼へ)
+### ② A Providência muda da Noite para o Dia (経綸は夜から昼へ)
 
   (Ron・Pág. 2171, Coluna superior, linhas 6 a 9 ＝ Ishizue Jō Jō・Pág. 136, Coluna superior, linhas 10 a 14 \<Obras Completas・Vol. 12, Pág. 13\>)
 
   Texto omitido: Consultar neste Item, 2 \- Providência, 1 \- Paraíso Terrestre, ⑥ (Pág. 529 deste livro).
 
-  ### ③ A civilização material termina seu papel principal na Providência, e o mal é expulso (物質文明は経綸の主役を終え、悪が追放される)
+### ③ A civilização material termina seu papel principal na Providência, e o mal é expulso (物質文明は経綸の主役を終え、悪が追放される)
 
   (S3・Seções 47 a 57 \<Obras Completas・Vol. 10, Pág. 120\>)
 
@@ -1317,7 +1317,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   47 Vendo por esse ângulo, conclui-se que até hoje o mal também desempenhou um grande papel. 48 Contudo, o período do mal não é infinito, mas tem um limite. 49 Essa é a intenção do Deus Supremo (Sushin), o governante do mundo e, filosoficamente falando, o Absoluto e a Vontade do Universo. 50 Ou seja, é o fim do mundo profetizado por Cristo e, a era que virá a seguir, é o mundo paradisíaco aguardado pela humanidade, o mundo de Verdade, Bem e Belo de absoluta inexistência de doença, pobreza e conflito, o Mundo de Miroku, etc.; os nomes são diferentes, mas o significado é um só: resume-se a um mundo onde o bem venceu1. Se vamos construir esse mundo maravilhoso, é necessária uma preparação correspondente. A preparação é a reunião das condições suficientes, tanto espirituais quanto materiais, para formar o referido mundo. No entanto, Deus colocou o aspecto material primeiro nessa ordem. Isso porque o aspecto espiritual não requer tempo e pode ser elevado de uma só vez, ao passo que o aspecto material não é tão fácil. Requer muito tempo e, para isso, acima de tudo, foi necessário fazer com que se ignorasse a existência real de Deus. Com isso, o pensamento humano voltou-se naturalmente para o aspecto material. Assim nasceu o ateísmo. Portanto, o ateísmo foi, na verdade, um pensamento necessário para criar o mal2. Assim nasceu o mal, que gradualmente ganhou força, atormentou o bem, gerou conflitos e fez a humanidade cair no fundo do sofrimento; assim, o ser humano não apenas se debateu para tentar subir, como também tentou escapar da situação difícil através do esforço e dedicação. Visto que isso impulsionou o desenvolvimento da cultura, embora trágico, foi inevitável. Com o exposto acima, compreenderam em linhas gerais o significado fundamental sobre o bem e o mal; mas finalmente chegou o tempo da expulsão do mal; sendo a linha divisória da troca entre bem e mal, tornou-se uma situação grave para o mal.\*3 Isso não é conjectura, esperança ou raciocínio. É a manifestação do programa de Deus para a Providência mundial; portanto, crendo ou não, esse é o destino decisivo da humanidade; é o fim da linha para o mal, e a cultura que o mal manipulou livremente passará, numa reviravolta, para as mãos do bem, entrando-se aqui no estágio de estabelecimento do Paraíso Terrestre. (1952, Bunmei no Sozou, "A Ordem de Construção do Paraíso e a Expulsão do Mal")
 
-  ### ④ A doença é expulsa e estabelecem-se as condições básicas da Verdadeira Civilização (病が追放され、真文明の基礎的条件が確立する)
+### ④ A doença é expulsa e estabelecem-se as condições básicas da Verdadeira Civilização (病が追放され、真文明の基礎的条件が確立する)
 
   (K14・15・Seções 1 a 6 \<Obras Completas・Vol. 10, Pág. 186\>)
 
@@ -1329,11 +1329,11 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Contudo, com o meu nascimento, tornou-se possível resolver a doença, que é a fonte da infelicidade desta humanidade, de modo que chegou um tempo realmente grato. Consequentemente, com isso3 a civilização sofrerá uma conversão de 180 graus, e não há dúvida de que o mundo ideal será realizado4.
 
-  ### ⑤ A Revolução Médica é a premissa para a transição da civilização (医学革命が文明の転換する前提)
+### ⑤ A Revolução Médica é a premissa para a transição da civilização (医学革命が文明の転換する前提)
 
   (1952, Bunmei no Sozou, "Os Malefícios do Veneno dos Remédios")
 
-  #### i Condição básica da salvação (Ron Betsu・Pág. 687, Coluna superior, linha 17 ～ Coluna inferior, linha 17 \<Obras Completas・Vol. 11, Pág. 181\>)
+#### i Condição básica da salvação (Ron Betsu・Pág. 687, Coluna superior, linha 17 ～ Coluna inferior, linha 17 \<Obras Completas・Vol. 11, Pág. 181\>)
 
   ***\[Explicação\]** Este é um extrato da introdução de O Livro da Revolução Médica (Igaku Kakumei no Sho). Nele, o papel que a "Revolução Médica" deve desempenhar, não apenas como uma "grande transição da civilização", mas dentro de uma grande transformação, está posicionado.*
 
@@ -1343,13 +1343,13 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Neste momento, a Grande Misericórdia de Deus pretende salvar o maior número de vidas que estão prestes a se afogar, envolvidas neste redemoinho. Naturalmente, essa Grande Liquidação esclarece as falhas da civilização existente, ensina como deve ser a verdadeira civilização e realiza o mundo ideal, que é o Grande Objetivo de Deus. Este é o "Reino dos Céus" dito por Cristo, o "Mundo de Miroku" dito por Shaka, e o "Mundo de absoluta inexistência de doença, pobreza e conflito", lema desta religião; e a sua raiz é, acima de tudo, eliminar a doença da humanidade. (1953, Igaku Kakumei no Sho, Introdução) 
 
-  #### ii O perigo da destruição da humanidade
+#### ii O perigo da destruição da humanidade
 
   (S5・Seções 34 a 35 \<Obras Completas・Vol. 10, Pág. 131\>) Conforme exposto acima, o fundamento da medicina1 está no objetivo de criar o mal no ser humano e enfraquecer a saúde, de modo que, como esperado, formou-se o mundo atual. No entanto, se avançar mais do que isso, a humanidade ficará exposta, ao contrário, ao perigo da destruição; portanto, não é mais permitido avançar além disso. Aqui, para realizar a Grande Transição da Civilização, Deus revelou-me a Verdade2; com isso, restringe-se o mal até certo ponto, e chegou o tempo do estabelecimento do mundo civilizado de Bem-Mestre e Mal-Subordinado.
 
   ***\[Explicação\]** (1952, Bunmei no Sozou, "A Origem do Mal e a Doença")*
 
-  ### ⑥ O fim do papel do mal (Su 4・Seções 22 a 44, Seções 58 a 64 \<Obras Completas・Vol. 10, Pág. 307\>)
+### ⑥ O fim do papel do mal (Su 4・Seções 22 a 44, Seções 58 a 64 \<Obras Completas・Vol. 10, Pág. 307\>)
 
   ***\[Trecho do Preâmbulo Anterior (Su 4・Seções 1 a 21)\]** Deus intenciona que o ser humano construa nesta terra um mundo ideal de Verdade, Bem e Belo que corresponda à Vontade Divina (Seções 1 a 12). Olhando para a história, a humanidade sofreu com a existência do mal (por exemplo, guerras). O Deus de Amor, afinal, por que permitiu a existência do mal até hoje? — Foi para extrair o bem, que é o desenvolvimento da civilização material, a partir da opressão causada pelo mal (até a Seção 21).*
 
@@ -1357,13 +1357,13 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Contudo, aqui reside um problema. Mesmo que esse atrito entre o bem e o mal tenha sido necessário para o progresso da cultura, o mal não foi permitido infinitamente. Está determinado que chegará o destino em que ele será interrompido, e hoje é o momento em que esse tempo chegou. A razão disso pode ser bem compreendida ao observar a forma atual da cultura. Refiro-me ao progresso espantoso das armas como meio de guerra. Desnecessário dizer, trata-se da descoberta da destruição atômica; essa descoberta sugere o destino catastrófico da humanidade, e o que seria senão a manifestação de que chegou o tempo em que a guerra se tornou impossível? Mesmo observando por esse ângulo, deve-se perceber que o fim daquilo que é o mal, a raiz dos conflitos, já está iminente. Naturalmente, é também a manifestação real da Transição da Noite para o Dia que sempre preconizo. Isso pode ser bem compreendido mesmo observando historicamente. Se o mal fosse permitido ilimitadamente, o que teria acontecido com a sociedade? O ser humano não poderia dedicar-se ao trabalho com tranquilidade nem levar uma vida pacífica; por fim, tornar-se-ia um mundo demoníaco e tudo estaria fadado ao colapso. Sendo assim, o controle e o ajuste tornaram-se necessários até certo período; o que nasceu com essa função foi a religião, e quem assumiu o papel principal foi Cristo. O fato de o fundamento da doutrina dessa religião ser o amor à humanidade narra bem isso. Graças a isso, de qualquer forma, a sociedade da raça branca não se tornou um mundo demoníaco e alcançou o desenvolvimento maravilhoso que vemos hoje; o que seria isso senão, inteiramente, uma dádiva do amor cristão? Com o exposto acima, compreenderam o significado fundamental do surgimento do Cristianismo. E há mais uma coisa que não se deve esquecer: ateísmo e teísmo. Isso também, na verdade, tem um significado profundo na Providência; se a humanidade fosse apenas teísta desde o início, o mal não teria surgido e os conflitos não teriam ocorrido; contentando-se com isso, ter-se-ia tornado uma esplêndida terra de paz e, mesmo que a ciência materialista tivesse nascido, não teria potencial de desenvolvimento, de modo que certamente não teria sido possível realizar os preparativos culturais que são elementos do Paraíso Terrestre. No entanto, como resultado da disseminação do pensamento ateísta, visto que se prioriza apenas a forma, a deslumbrante cultura material que vemos hoje foi completada; o que seria isso senão a profunda e misteriosa intenção de Deus? Contudo, os materialistas que só enxergam a superfície jamais conseguirão compreender essa verdadeira intenção, mas, como dito acima, o ateísmo, que é a fonte geradora do mal, tornou-se finalmente uma existência prejudicial e inútil. Sendo assim, ó muitos ateus do mundo, devem despertar o mais rápido possível; se, infelizmente, não conseguirem abandonar a teoria errônea de até agora, sinto dizer, mas o destino da destruição está à vossa espera. Isso porque o momento da troca entre bem e mal\* aproxima-se decisivamente e, nesse caso, a sobrevivência dos obstrutores da Obra Divina será negada por um poder absoluto. E o meio que Deus adotou para salvar os ateus é fazê-los reconhecer a existência real de Deus, e esse método é o Johrei desta religião. Vejam os inúmeros pacientes com doenças graves e difíceis que vêm buscar a salvação nesta religião e, banhados na graça da cura completa repentina, sabem que Deus certamente existe neste mundo, despertam subitamente, arrependem-se do erro do ateísmo de até então e convertem-se imediatamente ao teísmo; de cem pessoas, as cem agem assim. Acima de tudo, vendo que esses exemplos reais estão publicados como relatos de graças em jornais e revistas emitidos por esta religião em número incontável, não se poderá interpor nem uma dúvida sequer. Como exposto acima, compreenderam que até hoje aquilo que é o mal foi muito necessário e que, de hoje em diante, será restringido como existência secundária. (1952, Bunmei no Sozou, "A Origem do Bem e do Mal e o Cristianismo")
 
-  ### ⑦ Um mundo com a segurança da vida assegurada
+### ⑦ Um mundo com a segurança da vida assegurada
 
   Trecho posterior (Su 14・Seções 58 a 64\) omitido: Consultar neste Item, 2 \- Providência, 1 \- Paraíso Terrestre, ⑤ iii (Pág. 527 deste livro).
 
   (Ron・Pág. 1577, Coluna inferior, linhas 10 a 18; Pág. 1577, Coluna inferior, linha 20 ～ Pág. 1578, Coluna superior, linha 5; Pág. 1578, Coluna superior, linhas 10 a 11, 16 a 20; Coluna inferior, linhas 3 a 10, 13 a 16; Pág. 1580, Coluna superior, linha 12 ～ Coluna inferior, linha 9 ＝ Ishizue Sha・Pág. 14, Coluna inferior, linha 13 ～ Pág. 19, Coluna inferior, linha 13 \<Coletânea de Palestras・Vol. 4, Pág. 8\>)
 
-  ### ⑧ A civilização da onipotência científica será corrigida pelo esclarecimento do Mundo Espiritual
+### ⑧ A civilização da onipotência científica será corrigida pelo esclarecimento do Mundo Espiritual
 
   Texto omitido: Consultar neste Item, 2 \- Providência, 1 \- Paraíso Terrestre, ④ (Pág. 522 deste livro).
 
@@ -1379,7 +1379,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   (Ron・Pág. 2081, Coluna inferior, linhas 7 a 21 ＝ Ishizue Jō Jō・Pág. 8, Coluna superior, linha 11 ～ Coluna inferior, linha 14 \<Obras Completas・Vol. 11, Pág. 574\>)
 
-  ### ⑨ A pesquisa científica está prestes a entrar no mundo do espírito (科学の研究は霊の世界に入ろうとしている)
+### ⑨ A pesquisa científica está prestes a entrar no mundo do espírito (科学の研究は霊の世界に入ろうとしている)
 
   ***\[Trecho do Preâmbulo Anterior (Ron・Pág. 2081, Coluna superior, linha 1 ～ Coluna inferior, linha 6)\]** Numa mesa redonda com o Dr. Hideki Yukawa, que retornou ao país após receber o Prêmio Nobel de Física, o doutor mencionou o campo da teoria das propriedades da matéria, que tem como objetivo o estudo das propriedades, um campo diferente do núcleo atômico e das partículas elementares em que ele se especializou. Eu interpreto que, se o estudo das partículas elementares e do núcleo atômico for o corpo, o estudo das propriedades corresponde ao espírito. (Consultar Capítulo 1, Seção 3, Sabedoria Divina, 2-③ Demonstrando os limites da civilização científica \<Pág. 86 deste livro\>.)*
 
@@ -1389,7 +1389,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Pensando com base no exposto, deve-se considerar que, no mundo futuro, o progresso além deste ponto será extremamente difícil, seja na ciência, na filosofia ou nas religiões estabelecidas. Nesse sentido, chegou finalmente o tempo em que aparecerá o X que transcendeu o nível da cultura atual. Através desse grande salto do X, a grande crise da civilização atual, que se encontra num impasse como este, será superada, e uma nova civilização surpreendente será criada; essa é a minha missão. (19 de agosto de 1953, Eikō・Edição 222, "Super Ciência")
 
-  ### ⑩ O papel da civilização científica\*1 (科学文明の役割)
+### ⑩ O papel da civilização científica\*1 (科学文明の役割)
 
   (Ron Betsu・Pág. 802, Coluna superior, linha 12 ～ Coluna inferior, linha 16 \<Obras Completas・Vol. 12, Pág. 295\>) A ciência tornou-se uma condição para a felicidade, mas não é tudo. Em suma, não passa de um efeito auxiliar, e o defeito estava em pensar que isso era toda a felicidade. Desnecessário dizer, como resultado de terem sido iludidos pela ciência, pensaram que bastava fazer a ciência progredir para que a felicidade a acompanhasse. No entanto, surpreendentemente, o fato é que a felicidade não apenas não acompanha, como parece até que a infelicidade aumenta.
 
@@ -1399,19 +1399,19 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Com base no exposto, a civilização científica chegou, de qualquer forma, ao estágio final, e o futuro é sombrio; naturalmente, como não deve acabar assim, compreenderão que a cortina da grande transição mundial que sempre preconizo foi aberta aqui. Do meu ponto de vista, é apenas o que deveria vir naturalmente que veio, não havendo nenhum mistério. Por assim dizer, é a alternância entre a velha civilização e a nova civilização; e, visto que fui eu o escolhido como responsável por essa Grande Providência, para escapar desta crise, deve-se ingressar rapidamente na nossa Sekaikyuseikyo, e declaro que não há outro método além desse. E isso é exatamente o mundo de absoluta inexistência de doença, pobreza e conflito, lema desta religião, um Paraíso Terrestre sem ansiedade onde nem a bomba atômica nem a de hidrogênio são de se temer\*2; tornar-se um habitante deste mundo é ser uma pessoa verdadeiramente feliz, banhada no Grande Amor de Deus. (15 de abril de 1954, "A Terrível Superstição Científica")
 
-  ### ⑪ "Espírito Precede a Matéria" (Reishu Taiju) é a teoria fundamental da civilização do Dia
+### ⑪ "Espírito Precede a Matéria" (Reishu Taiju) é a teoria fundamental da civilização do Dia
 
-  #### i Fazer reconhecer a existência do espírito
+#### i Fazer reconhecer a existência do espírito
 
   (Ron・Pág. 2147, Coluna superior, linha 14 ～ Coluna inferior, linha 10 \<Obras Completas・Vol. 11, Pág. 660\>) Eu sempre preconizo o princípio de "Espírito Precede a Matéria"; se toda a humanidade soubesse disso, a civilização daria um grande salto aqui.\*1 No entanto, o homem moderno não acredita na existência real do espírito e tem como objeto apenas o corpo (matéria); portanto, por assim dizer, é uma civilização de fachada, de improviso; por mais que progrida, continua sendo o mesmo mundo infernal. Por essa razão, o reconhecimento do espírito e a dissolução do nublamento espiritual são fundamentais. Então,o que se deve fazer? Não há outro caminho senão banhar-se constantemente na Luz de Deus e purificar o espírito. No entanto, mesmo entre os deuses há hierarquia de alto, médio e baixo, e quanto mais alta a posição do deus, mais forte é a Luz; este ponto é importante. Nesse aspecto, não é por autoelogio, mas como o Deus Regente da nossa Sekaikyuseikyo é o Deus mais nobre e elevado que jamais apareceu até hoje\*2, os fiéis são sempre agraciados com uma Grande Luz e purificados, de modo que não apenas têm saúde sem doenças, como também podem curar as doenças de outras pessoas. (18 de novembro de 1953, Eikō・Edição 235, "Ciência do Espírito") 
 
-  #### ii "Espírito Precede a Matéria" é a lei de todas as coisas 
+#### ii "Espírito Precede a Matéria" é a lei de todas as coisas 
 
   (Kiseki・Pág. 3, linhas 1 a 11 ＝ Ishizue Shū Ge・Pág. 229, Coluna inferior, linha 5 ～ Pág. 230, Coluna superior, linha 13 \<Obras Completas・Vol. 11, Pág. 124\>)
 
   Quando se fala em ciência moderna, refere-se, claro, à ciência materialista; e a ciência materialista, por ter pesquisado e progredido tendo como objeto as coisas com forma, visíveis aos olhos e tangíveis às mãos, compreendeu apenas até certo ponto a superfície de todos os fenômenos, não percebendo "certa coisa" importante que existe no interior. O que é essa "certa coisa"? É algo igual ao nada, denominado espírito. Esse espírito é o sujeito de todos os fenômenos; a menos que se possa reconhecer isso, por mais que se diga que a ciência progrediu, é um progresso pela metade e, sendo parcial, não poderá nascer uma cultura correta. Somente quando isso ficar claro é que todos os problemas considerados insolúveis até agora serão facilmente resolvidos. Isso porque em tudo o espírito é o mestre e o corpo é o subordinado, sendo "Espírito Precede a Matéria" (Reishu Taiju) a lei de todas as coisas. Para citar um exemplo, o fato de o ser humano mover os membros e o corpo deve-se ao comando da vontade invisível aos olhos1, e jamais o corpo se move por conta própria; é a mesma coisa. Portanto, mesmo os milagres originam-se na origem, no espírito2, e refletem-se no corpo3; deve-se, primeiramente, confirmar essa razão. (10 de setembro de 1953, "Espírito Precede a Matéria") 
 
-  ### ⑫ Civilização de Bem-Mestre e Mal-Subordinado 
+### ⑫ Civilização de Bem-Mestre e Mal-Subordinado 
 
   (Ron・Pág. 2170, Coluna superior, linhas 5 a 13; Coluna inferior, linhas 5 a 9, 13 a 14; Pág. 2171, Coluna superior, linhas 6 a 11; Coluna superior, linha 17 ～ Coluna inferior, linha 1 ＝ Ishizue Jō Jō・Pág. 134, Coluna inferior, linha 2 ～ Pág. 135, Coluna superior, linha 1; Pág. 135, Coluna superior, linha 11 ～ Coluna inferior, linha 1; Coluna inferior, linhas 6 a 7; Pág. 136, Coluna superior, linha 10 ～ Coluna inferior, linha 1; Coluna inferior, linhas 8 a 16 \<Obras Completas・Vol. 12, Pág. 12\>)
 
@@ -1419,11 +1419,11 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Terra também é constituída por dois lados, Mundo Espiritual e Mundo Material, e o Mundo Espiritual também é constituído por dois elementos. Um é o Mundo Espiritual (Reikikai) e o outro é o Mundo Atmosférico (Kūkikai). E a essência do primeiro é Fogo-Mestre e Água-Subordinado, e a do último é Água-Mestre e Fogo-Subordinado; ou seja, Yang e Yin. O acima exposto refere-se à relação entre o ser humano e o universo, mas uma grande e surpreendente mudança está se aproximando aqui. É uma grande maravilha sem precedentes na história: o mundo que até hoje era o mundo da noite está prestes a se converter no mundo do dia, e se eu disser que o presente é esse Período do Alvorecer, provavelmente ninguém terá ideia do que se trata. No entanto, como eu soube por Revelação Divina, não tenho escolha a não ser acreditar. Então, voltando ao assunto, o mundo da noite até agora era regido pela Lua\*, e a Lua é água e é corpo, por isso a cultura material desenvolveu-se; em contrapartida, o mundo do dia é regido pelo Sol, e o Sol é fogo (espírito) e é espiritual. Além disso, se dividirmos isso em bem e mal, o corpo torna-se o mal e o espírito torna-se o bem. Esta é a Verdade. Portanto, o mundo que até agora era de Mal-Mestre e Bem-Subordinado será convertido num mundo civilizado de Bem-Mestre e Mal-Subordinado. A profecia de Cristo sobre o fim do mundo e a proximidade do Reino dos Céus refere-se a isso, e a extinção de doença, pobreza e conflito que declaro é a sua condição fundamental. Como a base disso é a solução da doença, Deus concedeu-me esta chave; por isso, tenho como foco principal a solução das doenças atuais. Mesmo vendo por isso, esta Grande Providência é uma grande obra extraordinária e, como resultado, a civilização será revolucionada e nascerá a Segunda Era. (10 de fevereiro de 1954, Eikō・Edição 247, "O Johrei é uma Terapia Científica") 
 
-  ### ⑬ O papel da bomba de hidrogênio na Providência Texto omitido: Consultar Capítulo 2, Seção 3, Item 1, Sabedoria de Deus, 13 \- Dentro da Sabedoria de Deus há também o papel da bomba de hidrogênio (Pág. 307 deste livro). 
+### ⑬ O papel da bomba de hidrogênio na Providência Texto omitido: Consultar Capítulo 2, Seção 3, Item 1, Sabedoria de Deus, 13 \- Dentro da Sabedoria de Deus há também o papel da bomba de hidrogênio (Pág. 307 deste livro). 
 
-  ### ⑭ O pano de fundo espiritual da Grande Transição da Civilização
+### ⑭ O pano de fundo espiritual da Grande Transição da Civilização
 
-  ####  i Os trapos da civilização científica 
+####  i Os trapos da civilização científica 
 
   (Kyō・Edição 31, Pág. 31, linhas 7 a 9 \<Coletânea de Palestras・Vol. 12, Pág. 200\>) ***\[Trecho do Preâmbulo Anterior (Kyō・Edição 31, Pág. 30, linha 12 ～ Pág. 31, linha 7)\]** Ao ver notícias, boxe no cinema, etc., os brancos que desfrutam dos benefícios da civilização na América têm a força física enfraquecida e não conseguem enfrentar os boxeadores negros. Mesmo em cartas, dizem que a força física dos jovens americanos diminuiu, e que ao subir as escadas da parte superior do Empire State Building, eram inferiores ao pintor Arashi\*, de meia-idade.*
 
@@ -1431,29 +1431,29 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   ***\[Explicação\]** A Grande Transição da Civilização, frequentemente mencionada por Meishu-Sama, é uma cena da Conversão Noite-Dia, e a Conversão Noite-Dia é uma cena da Providência do Deus Supremo. — Este Ensinamento de Kyō・Edição 31, Pág. 31, linhas 7 a 9, mostra que a "Grande Transição da Civilização" também será realizada, na verdade, pela manifestação do poder de Ushitora no Konjin, tendo o mesmo propósito que o item "Significado espiritual da Conversão Noite-Dia" (Pág. 585 deste livro).* 
 
-  #### ii Revolucionar a civilização errada com a força de um rin (1%) (Sui・Edição 5, Pág. 36, linha 5 ～ Pág. 37, linha 6 \<Coletânea de Palestras・Vol. 4, Pág. 370\>)
+#### ii Revolucionar a civilização errada com a força de um rin (1%) (Sui・Edição 5, Pág. 36, linha 5 ～ Pág. 37, linha 6 \<Coletânea de Palestras・Vol. 4, Pág. 370\>)
 
   Nas Ofudesaki da Oomoto\*1, há o dizer: "A Oomoto é o mecanismo de um rin (0,1% ou 1%); quando o Espírito de um rin (Ichirin no Mitama) sair, o mundo virará de cabeça para baixo". Com um rin, a palma da mão vira. E esse um rin, em suma, sou eu. Já falei sobre isso antes, mas recebi de uma pessoa três moedas antigas: uma moeda Tempo-sen, uma moeda de prata de 50 sen e uma moeda antiga de um rin. A moeda Tempo-sen não tem o ano escrito, mas — a Fundadora da Oomoto é uma pessoa nascida na era Tempo, e o Mestre (Onisaburo Deguchi) nasceu no ano 4 de Meiji. Então, a moeda de prata de 50 sen é do ano 4 de Meiji. Eu sou um rin, por isso recebi a moeda de um rin. Naquele momento, pensei que Deus me informou algo interessante.\*2 A Fundadora da Oomoto é o Espírito Vertical (Tate no Mitama) — homem transformado (espiritualmente). A mulher transformada (espiritualmente) é o Mestre, e o Mestre é o Espírito Horizontal (Yoko no Mitama). Unindo a Vertical e a Horizontal, há o ponto no centro. Ou seja, algo como o eixo torna-se um rin. E "com um rin vira a palma da mão" significa — o que estou fazendo resultará em virar a palma da mão com um rin. Toda a cultura errada até hoje, né — para esclarecê-la — vai virar. Apenas com a teoria não adianta, então, na doença, elimino o remédio, curo e torno saudável. E na alimentação — nas colheitas, aumento a produção sem usar fertilizantes. Viro a agricultura de cabeça para baixo. E no crime, se a alma se ligar a Deus, o crime desaparece. Então, significa virar tudo com um rin. A salvação da noite torna-se a salvação do dia. Ou seja, o escuro torna-se dia. No lado de Deus, isso está determinado dessa forma. Isso também está escrito em A Criação da Civilização. (6 de dezembro de 1951\)
 
   ***\[Explicação\]** Este Ensinamento revela a essência da missão providencial imposta a Meishu-Sama, tendo como ponto de partida as Ofudesaki (profecias de Kunitokotachi no Mikoto). Como explicado na nota, após 15 de junho de 1950, Meishu-Sama realizou consistentemente a Obra Divina de "virar a palma da mão" — virar os valores de até então — através da Revolução Cultural, Revolução Médica e Revolução Agrícola, como o "Espírito de um rin" profetizado nas Ofudesaki. Além disso, com base nessa missão, a Sabedoria Divina (Shinchi) lhe foi concedida pelo Deus Supremo e, com base nessa Sabedoria, os limites da civilização científica são mostrados detalhadamente na série de Ensinamentos do Capítulo 1, Seção 3, Sabedoria Divina, 2-③ Demonstrando os limites da civilização científica (Pág. 86 deste livro). Comparando com o Ensinamento citado anteriormente de Kyō・Edição 31, Pág. 31, linhas 7 a 9 (Pág. 611 deste livro), que mostra a atuação de Kunitokotachi no Mikoto, compreende-se que a atuação do "um rin" é parte da Providência (Julgamento e Reconstrução) de Ushitora no Konjin (Kunitokotachi no Mikoto).*
 
-  #### iii Significado espiritual do Espírito de um rin (Ron Betsu・Pág. 558, Coluna superior, linha 1 ～ Coluna inferior, linha 20 \<Obras Completas・Vol. 10, Pág. 753\>)
+#### iii Significado espiritual do Espírito de um rin (Ron Betsu・Pág. 558, Coluna superior, linha 1 ～ Coluna inferior, linha 20 \<Obras Completas・Vol. 10, Pág. 753\>)
 
   Desde o início da Obra Divina, travei incontáveis lutas contra o mal até hoje. Isso porque, para o mundo dos deuses malignos (Jashin), não há ninguém mais temível do que eu; por isso, quebram a cabeça tentando me destruir de alguma forma. Isso se deve ao Poder Divino1 que eu possuo. Eles fizeram pensar por muito tempo que Deus não existia neste mundo, enganaram a humanidade terrivelmente, fizeram-na decair a ponto de não saberem a diferença entre bem e mal e, por fim, tentam dominar o mundo inteiro2; é uma história terrível. No entanto, até hoje as coisas avançaram conforme o desejo de Satanás, resultando no mundo de trevas e ignorância de hoje.3 No meio dessa tranquilidade deles, apareceu uma grande Luz, que sou eu; portanto, para o mundo dos deuses malignos, é um grande acontecimento sem precedentes. Então, eles tentam me sepultar de qualquer jeito e atacam persistentemente de todas as formas. Contudo, como o Deus Supremo4 está me protegendo, a cada vez o ataque do mal para em certo ponto e escapo do perigo; exemplos disso são constantes, de modo que, na verdade, sinto como se estivesse sempre cercado por demônios e não tenho um dia sequer de tranquilidade de coração. Mas isso também tem este significado: a Providência de Deus é que, quando este mundo for ocupado pelos deuses malignos até noventa e nove por cento (Ku-bu Ku-rin), no momento crucial do último um por cento (Ichirin), aparecerá o Espírito de um rin (Ichirin no Mitama), virará o mundo do mal e o tornará o mundo do bem.\*5 Sobre isso, há uma história interessante. Quando eu era fiel da Oomoto, soube do significado deste um rin. Nas famosas Ofudesaki da Fundadora da Oomoto, Nao Deguchi, há a seguinte passagem: "Este mundo tornou-se livre para o mal até noventa e nove por cento e, no momento de mais um suspiro, aparecerá o Espírito de um rin e fará a Reconstrução e Renovação". E há outra: "Transformarei o mundo do mal em mundo do bem, e farei o mundo do Pinheiro, o Mundo de Miroku". Sobre este Espírito de um rin, era sempre alvo de dúvidas entre os fiéis. Claro que eu também não entendia claramente, mas aconteceu o seguinte. Um dia, uma pessoa que era fiel da Oomoto e que tinha se tornado como meu fiel, disse que queria me oferecer moedas antigas. Ao olhar bem, era uma moeda Tempo-sen, uma moeda de prata do ano 4 de Meiji e uma moeda de um rin cujo ano esqueci. Pensei que parecia uma charada, mas de repente surpreendi-me ao perceber que a Fundadora nasceu na era Tempo e o então Líder Onisaburo Deguchi nasceu no ano 4 de Meiji; percebi que a moeda de um rin era o meu Espírito e compreendi que, sem dúvida, foi Deus quem me informou. Com o passar dos meses e anos, surgiram vários milagres na prática, e obtive a convicção definitiva. (1952, "A História da Minha Luta contra Satanás") 
 
-  #### iv Poema Divino (御詠) A força para salvar / A civilização errada / Não reside em outro / Senão no Deus Messias. (14 de outubro de 1953\) (Eikō・Edição 230, No. 3 ＝ Obras Completas de Mokiti Okada, Volume de Poemas ***\[VI\]**, Pág. 374, No. 3\)*
+#### iv Poema Divino (御詠) A força para salvar / A civilização errada / Não reside em outro / Senão no Deus Messias. (14 de outubro de 1953\) (Eikō・Edição 230, No. 3 ＝ Obras Completas de Mokiti Okada, Volume de Poemas ***\[VI\]**, Pág. 374, No. 3\)*
 
-  ## 4 Revolução Médica (医学革命)
+## 4 Revolução Médica (医学革命)
 
    ***\[Explicação\]** O "mal" em sentido amplo inclui tudo o que não é desejável para o ser humano. Meishu-Sama escreveu: "Dentre os males, o que mais ameaça o ser humano são, sem dúvida, as duas grandes calamidades que envolvem o problema da vida: a guerra e a doença" (S3・Seção 40), incluindo os erros da medicina dentro do "mal" que outras religiões sequer percebem. — A Revolução Médica é, diretamente, a condição para a "Grande Transição da Civilização" (Item anterior) (Consultar neste Item, 2, 3 \- A Grande Transição da Civilização ⑤ \<Pág. 594 deste livro\>), e a "Grande Transição da Civilização" é a condição absoluta para transformar este mundo em Paraíso (Consultar neste Item, 2, 1 \- Paraíso Terrestre ① Sua chegada e preparação ii Preparação A a C \<Pág. 511 deste livro\>). Esses assuntos foram discutidos sistematicamente em A Criação da Civilização, e este subitem está organizado focando no posicionamento da Revolução Médica na referida obra.*
 
-  ### ① Como condição fundamental do Paraíso Terrestre: "Segurança da Vida"
+### ① Como condição fundamental do Paraíso Terrestre: "Segurança da Vida"
 
   (Ron Betsu・Pág. 687, Coluna superior, linha 17 ～ Coluna inferior, linha 17 \<Obras Completas・Vol. 11, Pág. 181\>)
 
   ***\[Explicação\]** A "Revolução Médica" ① deste texto tem como fonte O Livro da Revolução Médica. Nas "Revoluções Médicas" ②, ④ a ⑥ que se seguem, cuja fonte é A Criação da Civilização,* o argumento expande-se para os domínios da civilização e da religião, tornando claro por que a Revolução Médica é a premissa para que ocorra a "Grande Transição da Civilização" (item anterior) e se torne o "Paraíso Terrestre".
 
-  ### ② A medicina termina seu papel na Providência, e a civilização transita
+### ② A medicina termina seu papel na Providência, e a civilização transita
 
   (S5・Seções 22 a 35 \<Obras Completas・Vol. 10, Pág. 129\>)
 
@@ -1469,9 +1469,9 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   ***\[Anexo referente a ②\]** Poema Divino A verdadeira / Medicina, o que é / Eu estou escrevendo / Dia e noite para informar. (10 de março de 1954\) (Eikō・Edição 251, No. 2 ＝ Obras Completas de Mokiti Okada, Volume de Poemas **\[VI\]**, Pág. 442, No. 2\)*
 
-  ### ③ A medicina é revolucionada pelo Johrei
+### ③ A medicina é revolucionada pelo Johrei
 
-  #### i O Elemento Fogo aumenta e o remédio já não solidifica
+#### i O Elemento Fogo aumenta e o remédio já não solidifica
 
   (Ron・Pág. 1702, Coluna inferior, linha 20 ～ Pág. 1703, Coluna superior, linha 10 ＝ Ishizue Jō Ge・Pág. 207, Coluna inferior, linha 3 ～ Pág. 208, Coluna superior, linha 3 \<Obras Completas・Vol. 9, Pág. 565\>)
 
@@ -1481,11 +1481,11 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   ***\[Explicação\]** Na época, ocorriam frequentemente danos graves causados pela vacina BCG para prevenção da tuberculose, e até médicos líderes nacionais e internacionais criticavam o uso da BCG. — Este tratado "O Problema da BCG" apresenta a necessidade de correção da medicina e a Terapia do Johrei como o caminho para revolucionar a medicina, através da análise espiritual desse problema.* 
 
-  #### Ii Sobre o relato de graça de um paciente com paralisia (AVC) (Ron Betsu・Pág. 737, Coluna superior, linhas 1 a 8 \<Obras Completas・Vol. 11, Pág. 267\>)
+#### Ii Sobre o relato de graça de um paciente com paralisia (AVC) (Ron Betsu・Pág. 737, Coluna superior, linhas 1 a 8 \<Obras Completas・Vol. 11, Pág. 267\>)
 
   Este paciente teve, claro, uma paralisia (derrame) autêntica e, segundo o diagnóstico médico, foi dito que se passassem três dias ele morreria ou ficaria com deficiência física; tratando-se de paralisia, é natural diagnosticar assim. No entanto, ingressou na fé logo após adoecer, recebeu Johrei e, em apenas dois ou três meses, curou-se completamente, tornando-se capaz até de plantar arroz e trabalhar na roça; é realmente um milagre. Vendo por isso, se a paralisia, considerada a doença mais difícil, é curada tão facilmente assim, isso é um grande problema mundial. Consequentemente, no alvorecer em que a arte médica do Johrei for conhecida pelo público em geral, a medicina será naturalmente revolucionada. (1953, Apêndice de Igaku Kakumei no Sho, "Mesmo a paralisia cura-se assim")
 
-  ### ④ A medicina será revolucionada pela força de um rin (1%)\*1
+### ④ A medicina será revolucionada pela força de um rin (1%)\*1
 
   ***\[Trecho do Preâmbulo Anterior (S7・Seções 29 e 30)\]** Devido ao tempo ser prematuro na Providência Divina, o Deus Supremo (Shushin) não revelou a Verdade profunda. Por isso, tanto os sutras quanto a Bíblia têm muitos pontos obscuros.*
 
@@ -1495,9 +1495,9 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   ***\[Explicação\]** (Sobre as palavras "os noventa e nove por cento de mal são a medicina moderna") "Noventa e nove por cento de mal" refere-se ao demônio que possui força poderosa, faltando apenas um rin (1%) para a força absoluta, e que confronta o Deus do Bem Absoluto (Kunitokotachi no Mikoto). Aqui se aborda o fato de que "esse demônio desenvolveu a ciência errada chamada medicina e, através da medicina, detém atualmente a vida humana" (Consultar Seção 36). Em "Noventa e nove por cento e um rin" (um tratado antigo que serviu de base para o Capítulo 4 da Parte Geral de A Criação da Civilização "O Mal e o Espírito Guardião" e o Capítulo 5 "A Origem do Mal e a Doença"), consta o seguinte: "O plano e as ações do deus maligno abrangem todos os campos, e onde ele obteve mais sucesso foi na ciência materialista. O plano do deus maligno é conceder benefícios maravilhosos à humanidade através da ciência materialista, fazendo-a confiar nela, para no final tomar o poder absoluto; o objetivo é controlar a vida humana, e o que ele fez progredir com esse sentido é a medicina moderna" (Resumo de Shū・Pág. 163, Coluna inferior, linha 18 ～ Pág. 164, Coluna superior, linha 4).*
 
-  ### ⑤ A Revolução Médica é a premissa para o Paraíso Terrestre
+### ⑤ A Revolução Médica é a premissa para o Paraíso Terrestre
 
-  #### i Revolução Médica baseada na Verdade (S8・Seções 5 a 10 \<Obras Completas・Vol. 10, Pág. 137\>)
+#### i Revolução Médica baseada na Verdade (S8・Seções 5 a 10 \<Obras Completas・Vol. 10, Pág. 137\>)
 
   ***\[Trecho do Preâmbulo Anterior (S8・Seções 1 a 4)\]** O Cristianismo profetizou a vinda do mundo ideal com o nome de Reino dos Céus, e o Budismo com o nome de Mundo de Miroku; mas, para construir o mundo ideal, é preciso eliminar doença, pobreza e conflito — especialmente a doença.*
 
@@ -1507,7 +1507,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   10 Por essa razão e para criar pessoas saudáveis como habitantes do vindouro mundo ideal, publico aqui a ilusão da medicina. (1952, Bunmei no Sozou, "Paraíso Terrestre") 
 
-  #### ii Esclarecimento da Verdade e Julgamento da Medicina 
+#### ii Esclarecimento da Verdade e Julgamento da Medicina 
 
   (Su1・Seções 10 a 21 \<Obras Completas・Vol. 10, Pág. 263\>) ***\[Trecho do Preâmbulo Anterior (Su1・Seções 1 a 9)\]** Até aqui expliquei os erros da medicina do ponto de vista materialista (Seções 1 a 3), mas agora esclarecerei tudo sobre o interior do espírito (alma) humano, que se relaciona também com a essência de Deus\*1 (Seções 4 a 7).*
 
@@ -1517,7 +1517,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   ***\[Anexo referente a ⑤\]** Poema Divino Ensinamento que cria / Seres humanos que não sabem / A distinção entre o bem e o mal / Deve ser uma falsa verdade. (28 de maio de 1952\) (Eikō・Edição 158, No. 3 ＝ Obras Completas de Mokiti Okada, Volume de Poemas **\[VI\]**, Pág. 215, No. 1\)*
 
-  ### ⑥ A Noite converte-se em Dia e a Medicina é corrigida
+### ⑥ A Noite converte-se em Dia e a Medicina é corrigida
 
   (Su5・Seções 1 a 3, Seções 7 a 14, Seções 17 a 23, Seções 35 a 40, Su6・Seção 1 \<Obras Completas・Vol. 10, Pág. 278, Pág. 282\>)
 
@@ -1537,15 +1537,15 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Conversão Noite-Dia e a dissolução do pecado (Su5・Seções 38 a 40, Su6・Seção 1\) Ainda assim, pode-se dizer que hoje não se encontra quase nenhuma religião com possibilidade de realizar isso. No entanto, se a religião que atende a essa condição for a nossa Sekaikyuseikyo, minha responsabilidade é pesada e grande. Nesse sentido, é por isso que toco o sino de alerta para os intelectuais de todo o mundo, primeiramente através desta obra. A respeito disso, preciso informar antecipadamente um fato muito importante; escreverei sobre ele a seguir. Esse fato importante é a grande conversão da noite para o dia no Mundo Espiritual\*4. (1952, Bunmei no Sozou, "Medicina Materialista e Medicina Religiosa", "A Conversão Noite-Dia no Mundo Espiritual")
 
-  ### ⑦ Tradução e distribuição em inglês de O Livro da Revolução Médica
+### ⑦ Tradução e distribuição em inglês de O Livro da Revolução Médica
 
   (Sui・Edição 24, Pág. 9, linhas 2 a 7 \<Coletânea de Palestras・Vol. 9, Pág. 206\>) Quando O Livro da Revolução Médica ficar pronto, traduzi-lo-ei para o inglês e distribuirei não apenas na América, mas também na Europa e no Oriente, para o mundo todo. Hoje em dia há universidades e associações médicas em qualquer país; pretendo distribuir para todas elas. E farei com que leiam pelo menos uma vez. Afinal, será como está na Bíblia: "E este evangelho do Reino será pregado em todo o mundo... então virá o fim". Portanto, se depois disso não ouvirem, a situação ficará grave. Como Deus é muito atencioso, Ele avisa o máximo possível\*; e aqueles que não ouvirem depois disso, colherão o que plantaram. (1º de setembro de 1953\)
 
-  ### ⑧ A Revolução Médica também é uma cena da Grande Providência
+### ⑧ A Revolução Médica também é uma cena da Grande Providência
 
   (Kyō・Edição 25, Pág. 49, linhas 5 a 16 \<Coletânea de Palestras・Vol. 11, Pág. 49\>) Texto omitido: Consultar neste Item, 2 \- Providência, 6 \- O Progresso da Obra Divina, ① viii (Pág. 671 deste livro).
 
-  ## 5 O Juízo Final\* (最後の審判)
+## 5 O Juízo Final\* (最後の審判)
 
    ***\[Explicação\]** Este subitem lista trechos dos principais conceitos sobre o "Juízo Final". Meishu-Sama, nas palestras aos fiéis (Gokowa-shu) e nas perguntas e respostas com os ministros (Gokowa-roku, Gosuiji-roku, "Myochi no Hikari" em Chijo Tengoku, etc.), explica a aproximação do julgamento através de diversos sinais que se manifestam concretamente na nossa vida de fé; isso inclui assuntos não abordados nos Tratados publicados (Exemplo: os pontos ④ a ⑨ deste subitem). Além disso, sobre o Juízo Final, existem numerosos Tratados como os listados abaixo, e recomenda-se estudá-los em conjunto com os Ensinamentos deste subitem.*
 
@@ -1553,7 +1553,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Prefácio de A Criação da Civilização (Shū・Pág. 375 ＝ Ishizue Sha・Pág. 5 ＝ Obras Completas・Vol. 10, Pág. 110\) "Construção do Mundo de 567 (Miroku)" (Shū・Pág. 376 ＝ Ishizue Shū Jō・Pág. 116 ＝ Obras Completas・Vol. 8, Pág. 25\) "O fim da noite está próximo, arrependei-vos" (Shū・Pág. 377 ＝ Ishizue Shū Jō・Pág. 118 ＝ Obras Completas・Vol. 7, Pág. 602\) "O Juízo Final" (Shū・Pág. 380 ＝ Ishizue Shū Jō・Pág. 123 ＝ Obras Completas・Vol. 8, Pág. 292\) "O que é o Juízo Final" (Shū・Pág. 378 ＝ Ishizue Shū Jō・Pág. 120 ＝ Obras Completas・Vol. 9, Pág. 356\) "O homem moderno que carrega uma bomba" (Shū・Pág. 382 ＝ Ishizue Shū Jō・Pág. 129 ＝ Obras Completas・Vol. 10, Pág. 702\) "Virá a era de grande terror" (Shū・Pág. 383 ＝ Ishizue Shū Jō・Pág. 131 ＝ Obras Completas・Vol. 11, Pág. 384\) "O que é o Juízo Final" (Shū・Pág. 385 ＝ Ishizue Shū Jō・Pág. 127 ＝ Obras Completas・Vol. 11, Pág. 519\)
 
-  ### ① Significado Fundamental — Preparação para o Paraíso Terrestre (S1・Seções 14 a 17 \<Obras Completas・Vol. 10, Pág. 111\>)
+### ① Significado Fundamental — Preparação para o Paraíso Terrestre (S1・Seções 14 a 17 \<Obras Completas・Vol. 10, Pág. 111\>)
 
   ***\[Trecho do Preâmbulo Anterior (S1・Seções 8 a 13)\]** Já iniciei os preparativos para o estabelecimento do Paraíso. A fim de liquidar a velha civilização e estabelecer a nova, acontecimentos providenciais e milagres que Deus preparou há milhões de anos ocorrem sucessivamente, e a Obra Divina de construção do Paraíso avança a uma velocidade maravilhosa. A propósito, na civilização até hoje a força do mal era mais forte, mas de agora em diante a força do bem tornar-se-á mais forte, resultando no Paraíso Terrestre.*
 
@@ -1561,15 +1561,15 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   ***\[Explicação\]** Neste Ensinamento, o significado do "Juízo Final" é explicado como: "É executado inevitavelmente porque não se pode construir o Paraíso Terrestre sem liquidar os pecados e impurezas do mundo da noite. No entanto, o Deus de Amor enviou Meishu-Sama para que o maior número possível de pessoas possa superar o julgamento". E também: "Não é para punir, mas para construir o Paraíso Terrestre".*
 
-  ### ② Compreensão Básica
+### ② Compreensão Básica
 
-  #### i Purificação de pecados e impurezas e a Seleção (Triagem)\*
+#### i Purificação de pecados e impurezas e a Seleção (Triagem)\*
 
   (Shū・Pág. 385, Coluna inferior, linhas 1 a 6; Pág. 385, Coluna inferior, linha 16 ～ Pág. 386, Coluna superior, linha 3 ＝ Ishizue Shū Jō・Pág. 127, Coluna inferior, linha 11 ～ Pág. 128, Coluna superior, linha 6; Pág. 128, Coluna inferior, linhas 3 a 11 \<Obras Completas・Vol. 11, Pág. 519\>)
 
   Escreverei agora sobre o Juízo Final; seu fundamento é, desnecessário dizer, uma Grande Liquidação mundial, uma ação de purificação dos pecados e impurezas acumulados por longo tempo. Consequentemente, aquilo que estiver sujo demais e não tiver conserto não terá outro destino senão ser apagado eternamente da face da terra. Aquilo que for útil no futuro será, é claro, deixado, mas é inevitável que o inútil seja descartado. Quem quiser ser salvo deve, nesta ocasião, mudar urgentemente a mentalidade. Isso é exatamente como os santos de antigamente profetizaram claramente como porta-vozes de Deus; por assim dizer, esse tempo chegou. E eles não disseram que toda a humanidade seria salva. Apenas disseram para salvar o maior número possível através do Grande Amor de Deus; e como a nossa Sekaikyuseikyo nasceu com essa missão, o reconhecimento disso é o mais importante. (17 de junho de 1953, Eikō・Edição 213, "O que é o Juízo Final") 
 
-  #### ii Pessoas de coração puro superarão 
+#### ii Pessoas de coração puro superarão 
 
   (Shū・Pág. 381, Coluna inferior, linhas 6 a 10; Pág. 381, Coluna inferior, linha 15 ～ Pág. 382, Coluna superior, linha 1 ＝ Ishizue Shū Jō・Pág. 125, Coluna inferior, linha 14 ～ Pág. 126, Coluna superior, linha 4; Pág. 126, Coluna superior, linha 11 ～ Coluna inferior, linha 6 \<Obras Completas・Vol. 8, Pág. 293\>)
 
@@ -1577,7 +1577,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Com base no exposto, ao examinar o significado das Ofudesaki tendo como base o julgamento da Bíblia, chegamos a esta conclusão: "Ou seja, uma grande crise se aproxima e, para superá-la, o coração deve ser puro. Os maus cairão e perecerão eternamente". Sendo assim, é imperativo purificar a alma através da fé correta e superar isso em segurança. Naturalmente, como o Grande Amor de Deus faz com que se salve o maior número possível, nós, que incorporamos a Vontade Divina, damos avisos repetidamente através da escrita e da fala. Sobre isso, nas Ofudesaki consta: "Deus quer ajudar e por isso avisa tanto através da ponta do pincel (Fudesaki), mas se ficarem sempre desatentos ouvindo como se fosse o grasnar de um corvo, em breve chegará o tempo em que, em grande pânico (Tochimenbo)\*2, terão que pedir perdão de cabeça para baixo; mas quando chegar esse tempo, Deus não poderá mais se importar com essas pessoas, então não haverá outro jeito senão resignarem-se com a ferrugem que saiu do próprio corpo (consequência dos próprios atos) e aceitarem o fim". Penso que isso expressa muito bem a situação. (20 de janeiro de 1950, Chijo Tengoku・Edição 12, "O Juízo Final") 
 
-  #### iii Com a Kyuseikyo, a triagem torna-se rigorosa 
+#### iii Com a Kyuseikyo, a triagem torna-se rigorosa 
 
   (Shū・Pág. 254, Coluna inferior, linhas 7 a 16 ＝ Ishizue Shū Jō・Pág. 207, Coluna superior, linha 16 ～ Coluna inferior, linha 11 \<Obras Completas・Vol. 8, Pág. 471\>)
 
@@ -1587,7 +1587,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   ***\[Pág. 636\]***
 
-  #### iv Grande Purificação pela Conversão Noite-Dia 
+#### iv Grande Purificação pela Conversão Noite-Dia 
 
   (Aumento do Elemento Fogo) (Ron・Pág. 2171, Coluna inferior, linhas 6 a 17 ＝ Ishizue Jō Jō・Pág. 137, Coluna superior, linha 5 ～ Coluna inferior, linha 3 \<Obras Completas・Vol. 12, Pág. 14\>)
 
@@ -1595,21 +1595,21 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Aqui há outro assunto importante. É o acúmulo de pecados e impurezas cometidos ao longo de longos anos durante o desenvolvimento da cultura material sob o princípio de Mal-Mestre e Bem-Subordinado, conforme mencionado acima. Falando em relação ao ser humano, materialmente são os venenos de remédios e, espiritualmente, é o nublamento causado pelo mal. Devido ao aumento do Elemento Fogo no Mundo Espiritual\*, a ação de purificação torna-se vigorosa e, por fim, será realizada a liquidação decisiva. Se isso for também o Juízo Final dito por Cristo, é preciso atravessar essa barreira difícil; mas se falhar nisso, independentemente de quem seja, será a destruição eterna. Isso não sou eu que estou preconizando agora. Muitos santos e sábios já profetizaram isso há milhares de anos; acreditar ou não nisso fica a critério de cada um, mas como estou apresentando milagres como prova para se acreditar atualmente, não deve haver motivo para dúvida. (10 de fevereiro de 1954, Eikō・Edição 247, "O Johrei é uma Terapia Científica")
 
-  #### v O Johrei como dádiva para fazer superar o Julgamento 
+#### v O Johrei como dádiva para fazer superar o Julgamento 
 
   (Shū・Pág. 379, Coluna inferior, linha 21 ～ Pág. 380, Coluna superior, linha 5 ＝ Ishizue Shū Jō・Pág. 122, Coluna inferior, linha 16 ～ Pág. 123, Coluna superior, linha 8 \<Obras Completas・Vol. 9, Pág. 358\>)
 
   Texto omitido: Consultar Capítulo 2, Seção 3, Item 2, A Vontade de Deus, 2 \- A manifestação exterior da Vontade de Deus, ① Amor ii C (Pág. 331 deste livro).
 
-  ### ③ A liquidação dos pecados pela Grande Ação de Purificação
+### ③ A liquidação dos pecados pela Grande Ação de Purificação
 
-  #### i Aviso através de A Criação da Civilização e O Livro da Revolução Médica
+#### i Aviso através de A Criação da Civilização e O Livro da Revolução Médica
 
   (Kyō・Edição 23, Pág. 30, linhas 3 a 17 \<Coletânea de Palestras・Vol. 10, Pág. 286\>)
 
   Texto omitido: Consultar neste Item, 2 \- Providência, 6 \- O Progresso da Obra Divina, ④ Escrita, i C b (Pág. 699 deste livro). 
 
-  #### ii O redemoinho de Fogo 
+#### ii O redemoinho de Fogo 
 
   (Kyō・Edição 23, Pág. 39, linha 1 ～ Pág. 40, linha 8 \<Coletânea de Palestras・Vol. 10, Pág. 294\>)
 
@@ -1631,33 +1631,33 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Ao chegar a certo período, o aumento das doenças também... isso parece que virá de uma vez. Portanto, quando isso acontecer, como sempre digo, ficaremos muito ocupados, então podem se preparar desde já. Em compensação, mesmo sendo fiéis, se estiverem um pouco desatentos (Boyaboya)2 ou se contrariarem o que Deus diz, serão atingidos severamente3. E essa desatenção parece estar aparecendo. Vocês também devem saber bem disso. Nas Ofudesaki diz: "Quando Deus se torna rigoroso, o povo torna-se dócil"\*4; isso é muito interessante. Então, o fato de que se o ser humano impuser seu ego, for arrogante ou não ouvir o que é dito, será atingido, tornar-se-á cada vez mais severo. (5 de fevereiro de 1954\)
 
-  ### ④ As pessoas que serão salvas e as que não serão salvas são (gradualmente) decididas\*1
+### ④ As pessoas que serão salvas e as que não serão salvas são (gradualmente) decididas\*1
 
-  #### i Os salvos são menos numerosos (Kyō・Edição 23, Pág. 21, linhas 5 a 13 \<Coletânea de Palestras・Vol. 10, Pág. 278\>)
+#### i Os salvos são menos numerosos (Kyō・Edição 23, Pág. 21, linhas 5 a 13 \<Coletânea de Palestras・Vol. 10, Pág. 278\>)
 
   (Ensinamento após a leitura do Tratado "O que é o Juízo Final"\*2 \<Eikō・Edição 213\>) Ou seja, o lado de Deus torna-se intenso. Nas Ofudesaki da Oomoto há: "Se Deus se tornar intenso, o povo se tornará dócil"; está dito de forma muito hábil. Sendo assim, o que era ambíguo torna-se claro. Portanto, quem compreende é quem será salvo, e quem não compreende é quem perecerá; assim vai sendo decidido gradualmente. No entanto, os que não compreendem, os que perecerão, são muito mais numerosos. Até agora, a maioria achava que qualquer pessoa seria salva, mas não é assim; as pessoas que serão salvas são menos numerosas. Por isso, mesmo que nós pensemos "quero salvar, quero salvar", quem não serve, não serve; o importante é desistir (aceitar/resignar-se). Visto que é o Mundo de Miroku, um mundo maravilhoso, pessoas muito sujas ou que não entendem nada acabam, ao contrário, tornando-se um estorvo3. (7 de junho de 1953\) 
 
-  #### ii Os salvos não dão trabalho
+#### ii Os salvos não dão trabalho
 
    (Kyō・Edição 23, Pág. 4, linhas 7 a 15 \<Coletânea de Palestras・Vol. 10, Pág. 263\>) No fim das contas, entraremos no Juízo Final; sobre isso, ao fazer fiéis, até agora tentava-se salvar o maior número possível, o que é uma história natural. No entanto, pensa-se que, como Deus é Grande Amor, Ele salvará qualquer pessoa digna de pena, mas isso é um erro. Deus separa perfeitamente quem vai salvar e quem não vai salvar1. Portanto, esforçar-se com quem tem o destino de não ser salvo torna-se apenas desperdício. A distinção entre quem deve ser salvo e quem não deve ser salvo, essa forma de pensar torna-se muito necessária. As pessoas que parecem que serão salvas não dão tanto trabalho. Têm o vínculo para isso, então logo se percebe2. E aqueles que ficam em dúvida, ou criando confusão, não servem. A gente evita se envolver com esse tipo de pessoa. Escrevi sobre isso. (Leitura do Tratado "O que é o Juízo Final" \<Eikō・Edição 213\>) (5 de junho de 1953\)
 
-  #### iii É melhor não perseguir quem não entende 
+#### iii É melhor não perseguir quem não entende 
 
   (Kyō・Edição 23, Pág. 16, linhas 1 a 9 \<Coletânea de Palestras・Vol. 10, Pág. 274\>)
 
   Além disso, até agora também era assim, mas daqui para a frente, se falarem sobre a fé e a pessoa não entender, é melhor não perseguir muito. É melhor soltar. Porque dizem que a Sekaikyuseikyo é maravilhosa, que Deus é grande, e é verdade, mas este Juízo Final... o julgamento é a sentença sobre o bem e o mal; normalmente, tende-se a pensar que se salvará o maior número possível, quase toda a humanidade, mas os que serão salvos são muito poucos, e o resto não servirá, perecerá. É preciso compreender bem isso. Portanto, se falar um pouco e a pessoa não entender, é melhor soltá-la. Isso já está apagado (cancelado) lá no Tribunal de Enma. Ao contrário, assim é mais fácil; se não, as pessoas que deveriam ser salvas acabam atrasando, o que não é bom. Portanto, fazer assim é muito mais fácil e as pessoas que devem ser salvas são salvas mais rápido. Escrevi sobre isso. (Leitura do Tratado "O que é o Juízo Final" \<Eikō・Edição 213\>) (6 de junho de 1953\) 
 
-  #### iv Melhor não perseguir quem vacila mesmo após receber graças 
+#### iv Melhor não perseguir quem vacila mesmo após receber graças 
 
   (Shū・Pág. 386, Coluna superior, linhas 3 a 20 ＝ Ishizue Shū Jō・Pág. 128, Coluna inferior, linha 11 ～ Pág. 129, Coluna inferior, linha 2 \<Obras Completas・Vol. 11, Pág. 520\>)
 
   Se o número de pessoas que não serão salvas é maior do que o das que serão salvas1, os fiéis devem ter isso bem em mente. Ao tentar curar doenças e salvar, é necessário esse discernimento. É claro que temos muita vontade de salvar a todos sem exceção, mas a situação é como descrita acima; com o passar do tempo, saber-se-á naturalmente quem será salvo e quem não será, e como isso é Vontade Divina2, não há nada que se possa fazer. Consequentemente, pessoas que detestam o Johrei, não dão ouvidos às palavras ou interpretam ao contrário, já estão destinadas ao lado dos que não serão salvos\*3; tentar fazer tais pessoas entenderem é inútil e, ao contrário, as pessoas que deveriam ser salvas acabam sendo negligenciadas, por isso deve-se ter cuidado. Também há pessoas que, mesmo recebendo graças e curando-se de grandes doenças, emocionando-se temporariamente, esquecem ou vacilam com o passar do tempo; essas pessoas já tiveram o vínculo cortado e voltaram para o lado da destruição, então é melhor soltá-las. Como se pode ver pelo exposto, daqui para a frente, ao tentar fazer alguém ingressar na fé, se a pessoa aceitar docilmente, tudo bem; mas se não, não há outra escolha senão desistir (resignar-se) considerando-a um ser sem vínculo; seguindo esse sentido, à medida que nos aproximamos do fim, os fiéis devem primeiramente discernir o bem e o mal. (17 de junho de 1953, Eikō・Edição 213, "O que é o Juízo Final")
 
-  #### v Desistir de quem não entende 
+#### v Desistir de quem não entende 
 
   (Kyō・Edição 23, Pág. 21, linhas 5 a 13 \<Coletânea de Palestras・Vol. 10, Pág. 278\>) Texto omitido: Consultar Capítulo 2, Seção 3, Item 2, A Vontade de Deus, 2 \- A manifestação exterior da Vontade de Deus, ③ Justiça ii A d (Pág. 361 deste livro). 
 
-  #### vi À medida que a ação de purificação se fortalece
+#### vi À medida que a ação de purificação se fortalece
 
   (Kyō・Edição 30, Pág. 71, linhas 5 a 17 \<Coletânea de Palestras・Vol. 12, Pág. 159\>) (Ensinamento após a leitura do Tratado "A relação entre Deus e eu"\*1 \<Chijo Tengoku・Edição 57\>)
 
@@ -1665,27 +1665,27 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Isso independe de ser fiel ou não fiel; recentemente há muitas pessoas morrendo. Eu mesmo às vezes fico surpreso\*3. Mas isso ainda é o começo. A partir de depois do Setsubun deste ano, chegará a época de entrar no início. No começo são muitos fiéis, mas depois estender-se-á gradualmente às pessoas em geral. Pessoas que veem com olhos espirituais dizem frequentemente que o Mundo Espiritual é agora uma montanha de mortos. Somente quando ficar assim é que se compreenderá o fundamento da medicina que preconizo. Quando isso acontecer, entenderão que para a doença não há nada além do Johrei da Sekaikyuseikyo, e os fiéis aumentarão de uma vez. Virá um tempo de correria total. Isso não virá de uma só vez, mas acontecerá gradualmente. (25 de janeiro de 1954\)
 
-  #### vii Poema Divino (御詠) Os que perecem / E os que sobrevivem separam-se / E assim / Terá chegado o Dia do Fim. (3 de março de 1954\) (Eikō・Edição 250, No. 3 ＝ Obras Completas de Mokiti Okada, Volume de Poemas ***\[VI\]**, Pág. 441, No. 3\)*
+#### vii Poema Divino (御詠) Os que perecem / E os que sobrevivem separam-se / E assim / Terá chegado o Dia do Fim. (3 de março de 1954\) (Eikō・Edição 250, No. 3 ＝ Obras Completas de Mokiti Okada, Volume de Poemas ***\[VI\]**, Pág. 441, No. 3\)*
 
-  ### ⑤ A necessidade de arrependimento
+### ⑤ A necessidade de arrependimento
 
-  #### i Sobre a raiz do pecado (Hikari Ho・Pág. 149, linha 14 \<Coletânea de Palestras・Vol. 1, Pág. 508\>)
+#### i Sobre a raiz do pecado (Hikari Ho・Pág. 149, linha 14 \<Coletânea de Palestras・Vol. 1, Pág. 508\>)
 
   Texto omitido: Consultar Anexo 1 de Capítulo 1, Item 1, 13 \- Compreender sobre Meishu-Sama é a essência da fé — Sobre a raiz do pecado (Pág. 26 deste livro).
 
-  #### ii Apegar-se a Deus para ter os pecados perdoados 
+#### ii Apegar-se a Deus para ter os pecados perdoados 
 
   (Shū・Pág. 378, Coluna superior, linha 20 ～ Coluna inferior, linha 6 ＝ Ishizue Shū Jō・Pág. 120, Coluna superior, linha 10 ～ Coluna inferior, linha 5 \<Obras Completas・Vol. 7, Pág. 604\>)
 
   Texto omitido: Consultar Anexo 2 de Capítulo 1, Item 1, 13 \- Compreender sobre Meishu-Sama é a essência da fé — Sobre a raiz do pecado (Pág. 26 deste livro). 
 
-  #### iii Às pessoas que esqueceram que tiveram a vida salva 
+#### iii Às pessoas que esqueceram que tiveram a vida salva 
 
   (Kyō・Edição 6, Pág. 84, linha 10 ～ Pág. 85, linha 1 \<Coletânea de Palestras・Vol. 6, Pág. 409\>)
 
   (Para uma pessoa que foi salva de doença desesperadora, mas não dedicou, e está à beira da morte por repurificação) Se usar a vida que recebeu de Deus para a empresa ou algo assim, não salvará as pessoas. Não é isso — Deus disse: "Dou-lhe a vida, então use-a para a Obra Divina". Esqueceu-se disso. Neste ponto, o orientador também tem responsabilidade. Deve ter falado. Mas a forma de falar foi insuficiente. Se disser resolutamente... se fizer outra coisa, não terá vida. Dizer resolutamente que qualquer coisa que não seja Deus não serve. Se mesmo assim não ouvir, afaste-se. Portanto, o Johrei é bom, mas do fundo do coração — "Eu estava errado. Se eu sarar desta vez, deixem-me ajudar as pessoas. Por isso, peço que me deem a vida mais uma vez" — é pedir assim. Se Deus atender, será salvo, mas se Deus disser que não dá mais — Deus é rigoroso nessas partes, sabem. Se Ele disser: "Não dá mais. Vá trabalhar no Mundo Espiritual", então não tem jeito.
 
-  ### ⑥ Na ocasião da Grande Purificação, agradar e devolver em dobro (Henpo-gaeshi)
+### ⑥ Na ocasião da Grande Purificação, agradar e devolver em dobro (Henpo-gaeshi)
 
   (Kyō・Edição 28, Pág. 21, linha 13 ～ Pág. 23, linha 1 \<Coletânea de Palestras・Vol. 11, Pág. 210\>)
 
@@ -1701,7 +1701,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   ***\[Anexo referente a ⑥\]** Poema Divino No final / Exercerá a Força do Diamante / A Obra do Messias / Quão nobre será\!\* (25 de setembro de 1952\) (Chijo Tengoku・Edição 40, Pág. 3, No. 5 ＝ Obras Completas de Mokiti Okada, Volume de Poemas **\[VI\]**, Pág. 248, No. 5\)*
 
-  ### ⑦ Kunitokotachi no Mikoto aparece no mundo material e o julgamento começa
+### ⑦ Kunitokotachi no Mikoto aparece no mundo material e o julgamento começa
 
   (Kyō・Edição 31, Pág. 1, linha 9 ～ Pág. 2, linha 1; Pág. 2, linha 3 ～ Pág. 3, linha 9 \<Coletânea de Palestras・Vol. 12, Pág. 174\>)
 
@@ -1715,7 +1715,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   ***\[Anexo referente a ⑦\]** Poema Divino Se Eu manifestar / A força do Messias / Que oculto em mim / O universo inteiro (Daisen Sekai) / Há de tremer.\* (25 de outubro de 1953\) (Chijo Tengoku・Edição 53, Pág. 4, No. 5 ＝ Obras Completas de Mokiti Okada, Volume de Poemas **\[XVI\]**, Pág. 379, No. 3\)*
 
-  ### ⑧ O Grande Drama dos Três Mil Mundos (三千世界の大芝居)
+### ⑧ O Grande Drama dos Três Mil Mundos (三千世界の大芝居)
 
   (Kyō・Edição 31, Pág. 4, linha 1 ～ Pág. 5, linha 13 \<Coletânea de Palestras・Vol. 12, Pág. 176\>)
 
@@ -1725,7 +1725,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   ***\[Explicação\]** Tudo o que acontece na Obra Divina ocorre com a permissão de Deus. No entanto, os acontecimentos são o Grande Drama dos Três Mil Mundos; há pessoas fazendo papel de bom e pessoas fazendo papel de mau. Às vezes, a pessoa que diz "aquele lá está errado" está, na verdade, fazendo algo errado. Como os planos de Deus para purificar e salvar os três mil mundos são muito profundos e incompreensíveis para o ser humano, não se deve decidir o que é bem e o que é mal (Consultar Capítulo 2, Seção 3, Item 1 \- Sabedoria de Deus 16 \<Pág. 312 deste livro\>, "Seja Daijō (Daijō)" (Shū・Pág. 48 ＝ Ishizue Shū Ge・Pág. 128 ＝ Obras Completas・Vol. 9, Pág. 579), "Não julgueis" (Shū・Pág. 55 ＝ Ishizue Shū Ge・Pág. 177 ＝ Obras Completas・Vol. 10, Pág. 493), "Isto também é presunção" (Shū・Pág. 86 ＝ Ishizue Shū Ge・Pág. 197 ＝ Obras Completas・Vol. 9, Pág. 472)).*
 
-  ### ⑨ Sendo chamado para a Obra Divina devido ao vínculo
+### ⑨ Sendo chamado para a Obra Divina devido ao vínculo
 
   (Kyō・Edição 15, Pág. 55, linhas 1 a 5 \<Obras Completas・Vol. 8, Pág. 176\>)
 
@@ -1733,15 +1733,15 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   ***\[Explicação\]** O ser humano é uma partícula divina (Bunrei) de Deus, e existem os deuses da origem de cada etnia. "Deus da raiz" é o Deus mais primordial dentre eles. Exemplo: Deus da Raiz Deus do Sol — Kunitokotachi no Mikoto — Izanagi no Mikoto Deus da Lua — Toyokumono no Mikoto — Izanami no Mikoto — Kamususanoo no Mikoto Povo Yamato (Shū・Pág. 420, Coluna superior, linha 14 ～ Coluna inferior, linha 8 \<Obras Completas・Vol. 9, Pág. 61\>) Povo Judeu, Povo Coreano (Ron Betsu・Pág. 538, Coluna superior, linhas 9 e 10 \<Coletânea de Palestras・Vol. 3, Pág. 358\>)*
 
-  ## 6 O Progresso da Obra Divina (御神業の進展) 
+## 6 O Progresso da Obra Divina (御神業の進展) 
 
   ***\[Explicação\]** Os itens 1 a 5 da Seção 2 enquadram-se perfeitamente na categoria "Providência do Deus Supremo"; por isso, é natural que a palavra "Providência" (Keirin) apareça frequentemente nos textos. O item 6 refere-se aos empreendimentos que Meishu-Sama promoveu utilizando a Igreja. No entanto, deve-se notar que Ele fez isso como representante do Deus Supremo (consultar Ensinamentos i e ii); portanto, Ele utiliza a palavra "Providência" também aqui (consultar Ensinamentos iii, iv e v). Ao estudar o ponto ① "Questões Básicas", recomenda-se estudar novamente o Capítulo 1, Item 1 "A Divindade de Meishu-Sama — Os Ensinamentos como Palavra de Deus".*
 
-  ### ① Questões Básicas — A Providência e Meishu-Sama
+### ① Questões Básicas — A Providência e Meishu-Sama
 
-  #### i Marionete e Instrumento de Deus
+#### i Marionete e Instrumento de Deus
 
-  ##### A Deus alojou-se no ventre de Meishu-Sama 
+##### A Deus alojou-se no ventre de Meishu-Sama 
 
   (Shū・Pág. 365, Coluna inferior, linha 21 ～ Pág. 366, Coluna superior, linha 11 ＝ Ishizue Shū Jō・Pág. 69, Coluna superior, linha 4 ～ Coluna inferior, linha 4 \<Obras Completas・Vol. 9, Pág. 80\>)
 
@@ -1749,7 +1749,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Não sei quem foi, mas miraram em mim e atiraram algo que parecia uma bola, invisível aos olhos; assim que pensei nisso, essa bola assentou-se bem no centro do meu ventre. Isso foi há cerca de trinta anos. E, coisa misteriosa, parece que há um fio nessa bola, e alguém o puxa e afrouxa livremente. Ao mesmo tempo, minha liberdade foi tirada. Quando tento fazer algo como eu quero, o fio puxa e não deixa. De repente, o fio puxa para uma direção inesperada e sou levado para essa direção. É realmente misterioso; sou exatamente como um boneco manipulado por um titereiro\*. (8 de agosto de 1951, Eikō・Edição 116, "A Era da Civilização Religiosa (Parte 1)") 
 
-  ##### B Deus, que habita no ventre, utiliza Meishu-Sama 
+##### B Deus, que habita no ventre, utiliza Meishu-Sama 
 
   (Ron・Pág. 2084, Coluna superior, linhas 17 a 20 \<Obras Completas・Vol. 11, Pág. 580\>)
 
@@ -1757,7 +1757,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Isso porque dentro do meu ventre habita o Espírito Divino Supremo, e eu apenas Lhe empresto o meu corpo. Ou seja, como Deus me utiliza livremente como uma espécie de instrumento, não há necessidade de eu orar a Deus.\* (26 de agosto de 1953, Eikō・Edição 223, "Ondas de Luz emitidas pelo Ohikari") 
 
-  ##### C Meishu-Sama manipulado por Deus 
+##### C Meishu-Sama manipulado por Deus 
 
   (Ron・Pág. 2022, Coluna inferior, linhas 5 a 7 \<Obras Completas・Vol. 11, Pág. 474\>) ***\[Trecho do Preâmbulo Anterior (Ron・Pág. 2022, Coluna inferior, linha 13 ～ Pág. 2023, Coluna inferior, linha 4)\]** Os relatos de graça anexos a este livro (A Terapia da Fé para Tuberculose) provam que a medicina está criando doenças. No entanto, para os especialistas que acreditaram cegamente na medicina por muito tempo, será difícil acreditar na minha teoria, e cairão num dilema, sem poder negar os fatos. Minha teoria, ao contrário de Galileu e Copérnico, cuja teoria heliocêntrica derrubou a visão religiosa do universo da época com a ciência, derruba a interpretação científica sobre a doença, na qual toda a humanidade acredita, através da religião, provocando a Grande Transição da Civilização (Consultar Sui・Edição 5, Pág. 36, linha 5 ～ Pág. 37, linha 6 \<Pág. 611 deste livro\>).*
 
@@ -1765,15 +1765,15 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   (15 de abril de 1953, Eikō・Edição 204, "Sobre a Terapia da Fé para Tuberculose") 
 
-  ##### D Meishu-Sama é o órgão executor da Obra de Salvação 
+##### D Meishu-Sama é o órgão executor da Obra de Salvação 
 
   (Kyō・Edição 15, Pág. 31, linha 16 ～ Pág. 32, linha 3 \<Coletânea de Palestras・Vol. 8, Pág. 155\>) ***\[Trecho do Preâmbulo Anterior (Kyō・Edição 15, Pág. 31, linhas 13 a 15)\]** Um fiel ministrou Johrei por apenas vinte minutos e pernas que não se firmavam há treze anos firmaram-se. — Assim, meus discípulos estão manifestando milagres comparáveis aos de Cristo na Bíblia.*
 
   Dessa forma, daqui para a frente, Deus realizará a obra de salvação através de vários métodos. Eu sou o órgão executor disso. O mundo não será salvo apenas com o espírito. O mundo é feito de matéria; portanto, é preciso que um ser humano vivo o preconize. Fui levado a fazer esse trabalho. Por isso, com o passar do tempo, isso se manifestará concretamente. (18 de outubro de 1952\) 
 
-  #### ii Exemplos onde o que Meishu-Sama faz é expresso como "Providência" 
+#### ii Exemplos onde o que Meishu-Sama faz é expresso como "Providência" 
 
-  ##### A O Espírito Divino aloja-se e renasce 
+##### A O Espírito Divino aloja-se e renasce 
 
   (Shū・Pág. 412, Coluna superior, linha 18 ～ Coluna inferior, linha 11 ＝ Ishizue Shū Jō・Pág. 20, Coluna superior, linha 10 ～ Coluna inferior, linha 5 \<Obras Completas・Vol. 8, Pág. 695\>)
 
@@ -1781,13 +1781,13 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   ***\[Explicação\]** Este Ensinamento é um trecho do tratado "Um Mistério". Refere-se ao mistério de que, em 15 de junho de 1950, um Espírito Divino de alta posição alojou-se em Meishu-Sama.*
 
-  ##### B A conclusão do Solo Sagrado de Zuiun-kyo em Atami 
+##### B A conclusão do Solo Sagrado de Zuiun-kyo em Atami 
 
   (Shū・Pág. 498, Coluna inferior, linha 8 ～ Pág. 499, Coluna superior, linha 1 \<Obras Completas・Vol. 9, Pág. 254\>) ***\[Trecho do Preâmbulo Anterior (Shū・Pág. 498, Coluna inferior, linha 8 ～ Pág. 499, Coluna superior, linha 1)\]** Pretendo concluir o Zuiun-kyo de Atami, incluindo o Kyusei Kaikan (Salão da Salvação), o observatório, o museu de arte e os jardins, no ano depois do próximo.*
 
   O que relatei acima é apenas uma parte da Providência; se eu falasse mais, desmaiariam, por isso fico por aqui hoje. (4 de abril de 1951, Eikō・Edição 98, "Por ocasião do Culto da Primavera") 
 
-  ##### C Milagres superiores aos de Cristo 
+##### C Milagres superiores aos de Cristo 
 
   (Shū・Pág. 2, Coluna superior, linhas 4 a 8 ＝ Ishizue Shū Jō・Pág. 18, Coluna superior, linha 16 ～ Coluna inferior, linha 6 \<Obras Completas・Vol. 10, Pág. 480\>)
 
@@ -1797,7 +1797,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   O Deus Supremo está comigo, e meus discípulos estão manifestando milagres superiores aos que Cristo manifestou. A razão pela qual declaro que eu mesmo construirei o Paraíso Terrestre de absoluta inexistência de doença, pobreza e conflito deve-se a esse motivo. Assim sendo, daqui para a frente realizarei muitas providências surpreendentes que nunca existiram antes, por isso peço que observem bem; surgirão sucessivamente coisas que não se pode imaginar serem obra humana. (7 de maio de 1952, Eikō・Edição 155, "União Divino-Humana") 
 
-  #### iii A Providência é compreendida antecipadamente
+#### iii A Providência é compreendida antecipadamente
 
   (Kyō・Edição 2, Pág. 65, linha 15 ～ Pág. 66, linha 3 \<Coletânea de Palestras・Vol. 4, Pág. 533\>) ***\[Trecho do Preâmbulo Anterior (Kyō・Edição 2, Pág. 64, linha 4 ～ Pág. 65, linha 14)\]** A Obra Divina tem sinais de um grande salto; o Museu de Arte e o jardim dos fundos ficarão prontos no verão do próximo ano, completando o Shinsen-kyo (Solo Sagrado de Hakone). O jardim de Atami ficará pronto até o fim deste ano. Uma grande montanha será feita à esquerda do Seisei-dai, e a forma do terreno ficará praticamente pronta. Se plantarmos duas mil azaleias nesta montanha central, será um espetáculo sem igual no Japão. Na verdade, há três ou quatro anos, pediram-me para comprar a casa de campo de Iwasaki no Lago Ashi e eu comprei; vendo agora, foi um acontecimento preparado por Deus.*
 
@@ -1805,27 +1805,27 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Como está no poema de hoje, a partir do ano que vem as coisas aparecerão superficialmente; será exatamente um bom momento. (23 de setembro de 1951\) 
 
-  #### iv O que acontece na Igreja também é Providência de Deus (Shū・Pág. 87, Coluna superior, linhas 7 a 14 ＝ Ishizue Shū Ge・Pág. 198, Coluna inferior, linha 13 ～ Pág. 199, Coluna superior, linha 7 \<Obras Completas・Vol. 9, Pág. 473\>)
+#### iv O que acontece na Igreja também é Providência de Deus (Shū・Pág. 87, Coluna superior, linhas 7 a 14 ＝ Ishizue Shū Ge・Pág. 198, Coluna inferior, linha 13 ～ Pág. 199, Coluna superior, linha 7 \<Obras Completas・Vol. 9, Pág. 473\>)
 
   ***\[Trecho do Preâmbulo Anterior (Shū・Pág. 87, Coluna superior, linhas 2 a 6)\]** Visto que esta religião é um grande empreendimento para salvar toda a humanidade mundial, devemos deixar os assuntos internos da Igreja nas mãos de Deus e pensar tendo o mundo como parceiro\*1.*
 
   Mais uma coisa que quero dizer é que a Providência de Deus é realmente profunda, de modo que não há como os olhos ou o cérebro humano compreenderem. Nas Ofudesaki da Oomoto há estas palavras: "No fundo de Deus há mais fundo. Como é um mecanismo (plano) do fundo do fundo do fundo, não há como o povo compreender. O povo que pensa que não entende as coisas do Mundo Divino é quem entendeu"\*2, ou "Vocês acham que a Reconstrução dos Três Mil Mundos pode ser feita com um mecanismo frouxo que o povo possa entender?". Creio que estas palavras, embora simples, expressam isso muito bem. (12 de setembro de 1951, Eikō・Edição 121, "Isto também é presunção")
 
-  #### v Incidente de Perseguição Religiosa 
+#### v Incidente de Perseguição Religiosa 
 
   (Kyō・Edição 3, Pág. 56, linhas 7 a 15 \<Coletânea de Palestras・Vol. 5, Pág. 55\>) Texto omitido: Consultar Capítulo 2, Seção 3, Item 1, Sabedoria de Deus, 16 \- A Sabedoria de Deus que transcende a sabedoria humana — Sobre a Obra Divina em geral ② (Pág. 313 deste livro). 
 
-  #### vi A Obra Divina chegou ao sopé da montanha
+#### vi A Obra Divina chegou ao sopé da montanha
 
    (Kyō・Edição 32, Pág. 20, linhas 11 a 14 \<Coletânea de Palestras・Vol. 12, Pág. 254\>) ***\[Trecho do Preâmbulo Anterior (Kyō・Edição 32, Pág. 19, linha 11 ～ Pág. 20, linha 11)\]** Os estrangeiros querem ver a arte japonesa, mas não há um único lugar no Japão que possa satisfazê-los. O Museu de Arte de Hakone será o único museu no mundo que poderá atender a essa demanda, e muitos estrangeiros o visitarão. Como o museu a ser construído em Atami será ainda mais completo, será algo grandioso.*
 
   Deus é a salvação de todos os aspectos; portanto, tanto o Museu de Arte quanto o Paraíso Terrestre desempenharão um grande papel. Sendo assim, o momento em que os diversos trabalhos serão realmente conhecidos social e mundialmente é agora; é como se tivéssemos chegado agora ao sopé da montanha. O valor de realizar o trabalho tornou-se gradualmente maior\*. (7 de março de 1954\)
 
-  #### vii Mil anos em dez anos (Sui・Edição 3, Pág. 40, linhas 9 a 13 \<Coletânea de Palestras・Vol. 4, Pág. 218\>) (Para um ministro preocupado por ter que mudar o local de difusão repetidamente)
+#### vii Mil anos em dez anos (Sui・Edição 3, Pág. 40, linhas 9 a 13 \<Coletânea de Palestras・Vol. 4, Pág. 218\>) (Para um ministro preocupado por ter que mudar o local de difusão repetidamente)
 
   Não tem problema. É Deus quem faz isso. O jornal também: primeiro foi Hikari (Luz), depois Kyusei (Salvação), depois Eikō (Glória); não há outro lugar onde o título mude tanto assim. Como é Deus quem faz\*, não há o que fazer. É por esta razão: o fato de ser totalmente diferente das religiões até agora deve-se a que, até agora, como era o mundo da noite, fazia-se longamente, mas desta vez, aquilo que levava cerca de mil anos, eu pretendo fazer em cerca de dez anos. É Deus quem faz, mas... é melhor dizer assim. (5 de outubro de 1951\) 
 
-  #### viii Há uma ordem na Providência — A Revolução Médica também é uma cena da Grande Providência\*1 (Kyō・Edição 25, Pág. 49, linhas 5 a 16 \<Coletânea de Palestras・Vol. 11, Pág. 49\>)
+#### viii Há uma ordem na Providência — A Revolução Médica também é uma cena da Grande Providência\*1 (Kyō・Edição 25, Pág. 49, linhas 5 a 16 \<Coletânea de Palestras・Vol. 11, Pág. 49\>)
 
   ***\[Trecho do Preâmbulo Anterior (Kyō・Edição 25, Pág. 47, linha 4 ～ Pág. 49, linha 4)\]** Os testículos e o pênis de uma criança de seis anos, que apodreceram e caíram devido a uma doença, foram regenerados posteriormente através do Johrei (Kiseki・Pág. 150, linha 11 ～ Obras Completas Suplementares・Vol. 3, Pág. 488). Isso aconteceu porque "o ser humano possui corpo espiritual, e como a parte espiritual preenche a parte perdida, houve a regeneração" (Kyō・Edição 25, Pág. 41, linhas 6 a 11 \<Coletânea de Palestras・Vol. 11, Pág. 42\>). Mostrei a parte afetada regenerada a sete médicos e expliquei, mas não compreenderam. A ciência atual (incluindo a medicina) não avançou ao nível de reconhecer a existência suprema — o Mundo Espiritual e a força criadora de Deus manifestada através dele. Para fazer com que médicos e pessoas em geral compreendam essas coisas, escrevi O Livro da Revolução Médica, e pretendo traduzi-lo para o inglês e distribuí-lo pelo mundo. Lendo-o, as pessoas compreenderão a essência da doença e a existência suprema.*
 
@@ -1837,7 +1837,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Os trapos da civilização científica atual começarão a aparecer gradualmente daqui para a frente. Como disse há pouco, quando Ushitora no Konjin começar a atuar para valer, todas essas coisas ficarão claras. É como acender uma luz num lugar escuro. (7 de fevereiro de 1954\)
 
-  #### ix A Kyuseikyo e Ushitora no Konjin (Kyō・Edição 31, Pág. 8, linhas 4 a 6 \<Coletânea de Palestras・Vol. 12, Pág. 180\>) ***\[Trecho do Preâmbulo Anterior (Kyō・Edição 31, Pág. 1, linha 1 ～ Pág. 8, linha 3)\]** Na Era dos Deuses, Ushitora no Konjin Kunitokotachi no Mikoto governava o mundo de forma bastante ampla (por ordem do Deus Supremo). No entanto, por ser demasiado rigoroso contra o mal, atraiu a antipatia dos deuses (governantes locais) e foi forçado a se retirar; desde então, a linhagem que O aprisionou liderou o mundo.*
+#### ix A Kyuseikyo e Ushitora no Konjin (Kyō・Edição 31, Pág. 8, linhas 4 a 6 \<Coletânea de Palestras・Vol. 12, Pág. 180\>) ***\[Trecho do Preâmbulo Anterior (Kyō・Edição 31, Pág. 1, linha 1 ～ Pág. 8, linha 3)\]** Na Era dos Deuses, Ushitora no Konjin Kunitokotachi no Mikoto governava o mundo de forma bastante ampla (por ordem do Deus Supremo). No entanto, por ser demasiado rigoroso contra o mal, atraiu a antipatia dos deuses (governantes locais) e foi forçado a se retirar; desde então, a linhagem que O aprisionou liderou o mundo.*
 
   Ushitora no Konjin, o Deus Supremo, caiu para baixo, e os deuses dos galhos espalharam-se por cima fazendo o que queriam — há a palavra: "Deus também sente pesar (lamenta)"\*1. Isso tem esse significado. De qualquer forma, isso continuou por três mil anos no mundo material, e agora finalmente aparecerá na superfície; o órgão para isso é a Sekaikyuseikyo. (4 de fevereiro de 1954\)
 
@@ -1847,13 +1847,13 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   País de Ushitora\*2 / Capital de Ushitora / Com o nome de Kannon / O Deus Rigoroso (Izu no Okami). (4 de março de 1935\) (Kōsei・Edição 2, Pág. 6, No. 1 ＝ Obras Completas de Mokiti Okada, Volume de Poemas ***\[IV\]**, Pág. 36, No. 2\)*
 
-  ####  x Relação com a Oomoto 
+####  x Relação com a Oomoto 
 
-  ##### A O papel da Oomoto 
+##### A O papel da Oomoto 
 
   (Kyō・Edição 3, Pág. 68, linhas 8 a 10 \<Coletânea de Palestras・Vol. 5, Pág. 65\>) A Oomoto é uma religião que surgiu para que a Sekaikyuseikyo nascesse. Nas Ofudesaki há o dizer: "Dentro disto está o modelo do mundo; se olharem para dentro disto, compreenderão claramente". (18 de outubro de 1951\) 
 
-  ##### B A razão pela qual Meishu-Sama nasceu da Oomoto (Sui・Edição 14, Pág. 13, linha 6 ～ Pág. 14, linha 8 \<Coletânea de Palestras・Vol. 6, Pág. 273\>)
+##### B A razão pela qual Meishu-Sama nasceu da Oomoto (Sui・Edição 14, Pág. 13, linha 6 ～ Pág. 14, linha 8 \<Coletânea de Palestras・Vol. 6, Pág. 273\>)
 
   —— Quando eu estava na Oomoto, na ocasião do Grande Festival, um tigre e um urso possuíram o Mestre (Onisaburo)\*1, e ele ficou paralisado no leito por dois dias sem se mexer. Eu pensava que ele era Deus, e pensei "será que Deus passa por uma coisa ridícula dessas?", então...
 
@@ -1863,59 +1863,59 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   A Fundadora e o Mestre eram grandiosos em outras coisas, mas não tinham força. Mesmo para curar doenças, não tinham força. Por que isso? Porque a força surge quando espírito e corpo se unem intimamente. A força sai quando a Vertical e a Horizontal se cruzam. Esse sou eu. "Chi" é espírito e "Kara" é corpo; a "Força" (Chikara) surge quando espírito e corpo se unem. Em suma, Izunome é a Força. Por isso, alguém que possuísse a Força não havia aparecido no mundo até agora. Basta que essa força se expanda mundialmente. Portanto, Kannon torna-se isso. A Força Kannon é exatamente como homem e mulher, fogo e água, vertical e horizontal; é a união disso. (1º de outubro de 1952\)
 
-  ### ② Expansão (Kyōsen)
+### ② Expansão (Kyōsen)
 
-  #### i Pacientes e novos fiéis são enviados por Deus (Sui・Edição 3, Pág. 36, linhas 5 a 14 \<Coletânea de Palestras・Vol. 4, Pág. 215\>)
+#### i Pacientes e novos fiéis são enviados por Deus (Sui・Edição 3, Pág. 36, linhas 5 a 14 \<Coletânea de Palestras・Vol. 4, Pág. 215\>)
 
   Texto omitido: Consultar "Providência de Deus e Difusão através do Johrei" na Segunda Parte "Problemas Gerais de Difusão". 
 
-  #### ii Basta ministrar Johrei a quem vier ao nosso encontro 
+#### ii Basta ministrar Johrei a quem vier ao nosso encontro 
 
   (Kyō・Edição 23, Pág. 23, linhas 2 a 17 \<Coletânea de Palestras・Vol. 10, Pág. 280\>) Texto omitido: Consultar "Providência de Deus e Difusão através do Johrei" na Segunda Parte "Problemas Gerais de Difusão". 
 
-  #### iii Pessoas inesperadas abrem o caminho (Sui・Edição 21, Pág. 13, linhas 7 a 10 \<Coletânea de Palestras・Vol. 9, Pág. 127\>) Texto omitido: Consultar Item 4 \- Pessoas, ② i na Segunda Parte "Problemas Gerais de Difusão". 
+#### iii Pessoas inesperadas abrem o caminho (Sui・Edição 21, Pág. 13, linhas 7 a 10 \<Coletânea de Palestras・Vol. 9, Pág. 127\>) Texto omitido: Consultar Item 4 \- Pessoas, ② i na Segunda Parte "Problemas Gerais de Difusão". 
 
-  ##### 
+##### 
 
-  #### iv Qualquer pessoa é enviada por Deus 
+#### iv Qualquer pessoa é enviada por Deus 
 
   (Sui・Edição 22, Pág. 9, linhas 1 a 10 \<Coletânea de Palestras・Vol. 9, Pág. 154\>) Em suma, como os seres humanos que vêm até aqui são enviados por Deus porque há uma necessidade, é um grande erro o ser humano fazer julgamentos. Por isso, dizem frequentemente: "Aquela pessoa tem má reputação, não se pode confiar, não é interessante, não devemos deixar tal pessoa entrar na Igreja", mas não é assim. É justamente porque a pessoa é assim que o certo é torná-la uma pessoa esplêndida, e para isso é necessária a força da religião1. Numa certa igreja cristã de Tóquio, ouvi de um pastor que "está decidido que não deixamos entrar na igreja quem tenha o mínimo de erro, selecionamos pessoas puras para entrar". Eu disse: "Se são pessoas tão esplêndidas, não há necessidade de entrarem na igreja, não é? Tornar esplêndidos os maus não é o trabalho da religião?". Ele disse: "Essa é a lógica verdadeira, mas como a minha igreja é assim, não tem jeito"; mas isso está muito errado. No mundo terrível de até agora, onde os maus proliferaram, os maus também existem, afinal, como um tipo de instrumento2. (1º de julho de 1953\)
 
-  #### v Deus extrai "coisas boas" de "coisas ruins" (Sui・Edição 21, Pág. 18, linhas 1 a 14 \<Coletânea de Palestras・Vol. 9, Pág. 130\>)
+#### v Deus extrai "coisas boas" de "coisas ruins" (Sui・Edição 21, Pág. 18, linhas 1 a 14 \<Coletânea de Palestras・Vol. 9, Pág. 130\>)
 
   ***\[Explicação\]** Após um incidente em que um paciente gravemente ferido faleceu devido à desatenção de um ministro, o que foi noticiado nos jornais, e a pessoa não veio pedir perdão a Meishu-Sama. Após uma severa advertência a todos os ministros sobre a falta de responsabilidade, falta de fé, falta de estudo do Johrei e desatenção nos procedimentos...*
 
   Esta conversa surgiu motivada pelo problema de agora; eu não pretendia falar sobre isso, saiu naturalmente. No entanto, através disso, somos grandemente ensinados. Assim, esse fracasso desempenhou um bom papel e, portanto, Deus transforma esse fracasso em algo bom1. Fazendo isso, através dessa atuação, aquele pecado é apagado. Por isso, na fé também, se pensarmos de qualquer forma de maneira "Daijō" (Daijō/Ampla), tudo corre bem. Correndo bem, há desenvolvimento. Além disso, o lado de Deus é bastante profundo. Não apenas o lado de Deus, mas tudo no mundo tem coisas indescritivelmente interessantes2. O ser humano, por não entender até aí, perde-se, sofre, irrita-se e acaba fazendo coisas erradas achando que são boas. Nas Ofudesaki da Oomoto há: "É um mecanismo em que aquele tipo de pessoa se torna este tipo, e este tipo de pessoa se torna aquele tipo"; são palavras realmente simples e com um sabor indescritível. Por isso, como sempre digo, ao ver pessoas sofrendo por causa dos médicos, surge muita indignação contra os médicos. No entanto, quanto piores os médicos forem em curar doenças, mais valor nós temos. Portanto, se os médicos curassem as doenças facilmente, acabaria aí e ninguém viria para a religião. Nesse caso, não haveria lugar para a atuação das pessoas daqui. Por isso, podem agradecer muito pelo fato de os médicos serem ruins. (1º de junho de 1953\)
 
-  #### vi A missão dos fiéis (Kyō・Edição 28, Pág. 5, linhas 12 a 13; Pág. 5, linha 13 ～ Pág. 6, linha 5 \<Coletânea de Palestras・Vol. 11, Pág. 196\>)
+#### vi A missão dos fiéis (Kyō・Edição 28, Pág. 5, linhas 12 a 13; Pág. 5, linha 13 ～ Pág. 6, linha 5 \<Coletânea de Palestras・Vol. 11, Pág. 196\>)
 
   Eu dizia desde antes que viria a era do terror, e isso está se aproximando bastante. O número de doentes aumentará subitamente e morrerão uns atrás dos outros. Exatamente como a colheita de arroz que piorou subitamente este ano; como não se saberá por que o número de doentes aumenta tanto, tornar-se-á um grande problema. Se o médico tocar um pouco, morre de repente, ou quanto mais trata, pior fica; isso ficará visivelmente cada vez mais intenso, e então, pela primeira vez, considerarão que a teoria da Sekaikyuseikyo é grandiosa e, ao mesmo tempo, o trabalho de curar isso tornar-se-á extremamente intenso. Os fiéis de agora são uma preparação para esse tempo. Não se pode aumentar o número de repente; os qualificados podem curar doenças imediatamente, mas aqueles que têm bastante prática desde antes são diferentes; além disso, se não houver um número considerável de pessoas que tenham conhecimento médico da Medicina de Deus e estejam acostumadas, quando chegar a hora, todos serão derrotados; por isso, pensem que agora é a preparação.\* (5 de novembro de 1953\) 
 
-  #### vii Escolha para o Serviço (Ron Betsu・Pág. 109, Coluna superior, linha 9 ～ Coluna inferior, linha 9 \<Coletânea de Palestras・Vol. 1, Pág. 91\>)
+#### vii Escolha para o Serviço (Ron Betsu・Pág. 109, Coluna superior, linha 9 ～ Coluna inferior, linha 9 \<Coletânea de Palestras・Vol. 1, Pág. 91\>)
 
   Texto omitido: Consultar Capítulo 2, Seção 3, Item 2, A Vontade de Deus, 2 \- A manifestação exterior da Vontade de Deus, ③ Justiça ii D d (Pág. 379 deste livro). 
 
-  #### viii Salva-se a partir da pessoa que se torna o Modelo (Kyō・Edição 3, Pág. 6, linhas 6 a 12 \<Coletânea de Palestras・Vol. 5, Pág. 11\>)
+#### viii Salva-se a partir da pessoa que se torna o Modelo (Kyō・Edição 3, Pág. 6, linhas 6 a 12 \<Coletânea de Palestras・Vol. 5, Pág. 11\>)
 
   ***\[Trecho do Preâmbulo Anterior (Kyō・Edição 3, Pág. 6, linhas 1 a 5)\]** O objetivo do texto anterior é o seguinte: ① Deus faz primeiro o "Modelo" (Kata) pequeno, e isso eventualmente aparece como uma Providência mundial. ② Eu sou levado a ver o que Deus fará daqui para a frente através dos modelos. ③ Não apenas isso, o que eu faço como representante de Deus é um "Modelo", e isso tornar-se-á eventualmente uma Obra Divina de escala mundial. — A doutrina que serve de pano de fundo para o texto é como acima exposto.*
 
   Aqui há os fiéis, um por um, mas entre eles há pessoas que, sozinhas, fazem o modelo de milhões, de dezenas de milhões. Quando comecei no início, reuniu-se o modelo de algumas pessoas, e essas pessoas representam uma etnia, representam um país — representam centenas de milhões, dezenas de milhões. Por isso, antigamente eu dizia muito: modelo da Inglaterra, modelo da Índia1. Se salvar essa pessoa, o número de pessoas dessa linhagem será salvo em muito maior quantidade. Em seguida, cada uma dessas pessoas será salva. O mundo é feito dessa forma3. A Providência de Deus faz-se dessa maneira. Por isso, é muito misterioso e interessante. (1º de outubro de 1951\)
 
-  #### ix As pessoas erradas são colocadas para fora (Sui・Edição 8, Pág. 42, linhas 4 a 12 \<Coletânea de Palestras・Vol. 6, Pág. 84\>)
+#### ix As pessoas erradas são colocadas para fora (Sui・Edição 8, Pág. 42, linhas 4 a 12 \<Coletânea de Palestras・Vol. 6, Pág. 84\>)
 
   Texto omitido: Consultar Capítulo 2, Seção 3, Item 2, A Vontade de Deus, 2 \- A manifestação exterior da Vontade de Deus, ③ Justiça ii D b (Pág. 377 deste livro). 
 
-  #### x Compreender a partir do exterior 
+#### x Compreender a partir do exterior 
 
-  ##### 
+##### 
 
-  ##### A Desenvolve-se de uma vez (Kyō・Edição 22, Pág. 20, linha 14 ～ Pág. 21, linha 3 \<Coletânea de Palestras・Vol. 10, Pág. 223\>)
+##### A Desenvolve-se de uma vez (Kyō・Edição 22, Pág. 20, linha 14 ～ Pág. 21, linha 3 \<Coletânea de Palestras・Vol. 10, Pág. 223\>)
 
   ***\[Trecho do Preâmbulo Anterior (Kyō・Edição 22, Pág. 20, linhas 6 a 13)\]** Após falar sobre o grande desenvolvimento no Havaí...*
 
   Nas Ofudesaki da Oomoto há: "O pé do farol é muito escuro, compreender-se-á a partir de países distantes"1; diz muito bem2. O Japão é o pé do farol, e compreender-se-á a partir de países distantes. E há também: "Tudo o que atrasou acontecerá de uma vez, estejam preparados para isso". O Havaí estava atrasado. Por isso aconteceu de uma vez. O Japão deveria desenvolver-se muito mais. No entanto, o lado do deus maligno, usando as autoridades ou os órgãos de imprensa dos jornais, reprimiu ao máximo para que não se desenvolvesse até agora. (15 de maio de 1953\) 
 
-  ##### B A adoração dos japoneses pelo estrangeiro (Kyō・Edição 28, Pág. 12, linhas 3 a 15 \<Coletânea de Palestras・Vol. 11, Pág. 202\>)
+##### B A adoração dos japoneses pelo estrangeiro (Kyō・Edição 28, Pág. 12, linhas 3 a 15 \<Coletânea de Palestras・Vol. 11, Pág. 202\>)
 
   Se na América chamar bastante atenção e desenvolver-se, então, pela primeira vez, os jornais japoneses e afins despertarão e ficarão surpresos; assim, receberão com alegria as publicações daqui e tudo o mais, e então, sobre tudo o que eu disse, dirão: "É excelente, é verdade, não há dúvida", e ficarão admirados. É até lá. Nas Ofudesaki da Oomoto diz: "O pé do farol é muito escuro, compreender-se-á a partir de países distantes"; penso que tem o significado que acabei de dizer. De qualquer forma, os japoneses, em suma, não têm autoconfiança. Têm um forte complexo de inferioridade. Isso também é compreensível, pois antigamente era a cultura chinesa; diziam que qualquer coisa, desde que fosse da China, era boa. Por isso, mesmo com antiguidades, se dissessem Karamono (coisa da China/Tang), era muito valorizada.
 
@@ -1929,57 +1929,57 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   2 (Kyō・Edição 22, Pág. 28, linhas 9 a 13 \<Coletânea de Palestras・Vol. 10, Pág. 230\>) Quando chegar o tempo em que a Sekaikyuseikyo se espalhar na América, através disso os intelectuais japoneses compreenderão, e isso é o mais eficaz. Quando isso acontecer, os japoneses, se na América fizerem alvoroço, engolirão tudo de uma vez achando que sem dúvida é bom. Não há outro jeito. Claro que, como é Deus quem faz, Ele usará métodos maravilhosos, então não há necessidade de se preocupar, mas a Providência seguirá mais ou menos dessa forma. (16 de maio de 1953\)
 
-  ### ③ Construção\* (建 設)
+### ③ Construção\* (建 設)
 
-  #### i Hakone é a Providência do Mundo Espiritual, Atami é a Providência do Mundo Material (Kyō・Edição 14, Pág. 59, linhas 12 a 14 \<Coletânea de Palestras・Vol. 8, Pág. 112\>)
+#### i Hakone é a Providência do Mundo Espiritual, Atami é a Providência do Mundo Material (Kyō・Edição 14, Pág. 59, linhas 12 a 14 \<Coletânea de Palestras・Vol. 8, Pág. 112\>)
 
   Desta vez, materialmente... como aqui (Hakone) é o centro espiritual, isso reflete-se em Atami. Aqui é a Providência do Mundo Espiritual, e Atami é a Providência do Mundo Material. Por isso, Atami fica pronta e, a partir daí, expande-se; ao expandir-se, expande-se materialmente. (26 de setembro de 1952\) 
 
-  #### ii As construções de Hakone e Atami refletem-se mutuamente (Kyō・Edição 26, Pág. 60, linhas 2 a 5 \<Coletânea de Palestras・Vol. 11, Pág. 113\>)
+#### ii As construções de Hakone e Atami refletem-se mutuamente (Kyō・Edição 26, Pág. 60, linhas 2 a 5 \<Coletânea de Palestras・Vol. 11, Pág. 113\>)
 
   A ordem é: Hakone fica pronta e muda-se para Atami; Atami fica pronta e agora volta para Hakone. E como o que eu faço é uma Providência fundamental, se a ordem for um pouco diferente, sou imediatamente atingido por Deus\*. Os fiéis antigos sabem bem disso, é muito interessante. (23 de setembro de 1953\) 
 
-  #### iii A construção de Kyoto 
+#### iii A construção de Kyoto 
 
   (Sui・Edição 15, Pág. 3, linhas 1 a 3 \<Coletânea de Palestras・Vol. 6, Pág. 288\>) A construção de várias coisas em diversos lugares, esse desenvolvimento visível, é daqui para a frente. No entanto, isso vai se refletindo à medida que aquilo lá em Kyoto fica pronto. A Providência do lado de Deus é profunda, de modo que não se pode sequer imaginar\*. (1º de novembro de 1952\)
 
-  #### iv Construção mundial 
+#### iv Construção mundial 
 
   (Kyō・Edição 15, Pág. 29, linhas 6 a 10 \<Coletânea de Palestras・Vol. 8, Pág. 153\>) Agora, onde será? É em Kyushu. Ainda não chegou o tempo, mas eventualmente será construído um Paraíso Terrestre em Kyushu. O próximo será na China. E depois, Jerusalém. Lá é o fim. Portanto, vai indo para o Oeste. Quando o Paraíso Terrestre for construído em Jerusalém, será o início do Paraíso Terrestre mundial. A partir daí o mundo será unificado. Não sou eu quem diz isso; há uma profecia antiga do lado judaico sobre isso. (18 de outubro de 1952\) 
 
-  #### v O tempo da "Construção" é decidido macroscopicamente (Sui・Edição 25, Pág. 8, linhas 2 a 6 \<Coletânea de Palestras・Vol. 9, Pág. 233\>)
+#### v O tempo da "Construção" é decidido macroscopicamente (Sui・Edição 25, Pág. 8, linhas 2 a 6 \<Coletânea de Palestras・Vol. 9, Pág. 233\>)
 
   Nas Ofudesaki da Oomoto há: "Atrasar ou adiantar depende da conveniência de Deus". No lado de Deus, todos os tempos estão decididos. Por isso, o tempo de conclusão do Kaikan (Salão) também está decidido. No entanto, como Deus também faz isso lutando contra o deus maligno, nesse intervalo pode adiantar ou atrasar. Mas, no fim, está arranjado para chegar exatamente a tempo.\* A Providência de Deus é assim. (1º de outubro de 1953\)
 
-  #### vi A força motriz da construção
+#### vi A força motriz da construção
 
    (Kyō・Edição 32, Pág. 5, linha 13 ～ Pág. 6, linha 16 \<Coletânea de Palestras・Vol. 12, Pág. 241\>) Quando o Paraíso Terrestre ficar pronto, as pessoas do mundo farão várias críticas e reflexões. Haverá a dúvida "Como puderam construir algo tão maravilhoso em tão pouco tempo?", e haverá o desejo de ouvir sobre isso. Quando isso acontecer, acho que repórteres de jornal e pessoas assim virão muito para ouvir. Explicando isso de forma mais fácil de entender, é claro que é força, mas basicamente a primeira é a força do dinheiro (Kinryoku). A seguinte é a força da coragem (Tanryoku), a audácia. A próxima é a força da sabedoria (Chiryoku). São essas três forças. Se formos pelo pensamento humano, é natural ver dessa forma, mas no nosso caso, além dessas, entra o Poder Divino (Shinryoku). A força que faz essas três forças funcionarem é o Poder Divino. É verdade que, quanto à força do dinheiro, não a temos desde a origem, e não sendo um empreendimento governamental nem nada parecido, em suma, tem que haver pessoas que doem à Sekaikyuseikyo. Quem faz isso é Deus. Quanto à força da coragem, se mostrarmos uma coragem sem convicção, fracassaremos; mas ter convicção significa que Deus manifesta essa força e, além disso, que Deus faz com que todas as condições avancem fácil e naturalmente dessa forma, sem forçar; e, se for Atami, Deus já preparou desde antes a topografia que permite ver tal paisagem num relance, as pedras, as árvores e os materiais.\* E quanto à força da sabedoria, parece algo que o ser humano pensa, mas não é assim. Objetivamente parece força de sabedoria, mas eu mesmo não tenho sabedoria. Por que digo isso? Porque não penso... Simplesmente, ao ir lá, vem pa-pa-pa à mente, ou melhor, dizer que vem à mente ainda é uma forma indireta de dizer. Entendo de repente (Hyo-tto). Por isso, na verdade não é força de sabedoria, é Poder Divino. Sendo assim, não se pode explicar; em suma, é um poder misterioso. É o Poder da Sabedoria Maravilhosa (Myochiriki) que Kannon diz. Diz-se poder misterioso, poder da sabedoria maravilhosa, e certamente é Myochiriki. Se não fosse assim, não haveria como construir tantas coisas em curto período... Explicando assim, qualquer um concordará. Se virem a realidade, não há outra forma de pensar. Ainda tornar-se-á algo inimaginável até agora. (5 de março de 1954\)
 
   ***\[Explicação\]** Sobre o que possibilitou o avanço surpreendente da construção (em Atami). ① Deus planejou desde o princípio e criou a natureza preparando-a. Consultar também Capítulo 2, Seção 3, Item 1, Sabedoria de Deus, 2 \- ① A natureza de Atami (Pág. 266 deste livro). ② Deus induz a Obra Divina para que corra bem. Por exemplo, no aspecto financeiro da Igreja, surgem inesperadamente pessoas que doam dinheiro, ou proprietários de terras oferecem a venda em momentos convenientes devido às suas situações econômicas (Shū・Pág. 437, Coluna superior, linha 18 ＝ Ishizue Shū Jō・Pág. 80, Coluna inferior, linhas 2 e 3). ③ Quando Meishu-Sama vai ao local da construção, vem-lhe à mente instantaneamente como construir para corresponder à intenção de Deus — Revelação, orientação da Sabedoria Divina. — Como visto acima, tudo é conduzido pelo Poder de Deus.*
 
-  #### vii Atrair com o Modelo do Paraíso Terrestre e fazer entrar em contato com o Ensinamento (Verdade) (Kyō・Edição 30, Pág. 25, linhas 1 a 12 \<Coletânea de Palestras・Vol. 12, Pág. 118\>)
+#### vii Atrair com o Modelo do Paraíso Terrestre e fazer entrar em contato com o Ensinamento (Verdade) (Kyō・Edição 30, Pág. 25, linhas 1 a 12 \<Coletânea de Palestras・Vol. 12, Pág. 118\>)
 
   Quando o Paraíso Terrestre de Atami ficar pronto, de qualquer forma atrairá a atenção do mundo. Claro que no Japão também se surpreenderão agora e poderão dizer: "A Sekaikyuseikyo é impressionante. Até agora a menosprezávamos, mas não é bem assim. Lucraram muito bem". Seja o que for, de qualquer modo, surgirá um clima de "É diferente das várias novas religiões comuns", "Afinal, esse tal de Okada é um sujeito com bastante habilidade", e acho que surgirá um clima de "É preciso pesquisar sobre Okada". Eventualmente surgirá a "Pesquisa sobre Okada". Então, dirão "Para pesquisar o sujeito, primeiro precisamos ver os livros dele", e assim todos passarão a ler muito os livros da Sekaikyuseikyo; fazendo isso, compreenderão de alguma forma sobre medicina, agricultura natural, principalmente medicina; então, decidirão assinar e ler o Eikō e a Chijo Tengoku, e isso é algo muito bom; acho que Deus faz as coisas muito bem. Este Paraíso Terrestre e o Museu de Arte são... é uma forma barata de dizer, mas são chamarizes de clientes. E, através disso, Deus adotou a política de fazer ler as coisas verdadeiras e colocá-las na cabeça. (3 de janeiro de 1954\)
 
   ***\[Explicação\]** Por este Ensinamento, compreende-se que o verdadeiro objetivo de Meishu-Sama era fazer com que os intelectuais lessem os Ensinamentos e conhecessem a Verdade. — A Criação da Civilização também teve como principal alvo de distribuição os intelectuais dos países desenvolvidos (consultar os Ensinamentos ④ Escrita i A Criação da Civilização A a, b, a seguir).*
 
-  ### ④ Escrita (御執筆)
+### ④ Escrita (御執筆)
 
-  #### i A Criação da Civilização (Bunmei no Sozou)
+#### i A Criação da Civilização (Bunmei no Sozou)
 
-  ##### A Informar a Verdade e construir o verdadeiro mundo civilizado 
+##### A Informar a Verdade e construir o verdadeiro mundo civilizado 
 
   (Paraíso Terrestre)\*1 (S2・Seções 1 a 4 \<Obras Completas・Vol. 10, Pág. 113\>)
 
   1 Esta obra, como consta no prefácio, pode muito bem ser chamada de bomba atômica\*2 contra a civilização moderna. 2 E nela estão incluídos todos os pilares da civilização estabelecida: religião, pensamento, filosofia, educação, ciência e arte; e, com olhos aguçados, critica e investiga exaustivamente cada um deles, expondo-os nuamente; portanto, quem ler isto, seja quem for, não terá outra escolha senão despir as roupas velhas e trocar por roupas novas. 3 Neste sentido, se esta obra abrir os olhos das pessoas, causará inevitavelmente uma grande sensação na civilização estabelecida e provocará uma conversão de 180 graus; 4 no alvorecer da conclusão desta obra, pretendo distribuí-la por método adequado ao mundo religioso de todo o globo, a cada universidade, meio acadêmico, imprensa, pessoas notáveis, etc., e também apresentá-la ao comitê do Prêmio Nobel. (1952, Bunmei no Sozou, "Os Erros da Cultura Existente") 
 
-  ###### *b A civilização moderna utilizada pelo mal* 
+###### *b A civilização moderna utilizada pelo mal* 
 
   (Su1・Seções 11 a 15 \<Obras Completas・Vol. 10, Pág. 263\>) ***\[Trecho do Preâmbulo Anterior (Su1・Seções 1 a 10)\]** Para esclarecer o fundamento da medicina (e da doença), é preciso esclarecer a essência do espírito (alma) humano e até a substância do Espírito Divino (Seções 4 e 5). No entanto, até hoje as coisas da esfera religiosa estavam fechadas em mistério e não se podia captar a essência de Deus (Seção 10).*
 
   11 Como resultado, a ciência materialista tornou-se alvo de crença absoluta e, por fim, iludiram-se tomando o que não era verdade como Verdade, deixando de saber até a distinção entre o certo e o errado das coisas; e as descobertas e invenções, que foram alcançadas com tanto esforço para serem úteis à felicidade da humanidade, foram utilizadas pelo deus maligno e, contrariando o objetivo original, foram transformadas em ferramentas para gerar a infelicidade. 12 Como resultado, houve a inundação de doenças, gerou-se o sofrimento econômico e criaram-se as causas da guerra; vendo por esse ângulo, para salvar a humanidade mundial cheia desses sofrimentos, acima de tudo — é uma forma estranha de dizer, mas — é preciso esclarecer a verdadeira Verdade e fazer com que a humanidade mundial, especialmente os intelectuais das etnias culturais, se conscientize*2\. Este é o elemento fundamental que deve gerar a verdadeira civilização, e afirmo que não há outro além deste. (1952, Bunmei no Sozou, "O Juízo Final")* 
 
-  ###### *c A revolução da civilização — Cura de doenças* 
+###### *c A revolução da civilização — Cura de doenças* 
 
   *(Kyō・Edição 6, Pág. 46, linha 4 ～ Pág. 47, linha 4 \<Coletânea de Palestras・Vol. 6, Pág. 371\>) O trabalho original da Sekaikyuseikyo é a revolução cultural do mundo. É maravilhosamente grande. É a revolução da civilização. Por isso, estou escrevendo agora A Criação da Civilização. A civilização de até agora — esta não é a verdadeira civilização, é, em suma, uma civilização de improviso. A verdadeira civilização não é uma coisa dessas. É muito diferente. E ensinamos isso à humanidade para salvá-la. Que tipo de civilização é, onde difere da civilização de até agora? Escreverei várias coisas em A Criação da Civilização, mas o mais fácil para vocês entenderem é a cura de doenças. Só de ver isso já é diferente. Até agora, remédios, máquinas... tentam curar a doença com todo esforço usando isso — gastam muito dinheiro, e a doença não cura, piora cada vez mais*1\. Em contraste, na Sekaikyuseikyo, apenas fazendo assim (Johrei), cura-se gradualmente; então, pela diferença... só com isso já é algo grandioso. Não apenas a cura de doenças, mas tudo está constituído dessa forma.
 
@@ -1987,19 +1987,19 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   
 
-  ##### B Teoria da Civilização — A Revolução Médica é a premissa da Verdadeira Civilização\* 
+##### B Teoria da Civilização — A Revolução Médica é a premissa da Verdadeira Civilização\* 
 
-  ###### *a Tradução e distribuição de A Criação da Civilização* 
+###### *a Tradução e distribuição de A Criação da Civilização* 
 
   (Kyō・Edição 2, Pág. 100, linha 15 ～ Pág. 101, linha 4 \<Coletânea de Palestras・Vol. 4, Pág. 561\>) Sobre as coisas relacionadas à doença em A Criação da Civilização. Dividirei esta obra em três partes. A primeira parte explica principalmente sobre a doença. Esta é, de fato, a grande revolução da medicina. Pretendo publicá-la. Isso causará, inevitavelmente, uma sensação considerável.
 
   Pretendo fazer isso em grande escala — e, claro, traduzir e enviar para o exterior. É a revolução médica mundial. É preciso preparar-se muito bem. E isso tornar-se-á uma atividade superficial de eliminar a doença. (27 de setembro de 1951\) 
 
-  ###### *b Despertar os intelectuais do mundo* 
+###### *b Despertar os intelectuais do mundo* 
 
   (Kyō・Edição 3, Pág. 12, linhas 3 a 7 \<Coletânea de Palestras・Vol. 5, Pág. 15\>) Não há erro em pensar que a medicina moderna foi criada pelo deus maligno e é administrada pelo deus maligno\*. Então, Deus está me usando para despertar disso. Com esse sentido, estou escrevendo agora A Criação da Civilização. Planejo que fique pronta por volta do ano que vem; quando ficar, traduzi-la-ei para o inglês e distribuirei pelo mundo. Primeiro, despertar os intelectuais do mundo. E assim, gradualmente, as pessoas do mundo todo passarão a fazer Johrei e coisas do tipo. Só assim a humanidade será salva fundamentalmente. (1º de outubro de 1951\) 
 
-  ###### *c Informar sobre os erros da medicina* 
+###### *c Informar sobre os erros da medicina* 
 
   (Kyō・Edição 13, Pág. 46, linha 12 ～ Pág. 47, linha 6 \<Coletânea de Palestras・Vol. 8, Pág. 48\>) (Ensinamento após a leitura do Tratado "A Cultura de ⦿ (Su/Ponto no Círculo)"\*1 \<Eikō・Edição 173\>)
 
@@ -2007,9 +2007,9 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Embora se diga medicina, o problema é o remédio. Se retirar o remédio do corpo humano, as pessoas não adoecerão de forma alguma, a pobreza desaparecerá e, como detestarão conflitos, a guerra também desaparecerá; portanto, o fundamento mais importante da questão dos noventa e nove por cento e um rin é a revolução da medicina. Com isso, o Mundo de Miroku será construído. Então, surgem as dúvidas: por que existem coisas erradas como a medicina e os remédios, e qual a relação disso com Deus? Mas farei ler o que está escrito em A Criação da Civilização, e com isso compreenderão tudo3. O interessante é que todas as religiões até agora criticam e atacam muito o mal. E pregam apenas o bem. Isso não se limita à religião, na moral e em tudo é assim. No entanto, o que eu prego desta vez é a afirmação do mal, que o mal foi necessário, e que o remédio foi algo que Deus enganou o ser humano e o fez tomar. (26 de agosto de 1952\) 
 
-  ##### C Como aviso do Juízo Final 
+##### C Como aviso do Juízo Final 
 
-  ###### *a A Criação da Civilização é o Evangelho do Paraíso* 
+###### *a A Criação da Civilização é o Evangelho do Paraíso* 
 
   (Kyō・Edição 5, Pág. 77, linha 13 ～ Pág. 78, linha 11 \<Coletânea de Palestras・Vol. 5, Pág. 264\>)
 
@@ -2019,31 +2019,31 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Então, tentam curar com a medicina, mas ao tocar um pouco, morre de repente. Se aplicar injeção, morre na hora. Ou seja, como a força de purificação é forte, não há tempo para solidificar, então a medicina não serve. E então, dizendo "é sem dúvida aquilo que a Sekaikyuseikyo (Messias) disse", virão em massa e curvarão a cabeça. Não vai tão simplesmente — imediatamente, mas no fim chegará a isso. E assim o Mundo de 567 será construído. O que li agora é sobre a organização do mundo. Escrevi sobre o fundamento disso... O livro A Criação da Civilização é o Evangelho do Paraíso — e quanto a "o evangelho do Reino será pregado em todo o mundo", isso deve ser informado a toda a humanidade. Perecer por não acreditar nisso é colher o que plantou (autoculpabilidade). O lado de Deus fez tudo o que tinha de fazer, lançou redes por todo o mundo para que muitos se segurem. Quem não se segura é porque é mau, então não tem jeito senão perecer. Esse fundamento tem significado. O movimento gradual da Sekaikyuseikyo (Messias), o fato de a purificação estar se tornando gradualmente forte mundialmente e tudo o mais, há várias coisas, mas no fim, chegando lá, compreende-se em linhas gerais. (23 de dezembro de 1951\) 
 
-  ###### *b Como Evangelho do Paraíso (Kyō・Edição 23, Pág. 30, linha 3 ～ Pág. 31, linha 3 \<Coletânea de Palestras・Vol. 10, Pág. 286\>)*
+###### *b Como Evangelho do Paraíso (Kyō・Edição 23, Pág. 30, linha 3 ～ Pág. 31, linha 3 \<Coletânea de Palestras・Vol. 10, Pág. 286\>)*
 
   Até agora, o Mundo Espiritual tinha o redemoinho contrário, de Avanço pela Direita e Recuo pela Esquerda (Ushin Satai). E como este é o ritmo da essência da Lua, por assim dizer, era muito fraco. Ou seja, era o ritmo do mundo da noite. Por isso, coisas sujas, coisas erradas e coisas correspondentes ao mal eram permitidas até certo ponto. No entanto, o mundo do Sol desta vez é igual aos raios do dia; portanto, qualquer coisa fica clara, de modo que as coisas sujas serão todas removidas\*1.
 
   Isso é algo assustador para as coisas sujas. Mas para as coisas limpas, ao contrário, é algo de se agradecer. Isso é o Juízo Final. Portanto, tendo o dia de hoje como marco, entraremos finalmente no Juízo Final\*2. Por isso, isso aparecerá gradualmente na forma, e entenderão bem. Ao mesmo tempo, se não fizerem reverência à Sekaikyuseikyo, em suma, não conseguirão viver. Haverá muitos que cairão (batabata), mas como é Deus quem faz, e não eu, não há o que fazer. Antes disso, é preciso informar pelo menos uma vez; por isso, é aquilo que está na Bíblia: "E este evangelho do Reino será pregado em todo o mundo, então virá o fim". "O evangelho do Reino será pregado em todo o mundo" significa que Salvando a América é apenas o primeiro degrau; agora sairá Coleção de Milagres da Sekaikyuseikyo e, em seguida, sairá \*O Livro da Revolução Médica\*\*4; tudo isso será traduzido para o inglês e distribuído pelo mundo. E, por fim, sairá A Criação da Civilização; estes tornar-se-ão o Evangelho do Paraíso e farei o mundo todo ler. Não sei se chegaremos a fazer ler tudo isso, ou se apenas O Livro da Revolução Médica será suficiente, mas não sei se A Criação da Civilização chegará a tempo. Sendo assim, o Mundo Espiritual fará finalmente a Grande Conversão. Como isso se reflete no mundo material, devem estar preparados para isso. (15 de junho de 1953\) 
 
-  ##### D Esclarecer a razão da existência do mal (medicina e conflito)
+##### D Esclarecer a razão da existência do mal (medicina e conflito)
 
    (Kyō・Edição 12, Pág. 32, linha 5 ～ Pág. 34, linha 16 \<Coletânea de Palestras・Vol. 7, Pág. 441\>) Sobre A Criação da Civilização, finalmente tive tempo, então comecei a escrever. Reescrevi bastante a parte inicial, então farei com que leiam tudo. (Leitura de: Prefácio de A Criação da Civilização1, "Paraíso Terrestre"2, "Verdade e Falsidade", "Construção do Paraíso e Expulsão do Mal"3 \<Eikō・Edição 169\>) Até agora, na religião e na filosofia explicou-se muito, mas não se explicou muito sobre o mal4. Está explicado de forma leve. Eu ainda explicarei sobre o mal sob vários aspectos, mas se não compreenderem isso, não compreenderão a verdade. Portanto, a medicina atual também é uma manifestação do mal. É um mal necessário. O remédio que a medicina usa é um bom material para isso. O remédio enfraquece o ser humano. Encurta a vida. Isso foi necessário porque, na era primitiva, o ser humano peludo comia coisas ruins — coisas que não eram comida —, andava sempre nu, vestia no máximo coisas feitas de palha e vivia em buracos cavados. E faziam isso tranquilamente se o corpo fosse saudável.
 
   Então, era preciso enfraquecer o corpo de qualquer jeito. Para enfraquecer, fizeram tomar remédio. Se tomarem remédio, não conseguirão mais levar essa vida; então, espremem a sabedoria para fazer casas que protejam da chuva e do vento, ou preparar comidas gostosas. E na era primitiva lutavam muito, mas para lutar precisavam fazer várias coisas. Fazer armas... embora antes disso lutassem contra feras, depois lutaram contra humanos e, assim, o conhecimento desenvolveu-se gradualmente. Quando Deus criou o ser humano no início, não criou o conhecimento primeiro. Foi deixado para depois. Para criar o conhecimento, foi preciso enfraquecer o ser humano até certo ponto. Por isso, fez-se pensar que o remédio era bom. O ser humano, no início, não sabia que a doença era ação de purificação. Por isso usavam remédios. Kannon manifestou-se como Yakushi Nyorai (Buda da Medicina) por esse motivo. Kannon dizer agora que remédio é veneno, remédio é veneno, é contraditório, mas isso é o tempo. Devido à relação com o tempo, acontece assim. Agora está calor, por isso vestimos roupas de uma só camada (Hitoemono), mas quando chegar o inverno vestiremos roupas acolchoadas quentes e nos aqueceremos no fogo5. É a mesma coisa; o tempo de Deus muda a cada dez mil anos, a cada dezenas de milhões de anos, mas mesmo isso é um instante aos olhos de Deus6. Aos olhos humanos são dez mil anos, mas aos olhos de Deus pode ser um segundo. Ou talvez menos. Este é o mundo eterno. No entanto, a vida humana é longa se for cerca de cem anos, então o ser humano pensa inevitavelmente de forma curta. Portanto, para desenvolver a cultura, adotou-se o meio de lutar e enfraquecer com remédios. Por isso ficou assim. De agora em diante — se fizerem mais do que isso, será excessivo. Então, vamos parar por aqui — para parar, é preciso informar a verdade, senão não param; por isso, eu informo a verdade a todos e faço parar7. Então, parando a luta do mal, e como o conhecimento humano chegou até aqui, desapareceu a necessidade de avançar o conhecimento através da luta. Continuaremos avançando o conhecimento, mas agora pretendo avançar por métodos que não sejam de luta. Mesmo no Mundo de Miroku, invenções e descobertas poderão ser feitas livremente. Diferente das invenções e descobertas até agora — as de até agora eram, em suma, guerra — trabalho de matar pessoas. "Um lado" usava o conhecimento para tirar a vida do maior número possível de pessoas no menor tempo possível, para matar; "o outro lado", para prevenir isso9. Desta vez, tornando-se o Mundo de Miroku, não será esse conhecimento, mas invenções e descobertas de coisas boas: como o ser humano pode se divertir, como pode sentir-se bem, como a vida pode ser prolongada\*10. Mesmo dizendo isso, é difícil de acreditar um pouco porque nunca houve isso até agora — por falta de experiência, parece apenas um sonho, mas isso é claro para Deus11. Pretendo explicar essas coisas gradualmente daqui para a frente. Informar à humanidade mundial as coisas verdadeiras que não eram compreendidas até agora. Isso é o Evangelho do Paraíso da Bíblia12. E então a Grande Transição mundial — no Mundo Espiritual está ocorrendo uma imensa Grande Transição, e isso aparecerá gradualmente também no mundo material. Onde isso é mais fácil de ver para os olhos humanos é, afinal, na doença13. Ultimamente as doenças contagiosas aumentaram muito. Disenteria, encefalite japonesa, essas coisas aumentaram com uma força tremenda14. E a tuberculose aumentou muito; até agora reprimiam temporariamente com novos remédios, mas quando a purificação se tornar tal que não possa ser reprimida por novos remédios, todos terão tuberculose, um após o outro. Agora estão fabricando matérias-primas para a tuberculose — a Hidrazida é algo maravilhoso\*15. Mas, quando chegar a esse ponto, todos curvarão a cabeça à Sekaikyuseikyo. (26 de julho de 1952\) 
 
-  ##### E Poema Divino (御詠)
+##### E Poema Divino (御詠)
 
    Às pessoas do mundo / Que não conhecem nada além / Da cultura humana / Eu informarei / A Cultura de Deus. (28 de maio de 1951\) (San ***\[Shin\]**・Pág. 74, No. 4 ＝ Obras Completas de Mokiti Okada, Volume de Poemas **\[VI\]**, Pág. 110, No. 1\)* 
 
-  #### ii O Livro da Revolução Médica (Igaku Kakumei no Sho) 
+#### ii O Livro da Revolução Médica (Igaku Kakumei no Sho) 
 
-  ##### A Esclarecer o significado do Johrei e os erros da medicina — A Bíblia da Kyuseikyo (Kyō・Edição 18, Pág. 56, linha 4 ～ Pág. 57, linha 10 \<Coletânea de Palestras・Vol. 9, Pág. 364\>)
+##### A Esclarecer o significado do Johrei e os erros da medicina — A Bíblia da Kyuseikyo (Kyō・Edição 18, Pág. 56, linha 4 ～ Pág. 57, linha 10 \<Coletânea de Palestras・Vol. 9, Pág. 364\>)
 
   E agora comecei a escrever O Livro da Revolução Médica; de qualquer forma, isso tem que ser escrito. É que, até agora, eu não escrevia realmente sobre os erros da medicina. Escrevi A Medicina do Amanhã e O Evangelho do Paraíso, mas devido a várias relações, não pude escrever de forma decisiva. Isso porque antes não havia liberdade de expressão e, além disso, não tínhamos força; mesmo dizendo tais coisas, ninguém daria atenção, não seriam lidas e seriam enterradas; e se dissesse coisas muito estranhas, seria tratado como louco. Além disso, não havia relatos de graças em abundância.
 
   Agora todas as condições melhoraram, e chegou-se ao ponto de que é melhor escrever; por isso, desta vez comecei a escrever decisiva e completamente sobre os erros da medicina e dos remédios. Depois disso não será mais necessário escrever, então não escreverei mais, mas farei de modo que se torne a Bíblia da Sekaikyuseikyo no futuro. Escrevi o princípio1 de que com isso todas as doenças humanas serão resolvidas e o ser humano poderá viver sem adoecer até a morte, com saúde perfeita; portanto, se lerem este livro, a preocupação com doenças desaparecerá. Quando estiver pronto, usando-o para propaganda, se fizerem as pessoas que vêm para curar doenças lê-lo uma vez, elas não terão dúvida alguma e sentirão vontade de entregar-se verdadeiramente. Levará cerca de meio ano para ficar pronto, mas escrevi nele teórica e cientificamente tudo sobre a doença, a ação de cura, o Johrei e o significado pelo qual Deus iniciou o Johrei, de modo que, com isso, compreenderão completamente. Apenas a parte inicial está pronta, então farei ler o que está pronto agora. (Leitura de: Prefácio de O Livro da Revolução Médica2, "A Medicina é uma Superstição", "O que é a Doença") Em conclusão, no fim das contas, é o remédio. Até agora não expliquei suficientemente sobre o terror do remédio, então explicarei daqui para a frente; em suma, o Mundo de Miroku é eliminar o remédio da humanidade; com isso, o Mundo de Miroku será feito. Apenas, a superstição chamada remédio está enraizada profundamente, então o trabalho de destruir essa superstição é o que nós faremos. Deus concedeu o poder do Johrei porque o Johrei é retirar o remédio. É o método de reduzir o remédio. Então, perguntar-se-á por que Deus, sendo Deus, criou algo tão terrível; é que havia uma grande necessidade para a sua criação3. Estou escrevendo sobre isso agora, e eventualmente compreenderão. Assim sendo, pensem que o trabalho fundamental é subjugar o remédio. (16 de janeiro de 1953\) 
 
-  ##### B O mecanismo de um rin (1%) que derruba a conspiração do deus maligno\*1 (Kyō・Edição 19, Pág. 4, linha 16 ～ Pág. 5, linha 8 \<Coletânea de Palestras・Vol. 10, Pág. 10\>)
+##### B O mecanismo de um rin (1%) que derruba a conspiração do deus maligno\*1 (Kyō・Edição 19, Pág. 4, linha 16 ～ Pág. 5, linha 8 \<Coletânea de Palestras・Vol. 10, Pág. 10\>)
 
   ***\[Trecho do Preâmbulo Anterior (Kyō・Edição 19, Pág. 3, linha 4 ～ Pág. 4, linha 16)\]** Segundo relatos de pessoas que retornaram recentemente ao país, o povo inglês e francês perdeu a consciência nacional e, preparando-se para quando forem conquistados pela União Soviética, o arame de ouro está vendendo bem. Além disso, os ingleses, diferentemente dos japoneses, não se esforçam nem para produzir um pouco de alimento em terrenos baldios, e a escassez de alimentos é pior do que no Japão derrotado. Isso deve-se ao fato de que, na Inglaterra e na França, a vacinação (varíola) disseminou-se cedo, baixando o porte físico nacional e tirando a vitalidade. Além disso, como a terapia medicamentosa é desenvolvida, até o povo americano ficará com o corpo fraco em menos de um século; tudo isso aconteceu porque o deus maligno fez com que acreditassem cegamente na medicina com habilidade.*
 
@@ -2051,7 +2051,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   O Livro da Revolução Médica. Escreverei minuciosamente e a fundo. Escrevi de forma que se compreenda inevitavelmente sobre doença, saúde e medicina. Quem ler isto, provavelmente não haverá ninguém que não entenda. Pretendo traduzir também para o inglês e distribuir tudo na América e na Europa. Isso se tornará algo como a Bíblia até que a doença desapareça da humanidade. Sendo assim, a revolução médica tem um significado muito profundo dessa forma. (5 de fevereiro de 1953\) 
 
-  ##### C Enriquecer o conhecimento dos fiéis sobre a doença 
+##### C Enriquecer o conhecimento dos fiéis sobre a doença 
 
   (Kyō・Edição 25, Pág. 5, linha 1 ～ Pág. 6, linha 8 \<Coletânea de Palestras・Vol. 11, Pág. 10\>)
 
@@ -2067,17 +2067,17 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   E a seguir, acho que será por volta da primavera do ano que vem, lançarei O Livro da Revolução Médica; estou escrevendo isso com o sangue do coração. Pretendo que isso se torne como uma Bíblia no futuro. Até agora li o prefácio algumas vezes, mas não estava gostando; o que ficou pronto recentemente acho que está bom, então farei ler. (Leitura do Prefácio de O Livro da Revolução Médica) O próximo é "Teoria da Medicina Moderna". Com isso entenderão em geral, mas isso farei ler na próxima vez. Vou fazer ler um tratado um pouco interessante. (Leitura do Tratado "Fabricante de Vidro"\*) Isso é como uma continuação do tratado "Deus e a Bola de Vidro" que escrevi antes. Pretendo colocar isso também em O Livro da Revolução Médica; de qualquer forma, criticando o máximo possível de todos os lados e ângulos, dando vários exemplos como "que tal isto, que tal aquilo", farei com que entendam; portanto, acho que provavelmente não haverá quem não entenda ao ler isto. E para cada doença tirada de vários relatos de graça, colocarei minha crítica; assim, não tem como não entender. (27 de agosto de 1953\) 
 
-  #### iii "Edição Especial de Agricultura" 
+#### iii "Edição Especial de Agricultura" 
 
-  ##### A Plano de distribuição de um milhão de exemplares 
+##### A Plano de distribuição de um milhão de exemplares 
 
   (Kyō・Edição 30, Pág. 56, linha 12 ～ Pág. 57, linha 2 \<Coletânea de Palestras・Vol. 12, Pág. 146\>) Como os relatórios da Agricultura Natural foram reunidos em geral, lançaremos a "Edição Especial". Como pretendi escrever aqui quase tudo o que queria dizer, se lerem bem isto, qualquer pessoa entenderá; portanto, quero que distribuam grandemente. Decidi fazer um milhão de exemplares; se espalharem bastante a partir de agora, dará tempo para o cultivo deste ano, então acho que a época é exatamente boa. (Leitura dos Tratados: "A Grande Revolução do Método Agrícola Japonês \- Aumento de produção de 10% a 50% desde o primeiro ano sem fertilizantes"\*1, "Princípios da Agricultura Natural"\*2, "Aspectos Técnicos do Método Agrícola e Outros"\*3 \<Eikō・Edição 245\>) (16 de janeiro de 1954\)
 
-  ##### B Repercussão 
+##### B Repercussão 
 
   (Kyō・Edição 32, Pág. 15, linha 14 ～ Pág. 16, linha 5 \<Coletânea de Palestras・Vol. 12, Pág. 250\>) Parece que a "Edição Especial de Agricultura" está vendendo surpreendentemente bem, e parece que já vendeu mais de um milhão de exemplares até agora. O plano era um milhão, e eu achava que se vendesse tudo já seria grande coisa, mas considerando uma média de cinco pessoas por casa, acho que se espalhará bastante. Nos jornais locais aparece de vez em quando sobre o cultivo natural, mas nos jornais das grandes cidades não aparece nada. E no rádio, estão fazendo palestras agrícolas todas as noites agora, mas não tocam nem um pouco no assunto de fertilizantes, falam apenas de outras coisas. Realmente, imaginando a situação, devem estar aguentando algo que teriam que dizer ou escrever; acho que deve ser muito doloroso. (7 de março de 1954\) 
 
-  ##### C Poemas Divinos (御詠) 
+##### C Poemas Divinos (御詠) 
 
   O mistério da terra / Criada por Deus / Jamais será compreendido / Pela ciência criada pelo homem. (25 de novembro de 1953\) (Chijo Tengoku・Edição 54, Pág. 4, No. 3 ＝ Obras Completas de Mokiti Okada, Volume de Poemas ***\[VI\]**, Pág. 391, No. 4\)*
 
@@ -2095,25 +2095,25 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   ***\[Pág. 713\]***
 
-  #### iv Coleção de Milagres (Kiseki-shu) 
+#### iv Coleção de Milagres (Kiseki-shu) 
 
-  ##### A Informar a existência do espírito e sua atuação 
+##### A Informar a existência do espírito e sua atuação 
 
   Texto omitido: Consultar Capítulo 2, Seção 3, Item 3, Poder de Deus, 3 \- Através de Milagres e Johrei, ⑥ (Pág. 440 deste livro). (Kyō・Edição 20, Pág. 45, linha 8 ～ Pág. 46, linha 16 \<Coletânea de Palestras・Vol. 10, Pág. 97\>) 
 
-  ##### B Informar a existência real do espírito através de milagres e promover a revolução cultural\*1 (Kyō・Edição 20, Pág. 71, linhas 3 a 12 \<Coletânea de Palestras・Vol. 10, Pág. 119\>)
+##### B Informar a existência real do espírito através de milagres e promover a revolução cultural\*1 (Kyō・Edição 20, Pág. 71, linhas 3 a 12 \<Coletânea de Palestras・Vol. 10, Pág. 119\>)
 
   Sendo assim, o que a Sekaikyuseikyo faz não é religião. Em uma palavra, é a revolução cultural do mundo. Para fazer isso, o melhor é fazer de forma religiosa. É o mais fácil de fazer e dá os melhores resultados. Isso porque, para informar que existe o espírito, que é o fundamental, não há outro jeito senão levar de forma religiosa. Por isso, a religião é... digamos, uma forma religiosa, nós a utilizamos. Portanto, o centro da Sekaikyuseikyo é religioso, e para fazer compreender isso, há o milagre de curar doenças com Johrei. Isso é o melhor para informar a existência real do espírito. O que, na cabeça das pessoas de hoje, é um milagre; por isso, agora estamos editando a Coleção de Milagres da Sekaikyuseikyo, que é um meio de ensinar a existência real do espírito. Assim, conhecendo gradualmente tais coisas, torna-se uma revolução cultural\*2. Dentre elas, a fundamental é a medicina; portanto, a revolução médica é o maior problema. (26 de março de 1953\) 
 
-  #### v Minha Vida (Watashi Monogatari)
+#### v Minha Vida (Watashi Monogatari)
 
    ***\[Explicação\]** Visto que Meishu-Sama era Deus e também ser humano (União Divino-Humana), o que Ele dizia e fazia na forma humana era, na verdade, dito e feito pelo Espírito Divino que habitava em Seu corpo físico (Consultar Capítulo 1, Item 1, 1 a 4 \<Pág. 5 deste livro\>, Capítulo 1, Seção 4, Item 1, 1 \<Pág. 155 deste livro\>). Minha Vida foi escrita com a intenção de esclarecer esses mistérios profundos da fé para nos salvar.*
 
-  ##### A Sobre a escrita de Minha Vida 
+##### A Sobre a escrita de Minha Vida 
 
   (Kyō・Edição 10, Pág. 68, linhas 2 a 5 \<Coletânea de Palestras・Vol. 7, Pág. 330\>) Comecei a escrever outro livro interessante agora. Chama-se Minha Vida (Watashi Monogatari). Vou fazer ler agora. De qualquer forma, ninguém escreveu algo assim até hoje, e o sentido é obter a iluminação sobre várias coisas de forma interessante. (Leitura do Prefácio de Minha Vida e "Meu Mistério") (27 de maio de 1952\) 
 
-  ##### B Informar corretamente sobre Meishu-Sama e criar fiéis de alma inabalável1 
+##### B Informar corretamente sobre Meishu-Sama e criar fiéis de alma inabalável1 
 
   (Ron Betsu・Pág. 561, Coluna superior, linha 17 ～ Coluna inferior, linha 6 \<Obras Completas・Vol. 10, Pág. 95\>)
 
@@ -2121,7 +2121,7 @@ As pessoas de "Daijo" fazem coisas muito boas para a sociedade. Já as de "Shojo
 
   Eu, no entanto, sou totalmente diferente. Pois quero expor tudo sobre mim, livremente3, e escrever tudo o que penso. No texto haverá pontos incompreensíveis, misturas de verdade e ficção4, grande e pequeno, claro e escuro, finito e infinito, etc., coisas muito interessantes; portanto, saboreando isso, não tenho dúvida de que poderão obter a iluminação sobre a vida e tornar-se donos de uma alma inabalável. (1952, Watashi Monogatari, Prefácio)
 
-  ##### C A Divindade e a Humanidade de Meishu-Sama
+##### C A Divindade e a Humanidade de Meishu-Sama
 
   (Ron Betsu・Pág. 561, Coluna inferior, linhas 7 a 11; Pág. 562, Coluna superior, linha 16 ～ Coluna inferior, linha 8; Pág. 563, Coluna superior, linhas 2 a 7 \<Obras Completas・Vol. 10, Págs. 95, 98\>)
 

@@ -170,6 +170,36 @@ def set_anexotag(name, catchword, tag):
     return True, (tag or 'auto')
 
 
+def rm_marker(name, n, before, after, dry=False):
+    """Remove um marcador cru de nota (*N ou \\*N) que SOBROU no texto — ex.: o *1
+    deslocado que nao foi consumido quando a nota foi criada ancorada em outro trecho.
+    Localiza pelo CONTEXTO (trecho antes/depois, vindo do /nav) e exige ocorrencia
+    unica; o splice tira SO o marcador (prosa intocada por construcao). Backup + regen."""
+    path = os.path.join(ROOT, name)
+    md = open(path, encoding='utf-8').read()
+    before = re.sub(r'\s+', ' ', (before or '')).strip()
+    after = re.sub(r'\s+', ' ', (after or '')).strip()
+    if not (before or after):
+        return False, 'sem contexto para localizar o marcador'
+    mk = r'(\\?\*' + re.escape(n) + r')(?!\d|\*)'      # (?!\*) nao come a abertura de *italico*
+    pat = ((_md_pat(before) + r'\s*') if before else '') + mk + ((r'\s*' + _md_pat(after)) if after else '')
+    cands = list(re.finditer(pat, md))
+    if not cands:
+        return False, 'marcador nao encontrado com esse contexto'
+    if len(cands) > 1:
+        return False, 'contexto ambiguo (%d ocorrencias) — recarregue a pagina e tente de novo' % len(cands)
+    m = cands[0]
+    if dry:
+        return True, 'dry: removeria %r (pos %d)' % (m.group(1), m.start(1))
+    new_md = md[:m.start(1)] + md[m.end(1):]
+    os.makedirs(BACKUP_DIR, exist_ok=True)
+    shutil.copy2(path, os.path.join(BACKUP_DIR, name + '.' + str(int(time.time()))))
+    with open(path, 'w', encoding='utf-8', newline='') as f:
+        f.write(new_md)
+    subprocess.run([sys.executable, '_build_book.py'], cwd=ROOT, capture_output=True)
+    return True, 'ok'
+
+
 class Handler(http.server.BaseHTTPRequestHandler):
     def log_message(self, *a):
         pass  # silencioso
@@ -300,6 +330,14 @@ class Handler(http.server.BaseHTTPRequestHandler):
                 if not re.match(r'^[A-Za-z0-9.]+$', node_id or ''):
                     return self._json({'error': 'nodeId invalido'}, 400)
                 ok, msg = add_note(name, node_id, cw, text)
+                return self._json({'ok': ok, 'msg': msg}, 200 if ok else 400)
+            if u == '/api/rmstar':
+                name = body.get('name', ''); n = body.get('n', ''); bf = body.get('before', ''); af = body.get('after', '')
+                if not SAFE_MD.match(name or ''):
+                    return self._json({'error': 'nome invalido'}, 400)
+                if not re.match(r'^\d{1,3}$', str(n or '')):
+                    return self._json({'error': 'numero invalido'}, 400)
+                ok, msg = rm_marker(name, str(n), bf, af)
                 return self._json({'ok': ok, 'msg': msg}, 200 if ok else 400)
             if u == '/api/anexotag':
                 name = body.get('name', ''); cw = body.get('catchword', ''); tag = body.get('tag', '')

@@ -22,7 +22,8 @@ As memórias do projeto trazem o detalhe (`MEMORY.md` → `apostila-reader-camin
    - **paginação por número, círculos rolando** (○①②③ juntos na página do número);
    - **chip 📖 de citação inline** (hover) — `(…pág… <Zencho…>)` vira 📖; glosa `(国常立尊)`/`(tane)` fica no texto;
    - multi-parágrafo preservado; notas `[^n]` viram chip 📝 (hover).
-5. **Integração no site CdF** (RESERVA, não ativa): no branch git `feat/apostila-shin-dendo` de `D:\Mioshie_Sites\caminho_da_felicidade` (disciples-reader.js estendido, draft oculto). **Nada foi pro Supabase (storage limpo).** As melhorias recentes de UX (citação-chip, etc.) estão SÓ no `_nav_proto.html` — re-portar quando/se for pro CdF.
+5. **★ PUBLICADO no CdF como página não listada (11/06/2026)**: `shin-dendo.html` no repo `caminho_da_felicidade` = porte **só-leitura** do `/nav` (sem os recursos de edição), lê `data/books/shin-dendo-tebiki.json` do próprio repo (NÃO passa pelo Supabase). Sem menu/login/sitemap + `noindex` — acessível só por quem tem o link. Selo "notas em preparação" no topo (tirar no fim da Fase B). Publicar conteúdo novo = `python _sync_apostila.py --publish` (regenera + copia + commita o JSON; falta só `git push`). Mudou o leitor publicado? Editar `shin-dendo.html` direto (standalone, sem ?v= a bumpar). A integração antiga via disciples-reader (branch `feat/apostila-shin-dendo`) virou reserva morta.
+6. **🗑 Remover marcador cru `*N`** (modo ✏️ do `/nav`): os `*N` deslocados/não consumidos ao criar a nota aparecem grifados em vermelho no modo edição — clique → confirma → remove do `.md` (`/api/rmstar`, localizado por CONTEXTO com ocorrência única; backup + regen como as outras operações).
 
 ## 📂 Arquivos-chave (em `D:\Mioshie_Sites\ShinDendoMD`)
 | arquivo | o que faz |

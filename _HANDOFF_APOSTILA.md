@@ -60,6 +60,12 @@ python servidor.py          # → abre localhost:8000/nav (leitor de estudo, sem
 - **GitHub Pages**: `.github/workflows/pages.yml` publica a cada push na `main`. Ativar uma vez em *Settings → Pages → Source: GitHub Actions*. (O site vai com `noindex` — tirar do `tools/build_site.py` se quiser que apareça no Google.)
 - Novidades do leitor (valem nos dois): **busca no texto completo** (sem acento; frase exata primeiro; destaca no ensinamento), **link direto** por ensinamento (`#c1.i1.2`, voltar/avançar funcionam, botão 🔗), **"Livro pág. N" / "pág. N deste livro" clicáveis**, página inicial com o sumário, **layout de celular** (índice em gaveta ☰, nota 📝 abre com toque), imagens embutidas renderizadas.
 
+## 🆕 Layout "livro de estudo" + páginas de leitura
+- Visual: papel claro por padrão (escuro no botão ☾; 1ª visita segue o sistema), texto serifado (Literata) em coluna centralizada, destaque bronze, sem emojis na leitura; sumário com cara de livro na página inicial.
+- **Os 9 níveis**: a lateral só vai até a **página de leitura** (nó cujo conteúdo inteiro cabe em ~30 mil caracteres — `PAGE_LIM` no `_nav_proto.html`); os níveis abaixo (①, i, A, a…) viram **seções da página**, com fio lateral de profundidade e o índice **"Nesta página"** (à direita; recolhível no topo em telas menores) que acompanha a rolagem. 764 nós → ~165 páginas. Links `#id` de seção profunda abrem a página e rolam até ela.
+- Contêineres (capítulo/item/parte/número grande) mostram a introdução + **sumário** das páginas abaixo.
+- **Anatomia fixa do ensinamento**: Fonte · Contexto (preâmbulo, recolhido) · **texto** · data · resumo/referências · 解説 Explicação · Anexos · **Notas** (lista de rodapé, além do balão).
+
 ## 🆕 Estrutura corrigida (C2 Item 3/4)
 - Do meio do `C2_Item04` (e parte do `C2_Item03`) os títulos estavam **recuados com 2 espaços** → o conversor não os via e ~1000 linhas viravam **uma página só** (`c2.i4.2`, 211 mil caracteres). Recuo removido + títulos vazios (`###`) apagados + 3 marcadores de título corrigidos (`## 1. Criação` → `# I Criação`, `#### .E.` → `##### E.`, `*F.` → `*f.`). **Nenhuma palavra mudou** (verificado com `_notes_guard`). Livro: **414 → 764 nós**, conservação 0 perdas.
 - `[image1]` (trecho JP escaneado, base64) saía como texto no fim de "Procura de Flores" → agora vai para `book.imagens` e aparece em "O Despertar (Satori)", onde é citado.

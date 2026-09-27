@@ -163,6 +163,21 @@
   #backPill .bp-t{font-weight:600;overflow:hidden;text-overflow:ellipsis;min-width:0}
   #backPill .bp-n{color:var(--acc);font-size:12px;flex:none}
   #backPill .bp-x{border-left:1px solid var(--line);color:var(--mut);padding:8px 13px}
+  /* ===== ler rolando: recuo limitado, árvore acompanha, faixa de posição ===== */
+  .sec .sec .sec .sec{padding-left:0;border-left:none;margin-left:0}
+  .row.here{background:var(--acc-soft);color:var(--fg);box-shadow:inset 3px 0 0 var(--acc)}
+  .row.here .lab{color:var(--fg)}
+  .posbar{position:sticky;top:0;z-index:30;height:0;margin:0 -14px}
+  .posbar .pb-in{padding:8px 14px;background:var(--bg);border-bottom:1px solid var(--line);font:12.5px/1.4 var(--sans);color:var(--mut);
+          display:flex;flex-wrap:wrap;gap:2px 4px;align-items:baseline;box-shadow:0 6px 12px -10px rgba(0,0,0,.25);
+          opacity:0;transform:translateY(-6px);pointer-events:none;transition:opacity .15s,transform .15s}
+  .posbar.show .pb-in{opacity:1;transform:none;pointer-events:auto}
+  .posbar a.pb{color:var(--fg2);cursor:pointer;text-decoration:none;border-radius:5px;padding:1px 4px}
+  .posbar a.pb:hover{background:var(--hover);color:var(--fg)}
+  .posbar a.pb b{color:var(--acc);font-weight:700}
+  .posbar a.pb.last{color:var(--fg);font-weight:600}
+  .posbar .pb-sep{color:var(--line2)}
+  .pg-sub{scroll-margin-top:56px!important}
   /* ===== TEIA: "Citado por" ===== */
   .cited{margin:22px 0 6px;border-top:1px dashed var(--line2);padding-top:12px}
   .cited>summary{cursor:pointer;list-style:none;color:var(--mut);font:600 12.5px var(--sans);letter-spacing:.02em}
@@ -649,14 +664,14 @@ function ownContent(n){ return !!(n.ensinamento || n.explicacao || n.subtitulo);
 function hasContentDesc(n){ return (n.children||[]).some(c=>ownContent(c)||hasContentDesc(c)); }
 function expBlock(txt){ return block('ens-exp','<span class="jp">解説</span> Explicação', renderNotas(txt,[])); }
 // ===== MODELO DE PÁGINAS =====
-// Os 9 níveis não cabem numa árvore. A lateral mostra só até a "página de leitura": um nó cujo conteúdo
-// inteiro (com todos os descendentes) cabe numa leitura (≤ PAGE_LIM). Os níveis abaixo (①, i, A, a…)
-// viram SEÇÕES da página, com fio lateral de profundidade e o índice "Nesta página".
-const PAGE_LIM=30000;
+// Ler ROLANDO, não clicando: uma página = um Item (ou a maior seção que caiba em ≤ PAGE_LIM).
+// Tudo abaixo (①, i, A, a…) são SEÇÕES da mesma página; a árvore lateral mostra todos os níveis e,
+// ao clicar, ROLA até a seção (não troca de página). Só capítulos e seções enormes viram sumário.
+const PAGE_LIM=100000;
 function sizeOf(n){ if(n._sz!=null) return n._sz; const e=n.ensinamento; let t=(e?JSON.stringify(e).length:0)+((n.explicacao||'').length);
   (n.children||[]).forEach(c=>t+=sizeOf(c)); return n._sz=t; }
 function markPages(n,inPage){
-  const kids=!!(n.children&&n.children.length), top=!n._p||['capitulo','item','parte'].includes(n.nivel);
+  const kids=!!(n.children&&n.children.length), top=!n._p||n.nivel==='capitulo';
   const pg=!inPage && !!n._p && (!kids || (!top && sizeOf(n)<=PAGE_LIM));
   n._pg=pg; n._inPage=!!inPage;
   (n.children||[]).forEach(c=>markPages(c, inPage||pg));
@@ -664,7 +679,7 @@ function markPages(n,inPage){
 function pageOf(n){ let p=n; while(p && !p._pg) p=p._p; return p||n; }
 function renderChild(c, depth){
   const tag='h'+Math.min(1+depth,6), lv=Math.min(depth,4);
-  let h=`<section class="sec lv${lv}"><${tag} class="pg-sub n-${c.nivel}" id="anc-${c.id.replace(/\./g,'_')}" data-lv="${lv}" data-mk="${esc(mkLabel(c))}" data-title="${esc(cleanTitle(c.title)).replace(/"/g,'&quot;')}"><span class="pg-mk">${mkLabel(c)}</span> ${renderTitle(c.title,(c.ensinamento||{}).notas)}</${tag}>`;
+  let h=`<section class="sec lv${lv}"><${tag} class="pg-sub n-${c.nivel}" id="anc-${c.id.replace(/\./g,'_')}" data-id="${c.id}" data-lv="${lv}" data-mk="${esc(mkLabel(c))}" data-title="${esc(cleanTitle(c.title)).replace(/"/g,'&quot;')}"><span class="pg-mk">${mkLabel(c)}</span> ${renderTitle(c.title,(c.ensinamento||{}).notas)}</${tag}>`;
   if(c.subtitulo) h+=`<div class="ens-subtitulo">―― ${esc(c.subtitulo)} ――</div>`;
   if(c.ensinamento) h+=renderEnsinamento(c.ensinamento);
   else if(c.explicacao) h+=expBlock(c.explicacao);
@@ -675,7 +690,7 @@ function renderChild(c, depth){
 // índice das páginas abaixo de um nó-contêiner (capítulo / item / parte / número grande)
 function subToc(n){
   const items=[];
-  (function rec(x,d){ (x.children||[]).forEach(c=>{ items.push([c,d]); if(!c._pg) rec(c,d+1); }); })(n,0);
+  (function rec(x,d){ (x.children||[]).forEach(c=>{ if(!(ownContent(c)||hasContentDesc(c))) return; items.push([c,d]); if(d<1) rec(c,d+1); }); })(n,0);
   if(!items.length) return '';
   return `<div class="toc-h" style="margin-top:30px">Conteúdo</div>`+items.map(([c,d])=>
     `<a class="toc-it d${Math.min(d,3)}" href="#${c.id}"><span class="t"><b>${esc(mkLabel(c))}</b>${esc(cleanTitle(c.title))}</span><span class="dots"></span><span class="p">${c.pagina||''}</span></a>`).join('');
@@ -686,13 +701,13 @@ function renderPage(n){
   if(n.subtitulo) h+=`<div class="ens-subtitulo">―― ${esc(n.subtitulo)} ――</div>`;
   if(n.ensinamento) h+=renderEnsinamento(n.ensinamento);
   else if(n.explicacao) h+=expBlock(n.explicacao);
-  h+=citedBlock(n);
-  if(n._pg) (n.children||[]).forEach(c=>{ if(ownContent(c)||hasContentDesc(c)) h+=renderChild(c,1); });
-  else h+=subToc(n);
+  if(n._pg){ h+=citedBlock(n); (n.children||[]).forEach(c=>{ if(ownContent(c)||hasContentDesc(c)) h+=renderChild(c,1); }); }
+  else h+=subToc(n)+citedBlock(n);
   return h || `<div class="hint">Sem texto nesta seção.</div>`;
 }
 // "Nesta página": índice das seções (lateral direita; recolhível no topo em telas menores) + acompanha a rolagem
-function buildOutline(){
+function buildOutline(){ const side=$('#outline'); if(side) side.hidden=true; const inl=$('#detail .otl-inline'); if(inl) inl.remove(); spyTree(true); }
+function _oldOutline(){
   const hs=[...document.querySelectorAll('#detail .page-body .pg-sub')];
   const side=$('#outline'), inl=$('#detail .otl-inline');
   if(hs.length<2){ if(side) side.hidden=true; if(inl) inl.remove(); return; }
@@ -740,7 +755,7 @@ function render(){
 function node(n){
   const wrap=document.createElement('div');
   const row=document.createElement('div'); row.className='row n-'+n.nivel; row.style.paddingLeft=(8+Math.max(0,n._d-1)*14)+'px';
-  const kidsList=(n.children||[]).filter(c=>!c._inPage);          // níveis dentro da página não entram na árvore
+  const kidsList=(n.children||[]).filter(c=>ownContent(c)||hasContentDesc(c));   // todos os níveis; seção da página → clicar rola até ela
   const tog=document.createElement('span'); tog.className='tog'; tog.textContent=kidsList.length?'▶':'';
   const mk=document.createElement('span'); mk.className='mk'; mk.textContent=mkLabel(n);
   const lab=document.createElement('span'); lab.className='lab'; lab.textContent=cleanTitle(n.title);
@@ -774,7 +789,7 @@ function select(n, opt){
   const same=(cur===n) && !opt.force;
   if(cur&&cur._row) cur._row.classList.remove('sel');
   cur=n; try{ localStorage.setItem('nav-cur', n.id); }catch(_){ }
-  markSeen(n);   // lembra a página p/ restaurar no F5
+  // lembra a página p/ restaurar no F5
   const hid=(target||n).id;
   if(!opt.noHist && decodeURIComponent(location.hash.slice(1))!==hid){   // link direto: #c1.i1.2 (voltar/avançar do navegador funcionam)
     try{ history[opt.replace?'replaceState':'pushState'](null,'','#'+hid); }catch(_){ }
@@ -788,6 +803,7 @@ function select(n, opt){
     const crumbs=['<a class="c" data-home="1">Início</a>'].concat(path.slice(0,-1).map(x=>`<a class="c" data-id="${x.id}" title="${esc(cleanTitle(x.title)).replace(/"/g,'&quot;')}">${esc(crumbLabel(x))}</a>`)).join('<span class="sep">›</span>');
     const niceNivel={capitulo:'Capítulo',item:'Item',parte:'Parte',numero:'Número',circulo:'Círculo',romano:'Romano',letra:'Letra',letra_min:'Subletra'}[n.nivel];
     det.innerHTML=`<div class="layout"><article class="page">
+      <div class="posbar" aria-label="onde você está"></div>
       <nav class="pathline">${crumbs}</nav>
       <h1><span class="h-mk">${mkLabel(n)}</span>${renderTitle(n.title,(n.ensinamento||{}).notas)}</h1>
       <div class="meta">${n.pagina?`<span>pág. ${n.pagina} do livro</span>`:''}${(()=>{const k=citedBy(n).length; return k?`<a class="cited-badge" data-cited="${n.id}" title="ensinamentos deste livro que remetem a este">↩ citado ${k}×</a>`:'';})()}<span class="only-local">${niceNivel} · <code>${n.id}</code></span><button id="copyLink" title="copiar o link direto deste ensinamento">Copiar link</button></div>
@@ -807,6 +823,7 @@ function select(n, opt){
   if(target){ const h=document.getElementById('anc-'+target.id.replace(/\./g,'_'));
     if(h){ scope=h.parentNode; if(!opt.hl){ h.scrollIntoView({block:'start'}); h.classList.remove('flash'); void h.offsetWidth; h.classList.add('flash'); } } }
   if(opt.hl) highlightIn(scope, opt.hl);
+  setTimeout(()=>spyTree(true),30);   // árvore + faixa refletem o ponto onde a leitura caiu
 }
 function goHome(){ try{ history.pushState(null,'',location.pathname+location.search); }catch(_){ } if(cur&&cur._row) cur._row.classList.remove('sel'); home(); }
 // ===== busca no LIVRO TODO (título + texto + explicação + notas + anexos), sem acento/maiúscula =====
@@ -1270,13 +1287,49 @@ if(matchMedia('(hover: hover)').matches){       // no toque, a remissão só nav
   document.addEventListener('mouseout',e=>{ const a=e.target.closest && e.target.closest('a.xref');
     if(a && !a.contains(e.relatedTarget)) hidePeek(); });
 }
+
+// ===== ONDE ESTOU: a seção na tela move a árvore (marca + abre o caminho) e a faixa de posição =====
+let _spyId=null;
+function secInView(){
+  const top=$('#detail').getBoundingClientRect().top+90; let on=null;
+  for(const h of document.querySelectorAll('#detail .page-body .pg-sub')){ if(h.getBoundingClientRect().top<top) on=h; else break; }
+  return on;
+}
+function spyTree(force){
+  if(!cur) return;
+  const h=secInView(), n=(h && flat.find(x=>x.id===h.dataset.id)) || cur;
+  if(n.ensinamento || n.explicacao) markSeen(n);
+  if(n.id===_spyId && !force) return; _spyId=n.id;
+  document.querySelectorAll('#tree .row.here').forEach(r=>r.classList.remove('here'));
+  if(n._row){ n._row.classList.add('here'); autoPath(n); if(!document.body.classList.contains('searching')) n._row.scrollIntoView({block:'nearest'}); }
+  posBar(n, !!h);
+}
+// a árvore abre o caminho do ponto de leitura e FECHA o que ela mesma abriu e ficou para trás
+// (ramos abertos à mão pelo leitor não são tocados)
+const _auto=new Set();
+function autoPath(n){
+  const anc=new Set(); let p=n._p; while(p){ anc.add(p); p=p._p; }
+  for(const x of [..._auto]) if(!anc.has(x)){ toggle(x,false); _auto.delete(x); }
+  anc.forEach(x=>{ if(x._kids && x._kids.classList.contains('collapsed')){ toggle(x,true); _auto.add(x); } });
+}
+// faixa fixa no topo da leitura: Item › I › 2 › ② › i › B (cada nível clicável)
+function posBar(n, show){
+  const bar=$('#detail .posbar'); if(!bar) return;
+  const a=[]; let p=n; while(p && p._p){ a.unshift(p); p=p._p; }
+  const from=Math.max(0,a.findIndex(x=>x.nivel==='item'));
+  bar.innerHTML='<div class="pb-in">'+a.slice(from).map((x,i,arr)=>{ const last=i===arr.length-1;
+    const t=cleanTitle(x.title), lab=x.nivel==='item'?x.marcador:mkLabel(x).replace(/\.$/,'');
+    return `<a class="pb n-${x.nivel}${last?' last':''}" data-id="${x.id}" title="${esc(t).replace(/"/g,'&quot;')}"><b>${esc(lab)}</b>${last||arr.length<=3?' '+esc(t.length>48?t.slice(0,47)+'…':t):''}</a>`; }).join('<span class="pb-sep">›</span>')+'</div>';
+  bar.classList.toggle('show', !!show);
+}
+document.addEventListener('click',e=>{ const a=e.target.closest && e.target.closest('#detail .posbar a.pb'); if(!a) return;
+  const n=flat.find(x=>x.id===a.dataset.id); if(n) select(n); });
 // ===== TEIA: o que já foi lido (por página aberta: a página e as seções dentro dela) =====
 let SEEN=null;
 function seenSet(){ if(SEEN) return SEEN; try{ SEEN=new Set(JSON.parse(localStorage.getItem('nav-seen')||'[]')); }catch(_){ SEEN=new Set(); } return SEEN; }
 function markSeen(n){
-  const S=seenSet(), k0=S.size; S.add(n.id);
-  (function rec(x){ (x.children||[]).forEach(c=>{ if(c._inPage){ S.add(c.id); rec(c); } }); })(n);
-  if(S.size!==k0) try{ localStorage.setItem('nav-seen', JSON.stringify([...S])); }catch(_){ }
+  const S=seenSet(); if(S.has(n.id)) return; S.add(n.id);
+  clearTimeout(markSeen._t); markSeen._t=setTimeout(()=>{ try{ localStorage.setItem('nav-seen', JSON.stringify([...S])); }catch(_){ } },400);
 }
 
 // ===== TEIA: mapa do livro (diagrama de arcos) =====
@@ -1410,7 +1463,7 @@ function restoreCur(){
     requestAnimationFrame(set); setTimeout(set,120); setTimeout(set,300); } }
 }
 // salva a rolagem do painel (debounce) p/ restaurar no F5
-$('#detail').addEventListener('scroll', ()=>{ if(!window._spyR){ window._spyR=requestAnimationFrame(()=>{ window._spyR=0; spyOutline(); }); } clearTimeout(window._navScrollT); window._navScrollT=setTimeout(()=>{ try{ localStorage.setItem('nav-scroll', $('#detail').scrollTop); }catch(_){ } }, 200); }, {passive:true});
+$('#detail').addEventListener('scroll', ()=>{ if(!window._spyR){ window._spyR=setTimeout(()=>{ window._spyR=0; spyTree(); },60); } clearTimeout(window._navScrollT); window._navScrollT=setTimeout(()=>{ try{ localStorage.setItem('nav-scroll', $('#detail').scrollTop); }catch(_){ } }, 200); }, {passive:true});
 fetch(STATIC?'book.json':'/_book.json').then(r=>{ if(!r.ok) throw 0; return r.json(); }).then(t=>{
   if(t.sections && !t.children) t.children = t.sections;   // raiz do book usa 'sections'
   TREE=t; flat=[]; walk(TREE,null,0); markPages(TREE,false); render(); restoreCur();

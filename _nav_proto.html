@@ -163,6 +163,22 @@
   #backPill .bp-t{font-weight:600;overflow:hidden;text-overflow:ellipsis;min-width:0}
   #backPill .bp-n{color:var(--acc);font-size:12px;flex:none}
   #backPill .bp-x{border-left:1px solid var(--line);color:var(--mut);padding:8px 13px}
+  /* ===== LEGIBILIDADE: grupo ≠ ensinamento ===== */
+  .page-body .sec .sec{padding-left:0;border-left:none;margin-left:0}
+  .grp-body{padding-left:18px;border-left:2px solid var(--line);margin-left:3px}
+  .grp-body .grp-body .grp-body{padding-left:0;border-left:none;margin-left:0}
+  .page-body .sec>.pg-sub.grp{font:600 15.5px/1.4 var(--sans);color:var(--fg2);letter-spacing:.005em;margin:42px 0 14px;padding:0 0 8px;border:none;border-bottom:1px solid var(--line2)}
+  .page-body .sec.lv1>.pg-sub.grp{font-size:18px;color:var(--fg);border-bottom:2px solid var(--acc);margin-top:54px}
+  .page-body .sec>.pg-sub.grp .pg-mk{color:var(--acc)}
+  .page-body .sec>.pg-sub.teach{font:600 21px/1.35 var(--serif);font-style:normal;color:var(--fg);margin:34px 0 4px;padding:0;border:none}
+  .page-body .sec>.pg-sub.teach .pg-mk{font:600 13px var(--sans);color:var(--mut);margin-right:6px;vertical-align:2px}
+  .page-body .sec.teach{padding-bottom:26px;border-bottom:1px solid var(--line)}
+  .page-body .grp-body>.sec.teach:last-child{border-bottom:none}
+  .page-body .sec.teach .cited{margin:14px 0 0;border-top:none;padding-top:0}
+  .ens-omit{font:14.5px/1.6 var(--sans);color:var(--fg2);background:var(--pre-bg);border:1px solid var(--pre-bd);border-radius:9px;padding:10px 14px;margin:10px 0 6px}
+  .ens-omit .om-l{display:block;font:600 11.5px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--mut);margin-bottom:2px}
+  .ens-texto strong.ens-part{display:block;font:600 15px/1.45 var(--sans);color:var(--fg);margin:22px 0 4px}
+  @media (max-width: 820px){ .grp-body{padding-left:11px} .page-body .sec>.pg-sub.teach{font-size:19px} }
   /* ===== ler rolando: recuo limitado, árvore acompanha, faixa de posição ===== */
   .sec .sec .sec .sec{padding-left:0;border-left:none;margin-left:0}
   .row.here{background:var(--acc-soft);color:var(--fg);box-shadow:inset 3px 0 0 var(--acc)}
@@ -514,7 +530,7 @@ function citedBy(n){
 function citedBlock(n){
   const L=citedBy(n); if(!L.length) return '';
   const it=o=>`<a class="xref cited-it" href="#${o.from.id}" title="${esc(o.ctx).replace(/"/g,'&quot;')}"><span class="ci-mk">${esc(mkLabel(o.from))}</span><span class="ci-t">${esc(cleanTitle(o.from.title))}<span class="ci-path">${esc(shortPath(o.from._p||o.from))}</span></span><span class="ci-k">${esc(o.kinds.join(', '))}${o.from.pagina?' · pág. '+o.from.pagina:''}</span></a>`;
-  return `<details class="cited" id="cited-${n.id.replace(/\./g,'_')}"${L.length<=4?' open':''}><summary>↩ Citado por <b>${L.length}</b> ${L.length===1?'ensinamento':'ensinamentos'} deste livro</summary><div class="cited-list">${L.map(it).join('')}</div></details>`;
+  return `<details class="cited" id="cited-${n.id.replace(/\./g,'_')}"><summary>↩ Citado por <b>${L.length}</b> ${L.length===1?'ensinamento':'ensinamentos'} deste livro</summary><div class="cited-list">${L.map(it).join('')}</div></details>`;
 }
 // liga as referências de página que sobraram no texto (fora de tags)
 function linkPages(html){
@@ -542,6 +558,7 @@ function rawMarks(html){
 function renderNotas(text, notas){
   const m={}; (notas||[]).forEach(x=>m[x.n]={t:x.texto,id:x.id||''});
   let s=refChips(esc(text||''));                       // 1) citações inline viram chip 📖
+  s=s.replace(/\*\*(.+?)\*\*/g,'<strong class="ens-part">$1</strong>');   // 1a) **subparte** do ensinamento
   const chip=(n)=>{const o=m[n]||{};return `<sup class="fn" data-fn="${n}" data-id="${o.id||''}" tabindex="0">${n}<span class="fn-pop">${linkPages(esc(o.t||''))}</span></sup>`;};
   s=linkPages(s);                                      // 1b) "pág. N deste livro" solto no texto → link
   s=s.replace(/!\[[^\]]*\]\[(image\d+)\]/g,(mm,id)=>{ const src=(TREE&&TREE.imagens||{})[id];   // 1c) imagem embutida (trecho do original)
@@ -549,7 +566,9 @@ function renderNotas(text, notas){
   s=s.replace(/==(.+?)==([^\[]*?)\[\^(\d+)\]/g,(_,p,mid,n)=>`<span class="nspan" data-fn="${n}">${p}</span>${mid}${chip(n)}`); // 2) trecho citado grifável + nota
   s=s.replace(/\[\^(\d+)\]/g,(_,n)=>chip(n));           // 3) notas soltas
   s=rawMarks(s);   // 4) marcador cru de OCR (*3 ou dígito colado boca2.) = nota pendente
-  return s.replace(/\n{2,}/g,'<br><br>').replace(/\n/g,'<br>');   // 3) parágrafos
+  s=s.replace(/\n{2,}/g,'<br><br>').replace(/\n/g,'<br>');   // 3) parágrafos
+  s=s.replace(/<\/strong>((?:\s*(?:<br>)*\s*<sup class="ref"[^>]*>[^<]*<\/sup>)+)/g,(_,chips)=>chips.replace(/<br>/g,'')+'</strong>');   // selo ※ solto logo após a subparte entra nela
+  return s.replace(/(<br>)+(<strong class="ens-part">)/g,'$2').replace(/(<\/strong>)(<br>)+/g,'$1');   // subparte já é bloco: sem linhas vazias em volta
 }
 // Título com nota: [^N] vira chip 📝 (a nota pode estar ancorada no título). Sem refChips/parágrafos.
 function renderTitle(title, notas){
@@ -646,6 +665,7 @@ function renderEnsinamento(e){
     // salmo: cada linha vira verso/data/fonte (renderAnexoBody, salmoDefault=true).
     // wrapper .ens-anexo reaproveita estilos ax-*, hover e o menu de tag do anexo.
     if(e.tipo==='salmo') h+=`<div class="ens-anexo ens-salmo-main">${renderAnexoBody(e.texto,e.notas,true)}</div>`;
+    else if(/^\s*Texto omitido/i.test(e.texto)) h+=`<div class="ens-omit"><span class="om-l">Texto não repetido aqui</span>${renderNotas(e.texto.replace(/^\s*Texto omitido\.?\s*/i,''),e.notas)}</div>`;
     else h+=`<div class="ens-texto">${renderNotas(e.texto,e.notas)}</div>`;
   }
   if(e.data) h+=`<div class="ens-data">${esc(e.data)}</div>`;
@@ -678,13 +698,14 @@ function markPages(n,inPage){
 }
 function pageOf(n){ let p=n; while(p && !p._pg) p=p._p; return p||n; }
 function renderChild(c, depth){
-  const tag='h'+Math.min(1+depth,6), lv=Math.min(depth,4);
-  let h=`<section class="sec lv${lv}"><${tag} class="pg-sub n-${c.nivel}" id="anc-${c.id.replace(/\./g,'_')}" data-id="${c.id}" data-lv="${lv}" data-mk="${esc(mkLabel(c))}" data-title="${esc(cleanTitle(c.title)).replace(/"/g,'&quot;')}"><span class="pg-mk">${mkLabel(c)}</span> ${renderTitle(c.title,(c.ensinamento||{}).notas)}</${tag}>`;
+  const tag='h'+Math.min(1+depth,6), lv=Math.min(depth,4), kind=c.ensinamento?'teach':'grp';
+  let h=`<section class="sec ${kind} lv${lv}"><${tag} class="pg-sub ${kind} n-${c.nivel}" id="anc-${c.id.replace(/\./g,'_')}" data-id="${c.id}" data-lv="${lv}" data-mk="${esc(mkLabel(c))}" data-title="${esc(cleanTitle(c.title)).replace(/"/g,'&quot;')}"><span class="pg-mk">${mkLabel(c)}</span> ${renderTitle(c.title,(c.ensinamento||{}).notas)}</${tag}>`;
   if(c.subtitulo) h+=`<div class="ens-subtitulo">―― ${esc(c.subtitulo)} ――</div>`;
   if(c.ensinamento) h+=renderEnsinamento(c.ensinamento);
   else if(c.explicacao) h+=expBlock(c.explicacao);
   h+=citedBlock(c);
-  (c.children||[]).forEach(g=>{ if(ownContent(g)||hasContentDesc(g)) h+=renderChild(g,depth+1); });
+  const kids=(c.children||[]).filter(g=>ownContent(g)||hasContentDesc(g));
+  if(kids.length) h+=`<div class="grp-body">${kids.map(g=>renderChild(g,depth+1)).join('')}</div>`;
   return h+'</section>';
 }
 // índice das páginas abaixo de um nó-contêiner (capítulo / item / parte / número grande)

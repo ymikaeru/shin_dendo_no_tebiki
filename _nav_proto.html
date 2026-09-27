@@ -218,8 +218,6 @@
   .page-body .sec>.pg-sub.grp.n-romano{font-size:16.5px} .page-body .sec>.pg-sub.teach.n-romano{font-size:21px}
   .page-body .sec>.pg-sub.grp.n-letra{font-size:15.5px} .page-body .sec>.pg-sub.teach.n-letra{font-size:19.5px}
   .page-body .sec>.pg-sub.grp.n-letra_min{font-size:14.5px} .page-body .sec>.pg-sub.teach.n-letra_min{font-size:18px}
-  .page-body .sec>.pg-sub.n-circulo .pg-mk{font-size:1.15em;color:var(--acc);font-weight:500}
-  .page-body .sec>.pg-sub.n-numero .pg-mk{color:var(--acc);font-weight:700}
   /* um recuo a mais por nível (até 4) — a faixa lateral mostra onde cada grupo começa e termina */
   .grp-body{padding-left:16px}
   .grp-body .grp-body .grp-body{padding-left:16px;border-left:2px solid var(--line);margin-left:3px}
@@ -227,6 +225,38 @@
   /* subparte numerada dentro do ensinamento: 1, 2, 3 */
   .ens-part .pt-n{display:inline-flex;align-items:center;justify-content:center;min-width:18px;height:18px;padding:0 4px;margin-right:8px;border-radius:4px;background:var(--acc-soft);color:var(--acc);font:700 11px/1 var(--sans);vertical-align:1px}
   @media (max-width: 820px){ .grp-body,.grp-body .grp-body .grp-body{padding-left:9px} }
+  /* ===== ESCALA DE SELOS: nível mais alto = selo maior e mais cheio (títulos · árvore · faixa) ===== */
+  .page-body .sec>.pg-sub .pg-mk{vertical-align:middle;position:relative;top:-.12em;margin-right:11px;flex:none}
+  /* número: quadrado grande e cheio */
+  .page-body .sec>.pg-sub.n-numero .pg-mk{background:var(--acc);color:var(--bg);border:0;border-radius:8px;font:700 15px/1 var(--sans);min-width:32px;height:32px;padding:0 7px}
+  /* círculo: círculo médio contornado em destaque */
+  .page-body .sec>.pg-sub.n-circulo .pg-mk{background:transparent;color:var(--acc);border:2px solid var(--acc);border-radius:50%;font:700 13px/1 var(--sans);width:27px;height:27px;padding:0}
+  /* romano: caixa pequena contornada */
+  .page-body .sec>.pg-sub.n-romano .pg-mk{background:transparent;color:var(--acc);border:1.5px solid var(--acc);border-radius:5px;font:700 11px/1 var(--sans);min-width:24px;height:21px;padding:0 5px;text-transform:uppercase;letter-spacing:.03em}
+  /* letra: quadradinho de fundo claro */
+  .page-body .sec>.pg-sub.n-letra .pg-mk{background:var(--acc-soft);color:var(--acc);border:0;border-radius:5px;font:700 11.5px/1 var(--sans);width:20px;height:20px;padding:0}
+  /* minúscula: circulozinho cinza */
+  .page-body .sec>.pg-sub.n-letra_min .pg-mk,.page-body .sec>.pg-sub.n-katakana .pg-mk{background:transparent;color:var(--mut);border:1.5px solid var(--line2);border-radius:50%;font:700 10.5px/1 var(--sans);width:18px;height:18px;padding:0}
+  /* árvore e faixa: mesma escala, menor */
+  .row.n-numero .mk,.posbar .pb.n-numero b{background:var(--acc);color:var(--bg);border:0;border-radius:5px;font:700 11px/1 var(--sans);min-width:20px;height:20px;padding:0 4px;transform:none}
+  .row.n-circulo .mk,.posbar .pb.n-circulo b{background:transparent;color:var(--acc);border:1.5px solid var(--acc);border-radius:50%;font:700 10px/1 var(--sans);width:18px;height:18px;padding:0;transform:none}
+  .row.n-letra .mk,.posbar .pb.n-letra b{background:var(--acc-soft);color:var(--acc);border:0;border-radius:4px;font:700 10.5px/1 var(--sans);width:17px;height:17px;transform:none}
+  .row.n-letra_min .mk,.row.n-katakana .mk,.posbar .pb.n-letra_min b,.posbar .pb.n-katakana b{border:1.2px solid var(--line2);color:var(--mut);width:15px;height:15px;font:700 9.5px/1 var(--sans);transform:none}
+  .row.n-romano .mk,.posbar .pb.n-romano b{transform:none;font-size:9.5px;min-width:19px;height:16px;padding:0 3px;border-width:1.2px}
+  .posbar .pb b{margin-right:4px}
+  /* número: seção de 1º nível respira mais e tem linha forte em cima */
+  .page-body .page-body>.sec.lv1,.page-body>.sec.lv1{border-top:2px solid var(--line2);margin-top:40px}
+  .page-body>.sec.lv1:first-child{border-top:none;margin-top:0}
+  .page-body .sec.lv1>.pg-sub{padding-top:22px}
+  /* títulos de GRUPO seguem a escala de nível (sempre ≥ o que está dentro); o que os distingue é a linha + contagem */
+  .page-body .sec>.pg-sub.grp{font-family:var(--serif);font-weight:600;color:var(--fg)}
+  .page-body .sec>.pg-sub.grp.n-numero{font-size:24.5px} .page-body .sec>.pg-sub.grp.n-circulo{font-size:21.5px}
+  .page-body .sec>.pg-sub.grp.n-romano{font-size:19.5px} .page-body .sec>.pg-sub.grp.n-letra{font-size:18px}
+  .page-body .sec>.pg-sub.grp.n-letra_min,.page-body .sec>.pg-sub.grp.n-katakana{font-size:17px}
+  .page-body .sec>.pg-sub.teach.n-numero{font-size:24px} .page-body .sec>.pg-sub.teach.n-circulo{font-size:21px}
+  .page-body .sec>.pg-sub.teach.n-romano{font-size:19px} .page-body .sec>.pg-sub.teach.n-letra{font-size:17.5px}
+  .page-body .sec>.pg-sub.teach.n-letra_min,.page-body .sec>.pg-sub.teach.n-katakana{font-size:16.5px}
+  .page-body .sec>.pg-sub.grp .grp-n{font-family:var(--sans)}
   /* ===== ler rolando: recuo limitado, árvore acompanha, faixa de posição ===== */
   .sec .sec .sec .sec{padding-left:0;border-left:none;margin-left:0}
   .row.here{background:var(--acc-soft);color:var(--fg);box-shadow:inset 3px 0 0 var(--acc)}
@@ -506,8 +536,8 @@ $('#menuBtn').onclick=()=>document.body.classList.toggle('drawer');
 $('#brand').onclick=()=>goHome();
 document.addEventListener('click',e=>{ if(document.body.classList.contains('drawer') && !(e.target.closest('#side')||e.target.closest('#menuBtn'))) document.body.classList.remove('drawer'); });
 const CIRC=n=>String.fromCharCode(0x2460+(+n-1));
-const SELO=new Set(['romano','letra','letra_min','katakana']);
-function mkSelo(n){ const l=mkLabel(n); return SELO.has(n.nivel)?l.replace(/\.$/,''):l; }
+const SELO=new Set(['numero','circulo','romano','letra','letra_min','katakana']);
+function mkSelo(n){ if(n.nivel==='circulo') return String(n.marcador); const l=mkLabel(n); return SELO.has(n.nivel)?l.replace(/\.$/,''):l; }
 function mkLabel(n){
   if(n.nivel==='circulo') return CIRC(n.marcador);
   if(n.nivel==='capitulo'||n.nivel==='item') return n.marcador;
@@ -1431,7 +1461,7 @@ function posBar(n, show){
   const a=[]; let p=n; while(p && p._p){ a.unshift(p); p=p._p; }
   const from=Math.max(0,a.findIndex(x=>x.nivel==='item'));
   bar.innerHTML='<div class="pb-in">'+a.slice(from).map((x,i,arr)=>{ const last=i===arr.length-1;
-    const t=cleanTitle(x.title), lab=x.nivel==='item'?x.marcador:mkLabel(x).replace(/\.$/,'');
+    const t=cleanTitle(x.title), lab=x.nivel==='item'?x.marcador:mkSelo(x);
     return `<a class="pb n-${x.nivel}${last?' last':''}" data-id="${x.id}" title="${esc(t).replace(/"/g,'&quot;')}"><b>${esc(lab)}</b>${last||arr.length<=3?' '+esc(t.length>48?t.slice(0,47)+'…':t):''}</a>`; }).join('<span class="pb-sep">›</span>')+'</div>';
   bar.classList.toggle('show', !!show);
 }

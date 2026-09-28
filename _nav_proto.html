@@ -225,6 +225,38 @@
   /* subparte numerada dentro do ensinamento: 1, 2, 3 */
   .ens-part .pt-n{display:inline-flex;align-items:center;justify-content:center;min-width:18px;height:18px;padding:0 4px;margin-right:8px;border-radius:4px;background:var(--acc-soft);color:var(--acc);font:700 11px/1 var(--sans);vertical-align:1px}
   @media (max-width: 820px){ .grp-body,.grp-body .grp-body .grp-body{padding-left:9px} }
+  /* ===== DESKTOP: painéis lado a lado ===== */
+  #panes{display:flex;flex:none;height:100%;overflow-x:auto;border-left:1px solid var(--line2);background:var(--side)}
+  .pane{width:480px;flex:none;display:flex;flex-direction:column;min-height:0;background:var(--bg);border-right:1px solid var(--line);animation:paneIn .18s ease-out}
+  @keyframes paneIn{from{opacity:0;transform:translateX(18px)}to{opacity:1;transform:none}}
+  .pane-h{display:flex;gap:6px;align-items:center;padding:9px 12px 9px 18px;border-bottom:1px solid var(--line);background:var(--panel);flex:none}
+  .pane-path{flex:1;min-width:0;font:12px var(--sans);color:var(--mut);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .pane-h button{background:transparent;border:1px solid var(--line);color:var(--fg2);border-radius:7px;padding:3px 9px;font:500 12.5px var(--sans);cursor:pointer}
+  .pane-h button:hover{border-color:var(--acc);color:var(--fg)}
+  .pane-h .pane-x{font-size:16px;line-height:1;padding:2px 8px}
+  .pane-b{flex:1;overflow:auto;padding:6px 24px 70px}
+  .pane-b .sec.teach>.teach-full{display:block!important} .pane-b .teach-prev{display:none!important}
+  .pane-b .sec.grp.fold>.grp-body{display:block!important} .pane-b .fold-i{display:none}
+  .pane-b .grp-body{padding-left:12px}
+  .pane-b .sec.lv1>.pg-sub{padding-top:10px} .pane-b>.sec{border-top:none!important;margin-top:0!important}
+  .pane-hub{font:600 22px/1.3 var(--serif);margin:18px 0 10px}
+  .pane.spine{width:44px;cursor:pointer;background:var(--side);align-items:center;padding:14px 0;gap:10px;animation:none}
+  .pane.spine:hover{background:var(--hover)}
+  .pane.spine .sp-t{writing-mode:vertical-rl;font:600 13px/1.3 var(--serif);color:var(--fg2);overflow:hidden;max-height:calc(100% - 50px)}
+  .pane.spine .sp-mk{font:700 11px var(--sans);color:var(--acc)}
+  body.has-panes #backPill{display:none}
+  @media (max-width:1199px){ #panes{display:none} }
+  /* ===== DESKTOP: notas na margem ===== */
+  .page{position:relative}
+  body.margin-on .layout{justify-content:flex-start;padding-left:max(0px, calc((100% - 720px - 330px) / 2))}
+  body.margin-on #detail .ens-notas{display:none}
+  .mnotes{position:absolute;top:0;left:calc(100% + 40px);width:280px}
+  .mn{position:absolute;left:0;right:0;display:flex;gap:8px;font:13px/1.55 var(--sans);color:var(--fg2);padding:5px 10px 7px 10px;border-left:2px solid var(--line2);cursor:pointer;transition:background .12s,border-color .12s}
+  .mn:hover,.mn.hl{border-left-color:var(--acc);background:var(--acc-soft);color:var(--fg)}
+  .mn-n{flex:none;display:inline-flex;align-items:center;justify-content:center;min-width:18px;height:18px;border-radius:9px;background:var(--acc);color:var(--bg);font:700 10.5px/1 var(--sans);margin-top:1px}
+  .mn-t{min-width:0}
+  #detail sup.fn.hl{outline:2px solid var(--acc);outline-offset:1px}
+  @media print{ #panes,.mnotes{display:none!important} body.margin-on #detail .ens-notas{display:block!important} }
   /* ===== ESCALA DE SELOS: nível mais alto = selo maior e mais cheio (títulos · árvore · faixa) ===== */
   .page-body .sec>.pg-sub .pg-mk{vertical-align:middle;position:relative;top:-.12em;margin-right:11px;flex:none}
   /* número: quadrado grande e cheio */
@@ -522,12 +554,13 @@ if(STATIC) document.body.classList.add('static');
     let top=rc.bottom+8; if(top+ph>window.innerHeight-8) top=Math.max(8, rc.top-ph-8);
     pop.style.left=left+'px'; pop.style.top=top+'px';
   }
-  document.addEventListener('mouseover', e=>{ const fn=e.target.closest&&e.target.closest('sup.fn'); if(!fn||!fn.dataset.fn) return; const s=span(fn); if(s) s.classList.add('hl'); showPop(fn); });
+  const inMargin=fn=>document.body.classList.contains('margin-on') && fn.closest('#detail .page-body');
+  document.addEventListener('mouseover', e=>{ const fn=e.target.closest&&e.target.closest('sup.fn'); if(!fn||!fn.dataset.fn) return; if(inMargin(fn)) return; const s=span(fn); if(s) s.classList.add('hl'); showPop(fn); });
   document.addEventListener('click', e=>{   // toque (celular): abre/fecha o balão da nota
     if(typeof GRIFO_EDIT!=='undefined' && GRIFO_EDIT) return;
     const fn=e.target.closest&&e.target.closest('sup.fn');
     document.querySelectorAll('sup.fn .fn-pop').forEach(p=>{ if(!fn||!fn.contains(p)) p.style.display='none'; });
-    if(fn && !(e.target.closest('a'))){ const pop=fn.querySelector('.fn-pop'); if(pop && pop.style.display!=='block') showPop(fn); }
+    if(fn && !(e.target.closest('a')) && !inMargin(fn)){ const pop=fn.querySelector('.fn-pop'); if(pop && pop.style.display!=='block') showPop(fn); }
   });
   document.addEventListener('mouseout', e=>{ const fn=e.target.closest&&e.target.closest('sup.fn'); if(!fn||!fn.dataset.fn) return; if(e.relatedTarget&&fn.contains(e.relatedTarget)) return; const s=span(fn); if(s) s.classList.remove('hl'); const pop=fn.querySelector('.fn-pop'); if(pop) pop.style.display='none'; });
 })();
@@ -941,7 +974,7 @@ function select(n, opt){
   if(target){ const h=document.getElementById('anc-'+target.id.replace(/\./g,'_'));
     if(h){ scope=h.parentNode; revealSec(h); if(!opt.hl){ h.scrollIntoView({block:'start'}); h.classList.remove('flash'); void h.offsetWidth; h.classList.add('flash'); } } }
   if(opt.hl) highlightIn(scope, opt.hl);
-  setTimeout(()=>spyTree(true),30);   // árvore + faixa refletem o ponto onde a leitura caiu
+  setTimeout(()=>spyTree(true),30); layoutMargin();   // árvore + faixa refletem o ponto onde a leitura caiu
 }
 function goHome(){ try{ history.pushState(null,'',location.pathname+location.search); }catch(_){ } if(cur&&cur._row) cur._row.classList.remove('sel'); home(); }
 // ===== busca no LIVRO TODO (título + texto + explicação + notas + anexos), sem acento/maiúscula =====
@@ -1366,8 +1399,13 @@ function backGo(){
   select(n,{force:true}); backRestore(t);
 }
 document.addEventListener('click',e=>{
-  const a=e.target.closest && e.target.closest('a.xref'); if(!a || !cur) return;
+  const a=e.target.closest && e.target.closest('a.xref'); if(!a) return;
   if(e.ctrlKey||e.metaKey||e.shiftKey||e.button) return;          // abrir em nova aba: não mexe na pilha
+  if(panesOn()){                                                  // desktop: abre ao lado, você não sai do lugar
+    const n=flat.find(x=>x.id===decodeURIComponent((a.getAttribute('href')||'').slice(1)));
+    if(n){ e.preventDefault(); e.stopPropagation(); hidePeek(); const pn=a.closest('.pane'); if(!pn) keepAnchor(a); openPane(n, pn?+pn.dataset.i:-1); return; }
+  }
+  if(!cur) return;
   BACK.push({id:cur.id, scroll:$('#detail').scrollTop, label:backLabel()}); if(BACK.length>30) BACK.shift();
   hidePeek(); renderBack();
 }, true);
@@ -1407,6 +1445,92 @@ if(matchMedia('(hover: hover)').matches){       // no toque, a remissão só nav
 }
 
 
+
+// ===== DESKTOP (≥1200px): PAINÉIS LADO A LADO + NOTAS NA MARGEM =====
+// Painéis: a remissão abre o destino num painel à direita; link dentro de um painel abre o próximo.
+// Os que não cabem viram LOMBADAS finas (clicar = voltar até ele). Você nunca sai da página que está lendo.
+const PANES=[];
+function panesOn(){ return innerWidth>=1200; }
+function paneHTML(n){
+  const big=!n.ensinamento && sizeOf(n)>60000;
+  const h=big ? `<h2 class="pane-hub">${esc(mkLabel(n)+' '+cleanTitle(n.title))}</h2>`+(n.explicacao?expBlock(n.explicacao):'')+subToc(n) : renderChild(n,1);
+  return h.replace(/ id="(anc|cited)-/g,' data-was="$1-');         // sem ids duplicados com o leitor principal
+}
+// o texto principal estreita/alarga quando painéis abrem/fecham: mantém NO MESMO LUGAR da tela o ponto que se lia
+let _anchor=null;
+function keepAnchor(el){ const d=$('#detail'); el=el||secInView(); _anchor=el && el.isConnected ? {el, y:el.getBoundingClientRect().top} : null; }
+function restoreAnchor(keep){ if(!_anchor || !_anchor.el.isConnected){ _anchor=null; return; } const d=$('#detail'); d.scrollTop+=_anchor.el.getBoundingClientRect().top-_anchor.y; if(!keep) _anchor=null; }
+function renderPanes(){
+  if(!_anchor) keepAnchor();
+  let w=$('#panes');
+  if(!PANES.length){ if(w) w.remove(); document.body.classList.remove('has-panes'); restoreAnchor(true); layoutMargin(); return; }
+  if(!w){ w=document.createElement('div'); w.id='panes'; $('#main').appendChild(w); }
+  document.body.classList.add('has-panes');
+  const avail=$('#main').clientWidth-($('#side').offsetWidth||0)-640;
+  const fit=Math.max(1, Math.floor(avail/490));
+  w.innerHTML=PANES.map((p,i)=>{ const n=flat.find(x=>x.id===p.id); if(!n) return '';
+    const t=cleanTitle(n.title);
+    if(i<PANES.length-fit) return `<div class="pane spine" data-i="${i}" title="${esc(t).replace(/"/g,'&quot;')} — clique para voltar a ele"><span class="sp-mk">${esc(mkSelo(n))}</span><span class="sp-t">${esc(t)}</span></div>`;
+    return `<div class="pane" data-i="${i}"><div class="pane-h"><div class="pane-path">${esc(shortPath(n._p||n))}${n.pagina?' · pág. '+n.pagina:''}</div>
+      <button class="pane-main" title="abrir no leitor principal (à esquerda)">↗ Ler aqui</button><button class="pane-x" title="fechar este painel (Esc)">×</button></div>
+      <div class="pane-b page-body">${paneHTML(n)}</div></div>`; }).join('');
+  w.scrollLeft=w.scrollWidth; restoreAnchor(true);
+  layoutMargin();
+}
+function openPane(n, fromIdx){
+  PANES.splice(fromIdx+1);                                        // abre DEPOIS do painel onde foi o clique
+  if(!(PANES.length && PANES[PANES.length-1].id===n.id)) PANES.push({id:n.id});
+  markSeen(n); renderPanes();
+}
+document.addEventListener('click',e=>{
+  if(!e.target.closest) return;
+  const pn=e.target.closest('#panes .pane'); if(!pn) return;
+  const i=+pn.dataset.i, n=flat.find(x=>x.id===(PANES[i]||{}).id);
+  if(pn.classList.contains('spine')){ PANES.splice(i+1); renderPanes(); return; }
+  if(e.target.closest('.pane-x')){ PANES.splice(i); renderPanes(); return; }
+  if(e.target.closest('.pane-main') && n){ PANES.splice(i); renderPanes(); select(n); return; }
+});
+document.addEventListener('keydown',e=>{ if(e.key==='Escape' && PANES.length){ const m=document.getElementById('webMap'); if(m && !m.hidden) return; PANES.pop(); renderPanes(); } });
+
+// Notas na margem: cada nota fica na altura do seu trecho; passar o mouse acende nota ↔ trecho.
+function marginOn(){ return innerWidth>=1200 && $('#detail').clientWidth>=1090; }
+let _mnT=null, _mnRO=null;
+function layoutMargin(){ clearTimeout(_mnT); _mnT=setTimeout(_layoutMargin,60); }
+function _layoutMargin(){
+  const page=$('#detail .page'), body=page && page.querySelector('.page-body');
+  document.querySelectorAll('#detail .mnotes').forEach(x=>x.remove());
+  const on=!!body && marginOn(); document.body.classList.toggle('margin-on', on);
+  restoreAnchor();
+  if(!on) return;
+  if(!_mnRO && window.ResizeObserver) _mnRO=new ResizeObserver(()=>layoutMargin());
+  if(_mnRO){ _mnRO.disconnect(); _mnRO.observe(body); }
+  const chips=[...body.querySelectorAll('sup.fn')].filter(c=>c.offsetParent && c.querySelector('.fn-pop'));
+  if(!chips.length) return;
+  const box=document.createElement('div'); box.className='mnotes'; page.appendChild(box);
+  const top0=page.getBoundingClientRect().top; let last=-1e9;
+  chips.forEach((c,i)=>{ c.dataset.mi=i;
+    const el=document.createElement('div'); el.className='mn'; el.dataset.mi=i;
+    el.innerHTML=`<span class="mn-n">${esc(c.dataset.fn)}</span><div class="mn-t">${c.querySelector('.fn-pop').innerHTML}</div>`;
+    box.appendChild(el);
+    const top=Math.max(c.getBoundingClientRect().top-top0-5, last+10);
+    el.style.top=top+'px'; last=top+el.offsetHeight;
+  });
+}
+function mnLink(c, on){
+  if(!c) return; const mi=c.dataset.mi; const mn=document.querySelector('#detail .mn[data-mi="'+mi+'"]');
+  if(mn) mn.classList.toggle('hl', on); c.classList.toggle('hl', on);
+  const box=c.closest('.ens-texto,.db-body,.ens-verso'); const sp=box && box.querySelector('.nspan[data-fn="'+c.dataset.fn+'"]'); if(sp) sp.classList.toggle('hl', on);
+}
+document.addEventListener('mouseover',e=>{ if(!document.body.classList.contains('margin-on') || !e.target.closest) return;
+  const mn=e.target.closest('#detail .mn'); if(mn){ mnLink(document.querySelector('#detail sup.fn[data-mi="'+mn.dataset.mi+'"]'), true); return; }
+  const c=e.target.closest('#detail .page-body sup.fn'); if(c) mnLink(c, true); });
+document.addEventListener('mouseout',e=>{ if(!document.body.classList.contains('margin-on') || !e.target.closest) return;
+  const mn=e.target.closest('#detail .mn'); if(mn && !mn.contains(e.relatedTarget)){ mnLink(document.querySelector('#detail sup.fn[data-mi="'+mn.dataset.mi+'"]'), false); return; }
+  const c=e.target.closest('#detail .page-body sup.fn'); if(c && !c.contains(e.relatedTarget)) mnLink(c, false); });
+document.addEventListener('click',e=>{ const mn=e.target.closest && e.target.closest('#detail .mn'); if(!mn || e.target.closest('a')) return;
+  const c=document.querySelector('#detail sup.fn[data-mi="'+mn.dataset.mi+'"]'); if(c) c.scrollIntoView({block:'center',behavior:'smooth'}); });
+window.addEventListener('resize',()=>{ clearTimeout(window._dkT); window._dkT=setTimeout(()=>{ if(PANES.length) renderPanes(); else layoutMargin(); },150); });
+if(document.fonts && document.fonts.ready) document.fonts.ready.then(()=>layoutMargin());
 // ===== VISÃO GERAL ↔ LER TUDO + grupos que dobram =====
 let VIEW='read'; try{ VIEW=localStorage.getItem('nav-view')||'read'; }catch(_){ }
 function applyView(){ document.body.classList.toggle('overview', VIEW==='ov');

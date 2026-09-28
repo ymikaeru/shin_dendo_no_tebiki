@@ -340,19 +340,30 @@ class Handler(http.server.BaseHTTPRequestHandler):
 
 
 class Reusable(socketserver.ThreadingTCPServer):   # threaded (nao bloqueia leituras); writes serializados pelo _WLOCK
-    allow_reuse_address = True
+    # no Windows, SO_REUSEADDR deixa DOIS servidores na mesma porta (as requisicoes caem em qualquer um) —
+    # entao la a porta ocupada vira erro claro em vez de disputa silenciosa
+    allow_reuse_address = (os.name != 'nt')
     daemon_threads = True
 
 
 def main():
     os.chdir(ROOT)
-    with Reusable(('127.0.0.1', PORT), Handler) as httpd:
-        url = 'http://localhost:%d' % PORT
-        print('Editor Shin Dendo rodando em', url)
-        print('  arquivos .md :', len(md_files()))
-        print('  scans        :', len(scan_files()), 'em', SCAN_DIR)
+    base = 'http://localhost:%d' % PORT
+    try:
+        httpd = Reusable(('127.0.0.1', PORT), Handler)
+    except OSError:
+        print('A porta %d ja esta em uso — o servidor provavelmente ja esta rodando.' % PORT)
+        print('  Leitor (com edicao e notas): %s/nav' % base)
+        print('  Se nao abrir, feche o outro servidor (Ctrl+C na janela dele) e rode de novo.')
+        webbrowser.open(base + '/nav')
+        return
+    with httpd:
+        print('Shin Dendo rodando:')
+        print('  Leitor (com edicao e notas) : %s/nav' % base)
+        print('  Editor do texto (scan x .md): %s/' % base)
+        print('  arquivos .md :', len(md_files()), '· scans:', len(scan_files()))
         print('Ctrl+C para parar.')
-        threading.Thread(target=lambda: (time.sleep(0.8), webbrowser.open(url)), daemon=True).start()
+        threading.Thread(target=lambda: (time.sleep(0.8), webbrowser.open(base + '/nav')), daemon=True).start()
         try:
             httpd.serve_forever()
         except KeyboardInterrupt:

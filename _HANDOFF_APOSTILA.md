@@ -54,7 +54,7 @@ As memórias do projeto trazem o detalhe (`MEMORY.md` → `apostila-reader-camin
 ## ▶️ Como rodar / revisar
 ```
 cd D:\Mioshie_Sites\ShinDendoMD
-python servidor.py          # → abre localhost:8000/nav (leitor de estudo, sem login)
+python servidor.py          # → abre localhost:8000/nav (leitor COM edição e notas); localhost:8000/ = editor do texto
 ```
 - Editou um `.md` ou o conversor? **`python _sync_apostila.py`** (regenera + copia; `--check` roda a conservação) → recarrega o `/nav`.
 - Conservação dos 8: `python _conserva.py`. Tipagem: `python _triagem.py`.
@@ -122,3 +122,4 @@ Hoje a maioria dos ensinamentos mostra marcadores crus `*1 *2`; só o piloto C1_
 - Confiança <90% (revisar com o livro): p0030 (marcador deslocado → "é óbvia"), p0038/p0039 (notas 3 e 4 quase iguais; ⑭ em vez do ⑪ do OCR), p0041 (nota 5 → "não a informou"), p0664 (pág. 41, não 411), p0669 (Cap. 2, não Cap. 1), p0046 (Item 3), p0013 (grifo parcial).
 - 3 notas do livro SEM marcador no .md (não entram na fila; adicionar com ➕ no /nav): "Plano Divino (Keirin)" (intro do Item 2), título "1. A aproximação do Paraíso Terrestre…", "abertura da Porta de Rocha" (L156).
 - Receita p/ os próximos itens: ler blocos `[Notas]` do _ForSite + 註 do OCR JP do item → mapear âncora→vaga → ensaio (place em memória + trava de prosa) → gravar pendentes → usuário aprova no painel.
+- **Rodar localmente:** `python servidor.py` → abre `http://localhost:8000/nav` (leitor com edição e fila de notas). `http://localhost:8000/` é o editor do texto (scan × .md). A versão SEM edição é o site estático (`site/`, gerado por `tools/build_site.py`) — é a que vai para o GitHub Pages. No Windows, porta 8000 ocupada = aviso claro (não sobe 2º servidor).

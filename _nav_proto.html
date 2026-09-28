@@ -133,6 +133,12 @@
   sup.fn{position:relative;display:inline-block;vertical-align:super;font:700 11px/1 var(--sans);color:var(--acc);background:var(--acc-soft);
          padding:2px 5px;border-radius:6px;cursor:pointer;margin:0 1px;transition:background .12s,color .12s}
   sup.fn:hover,sup.fn:focus{background:var(--acc);color:#fff;outline:none}
+  /* algarismo no centro da bolinha: a caixa da linha da fonte reserva espaço de acento em cima e o número subia ~1px;
+     aparar a caixa à altura do algarismo (cap → linha de base) e dar o mesmo respiro em cima e embaixo */
+  @supports (text-box: trim-both cap alphabetic){
+    sup.fn{text-box:trim-both cap alphabetic;padding:4px 5px}
+    .mn-n>span{display:block;text-box:trim-both cap alphabetic}   /* na caixa flex o ajuste só pega num bloco próprio */
+  }
   sup.fn .fn-pop{display:none;position:fixed;z-index:120;left:0;top:0;width:max-content;max-width:340px;white-space:normal;text-align:left;
          font:400 14px/1.6 var(--serif);letter-spacing:normal;color:var(--pop-fg);background:var(--pop-bg);
          border:1px solid var(--line2);border-radius:10px;padding:11px 14px;box-shadow:var(--shadow)}
@@ -260,10 +266,30 @@
   .mnotes{position:absolute;top:0;left:calc(100% + 40px);width:280px}
   .mn{position:absolute;left:0;right:0;display:flex;gap:8px;font:13px/1.55 var(--sans);color:var(--fg2);padding:5px 10px 7px 10px;border-left:2px solid var(--line2);cursor:pointer;transition:background .12s,border-color .12s}
   .mn:hover,.mn.hl{border-left-color:var(--acc);background:var(--acc-soft);color:var(--fg)}
-  .mn-n{flex:none;display:inline-flex;align-items:center;justify-content:center;min-width:18px;height:18px;border-radius:9px;background:var(--acc);color:var(--bg);font:700 10.5px/1 var(--sans);margin-top:1px}
+  .mn-n{flex:none;display:inline-flex;align-items:center;justify-content:center;min-width:18px;height:18px;border-radius:9px;background:var(--acc);color:var(--bg);font:700 11px/1 var(--sans);margin-top:1px}
   .mn-t{min-width:0}
   #detail sup.fn.hl{outline:2px solid var(--acc);outline-offset:1px}
   @media print{ #panes,.mnotes{display:none!important} body.margin-on #detail .ens-notas{display:block!important} }
+  /* ===== DESKTOP: índice recolhível (faixa fina; passa o mouse = abre por cima do texto) ===== */
+  #sidebox{flex:1;min-height:0;display:flex;flex-direction:column}
+  .side-h{display:flex;align-items:center;flex:none}
+  .side-h #search{flex:1;min-width:0;margin:14px 4px 8px 14px}
+  #sideTog{flex:none;display:grid;place-items:center;width:32px;height:36px;margin:6px 8px 0 0;padding:0;background:transparent;border:1px solid transparent;border-radius:8px;color:var(--mut);cursor:pointer}
+  #sideTog:hover{border-color:var(--line);background:var(--hover);color:var(--fg)}
+  #rail{display:none}
+  .rl-b{display:grid;place-items:center;width:32px;height:32px;padding:0;background:transparent;border:1px solid transparent;border-radius:8px;color:var(--mut);cursor:pointer}
+  .rl-b:hover{border-color:var(--line2);background:var(--panel)}
+  .rl-t{writing-mode:vertical-rl;font:600 11px var(--sans);letter-spacing:.16em;text-transform:uppercase;color:var(--mut);margin-top:10px;user-select:none}
+  @media (min-width: 821px){
+    body.side-rail #side{width:46px;position:relative;z-index:320}
+    body.side-rail #rail{display:flex;flex-direction:column;align-items:center;gap:4px;height:100%;padding:12px 0;cursor:pointer}
+    body.side-rail #rail:hover{background:var(--hover)} body.side-rail #rail:hover .rl-b,body.side-rail #rail:hover .rl-t{color:var(--fg)}
+    body.side-rail #sidebox{position:absolute;top:0;bottom:0;left:46px;width:340px;background:var(--side);border-right:1px solid var(--line2);box-shadow:var(--shadow);
+      visibility:hidden;opacity:0;transform:translateX(-12px);transition:opacity .14s,transform .14s,visibility 0s linear .14s}
+    body.side-rail.side-peek #sidebox{visibility:visible;opacity:1;transform:none;transition:opacity .14s,transform .14s}
+    body.side-rail #sideTog{display:none}
+  }
+  @media (max-width: 820px){ #sideTog{display:none} .side-h #search{margin-right:14px} }
   /* ===== ESCALA DE SELOS: nível mais alto = selo maior e mais cheio (títulos · árvore · faixa) ===== */
   .page-body .sec>.pg-sub .pg-mk{vertical-align:middle;position:relative;top:-.12em;margin-right:11px;flex:none}
   /* número: quadrado grande e cheio */
@@ -531,9 +557,19 @@
 </div>
 <div id="main">
   <div id="side">
-    <input id="search" type="search" placeholder="Buscar no livro…" aria-label="Buscar no livro">
-    <div id="tree"></div>
-    <div id="results"></div>
+    <div id="rail" title="Índice — passe o mouse ou clique para abrir">
+      <button class="rl-b" id="railPin" title="Fixar o índice aberto" aria-label="Fixar o índice aberto"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 17 5-5-5-5M13 17l5-5-5-5"/></svg></button>
+      <button class="rl-b" id="railFind" title="Buscar no livro" aria-label="Buscar no livro"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></button>
+      <span class="rl-t">Índice</span>
+    </div>
+    <div id="sidebox">
+      <div class="side-h">
+        <input id="search" type="search" placeholder="Buscar no livro…" aria-label="Buscar no livro">
+        <button id="sideTog" title="Recolher o índice" aria-label="Recolher o índice"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m11 17-5-5 5-5M18 17l-5-5 5-5"/></svg></button>
+      </div>
+      <div id="tree"></div>
+      <div id="results"></div>
+    </div>
   </div>
   <div id="detail"><div class="hint">Selecione um item na árvore ou busque acima.<br>Os 9 níveis ficam sempre visíveis na trilha do topo — você não se perde.</div></div>
   <aside id="review"></aside>
@@ -543,6 +579,8 @@ const $=s=>document.querySelector(s);
 // Site público: build_site.py injeta window.SD_STATIC=true → só leitura (sem servidor, sem edição).
 const STATIC=!!window.SD_STATIC;
 if(STATIC) document.body.classList.add('static');
+try{ if(localStorage.getItem('nav-side')==='rail') document.body.classList.add('side-rail'); }catch(_){ }   // índice recolhido (escolha do leitor)
+let _sideT=null;                                                   // espera do mouse na faixa do índice (ver "Índice recolhível")
 (function(){ const b=document.getElementById('themeBtn'); if(!b) return;
   function apply(t){ document.body.classList.toggle('dark', t==='dark'); b.innerHTML = t==='dark' ? '☀<span class="tl"> Claro</span>' : '☾<span class="tl"> Escuro</span>'; }
   let t=null; try{ t=localStorage.getItem('nav-theme'); }catch(_){ }
@@ -956,7 +994,7 @@ function select(n, opt){
     try{ history[opt.replace?'replaceState':'pushState'](null,'','#'+hid); }catch(_){ }
   }
   document.title=cleanTitle((target||n).title||n.marcador||'').slice(0,60)+' — Novo Manual de Difusão';
-  document.body.classList.remove('drawer');
+  document.body.classList.remove('drawer','side-peek'); clearTimeout(_sideT);
   if(n._row){ n._row.classList.add('sel'); expandPath(n); n._row.scrollIntoView({block:'nearest'}); }
   const det=$('#detail');
   if(!same || opt.keepScroll || opt.hl){
@@ -1472,6 +1510,7 @@ function keepAnchor(el){ const d=$('#detail'); el=el||secInView(); _anchor=el &&
 function restoreAnchor(keep){ if(!_anchor || !_anchor.el.isConnected){ _anchor=null; return; } const d=$('#detail'); d.scrollTop+=_anchor.el.getBoundingClientRect().top-_anchor.y; if(!keep) _anchor=null; }
 function renderPanes(){
   if(!_anchor) keepAnchor();
+  autoRail();
   let w=$('#panes');
   if(!PANES.length){ if(w) w.remove(); document.body.classList.remove('has-panes'); restoreAnchor(true); layoutMargin(); return; }
   if(!w){ w=document.createElement('div'); w.id='panes'; $('#main').appendChild(w); }
@@ -1502,9 +1541,51 @@ document.addEventListener('click',e=>{
 });
 document.addEventListener('keydown',e=>{ if(e.key==='Escape' && PANES.length){ const m=document.getElementById('webMap'); if(m && !m.hidden) return; PANES.pop(); renderPanes(); } });
 
+// Índice recolhível (desktop): « recolhe o índice numa faixa fina; passar o mouse na faixa (ou clicar) abre o índice
+// ao lado dela, POR CIMA do texto, sem mexer na leitura; » (na faixa) fixa aberto de novo. A escolha fica lembrada (localStorage nav-side).
+// Ao abrir um painel de remissão, o índice recolhe sozinho se estiver tirando espaço do texto/notas — e volta quando
+// os painéis fecham (a menos que o leitor tenha mexido nele nesse meio-tempo).
+let _autoRail=false, _hadPanes=false;
+const isRail=()=>document.body.classList.contains('side-rail');
+function setRail(on){
+  _autoRail=false;
+  try{ localStorage.setItem('nav-side', on?'rail':'pin'); }catch(_){ }
+  document.body.classList.remove('side-peek');
+  if(isRail()===on) return;
+  keepAnchor();
+  document.body.classList.toggle('side-rail', on);
+  if(PANES.length) renderPanes(); else layoutMargin();
+}
+function autoRail(){
+  const has=PANES.length>0, b=document.body;
+  if(has && !_hadPanes && innerWidth>820 && !isRail() && innerWidth-340-490<1090){ b.classList.add('side-rail'); _autoRail=true; }
+  if(!has && _autoRail){ b.classList.remove('side-rail','side-peek'); _autoRail=false; }
+  _hadPanes=has;
+}
+function openSidePeek(){
+  clearTimeout(_sideT);
+  if(!isRail() || innerWidth<=820 || document.body.classList.contains('side-peek')) return;
+  document.body.classList.add('side-peek');
+  const r=$('#tree .row.sel')||$('#tree .row.here'); if(r) r.scrollIntoView({block:'center'});
+}
+function closeSidePeek(){ clearTimeout(_sideT); document.body.classList.remove('side-peek'); }
+$('#side').addEventListener('mouseenter',()=>{ if(!isRail()) return; clearTimeout(_sideT);
+  if(!document.body.classList.contains('side-peek')) _sideT=setTimeout(openSidePeek,220); });
+$('#side').addEventListener('mouseleave',()=>{ if(!isRail()) return; clearTimeout(_sideT);
+  if(document.activeElement===$('#search')) return;              // digitando a busca: só fecha com clique fora / Esc
+  _sideT=setTimeout(closeSidePeek,320); });
+$('#rail').addEventListener('click',e=>{
+  if(e.target.closest('#railPin')){ setRail(false); return; }
+  openSidePeek(); if(e.target.closest('#railFind')) $('#search').focus(); });
+$('#sideTog').onclick=()=>setRail(!isRail());
+document.addEventListener('click',e=>{ if(document.body.classList.contains('side-peek') && e.target.closest && !e.target.closest('#side')) closeSidePeek(); });
+document.addEventListener('keydown',e=>{ if(e.key!=='Escape' || !document.body.classList.contains('side-peek')) return;
+  if(e.target.id==='search' && e.target.value) return;             // 1º Esc limpa a busca, o 2º fecha o índice
+  closeSidePeek(); e.stopImmediatePropagation(); }, true);
+
 // Notas na margem: cada nota fica na altura do seu trecho; passar o mouse acende nota ↔ trecho.
 function marginOn(){ return innerWidth>=1200 && $('#detail').clientWidth>=1090; }
-let _mnT=null, _mnRO=null;
+let _mnT=null, _mnRO=null, _mnObs=null, _mnSize='';
 function layoutMargin(){ clearTimeout(_mnT); _mnT=setTimeout(_layoutMargin,60); }
 function _layoutMargin(){
   const page=$('#detail .page'), body=page && page.querySelector('.page-body');
@@ -1512,15 +1593,18 @@ function _layoutMargin(){
   const on=!!body && marginOn(); document.body.classList.toggle('margin-on', on);
   restoreAnchor();
   if(!on) return;
-  if(!_mnRO && window.ResizeObserver) _mnRO=new ResizeObserver(()=>layoutMargin());
-  if(_mnRO){ _mnRO.disconnect(); _mnRO.observe(body); }
+  // refaz só quando o texto MUDA de tamanho (abrir/dobrar seção). Não re-observar a cada refazer: observe() sempre
+  // dispara uma leitura inicial → refazia em laço (~11×/s) e as notas piscavam sob o mouse.
+  if(!_mnRO && window.ResizeObserver) _mnRO=new ResizeObserver(es=>{ const r=es[es.length-1].contentRect, k=Math.round(r.width)+'x'+Math.round(r.height);
+    if(k===_mnSize) return; _mnSize=k; layoutMargin(); });
+  if(_mnRO && _mnObs!==body){ _mnRO.disconnect(); _mnRO.observe(body); _mnObs=body; }
   const chips=[...body.querySelectorAll('sup.fn')].filter(c=>c.offsetParent && c.querySelector('.fn-pop'));
   if(!chips.length) return;
   const box=document.createElement('div'); box.className='mnotes'; page.appendChild(box);
   const top0=page.getBoundingClientRect().top; let last=-1e9;
   chips.forEach((c,i)=>{ c.dataset.mi=i;
     const el=document.createElement('div'); el.className='mn'; el.dataset.mi=i;
-    el.innerHTML=`<span class="mn-n">${esc(c.dataset.fn)}</span><div class="mn-t">${c.querySelector('.fn-pop').innerHTML}</div>`;
+    el.innerHTML=`<span class="mn-n"><span>${esc(c.dataset.fn)}</span></span><div class="mn-t">${c.querySelector('.fn-pop').innerHTML}</div>`;
     box.appendChild(el);
     const top=Math.max(c.getBoundingClientRect().top-top0-5, last+10);
     el.style.top=top+'px'; last=top+el.offsetHeight;

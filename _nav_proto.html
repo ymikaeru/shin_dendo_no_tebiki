@@ -1569,6 +1569,7 @@ document.addEventListener('click',e=>{ const b=e.target.closest && e.target.clos
   } else { box.hidden=true; b.classList.remove('on'); b.querySelector('.os-i').textContent='▸'; b.firstChild.nextSibling.textContent=' mostrar o texto aqui '; }
   if(typeof layoutMargin==='function') layoutMargin();
 });
+
 // ===== VISÃO GERAL ↔ LER TUDO + grupos que dobram =====
 let VIEW='read'; try{ VIEW=localStorage.getItem('nav-view')||'read'; }catch(_){ }
 function applyView(){ document.body.classList.toggle('overview', VIEW==='ov');

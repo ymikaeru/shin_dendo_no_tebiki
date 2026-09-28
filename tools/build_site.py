@@ -39,8 +39,8 @@ def main():
         json.dump(book, f, ensure_ascii=False, separators=(',', ':'))
     open(os.path.join(OUT, '.nojekyll'), 'w').close()
 
-    size = sum(os.path.getsize(os.path.join(OUT, x)) for x in os.listdir(OUT))
-    print('site gerado em %s (%d arquivos, %.1f MB)' % (os.path.relpath(OUT), len(os.listdir(OUT)), size / 1e6))
+    size = sum(os.path.getsize(os.path.join(dp, x)) for dp, _, fs in os.walk(OUT) for x in fs)
+    print('site gerado em %s (%.1f MB)' % (os.path.relpath(OUT), size / 1e6))
 
 
 if __name__ == '__main__':

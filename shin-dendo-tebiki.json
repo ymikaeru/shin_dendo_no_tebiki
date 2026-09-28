@@ -122,7 +122,7 @@
        "nivel": "numero",
        "marcador": "3",
        "title": "O Espírito Divino (que habitou) utilizou Meishu-Sama como instrumento",
-       "pagina": 10,
+       "pagina": 9,
        "children": [],
        "ensinamento": {
         "fonte": "Ron 2084, col. sup. l. 17-21 <Zencho Vol. 11, pág. 580>",
@@ -164,7 +164,7 @@
        "nivel": "numero",
        "marcador": "4",
        "title": "A Vontade de Deus tornou-se a própria Vontade de Meishu-Sama",
-       "pagina": 12,
+       "pagina": 11,
        "children": [],
        "ensinamento": {
         "fonte": null,
@@ -313,7 +313,7 @@
        "nivel": "numero",
        "marcador": "7",
        "title": "Com o tempo, virá a compreensão",
-       "pagina": 16,
+       "pagina": 15,
        "children": [],
        "ensinamento": {
         "fonte": "Kyo 32, pág. 86, l. 10-12 <Zenkou Vol. 12, pág. 311>",
@@ -334,7 +334,7 @@
        "nivel": "numero",
        "marcador": "8",
        "title": "É permitido compreender através dos Ensinamentos sobre Meishu-Sama",
-       "pagina": 16,
+       "pagina": 15,
        "children": [],
        "ensinamento": {
         "fonte": "Ronbetsu 561, col. sup. l. 15 ~ col. inf. l. 6 <Zencho Vol. 10, pág. 94>",
@@ -428,7 +428,7 @@
        "nivel": "numero",
        "marcador": "10",
        "title": "O Perdoador de Pecados (Messias)",
-       "pagina": 22,
+       "pagina": 18,
        "children": [],
        "ensinamento": {
         "fonte": "Kyo 9, pág. 14, l. 2-10 <Zenkou Vol. 7, pág. 223>",
@@ -460,7 +460,7 @@
        "nivel": "numero",
        "marcador": "11",
        "title": "Nascer de novo como Messias",
-       "pagina": 22,
+       "pagina": 19,
        "children": [],
        "ensinamento": {
         "fonte": "Toko Ge 655, l. 4 ~ 656, l. 6",
@@ -481,7 +481,7 @@
        "nivel": "numero",
        "marcador": "12",
        "title": "\"O que é o Messias\".",
-       "pagina": 22,
+       "pagina": 20,
        "children": [
         {
          "id": "c1.i1.12.1",
@@ -489,7 +489,7 @@
          "nivel": "circulo",
          "marcador": "1",
          "title": "O Perdoador de Pecados",
-         "pagina": 22,
+         "pagina": 21,
          "children": [],
          "ensinamento": {
           "fonte": "Ronbetsu 537, col. inf. l. 2-7 <Zenkou Vol. 3, pág. 56>",
@@ -521,7 +521,7 @@
          "nivel": "circulo",
          "marcador": "2",
          "title": "Deus do Julgamento",
-         "pagina": 22,
+         "pagina": 21,
          "children": [],
          "ensinamento": {
           "fonte": "Caderno do Ano 25 da Era Showa, pág. 7, l. 6-8 <ver Zenkou Vol. 3, pág. 53, l. 11-12>",
@@ -674,7 +674,7 @@
      "nivel": "item",
      "marcador": "Item 2",
      "title": "Principais Revelações*1",
-     "pagina": 34,
+     "pagina": 31,
      "children": [
       {
        "id": "c1.i2.1",
@@ -682,7 +682,7 @@
        "nivel": "numero",
        "marcador": "1",
        "title": "A aproximação do Paraíso Terrestre e a Missão de Meishu-Sama",
-       "pagina": 34,
+       "pagina": 31,
        "children": [
         {
          "id": "c1.i2.1.1",
@@ -690,7 +690,7 @@
          "nivel": "circulo",
          "marcador": "1",
          "title": "A Primeira Revelação",
-         "pagina": 34,
+         "pagina": 31,
          "children": [],
          "ensinamento": {
           "fonte": "Shu 405, col. inf. l. 16 ~ 406, col. sup. l. 1 = Ishi Shu Jo 29, col. sup. l. 16 ~ col. inf. l. 10 <Zencho Vol. 6, pág. 322>",
@@ -711,7 +711,7 @@
          "nivel": "circulo",
          "marcador": "2",
          "title": "Construir o Mundo da Grande Luz (Daikomyo Sekai)",
-         "pagina": 34,
+         "pagina": 32,
          "children": [],
          "ensinamento": {
           "fonte": "Ron 3, col. inf. l. 16-17, Ron 4, col. sup. l. 1-16 <Zencho Vol. 1, pág. 28>",
@@ -732,7 +732,7 @@
          "nivel": "circulo",
          "marcador": "3",
          "title": "Informado da Grande Missão",
-         "pagina": 34,
+         "pagina": 33,
          "children": [],
          "ensinamento": {
           "fonte": "Ronbetsu 4, col. inf. l. 6-12 <Zenkou Vol. 1, pág. 9>",
@@ -805,7 +805,7 @@
          "nivel": "circulo",
          "marcador": "1",
          "title": "O Mundo Espiritual governa o Mundo Material*1",
-         "pagina": 35,
+         "pagina": 36,
          "children": [],
          "ensinamento": {
           "fonte": "Ron 2182, col. inf. l. 18 ~ 2183, col. sup. l. 13 = Ishi Shu Ge 50, col. inf. l. 15 ~ 51, col. inf. l. 5 <Zencho Vol. 12, pág. 207>",
@@ -925,7 +925,7 @@
          "nivel": "circulo",
          "marcador": "1",
          "title": "Revelação recebida diretamente",
-         "pagina": 42,
+         "pagina": 41,
          "children": [
           {
            "id": "c1.i2.3.1.i",
@@ -933,7 +933,7 @@
            "nivel": "romano",
            "marcador": "i",
            "title": "Estamos na Aurora",
-           "pagina": 42,
+           "pagina": 41,
            "children": [],
            "ensinamento": {
             "fonte": "Ron 2170, col. inf. l. 5-15 = Ishi Jo Jo 135, col. sup. l. 11 ~ col. inf. l. 9 <Zencho Vol. 12, pág. 12>",
@@ -977,7 +977,7 @@
          "nivel": "circulo",
          "marcador": "2",
          "title": "Revelação através do Ofudesaki",
-         "pagina": 45,
+         "pagina": 44,
          "children": [],
          "ensinamento": {
           "fonte": "Sui 30, pág. 2, l. 12 ~ pág. 3, l. 2 <Zenkou Vol. 12, pág. 71>",
@@ -1107,7 +1107,7 @@
        "nivel": "numero",
        "marcador": "4",
        "title": "O Ser Humano",
-       "pagina": 50,
+       "pagina": 47,
        "children": [
         {
          "id": "c1.i2.4.1",
@@ -1115,7 +1115,7 @@
          "nivel": "circulo",
          "marcador": "1",
          "title": "Existência dotada de Espírito",
-         "pagina": 50,
+         "pagina": 48,
          "children": [],
          "ensinamento": {
           "fonte": "Ronbetsu 705, col. sup. l. 2-17 <Zencho Vol. 11, pág. 214>",
@@ -1136,7 +1136,7 @@
          "nivel": "circulo",
          "marcador": "2",
          "title": "Totalmente diferente dos outros animais em essência, conteúdo e forma*1",
-         "pagina": 50,
+         "pagina": 49,
          "children": [],
          "ensinamento": {
           "fonte": "Ron 2123, col. sup. l. 11 ~ col. inf. l. 9 = Ishi Jo Jo 48, col. inf. l. 11 ~ 49, col. inf. l. 6 <Zencho Vol. 11, pág. 601>",
@@ -1178,7 +1178,7 @@
          "nivel": "circulo",
          "marcador": "4",
          "title": "A duração da vida é de 120 a 600 anos",
-         "pagina": 54,
+         "pagina": 53,
          "children": [],
          "ensinamento": {
           "fonte": "S6, seções 3-5 <Zencho Vol. 10, pág. 131>",
@@ -1202,7 +1202,7 @@
        "nivel": "numero",
        "marcador": "5",
        "title": "A Natureza",
-       "pagina": 54,
+       "pagina": 53,
        "children": [
         {
          "id": "c1.i2.5.1",
@@ -1210,7 +1210,7 @@
          "nivel": "circulo",
          "marcador": "1",
          "title": "Pensamento humano e Clima/Tempo",
-         "pagina": 56,
+         "pagina": 54,
          "children": [],
          "ensinamento": {
           "fonte": "Ronbetsu pág. 110, col. inf. l. 17 ~ 111, col. sup. l. 8 <Zenkou Vol. 1, pág. 93>",
@@ -1231,7 +1231,7 @@
          "nivel": "circulo",
          "marcador": "2",
          "title": "Pensamento/Palavras humanas e Clima/Tempo",
-         "pagina": 56,
+         "pagina": 55,
          "children": [],
          "ensinamento": {
           "fonte": "Shinzatsu pág. 41, l. 6-7, pág. 41, l. 10 ~ pág. 42, l. 8, pág. 42, l. 11-14 = Ishi Shu Ge 377, col. inf. l. 11 ~ 378, col. sup. l. 3, 378, col. sup. l. 7 ~ col. inf. l. 13, 379, col. sup. l. 2-9 <Zencho Vol. 6, pág. 46>",
@@ -1252,7 +1252,7 @@
          "nivel": "circulo",
          "marcador": "3",
          "title": "Purificação da Natureza — Tufões",
-         "pagina": 58,
+         "pagina": 57,
          "children": [],
          "ensinamento": {
           "fonte": "Ron 2074, col. inf. l. 1-11 = Ishi Shu Ge 383, col. sup. l. 3-16 <Zencho Vol. 11, pág. 559>",
@@ -1276,7 +1276,7 @@
        "nivel": "numero",
        "marcador": "6",
        "title": "Erros da Civilização e sua Transição",
-       "pagina": 58,
+       "pagina": 57,
        "children": [
         {
          "id": "c1.i2.6.1",
@@ -1305,7 +1305,7 @@
          "nivel": "circulo",
          "marcador": "2",
          "title": "A Civilização Espiritual e a Civilização Material caminharão juntas",
-         "pagina": 60,
+         "pagina": 59,
          "children": [],
          "ensinamento": {
           "fonte": "Ten Fukuin Prefácio pág. 1, l. 6 ~ pág. 2, l. 9 = Ishi Shu Jo 3, col. sup. l. 12 ~ 4, col. sup. l. 7 <Zencho Vol. 12, pág. 18>",
@@ -1347,7 +1347,7 @@
          "nivel": "circulo",
          "marcador": "4",
          "title": "O Erro da Medicina e sua Revolução",
-         "pagina": 64,
+         "pagina": 61,
          "children": [
           {
            "id": "c1.i2.6.4.i",
@@ -1355,7 +1355,7 @@
            "nivel": "romano",
            "marcador": "i",
            "title": "O Erro da Medicina",
-           "pagina": 64,
+           "pagina": 62,
            "children": [
             {
              "id": "c1.i2.6.4.i.A",
@@ -1363,7 +1363,7 @@
              "nivel": "letra",
              "marcador": "A",
              "title": "Enfraquecer a saúde humana",
-             "pagina": 64,
+             "pagina": 62,
              "children": [],
              "ensinamento": {
               "fonte": "S5, seções 34-35 <Zencho Vol. 10, pág. 131>",
@@ -1384,7 +1384,7 @@
              "nivel": "letra",
              "marcador": "B",
              "title": "O Mal de Noventa e Nove Por Cento",
-             "pagina": 64,
+             "pagina": 63,
              "children": [],
              "ensinamento": {
               "fonte": "S7, seções 31-38 <Zencho Vol. 10, pág. 136>",
@@ -1484,7 +1484,7 @@
          "nivel": "circulo",
          "marcador": "5",
          "title": "A Revolução da Agricultura",
-         "pagina": 70,
+         "pagina": 68,
          "children": [
           {
            "id": "c1.i2.6.5.i",
@@ -1492,7 +1492,7 @@
            "nivel": "romano",
            "marcador": "i",
            "title": "O Princípio da Agricultura Natural",
-           "pagina": 70,
+           "pagina": 68,
            "children": [],
            "ensinamento": {
             "fonte": "Jinoukai pág. 22, l. 5-10 = Ishi Sha 374, col. sup. l. 11 ~ col. inf. l. 6 <Zencho Vol. 9, pág. 52>",
@@ -1513,7 +1513,7 @@
            "nivel": "romano",
            "marcador": "ii",
            "title": "Explicar pela Ciência Espiritual (Yuishin Kagaku)",
-           "pagina": 70,
+           "pagina": 69,
            "children": [],
            "ensinamento": {
             "fonte": "Ron 2177, col. inf. l. 11-15 = Ishi Sha 336, col. sup. l. 14 ~ col. inf. l. 4 <Zencho Vol. 12, pág. 197>",
@@ -1536,7 +1536,7 @@
          "nivel": "circulo",
          "marcador": "6",
          "title": "O desenvolvimento da Bomba Atômica e o fim da guerra",
-         "pagina": 70,
+         "pagina": 69,
          "children": [],
          "ensinamento": {
           "fonte": "Sui 30, pág. 14, l. 4-9 <Zenkou Vol. 12, pág. 82>",
@@ -1560,7 +1560,7 @@
        "nivel": "numero",
        "marcador": "7",
        "title": "O Último Julgamento (Juízo Final)",
-       "pagina": 71,
+       "pagina": 70,
        "children": [
         {
          "id": "c1.i2.7.1",
@@ -1568,7 +1568,7 @@
          "nivel": "circulo",
          "marcador": "1",
          "title": "A crise que se aproxima",
-         "pagina": 71,
+         "pagina": 70,
          "children": [],
          "ensinamento": {
           "fonte": "Geisha 291, col. sup. l. 17-22 = Ishi Sha 274, col. inf. l. 7-13 <Zencho Vol. 11, pág. 652>",
@@ -1610,7 +1610,7 @@
          "nivel": "circulo",
          "marcador": "3",
          "title": "O Julgamento Material por Ushitora no Konjin",
-         "pagina": 73,
+         "pagina": 72,
          "children": [],
          "ensinamento": {
           "fonte": "Kyo 31, pág. 28, l. 3-6, 8-15 <Zenkou Vol. 12, pág. 197>",
@@ -1688,7 +1688,7 @@
      "nivel": "item",
      "marcador": "Item 3",
      "title": "Sabedoria Divina",
-     "pagina": 77,
+     "pagina": 76,
      "children": [
       {
        "id": "c1.i3.1",
@@ -1906,7 +1906,7 @@
                "nivel": "letra_min",
                "marcador": "a",
                "title": "A vida humana pertence ao campo espiritual",
-               "pagina": 88,
+               "pagina": 87,
                "children": [],
                "ensinamento": {
                 "fonte": "Ronbetsu 695, col. sup. l. 16 ~ col. inf. l. 15 <Zencho Vol. 11, pág. 196>",
@@ -1927,7 +1927,7 @@
                "nivel": "letra_min",
                "marcador": "b",
                "title": "Apenas com a ciência materialista é só a metade",
-               "pagina": 89,
+               "pagina": 88,
                "children": [],
                "ensinamento": {
                 "fonte": "Ki pág. 3, l. 1-8 = Ishi Shu Ge 229, col. inf. l. 5 ~ 230, col. sup. l. 6 <Zencho Vol. 11, pág. 124>",
@@ -1948,7 +1948,7 @@
                "nivel": "letra_min",
                "marcador": "c",
                "title": "A raiz da doença infinitamente pequena",
-               "pagina": 90,
+               "pagina": 89,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo 24, pág. 42, l. 4 ~ 44, l. 6 <Zenkou Vol. 10, pág. 366>",
@@ -1969,7 +1969,7 @@
                "nivel": "letra_min",
                "marcador": "d",
                "title": "Se não for pelo Espiritualismo (Yuishin-ron), não se pode resolver",
-               "pagina": 91,
+               "pagina": 89,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo 24, pág. 54, l. 1 ~ 55, l. 9 <Zenkou Vol. 10, pág. 376>",
@@ -2014,7 +2014,7 @@
              "nivel": "letra",
              "marcador": "B",
              "title": "O Futuro da Ciência",
-             "pagina": 93,
+             "pagina": 92,
              "children": [
               {
                "id": "c1.i3.2.3.i.B.a",
@@ -2022,7 +2022,7 @@
                "nivel": "letra_min",
                "marcador": "a",
                "title": "A união entre o Mundo Material e o Mundo Espiritual",
-               "pagina": 94,
+               "pagina": 92,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo 26, pág. 33, l. 7-15 <Zenkou Vol. 11, pág. 91>",
@@ -2043,7 +2043,7 @@
                "nivel": "letra_min",
                "marcador": "b",
                "title": "No final é o Infinito",
-               "pagina": 95,
+               "pagina": 93,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo 26, pág. 66, l. 13 ~ 67, l. 12 <Zenkou Vol. 11, pág. 119>",
@@ -2064,7 +2064,7 @@
                "nivel": "letra_min",
                "marcador": "c",
                "title": "A ciência, no fim, chegará ao Espírito Divino — Deus",
-               "pagina": 96,
+               "pagina": 95,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo 26, pág. 92, l. 2-9 <Zenkou Vol. 11, pág. 140>",
@@ -2087,7 +2087,7 @@
              "nivel": "letra",
              "marcador": "C",
              "title": "O Fim da Pesquisa Científica*1",
-             "pagina": 97,
+             "pagina": 96,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 27, pág. 5, l. 16 ~ 7, l. 5, pág. 8, l. 5-16 <Zenkou Vol. 11, pág. 146>",
@@ -2129,7 +2129,7 @@
              "nivel": "letra",
              "marcador": "E",
              "title": "O Deus Maligno usou mal a ciência (inteligência humana)",
-             "pagina": 101,
+             "pagina": 100,
              "children": [],
              "ensinamento": {
               "fonte": "Shu 163, col. inf. l. 18 ~ 164, col. sup. l. 6 = Ishi Shu Ge 365, col. inf. l. 10 ~ 366, col. sup. l. 7 <Zencho Vol. 10, pág. 329>",
@@ -2155,7 +2155,7 @@
              "nivel": "letra",
              "marcador": "F",
              "title": "A Batalha entre Noventa e Nove por Cento e Um por Cento",
-             "pagina": 104,
+             "pagina": 103,
              "children": [
               {
                "id": "c1.i3.2.3.i.F.a",
@@ -2163,7 +2163,7 @@
                "nivel": "letra_min",
                "marcador": "a",
                "title": "Corrigir a cultura existente com o Poder Divino Absoluto",
-               "pagina": 104,
+               "pagina": 103,
                "children": [],
                "ensinamento": {
                 "fonte": "S4, seções 56-58, S5, seções 1-2 <Zencho Vol. 10, pág. 127>",
@@ -2184,7 +2184,7 @@
                "nivel": "letra_min",
                "marcador": "b",
                "title": "Derrubar a conspiração do Deus Maligno",
-               "pagina": 105,
+               "pagina": 104,
                "children": [],
                "ensinamento": {
                 "fonte": "S7, seções 28-38 <Zencho Vol. 10, pág. 136>",
@@ -2207,7 +2207,7 @@
              "nivel": "letra",
              "marcador": "G",
              "title": "O Erro Fundamental da Medicina",
-             "pagina": 106,
+             "pagina": 105,
              "children": [
               {
                "id": "c1.i3.2.3.i.G.a",
@@ -2215,7 +2215,7 @@
                "nivel": "letra_min",
                "marcador": "a",
                "title": "Ignora o espírito e foca apenas no corpo",
-               "pagina": 106,
+               "pagina": 105,
                "children": [],
                "ensinamento": {
                 "fonte": "K2, seção 30 <Zencho Vol. 10, pág. 146>",
@@ -2463,7 +2463,7 @@
              "nivel": "letra",
              "marcador": "C",
              "title": "A Bomba Atômica é uma força para eliminar a guerra",
-             "pagina": 114,
+             "pagina": 113,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 30, pág. 7, l. 13-16 <Zenkou Vol. 12, pág. 104>",
@@ -2553,7 +2553,7 @@
          "nivel": "circulo",
          "marcador": "4",
          "title": "Conhecer os erros da cultura existente através da Sabedoria Divina (Shinchi)",
-         "pagina": 117,
+         "pagina": 116,
          "children": [
           {
            "id": "c1.i3.2.4.i",
@@ -2561,7 +2561,7 @@
            "nivel": "romano",
            "marcador": "i",
            "title": "Relacionado à Transição da Noite para o Dia*1 ―― A felicidade dos fiéis desta Igreja",
-           "pagina": 117,
+           "pagina": 116,
            "children": [],
            "ensinamento": {
             "fonte": "Kyo 29, pág. 59, l. 2 ~ 60, l. 6 <Zencho Vol. 11, pág. 321>",
@@ -2705,7 +2705,7 @@
              "nivel": "letra",
              "marcador": "A",
              "title": "Sobre os políticos atuais, etc.",
-             "pagina": 123,
+             "pagina": 122,
              "children": [
               {
                "id": "c1.i3.2.4.vi.A.a",
@@ -2713,7 +2713,7 @@
                "nivel": "letra_min",
                "marcador": "a",
                "title": "O mau funcionamento da inteligência",
-               "pagina": 124,
+               "pagina": 122,
                "children": [],
                "ensinamento": {
                 "fonte": "Shu 11, col. inf. l. 13 ~ 12, col. sup. l. 15 = Ishi Shu Ge 18, col. inf. l. 5 ~ 19, col. sup. l. 16 <Zencho Vol. 8, pág. 13>",
@@ -2734,7 +2734,7 @@
                "nivel": "letra_min",
                "marcador": "b",
                "title": "Políticas fora do ponto vital",
-               "pagina": 125,
+               "pagina": 123,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo 24, pág. 7, l. 11-16 <Zenkou Vol. 10, pág. 335>",
@@ -2757,7 +2757,7 @@
              "nivel": "letra",
              "marcador": "B",
              "title": "A estratégia de MacArthur, o movimento para derrubar o gabinete da época, o futuro do Comunismo",
-             "pagina": 126,
+             "pagina": 124,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 11, pág. 80, l. 14 ~ 84, l. 6 <Zenkou Vol. 7, pág. 399>",
@@ -2799,7 +2799,7 @@
              "nivel": "letra",
              "marcador": "D",
              "title": "O Colapso da União Soviética e do Comunismo",
-             "pagina": 133,
+             "pagina": 132,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 21, pág. 26, l. 13 ~ 27, l. 5 <Zenkou Vol. 10, pág. 156>",
@@ -2861,7 +2861,7 @@
          "nivel": "circulo",
          "marcador": "5",
          "title": "Relacionado à Construção",
-         "pagina": 134,
+         "pagina": 133,
          "children": [
           {
            "id": "c1.i3.2.5.i",
@@ -2869,7 +2869,7 @@
            "nivel": "romano",
            "marcador": "i",
            "title": "A sabedoria surgia naturalmente",
-           "pagina": 134,
+           "pagina": 133,
            "children": [],
            "ensinamento": {
             "fonte": "Kyo 32, pág. 6, l. 5-14 <Zenkou Vol. 12, pág. 241>",
@@ -2898,7 +2898,7 @@
              "nivel": "letra",
              "marcador": "A",
              "title": "Engenharia Civil",
-             "pagina": 135,
+             "pagina": 134,
              "children": [
               {
                "id": "c1.i3.2.5.ii.A.a",
@@ -2906,7 +2906,7 @@
                "nivel": "letra_min",
                "marcador": "a",
                "title": "Mudança do local de construção do Kyusei Kaikan (Salão do Messias)",
-               "pagina": 135,
+               "pagina": 134,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo 8, pág. 85, l. 13 ~ 86, l. 9 <Zenkou Vol. 7, pág. 177>",
@@ -2927,7 +2927,7 @@
                "nivel": "letra_min",
                "marcador": "b",
                "title": "O túnel do Kyusei Kaikan para o Suisho-den (Palácio de Cristal)",
-               "pagina": 137,
+               "pagina": 135,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo 7, pág. 18, l. 16 ~ 19, l. 17 <Zenkou Vol. 7, pág. 22>",
@@ -2948,7 +2948,7 @@
                "nivel": "letra_min",
                "marcador": "c",
                "title": "O caminho do local previsto para o Museu até o Suisho-den",
-               "pagina": 138,
+               "pagina": 137,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo 29, pág. 64, l. 2-14 <Zenkou Vol. 11, pág. 326>",
@@ -2971,7 +2971,7 @@
              "nivel": "letra",
              "marcador": "B",
              "title": "Projeto",
-             "pagina": 140,
+             "pagina": 138,
              "children": [
               {
                "id": "c1.i3.2.5.ii.B.a",
@@ -2979,7 +2979,7 @@
                "nivel": "letra_min",
                "marcador": "a",
                "title": "Ao ir ao local, a imagem flutua",
-               "pagina": 141,
+               "pagina": 138,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo 8, pág. 116, l. 16 ~ 117, l. 8 <Zenkou Vol. 7, pág. 204>",
@@ -3000,7 +3000,7 @@
                "nivel": "letra_min",
                "marcador": "b",
                "title": "Quando chega o tempo, os detalhes do projeto flutuam",
-               "pagina": 142,
+               "pagina": 139,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo 29, pág. 72, l. 1 ~ 73, l. 6 <Zenkou Vol. 11, pág. 333>",
@@ -3021,7 +3021,7 @@
                "nivel": "letra_min",
                "marcador": "c",
                "title": "A precisão do Projeto",
-               "pagina": 144,
+               "pagina": 142,
                "children": [],
                "ensinamento": {
                 "fonte": null,
@@ -3121,7 +3121,7 @@
          "nivel": "circulo",
          "marcador": "8",
          "title": "Sabedoria Divina manifestada na Vida Cotidiana",
-         "pagina": 152,
+         "pagina": 148,
          "children": [
           {
            "id": "c1.i3.2.8.i",
@@ -3129,7 +3129,7 @@
            "nivel": "romano",
            "marcador": "i",
            "title": "Sem hesitação, decisão rápida",
-           "pagina": 152,
+           "pagina": 148,
            "children": [
             {
              "id": "c1.i3.2.8.i.A",
@@ -3137,7 +3137,7 @@
              "nivel": "letra",
              "marcador": "A",
              "title": "Não gosta de conversas prolixas",
-             "pagina": 152,
+             "pagina": 148,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 10, pág. 57, l. 15 ~ 58, l. 3 <Zenkou Vol. 7, pág. 321>",
@@ -3158,7 +3158,7 @@
              "nivel": "letra",
              "marcador": "B",
              "title": "Compras",
-             "pagina": 152,
+             "pagina": 149,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 10, pág. 58, l. 4-8 <Zenkou Vol. 7, pág. 321>",
@@ -3179,7 +3179,7 @@
              "nivel": "letra",
              "marcador": "C",
              "title": "Compra de Obras de Arte",
-             "pagina": 152,
+             "pagina": 149,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 10, pág. 58, l. 8-13 <Zenkou Vol. 7, pág. 322>",
@@ -3200,7 +3200,7 @@
              "nivel": "letra",
              "marcador": "D",
              "title": "Projeto, Paisagismo",
-             "pagina": 152,
+             "pagina": 150,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 10, pág. 58, l. 13 ~ 59, l. 1 <Zenkou Vol. 7, pág. 322>",
@@ -3221,7 +3221,7 @@
              "nivel": "letra",
              "marcador": "E",
              "title": "Supervisão da Construção de Zuiun-kyo",
-             "pagina": 152,
+             "pagina": 150,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 10, pág. 59, l. 1-3 <Zenkou Vol. 7, pág. 322>",
@@ -3244,7 +3244,7 @@
            "nivel": "romano",
            "marcador": "ii",
            "title": "Coleção, Avaliação e Compra de Obras de Arte",
-           "pagina": 152,
+           "pagina": 151,
            "children": [],
            "ensinamento": {
             "fonte": "Kyo 10, pág. 3, l. 17 ~ 5, l. 2 <Zenkou Vol. 7, pág. 273>",
@@ -3375,7 +3375,7 @@
            "nivel": "circulo",
            "marcador": "2",
            "title": "Não há Deus para adorar",
-           "pagina": 160,
+           "pagina": 159,
            "children": [],
            "ensinamento": {
             "fonte": "Kyo 9, pág. 5, l. 14-17 <Zenkou Vol. 7, pág. 216>",
@@ -3424,7 +3424,7 @@
          "nivel": "numero",
          "marcador": "3",
          "title": "Transmitir as palavras com precisão",
-         "pagina": 164,
+         "pagina": 162,
          "children": [],
          "ensinamento": {
           "fonte": "Kyo 13, pág. 8, l. 12 ~ 10, l. 1 <Zenkou Vol. 8, pág. 13>",
@@ -3544,7 +3544,7 @@
          "nivel": "numero",
          "marcador": "7",
          "title": "Exemplo de confusão gerada por transmissão incorreta das palavras",
-         "pagina": 175,
+         "pagina": 171,
          "children": [],
          "ensinamento": {
           "fonte": "Kyo 13, pág. 52, l. 11 ~ 53, l. 12 <Zenkou Vol. 8, pág. 54>",
@@ -3565,7 +3565,7 @@
          "nivel": "numero",
          "marcador": "8",
          "title": "Não há \"lado avesso\" (Ura) nas palavras",
-         "pagina": 175,
+         "pagina": 173,
          "children": [],
          "ensinamento": {
           "fonte": "Kyo 11, pág. 18, l. 14 ~ 19, l. 13 <Zenkou Vol. 7, pág. 346>",
@@ -3612,7 +3612,7 @@
          "nivel": "numero",
          "marcador": "10",
          "title": "Avisou, mas não proibiu",
-         "pagina": 182,
+         "pagina": 178,
          "children": [],
          "ensinamento": {
           "fonte": "Sui 8, pág. 40, l. 10 ~ 41, l. 5 <Zenkou Vol. 6, pág. 83>",
@@ -3633,7 +3633,7 @@
          "nivel": "numero",
          "marcador": "11",
          "title": "O grau de fé é conhecido pelo Coração, Palavras e Ações",
-         "pagina": 182,
+         "pagina": 179,
          "children": [
           {
            "id": "c1.i4.I.11.1",
@@ -3641,7 +3641,7 @@
            "nivel": "circulo",
            "marcador": "1",
            "title": "O grau de despertar é conhecido pelas palavras e ações",
-           "pagina": 182,
+           "pagina": 179,
            "children": [],
            "ensinamento": {
             "fonte": "Sui 24, pág. 21, l. 5-8 <Zenkou Vol. 9, pág. 216>",
@@ -3662,7 +3662,7 @@
            "nivel": "circulo",
            "marcador": "2",
            "title": "Ler com o ventre (Hara)",
-           "pagina": 182,
+           "pagina": 180,
            "children": [],
            "ensinamento": {
             "fonte": "Keigyo 498, col. inf. l. 3 ~ 499, col. sup. l. 6",
@@ -3813,7 +3813,7 @@
            "nivel": "circulo",
            "marcador": "3",
            "title": "Ler os Livros Divinos e polir a sabedoria",
-           "pagina": 190,
+           "pagina": 189,
            "children": [
             {
              "id": "c1.i4.II.1.3.i",
@@ -3821,7 +3821,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "O impasse deve-se à falta de inteligência",
-             "pagina": 190,
+             "pagina": 189,
              "children": [],
              "ensinamento": {
               "fonte": "Shu 89, col. sup. l. 11-19 = Ishi Shu Ge 184, col. inf. l. 11 ~ 185, col. sup. l. 6 <Zencho Vol. 10, pág. 675>",
@@ -3842,7 +3842,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "Conhecer a Lógica (Rikutsu)",
-             "pagina": 191,
+             "pagina": 190,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 26, pág. 23, l. 14 ~ 24, l. 10 <Zenkou Vol. 11, pág. 82>",
@@ -3866,7 +3866,7 @@
            "nivel": "circulo",
            "marcador": "4",
            "title": "Se polir a sabedoria, tudo se resolve facilmente",
-           "pagina": 195,
+           "pagina": 192,
            "children": [],
            "ensinamento": {
             "fonte": "Kyo 29, pág. 4, l. 9 ~ 7, l. 3 <Zenkou Vol. 11, pág. 274>",
@@ -3908,7 +3908,7 @@
            "nivel": "circulo",
            "marcador": "6",
            "title": "Sabedoria da descoberta",
-           "pagina": 198,
+           "pagina": 197,
            "children": [],
            "ensinamento": {
             "fonte": "Sui 17, pág. 2, l. 4 ~ 3, l. 4 <Zenkou Vol. 9, pág. 8>",
@@ -3929,7 +3929,7 @@
            "nivel": "circulo",
            "marcador": "7",
            "title": "Pessoas sem sabedoria são infelizes",
-           "pagina": 200,
+           "pagina": 199,
            "children": [],
            "ensinamento": {
             "fonte": "Kyo 11, pág. 80, l. 6-13 <Zenkou Vol. 7, pág. 399>",
@@ -3950,7 +3950,7 @@
            "nivel": "circulo",
            "marcador": "8",
            "title": "Quem é perseguido pelo trabalho tem cabeça ruim",
-           "pagina": 200,
+           "pagina": 199,
            "children": [],
            "ensinamento": {
             "fonte": "Sui 23, pág. 16, l. 12 ~ 17, l. 2 <Zenkou Vol. 9, pág. 182>",
@@ -3985,7 +3985,7 @@
          "nivel": "numero",
          "marcador": "2",
          "title": "Como receber Sabedoria",
-         "pagina": 201,
+         "pagina": 200,
          "children": [
           {
            "id": "c1.i4.II.2.1",
@@ -3993,7 +3993,7 @@
            "nivel": "circulo",
            "marcador": "1",
            "title": "Esforços elementares",
-           "pagina": 201,
+           "pagina": 200,
            "children": [
             {
              "id": "c1.i4.II.2.1.i",
@@ -4001,7 +4001,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Tirar o veneno da cabeça e corrigir o pensamento",
-             "pagina": 201,
+             "pagina": 200,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 26, pág. 5, l. 10-16, pág. 6, l. 9-16, pág. 7, l. 4-6 <Zenkou Vol. 11, pág. 66>",
@@ -4022,7 +4022,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "Cultivar uma cabeça que perceba o ponto vital das coisas",
-             "pagina": 203,
+             "pagina": 202,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 24, pág. 7, l. 10 ~ 8, l. 3 <Zenkou Vol. 10, pág. 335>",
@@ -4064,7 +4064,7 @@
              "nivel": "romano",
              "marcador": "iv",
              "title": "Deixar nas mãos de Deus e esvaziar a cabeça",
-             "pagina": 209,
+             "pagina": 208,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 4, pág. 59, l. 3 ~ 60, l. 2 <Zenkou Vol. 5, pág. 158>",
@@ -4092,7 +4092,7 @@
            "nivel": "circulo",
            "marcador": "2",
            "title": "A sabedoria é dada por Deus",
-           "pagina": 212,
+           "pagina": 210,
            "children": [
             {
              "id": "c1.i4.II.2.2.i",
@@ -4100,7 +4100,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "A sabedoria é dada por Deus",
-             "pagina": 212,
+             "pagina": 210,
              "children": [],
              "ensinamento": {
               "fonte": "Hikari Ho 114, l. 6-9 <Zenkou Vol. 1, pág. 471>",
@@ -4121,7 +4121,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "Esperar o tempo em que se pode receber a sabedoria",
-             "pagina": 212,
+             "pagina": 210,
              "children": [
               {
                "id": "c1.i4.II.2.2.ii.A",
@@ -4129,7 +4129,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "Se não surgir boa ideia, parar",
-               "pagina": 212,
+               "pagina": 210,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo 15, pág. 12, l. 1-7 <Zenkou Vol. 8, pág. 138>",
@@ -4150,7 +4150,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "Não se deve determinar pelo pensamento humano",
-               "pagina": 212,
+               "pagina": 211,
                "children": [],
                "ensinamento": {
                 "fonte": "Sui 3, pág. 41, l. 13 ~ 42, l. 10 <Zenkou Vol. 4, pág. 220>",
@@ -4173,7 +4173,7 @@
              "nivel": "romano",
              "marcador": "iii",
              "title": "Não pensar demais",
-             "pagina": 212,
+             "pagina": 211,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 15, pág. 5, l. 10 ~ 6, l. 1 <Zenkou Vol. 8, pág. 132>",
@@ -4215,7 +4215,7 @@
              "nivel": "romano",
              "marcador": "v",
              "title": "Quando há algo estranho, pensar \"por quê?\"",
-             "pagina": 214,
+             "pagina": 212,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 26, pág. 8, l. 7-15 <Zenkou Vol. 11, pág. 69>",
@@ -4327,7 +4327,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "Compreender a Verdade",
-               "pagina": 216,
+               "pagina": 215,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo 15, pág. 5, l. 1-10, pág. 6, l. 3-16 <Zenkou Vol. 8, pág. 132>",
@@ -4348,7 +4348,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "Tornar-se desperto divertindo-se",
-               "pagina": 221,
+               "pagina": 217,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo 11, pág. 35, l. 4-13 <Zenkou Vol. 7, pág. 360>",
@@ -4371,7 +4371,7 @@
              "nivel": "romano",
              "marcador": "iv",
              "title": "Prática de Artes Marciais e Artes — E contato com obras excelentes dessas pessoas",
-             "pagina": 223,
+             "pagina": 218,
              "children": [
               {
                "id": "c1.i4.II.2.3.iv.A",
@@ -4379,7 +4379,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "Elevar a alma com coisas boas da arte",
-               "pagina": 223,
+               "pagina": 218,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo 11, pág. 19, l. 14 ~ 20, l. 12, 20, l. 13 ~ 21, l. 2 <Zenkou Vol. 7, pág. 347>",
@@ -4400,7 +4400,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "Se atingir uma arte, o resto também se torna assim",
-               "pagina": 223,
+               "pagina": 220,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo 11, pág. 32, l. 3 ~ 33, l. 6 <Zenkou Vol. 7, pág. 357>",
@@ -4423,7 +4423,7 @@
              "nivel": "romano",
              "marcador": "v",
              "title": "Prática de Kannon (Kannon-gyo)1",
-             "pagina": 223,
+             "pagina": 222,
              "children": [],
              "ensinamento": {
               "fonte": "Ronbetsu pág. 8, col. sup. l. 12-17, col. sup. l. 19 ~ col. inf. l. 6 <Zenkou Vol. 1, pág. 14>",
@@ -4444,7 +4444,7 @@
              "nivel": "romano",
              "marcador": "vi",
              "title": "Atenção e Consideração (Kikubari, Kokorokubari)",
-             "pagina": 224,
+             "pagina": 223,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 23, pág. 17, l. 17 ~ 18, l. 12 <Zenkou Vol. 10, pág. 275>",
@@ -4470,7 +4470,7 @@
              "nivel": "romano",
              "marcador": "vii",
              "title": "(Salvando pessoas) Elevar a Yukon (Alma Oculta)",
-             "pagina": 226,
+             "pagina": 225,
              "children": [
               {
                "id": "c1.i4.II.2.3.vii.A",
@@ -4478,7 +4478,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "Fazer as pessoas felizes",
-               "pagina": 226,
+               "pagina": 225,
                "children": [],
                "ensinamento": {
                 "fonte": "Sui 16, pág. 26, l. 2 ~ 27, l. 4 <Zenkou Vol. 6, pág. 327>",
@@ -4721,7 +4721,7 @@
      "nivel": "item",
      "marcador": "Item 1",
      "title": "A Existência de Deus",
-     "pagina": 239,
+     "pagina": 238,
      "children": [
       {
        "id": "c2.i1.1",
@@ -4729,7 +4729,7 @@
        "nivel": "numero",
        "marcador": "1",
        "title": "Demonstração a partir do Mundo Criado",
-       "pagina": 239,
+       "pagina": 238,
        "children": [
         {
          "id": "c2.i1.1.1",
@@ -4737,7 +4737,7 @@
          "nivel": "circulo",
          "marcador": "1",
          "title": "A vida humana e o movimento do universo",
-         "pagina": 239,
+         "pagina": 238,
          "children": [],
          "ensinamento": {
           "fonte": "Ten Fuku Sho, pág. 39, col. inf. l. 2 ~ 40, col. inf. l. 13, 41, col. inf. l. 2-11 = Ishi Jo Ge 34, col. inf. l. 8 ~ 36, col. sup. l. 8, 36, col. inf. l. 15 ~ 37, col. sup. l. 9 <Zencho Vol. 12, pág. 66>",
@@ -4758,7 +4758,7 @@
          "nivel": "circulo",
          "marcador": "2",
          "title": "O nascimento humano e o equilíbrio numérico entre homens e mulheres",
-         "pagina": 242,
+         "pagina": 241,
          "children": [],
          "ensinamento": {
           "fonte": "Ronbetsu 204, col. sup. l. 12 ~ col. inf. l. 12 <Zencho Vol. 2, pág. 448>",
@@ -4800,7 +4800,7 @@
          "nivel": "circulo",
          "marcador": "4",
          "title": "O nascimento e crescimento humano",
-         "pagina": 246,
+         "pagina": 244,
          "children": [],
          "ensinamento": {
           "fonte": "Shinken pág. 11, l. 12 ~ 12, l. 10 = Ishi Jo Jo 193, col. inf. l. 11 ~ 194, col. inf. l. 1 <Zencho Vol. 8, pág. 75>",
@@ -4823,7 +4823,7 @@
        "nivel": "numero",
        "marcador": "2",
        "title": "Demonstração através de Milagres",
-       "pagina": 246,
+       "pagina": 244,
        "children": [],
        "ensinamento": {
         "fonte": "Ten Fuku Sho pág. 18, col. inf. l. 3 ~ 19, col. sup. l. 1 = Ishi Shu Jo 230, col. sup. l. 13 ~ col. inf. l. 12 <Zencho Vol. 12, pág. 41>",
@@ -4844,7 +4844,7 @@
        "nivel": "numero",
        "marcador": "3",
        "title": "Demonstração através do Johrei",
-       "pagina": 246,
+       "pagina": 245,
        "children": [],
        "ensinamento": {
         "fonte": "Su 14, seção 39, 41-43 <Zencho Vol. 10, pág. 308>",
@@ -4865,7 +4865,7 @@
        "nivel": "numero",
        "marcador": "4",
        "title": "Demonstração através de Acontecimentos Providenciais*1 (e Milagres)",
-       "pagina": 248,
+       "pagina": 247,
        "children": [],
        "ensinamento": {
         "fonte": "Kyo 20, pág. 19, l. 12 ~ 20, l. 1 <Zenkou Vol. 10, pág. 75>",
@@ -4902,7 +4902,7 @@
      "nivel": "item",
      "marcador": "Item 2",
      "title": "O Conceito de Deus",
-     "pagina": 250,
+     "pagina": 249,
      "children": [
       {
        "id": "c2.i2.1",
@@ -4910,7 +4910,7 @@
        "nivel": "numero",
        "marcador": "1",
        "title": "A Raiz da Existência",
-       "pagina": 250,
+       "pagina": 249,
        "children": [
         {
          "id": "c2.i2.1.1",
@@ -5005,7 +5005,7 @@
        "nivel": "numero",
        "marcador": "2",
        "title": "Eternidade *1",
-       "pagina": 254,
+       "pagina": 253,
        "children": [],
        "ensinamento": {
         "fonte": "Kyo 12, pág. 33, l. 10-15 <Zenkou Vol. 7, pág. 442>",
@@ -5026,7 +5026,7 @@
        "nivel": "numero",
        "marcador": "3",
        "title": "Infinito",
-       "pagina": 257,
+       "pagina": 255,
        "children": [
         {
          "id": "c2.i2.3.1",
@@ -5034,7 +5034,7 @@
          "nivel": "circulo",
          "marcador": "1",
          "title": "Força Infinita é a Força de Deus",
-         "pagina": 257,
+         "pagina": 255,
          "children": [],
          "ensinamento": {
           "fonte": "Kyo 26, pág. 80, l. 2-11 <Zenkou Vol. 11, pág. 130>",
@@ -5055,7 +5055,7 @@
          "nivel": "circulo",
          "marcador": "2",
          "title": "O que é a verdadeira força infinita",
-         "pagina": 257,
+         "pagina": 256,
          "children": [],
          "ensinamento": {
           "fonte": "Kyo 27, pág. 6, l. 12 ~ 7, l. 6 <Zenkou Vol. 11, pág. 147>",
@@ -5129,7 +5129,7 @@
          "nivel": "circulo",
          "marcador": "3",
          "title": "Cria e governa o mundo e o ser humano",
-         "pagina": 260,
+         "pagina": 259,
          "children": [],
          "ensinamento": {
           "fonte": "Shu 128, col. sup. l. 4-9 = Ishi Shu Ge 299, col. inf. l. 1-8 <Zencho Vol. 6, pág. 201>",
@@ -5150,7 +5150,7 @@
          "nivel": "circulo",
          "marcador": "4",
          "title": "A manutenção dos corpos celestes, o ser humano e as mudanças das estações",
-         "pagina": 260,
+         "pagina": 259,
          "children": [],
          "ensinamento": {
           "fonte": "Hikari Shin 2, pág. 68, l. 11 ~ 69, l. 3 <Zenkou Vol. 2, pág. 100>",
@@ -5216,7 +5216,7 @@
        "nivel": "parte",
        "marcador": "I",
        "title": "O Saber de Deus",
-       "pagina": 262,
+       "pagina": 261,
        "children": [
         {
          "id": "c2.i3.I.1",
@@ -5253,7 +5253,7 @@
            "nivel": "circulo",
            "marcador": "2",
            "title": "O cenário de Deus criado no Início dos Tempos",
-           "pagina": 265,
+           "pagina": 264,
            "children": [],
            "ensinamento": {
             "fonte": "Ron 2173, col. inf. l. 12-22 = Ishi Shu Jo 283, col. inf. l. 5 ~ 284, col. sup. l. 2 <Zencho Vol. 12, pág. 189>",
@@ -5360,7 +5360,7 @@
              "nivel": "romano",
              "marcador": "iv",
              "title": "A conveniência do transporte também foi bem feita",
-             "pagina": 269,
+             "pagina": 268,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 23, pág. 42, l. 13-17 <Zenkou Vol. 10, pág. 297>",
@@ -5395,7 +5395,7 @@
            "nivel": "circulo",
            "marcador": "2",
            "title": "A Natureza e Cultura de Kyoto",
-           "pagina": 269,
+           "pagina": 268,
            "children": [
             {
              "id": "c2.i3.I.2.2.i",
@@ -5403,7 +5403,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Preparada como centro da arte japonesa",
-             "pagina": 269,
+             "pagina": 268,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 10, pág. 10, l. 12 ~ 11, l. 3 <Zenkou Vol. 7, pág. 279>",
@@ -5424,7 +5424,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "Deus preparou também as condições culturais",
-             "pagina": 269,
+             "pagina": 268,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 15, pág. 45, l. 12 ~ 47, l. 1 <Zenkou Vol. 8, pág. 167>",
@@ -5449,7 +5449,7 @@
          "nivel": "numero",
          "marcador": "3",
          "title": "Criou as \"Leis\" e ordenou o Mundo Criado",
-         "pagina": 269,
+         "pagina": 268,
          "children": [],
          "ensinamento": {
           "fonte": null,
@@ -5470,7 +5470,7 @@
          "nivel": "numero",
          "marcador": "4",
          "title": "Ser Humano, Ambiente e Alimento",
-         "pagina": 270,
+         "pagina": 269,
          "children": [
           {
            "id": "c2.i3.I.4.1",
@@ -5478,7 +5478,7 @@
            "nivel": "circulo",
            "marcador": "1",
            "title": "A Criação do Ser Humano",
-           "pagina": 270,
+           "pagina": 269,
            "children": [],
            "ensinamento": {
             "fonte": "Shinken, pág. 10, l. 3-10 = Ishi Jo Jo 192, col. inf. l. 3 ~ 193, col. sup. l. 5 <Zenkou Vol. 8, pág. 73>",
@@ -5499,7 +5499,7 @@
            "nivel": "circulo",
            "marcador": "2",
            "title": "A Onisciência e a Criação do Corpo Humano*1",
-           "pagina": 271,
+           "pagina": 270,
            "children": [],
            "ensinamento": {
             "fonte": "Shinken, pág. 11, l. 12 ~ 12, l. 10 = Ishi Jo Jo 193, col. inf. l. 11 ~ 194, col. inf. l. 1 <Zencho Vol. 8, pág. 75>",
@@ -5525,7 +5525,7 @@
            "nivel": "circulo",
            "marcador": "3",
            "title": "Ambiente Natural, Alimento, Paladar*1",
-           "pagina": 273,
+           "pagina": 272,
            "children": [],
            "ensinamento": {
             "fonte": "K145, seções 17-25 <Zencho Vol. 10, pág. 187>",
@@ -5569,7 +5569,7 @@
          "nivel": "numero",
          "marcador": "5",
          "title": "O equilíbrio no número de homens e mulheres*, a diversidade das capacidades humanas, a diversidade na criação de plantas e metais",
-         "pagina": 275,
+         "pagina": 274,
          "children": [
           {
            "id": "c2.i3.I.5.1",
@@ -5577,7 +5577,7 @@
            "nivel": "circulo",
            "marcador": "1",
            "title": "A Vontade Divina profunda e sutil",
-           "pagina": 275,
+           "pagina": 274,
            "children": [],
            "ensinamento": {
             "fonte": "Su 4, seções 78-84 <Zencho Vol. 10, pág. 275>",
@@ -5621,7 +5621,7 @@
          "nivel": "numero",
          "marcador": "6",
          "title": "Revelação da verdade no tempo certo",
-         "pagina": 276,
+         "pagina": 277,
          "children": [],
          "ensinamento": {
           "fonte": "S7, seções 28-31 <Zencho Vol. 10, pág. 136>",
@@ -5671,7 +5671,7 @@
            "nivel": "circulo",
            "marcador": "2",
            "title": "Para agarrar a corda da salvação, é preciso purificar-se",
-           "pagina": 280,
+           "pagina": 279,
            "children": [],
            "ensinamento": {
             "fonte": "Chi 3, pág. 11, col. sup. l. 2-9 <Zenkou Vol. 3, pág. 181>",
@@ -5692,7 +5692,7 @@
            "nivel": "circulo",
            "marcador": "3",
            "title": "A purificação é uma provação de Deus?",
-           "pagina": 280,
+           "pagina": 279,
            "children": [],
            "ensinamento": {
             "fonte": "Hikari Shin 1, pág. 78, l. 3-7 <Zenkou Vol. 2, pág. 161>",
@@ -5715,7 +5715,7 @@
          "nivel": "numero",
          "marcador": "8",
          "title": "O Nascimento do Japão como Nação Pacífica",
-         "pagina": 281,
+         "pagina": 280,
          "children": [
           {
            "id": "c2.i3.I.8.1",
@@ -5723,7 +5723,7 @@
            "nivel": "circulo",
            "marcador": "1",
            "title": "O Saber de Deus (Sua Vontade) permitiu que o Japão iniciasse uma guerra para perder",
-           "pagina": 281,
+           "pagina": 280,
            "children": [
             {
              "id": "c2.i3.I.8.1.i",
@@ -5815,7 +5815,7 @@
              "nivel": "romano",
              "marcador": "v",
              "title": "O Significado da Derrota — A União de Vertical e Horizontal e a Liberdade Religiosa",
-             "pagina": 284,
+             "pagina": 283,
              "children": [
               {
                "id": "c2.i3.I.8.1.v.A",
@@ -5823,7 +5823,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "A Liberdade de Expressão foi preparada por Deus",
-               "pagina": 284,
+               "pagina": 283,
                "children": [],
                "ensinamento": {
                 "fonte": "Sui 7, pág. 21, l. 1-2 <Zenkou Vol. 6, pág. 25>",
@@ -5989,7 +5989,7 @@
              "nivel": "romano",
              "marcador": "ii",
              "title": "O japonês e a arte",
-             "pagina": 291,
+             "pagina": 290,
              "children": [],
              "ensinamento": {
               "fonte": "Hikari 13, pág. 16, l. 2-5 <Zenkou Vol. 2, pág. 351>",
@@ -6010,7 +6010,7 @@
              "nivel": "romano",
              "marcador": "iii",
              "title": "Surgirão excelentes cientistas e artistas",
-             "pagina": 291,
+             "pagina": 290,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 27, pág. 16, l. 9 ~ 17, l. 6 <Zenkou Vol. 11, pág. 155>",
@@ -6031,7 +6031,7 @@
              "nivel": "romano",
              "marcador": "iv",
              "title": "A Missão do Japão e a Nossa Igreja",
-             "pagina": 293,
+             "pagina": 291,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 15, pág. 45, l. 4-14 <Zenkou Vol. 8, pág. 167>",
@@ -6052,7 +6052,7 @@
              "nivel": "romano",
              "marcador": "v",
              "title": "A excelência cultural dos japoneses",
-             "pagina": 293,
+             "pagina": 292,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 15, pág. 34, l. 12-16 <Zenkou Vol. 8, pág. 158>",
@@ -6073,7 +6073,7 @@
              "nivel": "romano",
              "marcador": "vi",
              "title": "Artistas excelentes do povo Yamato e seus protetores",
-             "pagina": 296,
+             "pagina": 293,
              "children": [],
              "ensinamento": {
               "fonte": "Shu 425, col. sup. l. 1 ~ 426, col. sup. l. 5 <Zencho Vol. 9, pág. 71>",
@@ -6094,7 +6094,7 @@
              "nivel": "romano",
              "marcador": "vii",
              "title": "A Missão Cultural do Japão*1",
-             "pagina": 297,
+             "pagina": 296,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 16, pág. 18, l. 4 ~ 19, l. 1 <Zenkou Vol. 8, pág. 195>",
@@ -6115,7 +6115,7 @@
              "nivel": "romano",
              "marcador": "viii",
              "title": "A Missão da Igreja Messiânica",
-             "pagina": 299,
+             "pagina": 298,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 33, pág. 32, l. 3-8 <Zenkou Vol. 12, pág. 341> [Versão revisada por gravação*]",
@@ -6136,7 +6136,7 @@
              "nivel": "romano",
              "marcador": "ix",
              "title": "O pensamento messiânico passará a liderar o mundo",
-             "pagina": 299,
+             "pagina": 298,
              "children": [],
              "ensinamento": {
               "fonte": "Kyo 21, pág. 27, l. 10 ~ 28, l. 3 <Zenkou Vol. 10, pág. 156>",
@@ -6190,7 +6190,7 @@
            "nivel": "circulo",
            "marcador": "2",
            "title": "Medicamentos, Má Saúde (Coração Mau) e Civilização Material",
-           "pagina": 302,
+           "pagina": 301,
            "children": [],
            "ensinamento": {
             "fonte": "S5, seções 25-26, 29, 31-33 <Zencho Vol. 10, pág. 129>",
@@ -6213,7 +6213,7 @@
          "nivel": "numero",
          "marcador": "10",
          "title": "Extrair o desenvolvimento da civilização material (Bem) a partir do pensamento ateísta (Mal)",
-         "pagina": 304,
+         "pagina": 302,
          "children": [],
          "ensinamento": {
           "fonte": "Shu 363, col. inf. l. 11-21 = Ishi Shu Jo 65, col. sup. l. 4 ~ col. inf. l. 1 <Zencho Vol. 9, pág. 363>",
@@ -6234,7 +6234,7 @@
          "nivel": "numero",
          "marcador": "11",
          "title": "Extrair a expansão da difusão (Bem) a partir do dano da medicina (Mal)",
-         "pagina": 304,
+         "pagina": 303,
          "children": [
           {
            "id": "c2.i3.I.11.1",
@@ -6242,7 +6242,7 @@
            "nivel": "circulo",
            "marcador": "1",
            "title": "O Bem torna-se Mal, e o Mal torna-se Bem",
-           "pagina": 305,
+           "pagina": 303,
            "children": [],
            "ensinamento": {
             "fonte": "Kyo 32, pág. 14, l. 3-12 <Zenkou Vol. 12, pág. 248>",
@@ -6263,7 +6263,7 @@
            "nivel": "circulo",
            "marcador": "2",
            "title": "Os médicos também existem por necessidade",
-           "pagina": 306,
+           "pagina": 304,
            "children": [],
            "ensinamento": {
             "fonte": "Sui 30, pág. 12, l. 10 ~ 13, l. 5 <Zenkou Vol. 12, pág. 81>",
@@ -6286,7 +6286,7 @@
          "nivel": "numero",
          "marcador": "12",
          "title": "O Saber de Deus controla o progresso da ciência (inteligência humana)*1",
-         "pagina": 308,
+         "pagina": 306,
          "children": [],
          "ensinamento": {
           "fonte": "Kyo 33, pág. 27, l. 3-9 <Zenkou Vol. 12, pág. 337> [Versão revisada por gravação]",
@@ -6307,7 +6307,7 @@
          "nivel": "numero",
          "marcador": "13",
          "title": "O papel da bomba de hidrogênio também está no Saber de Deus",
-         "pagina": 308,
+         "pagina": 307,
          "children": [
           {
            "id": "c2.i3.I.13.1",
@@ -6315,7 +6315,7 @@
            "nivel": "circulo",
            "marcador": "1",
            "title": "Promover o despertar da alma humana",
-           "pagina": 308,
+           "pagina": 307,
            "children": [],
            "ensinamento": {
             "fonte": "Kyo 33, pág. 31, l. 9-10 <Zenkou Vol. 12, pág. 340> [Versão revisada por gravação]",
@@ -6473,7 +6473,7 @@
            "nivel": "circulo",
            "marcador": "3",
            "title": "A existência da medicina e do deus maligno também está sob o Saber de Deus",
-           "pagina": 316,
+           "pagina": 314,
            "children": [],
            "ensinamento": {
             "fonte": "Sui 23, pág. 3, l. 8 ~ 4, l. 7 <Zenkou Vol. 9, pág. 172>",
@@ -6496,7 +6496,7 @@
          "nivel": "numero",
          "marcador": "17",
          "title": "O Saber de Deus que transcende o saber humano ―― Relacionado à difusão",
-         "pagina": 316,
+         "pagina": 315,
          "children": [
           {
            "id": "c2.i3.I.17.1",
@@ -6504,7 +6504,7 @@
            "nivel": "circulo",
            "marcador": "1",
            "title": "Considerar que tudo é feito por Deus",
-           "pagina": 316,
+           "pagina": 315,
            "children": [],
            "ensinamento": {
             "fonte": "Sui 21, pág. 13, l. 5-14, 14, l. 3-13, 18, l. 1-14 <Zenkou Vol. 9, pág. 127>",
@@ -6548,7 +6548,7 @@
          "nivel": "numero",
          "marcador": "18",
          "title": "O Deus Senhor (Seu Saber) atua através de Kannon, Komyo Nyorai e o Messias*1",
-         "pagina": 320,
+         "pagina": 319,
          "children": [],
          "ensinamento": {
           "fonte": "Ten Fukuin, pág. 19, col. sup. l. 12-16 = Ishi Shu Jo 31, col. sup. l. 7-10 <Zencho Vol. 12, pág. 42>",
@@ -6763,7 +6763,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "O que é o Amor de Deus",
-             "pagina": 325,
+             "pagina": 324,
              "children": [
               {
                "id": "c2.i3.II.2.1.i.A",
@@ -6771,7 +6771,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "O Amor de Deus é Amor do Daijō (Daijo-ai)",
-               "pagina": 325,
+               "pagina": 324,
                "children": [],
                "ensinamento": {
                 "fonte": "Shu 49, col. sup. l. 22 ~ col. inf. l. 3 = Ishi Shu Ge 130, col. sup. l. 14 ~ col. inf. l. 2 <Zencho Vol. 9, pág. 580>",
@@ -6792,7 +6792,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "O Amor de Deus é Amor Absoluto",
-               "pagina": 325,
+               "pagina": 324,
                "children": [],
                "ensinamento": {
                 "fonte": "Hikari Shin 1, pág. 52, l. 4-9, 52, l. 11 ~ 53, l. 3 <Zenkou Vol. 1, pág. 340>",
@@ -7019,7 +7019,7 @@
              "nivel": "romano",
              "marcador": "iv",
              "title": "Outros aspectos relacionados à Misericórdia",
-             "pagina": 341,
+             "pagina": 340,
              "children": [
               {
                "id": "c2.i3.II.2.2.iv.A",
@@ -7027,7 +7027,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "O Coração de Grande Misericórdia (Daiji) e o Coração de Grande Piedade",
-               "pagina": 341,
+               "pagina": 340,
                "children": [],
                "ensinamento": {
                 "fonte": null,
@@ -7048,7 +7048,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "Sobre evitar incêndio com Johrei",
-               "pagina": 344,
+               "pagina": 342,
                "children": [],
                "ensinamento": {
                 "fonte": "Hikari 17, pág. 22, l. 8 ~ 23, l. 3 <Zenkou Vol. 2, pág. 511>",
@@ -7069,7 +7069,7 @@
                "nivel": "letra",
                "marcador": "C",
                "title": "Sem força, não se pode fazer praticar a misericórdia",
-               "pagina": 344,
+               "pagina": 343,
                "children": [],
                "ensinamento": {
                 "fonte": "Ron 4, col. inf. l. 9 ~ 5, col. sup. l. 1 <Zenkou Vol. 1, pág. 30>",
@@ -7092,7 +7092,7 @@
              "nivel": "romano",
              "marcador": "v",
              "title": "A fé deve elevar-se gradualmente",
-             "pagina": 345,
+             "pagina": 344,
              "children": [
               {
                "id": "c2.i3.II.2.2.v.A",
@@ -7100,7 +7100,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "Não se deve permanecer numa fé que não condiz com a lógica",
-               "pagina": 345,
+               "pagina": 344,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo 29, pág. 5, l. 15 ~ 6, l. 7 <Zenkou Vol. 11, pág. 275>",
@@ -7121,7 +7121,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "Se ficar enrolando, ocorre a re-purificação",
-               "pagina": 346,
+               "pagina": 345,
                "children": [],
                "ensinamento": {
                 "fonte": "Sui 23, pág. 28, l. 8 ~ 29, l. 6 <Zenkou Vol. 9, pág. 194>",
@@ -7146,7 +7146,7 @@
            "nivel": "circulo",
            "marcador": "3",
            "title": "Justiça... Manifestação concreta externa",
-           "pagina": 349,
+           "pagina": 346,
            "children": [
             {
              "id": "c2.i3.II.2.3.i",
@@ -7154,7 +7154,7 @@
              "nivel": "romano",
              "marcador": "i",
              "title": "Ensinamentos Básicos",
-             "pagina": 349,
+             "pagina": 347,
              "children": [
               {
                "id": "c2.i3.II.2.3.i.A",
@@ -7162,7 +7162,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "Seguir o exemplo de Meishu-Sama e Cristo",
-               "pagina": 349,
+               "pagina": 347,
                "children": [],
                "ensinamento": {
                 "fonte": "Sui 14, pág. 11, l. 4 ~ 12, l. 14 <Zenkou Vol. 6, pág. 271>",
@@ -7183,7 +7183,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "Seguir o exemplo de Meishu-Sama",
-               "pagina": 350,
+               "pagina": 349,
                "children": [
                 {
                  "id": "c2.i3.II.2.3.i.B.b",
@@ -7925,7 +7925,7 @@
                "nivel": "letra",
                "marcador": "A",
                "title": "Guerras Sino-Japonesa, Russo-Japonesa, Guerra do Pacífico e Conflito na Península Coreana",
-               "pagina": 395,
+               "pagina": 394,
                "children": [],
                "ensinamento": {
                 "fonte": "Kyo 26, pág. 7, l. 1-13 <Zenkou Vol. 11, pág. 68>",
@@ -7946,7 +7946,7 @@
                "nivel": "letra",
                "marcador": "B",
                "title": "Lição da Derrota",
-               "pagina": 396,
+               "pagina": 395,
                "children": [],
                "ensinamento": {
                 "fonte": null,
@@ -7967,7 +7967,7 @@
                "nivel": "letra",
                "marcador": "C",
                "title": "O Futuro do Comunismo*1",
-               "pagina": 397,
+               "pagina": 398,
                "children": [],
                "ensinamento": {
                 "fonte": null,
@@ -8521,7 +8521,7 @@
            "nivel": "circulo",
            "marcador": "3",
            "title": "Salvar de forma paradisíaca pelo Poder — Salvação pelo \"Poder de Deus\"*1",
-           "pagina": 436,
+           "pagina": 437,
            "children": [],
            "ensinamento": {
             "fonte": "Kyo, nº 23, pág. 40, linha 10 - pág. 41, linha 1 <Zenko, Vol. 10, pág. 295>",
@@ -8542,7 +8542,7 @@
            "nivel": "circulo",
            "marcador": "4",
            "title": "Johrei como graça para salvar os ateus",
-           "pagina": 437,
+           "pagina": 438,
            "children": [],
            "ensinamento": {
             "fonte": "Su 14, seções 37-42 <Zenshu, Vol. 10, pág. 308>",
@@ -8563,7 +8563,7 @@
            "nivel": "circulo",
            "marcador": "5",
            "title": "Apenas os milagres quebram o pensamento ateísta da classe dirigente",
-           "pagina": 437,
+           "pagina": 438,
            "children": [],
            "ensinamento": {
             "fonte": "Tenfuku-sho, pág. 15, parte inferior, linha 8 a pág. 16, parte superior, linha 4 = So-shu Inferior, pág. 93, parte inferior, linha 14 a pág. 94, parte superior, linha 11 <Zenshu, Vol. 12, pág. 38>",
@@ -8584,7 +8584,7 @@
            "nivel": "circulo",
            "marcador": "6",
            "title": "Dar a conhecer a existência e a atuação do espírito através de milagres (A Grande Transição da Civilização) *1",
-           "pagina": 439,
+           "pagina": 440,
            "children": [],
            "ensinamento": {
             "fonte": "Kyo, nº 20, pág. 45, linha 8 - pág. 46, linha 16 <Zenko, Vol. 10, pág. 97>",
@@ -10831,7 +10831,7 @@
                  "nivel": "letra_min",
                  "marcador": "b",
                  "title": "O poder de resolver a doença (病を解決する力)",
-                 "pagina": null,
+                 "pagina": 516,
                  "children": [],
                  "ensinamento": {
                   "fonte": "Shū・Pág. 176, Coluna superior, linhas 10 a 17 <Obras Completas・Vol. 9, Pág. 448>",

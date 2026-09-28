@@ -7,7 +7,7 @@
   /* ================= TOKENS — claro ("papel") é o padrão; body.dark = escuro ================= */
   :root{
     --bg:#faf7f0; --side:#f3eee3; --panel:#fffdf8; --card:#fffdf8; --line:#e5ddcc; --line2:#d8ceb9;
-    --fg:#2a2520; --fg2:#4d453c; --mut:#8a7f70; --acc:#9c6b28; --acc-soft:#f2e6cc; --link:#8a4a1f;
+    --fg:#2a2520; --fg2:#4d453c; --mut:#8a7f70; --src:#6b6153; --acc:#9c6b28; --acc-soft:#f2e6cc; --link:#8a4a1f;
     --sel:#ecdfc2; --hover:#ece5d6; --mark:#f6dc8a; --mark-fg:inherit;
     --exp-bg:#f5f0e4; --exp-bd:#c9a66a; --pre-bg:#f1ede5; --pre-bd:#ddd5c5; --res-bg:#f3eff7; --res-bd:#cbbfe0;
     --pop-bg:#fffdf8; --pop-fg:#2a2520; --shadow:0 1px 2px rgba(60,45,20,.06),0 10px 28px rgba(60,45,20,.12);
@@ -17,7 +17,7 @@
   }
   body.dark{
     --bg:#16171a; --side:#1b1c20; --panel:#1f2125; --card:#202226; --line:#2d3036; --line2:#3a3d44;
-    --fg:#e8e3da; --fg2:#c8c1b5; --mut:#948b7e; --acc:#d7aa5f; --acc-soft:#3a2f1d; --link:#e3b56e;
+    --fg:#e8e3da; --fg2:#c8c1b5; --mut:#948b7e; --src:#aba294; --acc:#d7aa5f; --acc-soft:#3a2f1d; --link:#e3b56e;
     --sel:#2f2a21; --hover:#25272c; --mark:#6d561c; --mark-fg:#fff3cf;
     --exp-bg:#1e2124; --exp-bd:#8d6f3b; --pre-bg:#1c1e22; --pre-bd:#30333a; --res-bg:#211f28; --res-bd:#443c58;
     --pop-bg:#26282d; --pop-fg:#ece7de; --shadow:0 1px 2px rgba(0,0,0,.3),0 12px 32px rgba(0,0,0,.45);
@@ -91,10 +91,10 @@
   .pg-sub:first-of-type{border-top:none;padding-top:0;margin-top:8px}
   h3.pg-sub,h4.pg-sub,h5.pg-sub{font-size:18px}
   .pg-sub .pg-mk{font-variant-numeric:tabular-nums;margin-right:6px;color:var(--acc)}
-  .ens-fonte{color:var(--mut);font-size:12.5px;line-height:1.55;margin:4px 0 18px}
+  .ens-fonte{color:var(--src);font-size:13.5px;line-height:1.55;margin:4px 0 18px}
   .ens-fonte .lbl{font-size:10.5px;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--acc);margin-right:6px}
   .ens-texto{font:18px/1.85 var(--serif);color:var(--fg);hyphens:auto;-webkit-hyphens:auto}
-  .ens-data{color:var(--mut);font:italic 14px/1.5 var(--serif);text-align:right;margin:12px 0 8px}
+  .ens-data{color:var(--src);font:italic 14.5px/1.5 var(--serif);text-align:right;margin:12px 0 8px}
   details.ens-pre,details.ens-exp,details.ens-resumo,details.ens-anexo{margin:18px 0;border-radius:10px;overflow:hidden}
   details.ens-pre{background:var(--pre-bg);border:1px solid var(--pre-bd)}
   details.ens-exp{background:var(--exp-bg);border:1px solid var(--line);border-left:3px solid var(--exp-bd)}
@@ -112,7 +112,7 @@
   .ens-anexo .ax-sub{font:600 16.5px/1.4 var(--serif);margin:20px 0 4px;color:var(--fg);padding-bottom:3px;border-bottom:1px solid var(--line)}
   .ens-anexo .ax-sub:first-child{margin-top:4px}
   .ens-anexo .ax-salmo-h{color:var(--acc)}
-  .ens-anexo .ax-fonte{color:var(--mut);font:12px/1.5 var(--sans);margin:2px 0 8px}
+  .ens-anexo .ax-fonte{color:var(--src);font:13px/1.5 var(--sans);margin:2px 0 8px}
   details.ax-pre{margin:8px 0 12px;border-radius:8px;background:var(--pre-bg);border:1px solid var(--pre-bd)}
   details.ax-pre>summary{padding:7px 13px;font-size:11px}
   .ax-pre-body{padding:0 14px 10px}
@@ -264,9 +264,9 @@
   body.margin-on .layout{justify-content:flex-start;padding-left:max(0px, calc((100% - 720px - 330px) / 2))}
   body.margin-on #detail .ens-notas{display:none}
   .mnotes{position:absolute;top:0;left:calc(100% + 40px);width:280px}
-  .mn{position:absolute;left:0;right:0;display:flex;gap:8px;font:13px/1.55 var(--sans);color:var(--fg2);padding:5px 10px 7px 10px;border-left:2px solid var(--line2);cursor:pointer;transition:background .12s,border-color .12s}
+  .mn{position:absolute;left:0;right:0;display:flex;gap:9px;font:14px/1.6 var(--sans);color:var(--fg2);padding:6px 10px 8px 10px;border-left:2px solid var(--line2);cursor:pointer;transition:background .12s,border-color .12s}
   .mn:hover,.mn.hl{border-left-color:var(--acc);background:var(--acc-soft);color:var(--fg)}
-  .mn-n{flex:none;display:inline-flex;align-items:center;justify-content:center;min-width:18px;height:18px;border-radius:9px;background:var(--acc);color:var(--bg);font:700 11px/1 var(--sans);margin-top:1px}
+  .mn-n{flex:none;display:inline-flex;align-items:center;justify-content:center;min-width:18px;height:18px;border-radius:9px;background:var(--acc);color:var(--bg);font:700 11px/1 var(--sans);margin-top:2px}
   .mn-t{min-width:0}
   #detail sup.fn.hl{outline:2px solid var(--acc);outline-offset:1px}
   @media print{ #panes,.mnotes{display:none!important} body.margin-on #detail .ens-notas{display:block!important} }

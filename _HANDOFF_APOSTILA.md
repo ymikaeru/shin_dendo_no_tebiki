@@ -115,3 +115,10 @@ Hoje a maioria dos ensinamentos mostra marcadores crus `*1 *2`; só o piloto C1_
 
 ---
 *Fim do handoff. Estado completo nas memórias do projeto.*
+
+### Piloto Fase B — C1_Item02 (28/09/2026)
+- Fila ganhou a forma **solto** (`\*` sem número, n=0; `BARE_MK` em `_notes_review.py`): +180 vagas no livro (835 no total).
+- **56 propostas** gravadas como `pendente` (origem `_ForSite (PT da casa)`, texto SEM repetir a âncora, trecho = frase que a nota explica). Ensaio em memória antes: 56/56 aplicáveis, prosa intacta (só saem os dígitos de marcador colado).
+- Confiança <90% (revisar com o livro): p0030 (marcador deslocado → "é óbvia"), p0038/p0039 (notas 3 e 4 quase iguais; ⑭ em vez do ⑪ do OCR), p0041 (nota 5 → "não a informou"), p0664 (pág. 41, não 411), p0669 (Cap. 2, não Cap. 1), p0046 (Item 3), p0013 (grifo parcial).
+- 3 notas do livro SEM marcador no .md (não entram na fila; adicionar com ➕ no /nav): "Plano Divino (Keirin)" (intro do Item 2), título "1. A aproximação do Paraíso Terrestre…", "abertura da Porta de Rocha" (L156).
+- Receita p/ os próximos itens: ler blocos `[Notas]` do _ForSite + 註 do OCR JP do item → mapear âncora→vaga → ensaio (place em memória + trava de prosa) → gravar pendentes → usuário aprova no painel.

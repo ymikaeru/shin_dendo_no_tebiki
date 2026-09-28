@@ -1235,9 +1235,9 @@ function rvRender(msg,cls){
   const ro=p.status==='aprovada';
   h+=`<div class="rv-nav"><button id="rvPrev">◀</button><span>${RV.i+1} de ${L.length}</span><button id="rvNext">▶</button></div>
   <div class="rv-card">
-   <div class="rv-h"><b>nota *${p.n}</b><span class="rv-tag st-${p.status}">${RV_ST[p.status]||p.status}</span>${p.origem?`<span class="rv-tag">${esc(p.origem)}</span>`:''}<span class="rv-tag">${p.id}</span></div>
+   <div class="rv-h"><b>nota ${p.n?'*'+p.n:'* (sem número)'}</b><span class="rv-tag st-${p.status}">${RV_ST[p.status]||p.status}</span>${p.origem?`<span class="rv-tag">${esc(p.origem)}</span>`:''}<span class="rv-tag">${p.id}</span></div>
    <a class="rv-node" id="rvGo">${esc(nodeLbl)}</a>
-   <div class="rv-ctx">…${esc(p.ctx.slice(-110))}<b>*${p.n}</b>${esc(p.ctx_after||'')}…</div>
+   <div class="rv-ctx">…${esc(p.ctx.slice(-110))}<b>*${p.n||''}</b>${esc(p.ctx_after||'')}…</div>
    <label>Trecho grifado (a frase que a nota explica)</label>
    <div class="rv-trow"><input id="rvTrecho" value="${esc(p.trecho||'').replace(/"/g,'&quot;')}" ${ro?'disabled':''}><button class="b-sel" id="rvSel" title="usar o texto selecionado no painel (M)">🖊 seleção</button></div>
    <label>Texto da nota</label>

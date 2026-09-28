@@ -23,16 +23,18 @@ QUEUE = os.path.join(ROOT, '_notes_proposals.json')
 BACKUP_DIR = os.path.join(ROOT, '_backup_editor')
 MD_GLOB_RE = re.compile(r'^ShinDendo_C(\d)_Item(\d+)\.md$')
 
-# marcador cru de OCR, 2 formas:
+# marcador cru de OCR, 3 formas:
 #   asterisco:  \*3  ou  *3        (não pega ênfase *itálico*, nem **negrito**)
 #   colado:     boca2.  Isso6 é  "Mal"3   (dígito grudado na palavra, sem asterisco)
+#   solto:      \*                 (asterisco ESCAPADO sem número: ensinamento com uma nota só — n=0)
 RAW_MK = re.compile(r'(?<![\*\\])(\\?\*)(\d{1,2})(?![\d\*])')
 GLUED_MK = re.compile(r'(?:(?<=[a-zà-ÿ]{2})|(?<=[a-zà-ÿ][)"”»]))()(\d{1,2})(?![\d\*])(?=[\s.,;:!?)"”»\]\\]|$)')
+BARE_MK = re.compile(r'(?<![\*\\])(\\\*)()(?![\d\*\\])')
 
 
 def iter_markers(text):
-    """-> matches dos marcadores crus (as 2 formas), em ordem de posição."""
-    ms = list(RAW_MK.finditer(text)) + list(GLUED_MK.finditer(text))
+    """-> matches dos marcadores crus (as 3 formas), em ordem de posição."""
+    ms = list(RAW_MK.finditer(text)) + list(GLUED_MK.finditer(text)) + list(BARE_MK.finditer(text))
     return sorted(ms, key=lambda m: m.start())
 STATUSES = ('pendente', 'sem-fonte', 'aprovada', 'rejeitada', 'descartada')
 
@@ -159,8 +161,8 @@ def scan_markers(root=ROOT):
                 if not clean(before):           # marcador no início da linha (ex.: lista) — ignora
                     continue
                 items.append({
-                    'file': fn, 'node': nodes[li], 'n': int(m.group(2)), 'line': li + 1,
-                    'forma': 'asterisco' if m.group(1) else 'colado',
+                    'file': fn, 'node': nodes[li], 'n': int(m.group(2) or 0), 'line': li + 1,
+                    'forma': ('asterisco' if m.group(2) else 'solto') if m.group(1) else 'colado',
                     'heading': ln.lstrip().startswith('#'),
                     'ctx': clean(before)[-80:],
                     'ctx_after': clean(ln[m.end():])[:40],
@@ -245,7 +247,7 @@ def find_marker(md, p):
     want = fold(p['ctx'])[-60:]
     best, best_sc = None, 0.0
     for m in iter_markers(md):
-        if int(m.group(2)) != p['n']:
+        if int(m.group(2) or 0) != p['n']:
             continue
         ls = md.rfind('\n', 0, m.start()) + 1
         got = fold(clean(md[max(ls, m.start() - 400):m.start()]))[-60:]

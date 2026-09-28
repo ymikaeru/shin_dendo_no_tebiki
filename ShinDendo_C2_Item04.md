@@ -695,8 +695,10 @@ Conforme exposto acima, os diversos males que existiam como necessários para o 
 
 (Shū・Pág. 379, Coluna inferior, linha 21 ～ Pág. 380, Coluna superior, linha 5 ＝ Ishizue Shū Jō・Pág. 122, Coluna inferior, linha 16 ～ Pág. 123, Coluna superior, linha 8 \<Obras Completas・Vol. 9, Pág. 358\>) 
 
+Texto omitido: Consultar Capítulo 2, Seção 3, Item 2, A Vontade de Deus, 2 \- A manifestação exterior da Vontade de Deus, ① Amor iiC (Pág. 331 deste livro).
 
-###### *b O poder de resolver a doença (病を解決する力) (Shū・Pág. 176, Coluna superior, linhas 10 a 17 \<Obras Completas・Vol. 9, Pág. 448\>) Texto omitido: Consultar Capítulo 2, Seção 3, Item 2, A Vontade de Deus, 2 \- A manifestação exterior da Vontade de Deus, ① Amor iiC (Pág. 331 deste livro).*
+
+###### *b O poder de resolver a doença (病を解決する力) (Shū・Pág. 176, Coluna superior, linhas 10 a 17 \<Obras Completas・Vol. 9, Pág. 448\>)*
 
 A este respeito, devo escrever sobre mim. Primordialmente, eu sou alguém a quem foi incumbida a grande missão de líder sob a Providência do Deus Supremo para salvar toda a humanidade e construir o Paraíso Terrestre de absoluta inexistência de doença, pobreza e conflito por ocasião do fim do mundo.
 

@@ -225,6 +225,13 @@
   /* subparte numerada dentro do ensinamento: 1, 2, 3 */
   .ens-part .pt-n{display:inline-flex;align-items:center;justify-content:center;min-width:18px;height:18px;padding:0 4px;margin-right:8px;border-radius:4px;background:var(--acc-soft);color:var(--acc);font:700 11px/1 var(--sans);vertical-align:1px}
   @media (max-width: 820px){ .grp-body,.grp-body .grp-body .grp-body{padding-left:9px} }
+  /* ===== "Texto omitido" ligado ao original ===== */
+  .omit-show{display:block;margin:8px 0 0;padding:0;background:none;border:0;cursor:pointer;color:var(--acc);font:600 13px/1.4 var(--sans);text-align:left}
+  .omit-show:hover{text-decoration:underline}
+  .omit-show .os-t{font-weight:500;color:var(--fg2)}
+  .omit-in{margin:10px 0 2px;padding:4px 16px 8px;background:var(--bg);border:1px solid var(--line);border-radius:8px}
+  .omit-in .omit-src{font:12px var(--sans);color:var(--mut);margin:8px 0 4px}
+  .omit-in .ens-texto{font-size:17px}
   /* ===== DESKTOP: painéis lado a lado ===== */
   #panes{display:flex;flex:none;height:100%;overflow-x:auto;border-left:1px solid var(--line2);background:var(--side)}
   .pane{width:480px;flex:none;display:flex;flex-direction:column;min-height:0;background:var(--bg);border-right:1px solid var(--line);animation:paneIn .18s ease-out}
@@ -782,7 +789,9 @@ function renderEnsinamento(e){
     // salmo: cada linha vira verso/data/fonte (renderAnexoBody, salmoDefault=true).
     // wrapper .ens-anexo reaproveita estilos ax-*, hover e o menu de tag do anexo.
     if(e.tipo==='salmo') h+=`<div class="ens-anexo ens-salmo-main">${renderAnexoBody(e.texto,e.notas,true)}</div>`;
-    else if(/^\s*Texto omitido/i.test(e.texto)) h+=`<div class="ens-omit"><span class="om-l">Texto não repetido aqui</span>${renderNotas(e.texto.replace(/^\s*Texto omitido\.?\s*/i,''),e.notas)}</div>`;
+    else if(/^\s*Texto omitido/i.test(e.texto)){ const t=omitTarget(e);
+      h+=`<div class="ens-omit"><span class="om-l">Texto não repetido aqui</span>${renderNotas(e.texto.replace(/^\s*Texto omitido[.:]?\s*/i,''),e.notas)}`+
+        (t?`<button class="omit-show" type="button" data-t="${t.id}"><span class="os-i">▸</span> mostrar o texto aqui <span class="os-t">— ${esc(mkSelo(t)+' '+cleanTitle(t.title))}</span></button><div class="omit-in" hidden></div>`:'')+`</div>`; }
     else h+=`<div class="ens-texto">${renderNotas(e.texto,e.notas)}</div>`;
   }
   if(e.data) h+=`<div class="ens-data">${esc(e.data)}</div>`;
@@ -832,7 +841,8 @@ function countTeach(n){ return (n.children||[]).reduce((k,c)=>k+(c.ensinamento?1
 // 1ª frase do ensinamento (visão geral): o suficiente para saber do que trata
 function prevLine(e){
   let t=plain(e.texto||'').replace(/\*\*/g,'').replace(/\s+/g,' ').trim();
-  if(/^Texto omitido/i.test(t)){ const m=[...t.matchAll(PG_RE)][0]; return 'Texto não repetido aqui'+(m?' — está na pág. '+(m[1]||m[2]):''); }
+  if(/^Texto omitido/i.test(t)){ const o=omitTarget(e); if(o) return '↪ '+prevLine(o.ensinamento);
+    const m=[...t.matchAll(PG_RE)][0]; return 'Texto não repetido aqui'+(m?' — está na pág. '+(m[1]||m[2]):''); }
   if(!t) t=plain(e.preambulo||e.explicacao||'').replace(/\s+/g,' ').trim();
   const m=t.match(/^(.{40,190}?[.!?。])(\s|$)/);
   if(m) return m[1];
@@ -1531,6 +1541,34 @@ document.addEventListener('click',e=>{ const mn=e.target.closest && e.target.clo
   const c=document.querySelector('#detail sup.fn[data-mi="'+mn.dataset.mi+'"]'); if(c) c.scrollIntoView({block:'center',behavior:'smooth'}); });
 window.addEventListener('resize',()=>{ clearTimeout(window._dkT); window._dkT=setTimeout(()=>{ if(PANES.length) renderPanes(); else layoutMargin(); },150); });
 if(document.fonts && document.fonts.ready) document.fonts.ready.then(()=>layoutMargin());
+
+// ===== "TEXTO OMITIDO" LIGADO AO ORIGINAL =====
+// O livro não repete o texto ("vide pág. N"); o site acha o original: ensinamento com texto a ±2 páginas
+// da remissão cuja FONTE tem os mesmos números (obra/pág./linhas/volume). Sem candidato claro → só o link.
+const _omitCache=new WeakMap();
+function nodePage(x){ while(x && !x.pagina) x=x._p; return x?x.pagina:null; }
+function fonteScore(a,b){ const A=(a||'').match(/\d+/g)||[], B=(b||'').match(/\d+/g)||[]; if(!A.length||!B.length) return 0;
+  const c={}; A.forEach(x=>c[x]=(c[x]||0)+1); let k=0; B.forEach(x=>{ if(c[x]>0){ k++; c[x]--; } }); return k/Math.min(A.length,B.length); }
+function omitTarget(e){
+  if(_omitCache.has(e)) return _omitCache.get(e);
+  let res=null; const m=[...plain(e.texto||'').matchAll(PG_RE)][0], pg=m?+(m[1]||m[2]):null;
+  if(pg){
+    const sc=flat.filter(x=>x.ensinamento && x.ensinamento!==e && (x.ensinamento.texto||'').trim() && !/^\s*Texto omitido/i.test(x.ensinamento.texto))
+      .map(x=>[x,nodePage(x)]).filter(([x,p])=>p && p>=pg-1 && p<=pg+2)
+      .map(([x])=>[fonteScore(e.fonte,x.ensinamento.fonte),x]).sort((a,b)=>b[0]-a[0]);
+    if(sc.length && sc[0][0]>=0.6 && (sc.length===1 || sc[0][0]-sc[1][0]>=0.15)) res=sc[0][1];
+  }
+  _omitCache.set(e,res); return res;
+}
+document.addEventListener('click',e=>{ const b=e.target.closest && e.target.closest('.omit-show'); if(!b) return;
+  const box=b.parentNode.querySelector('.omit-in'), t=flat.find(x=>x.id===b.dataset.t); if(!box||!t) return;
+  if(box.hidden){
+    if(!box.innerHTML) box.innerHTML=`<div class="omit-src">Texto de <a class="xref" href="#${t.id}">${esc(shortPath(t._p||t))} › ${esc(mkSelo(t)+' '+cleanTitle(t.title))}</a>${nodePage(t)?' · pág. '+nodePage(t):''}</div>`+
+      renderEnsinamento(Object.assign({}, t.ensinamento, {fonte:null}));
+    box.hidden=false; b.classList.add('on'); b.querySelector('.os-i').textContent='▾'; b.firstChild.nextSibling.textContent=' esconder o texto ';
+  } else { box.hidden=true; b.classList.remove('on'); b.querySelector('.os-i').textContent='▸'; b.firstChild.nextSibling.textContent=' mostrar o texto aqui '; }
+  if(typeof layoutMargin==='function') layoutMargin();
+});
 // ===== VISÃO GERAL ↔ LER TUDO + grupos que dobram =====
 let VIEW='read'; try{ VIEW=localStorage.getItem('nav-view')||'read'; }catch(_){ }
 function applyView(){ document.body.classList.toggle('overview', VIEW==='ov');

@@ -42,7 +42,8 @@ def classify(raw, fhp):
     low = tok.lower()
     if tok in ROMAN_UP and fhp: return ('Parte',tok,rest)
     if len(tok)>1 and tok in ROMAN_UP: return ('Parte',tok,rest)
-    if low in ROMAN_LO and (len(low)>1 or low in ('i','v','x')): return ('romano',low,rest)
+    # romano de uma letra só em MINÚSCULA (i. v. x.); "I." maiúsculo sem Parte no arquivo é a 9ª Letra (…H, I, J)
+    if low in ROMAN_LO and (len(low)>1 or tok in ('i','v','x')): return ('romano',low,rest)
     if len(tok)==1: return ('Letra' if tok.isupper() else 'letra', tok, rest)
     return (None,None,t)
 

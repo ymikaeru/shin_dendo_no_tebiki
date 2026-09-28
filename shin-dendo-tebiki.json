@@ -2325,17 +2325,33 @@
                }
               }
              ]
-            }
-           ]
-          },
-          {
-           "id": "c1.i3.2.3.i",
-           "level": 5,
-           "nivel": "romano",
-           "marcador": "i",
-           "title": "A Medicina desviou-se do domínio da Ciência",
-           "pagina": 107,
-           "children": [
+            },
+            {
+             "id": "c1.i3.2.3.i.I",
+             "level": 6,
+             "nivel": "letra",
+             "marcador": "I",
+             "title": "A Medicina desviou-se do domínio da Ciência",
+             "pagina": 107,
+             "children": [],
+             "ensinamento": {
+              "fonte": "Kyo 26, pág. 1, l. 6 ~ 3, l. 5 <Zenkou Vol. 11, pág. 63>",
+              "preambulo": null,
+              "texto": "(Ensinamento após a leitura do Artigo \"Feudalismo Médico\"*1 <Ei 277>)\n\nEste é um item do \"Livro da Revolução Médica\". Como acabamos de ler, a medicina é uma parte da civilização. O erro está em ter pensado que ela é o todo. Pensando que é o todo do progresso da civilização, na verdade, fechou-se num castelo parcial e tenta controlar o ser humano que não está dentro desse castelo*2; aí reside um grande erro. Todas as coisas estão abaixo da linha do horizonte, por isso podem ser controladas de qualquer maneira. O ser humano é a linha do horizonte; portanto, o que deve salvar o ser humano está acima da linha do horizonte. Ou seja, se a linha do horizonte for o ser humano, quanto mais para baixo, mais se torna animal, e quanto mais para cima, mais próximo de Deus. Enfim, o supremo é Deus, e o ser humano está entre Deus e o animal. Então, para salvar o ser humano, é preciso ser uma existência superior ao humano; não há qualificação para salvar o humano sem isso. E a medicina atual tenta aplicar a salvação de animais ao ser humano. A medicina testa em macacos, cobaias, coelhos e ratos, e aplica isso diretamente ao ser humano; ou seja, se o ser humano está na linha do horizonte, abaixo dele são animais, então é natural usar animais como material, mas trazer isso para curar doenças humanas é um erro total de alvo. É esse o significado do que lemos agora.\n\nPortanto, por mais que a medicina se esforce, se esforçar num erro total de alvo não pode curar3. Então, por que faziam tal tolice até agora? É porque não viam o que estava acima da linha do horizonte. Ou melhor, na verdade, não lhes foi mostrado4. Realmente, Deus5 também é \"malvado\". Mas, se mostrasse, seria inconveniente para o lado de Deus. O ser humano, para desenvolver a cultura material, tem uma força espiritual muito mais forte para progredir a matéria se não lhe for mostrada a coisa suprema como Deus; por isso Deus escolheu esse meio. No entanto, Deus, Buda e as religiões apareceram, mas se mostrasse algo muito elevado, o progresso material tenderia a ser formal; por isso, ocultou o Deus Supremo6 até o fim, e mostrou os de segunda e terceira classe, dizendo que estes eram Deus, e a partir disso nasceram as religiões; falando mal, o ser humano foi enganado por Deus. Mas isso não tinha jeito; se não fosse assim, a cultura material não teria se desenvolvido até aqui. Portanto, é um truque maravilhoso. E a visão de Deus, o conceito de Deus que a humanidade tinha até agora também estava errado. Cristo, Buda ou Maomé, certamente eram grandes, mas eram de posições de segunda ou terceira classe, por isso o verdadeiro ficou vago, não estava claro. Apenas estava bem assim. Por isso eu digo que a religião não pode salvar; se a religião pudesse salvar, já teria se tornado o Paraíso. O fato de haver tantas religiões e o mundo continuar um inferno significa que as religiões de até agora não puderam salvar. Se não for uma ultra-religião, não pode salvar. Por isso a Igreja Messiânica é uma ultra-religião, e foi criada pela primeira vez agora.",
+              "posfacio": null,
+              "data": "5 de setembro de 1953",
+              "explicacao": null,
+              "resumo": null,
+              "referencias": [],
+              "notas": [],
+              "anexo": [
+               {
+                "titulo": "Anexo referente a I",
+                "texto": "Salmo (御詠 - Gyoei)\nA tolice de depender da arte médica criada pelo homem,\nPara a vida concedida pelo Grande Deus.\n(25 de junho de 1952)\n(Ei 162, No. 1 = Coletânea de Salmos de Mokiti Okada [Vol. 6], pág. 22, No. 1)"
+               }
+              ]
+             }
+            },
             {
              "id": "c1.i3.2.3.i.J",
              "level": 6,
@@ -2388,24 +2404,7 @@
               ]
              }
             }
-           ],
-           "ensinamento": {
-            "fonte": "Kyo 26, pág. 1, l. 6 ~ 3, l. 5 <Zenkou Vol. 11, pág. 63>",
-            "preambulo": null,
-            "texto": "(Ensinamento após a leitura do Artigo \"Feudalismo Médico\"*1 <Ei 277>)\n\nEste é um item do \"Livro da Revolução Médica\". Como acabamos de ler, a medicina é uma parte da civilização. O erro está em ter pensado que ela é o todo. Pensando que é o todo do progresso da civilização, na verdade, fechou-se num castelo parcial e tenta controlar o ser humano que não está dentro desse castelo*2; aí reside um grande erro. Todas as coisas estão abaixo da linha do horizonte, por isso podem ser controladas de qualquer maneira. O ser humano é a linha do horizonte; portanto, o que deve salvar o ser humano está acima da linha do horizonte. Ou seja, se a linha do horizonte for o ser humano, quanto mais para baixo, mais se torna animal, e quanto mais para cima, mais próximo de Deus. Enfim, o supremo é Deus, e o ser humano está entre Deus e o animal. Então, para salvar o ser humano, é preciso ser uma existência superior ao humano; não há qualificação para salvar o humano sem isso. E a medicina atual tenta aplicar a salvação de animais ao ser humano. A medicina testa em macacos, cobaias, coelhos e ratos, e aplica isso diretamente ao ser humano; ou seja, se o ser humano está na linha do horizonte, abaixo dele são animais, então é natural usar animais como material, mas trazer isso para curar doenças humanas é um erro total de alvo. É esse o significado do que lemos agora.\n\nPortanto, por mais que a medicina se esforce, se esforçar num erro total de alvo não pode curar3. Então, por que faziam tal tolice até agora? É porque não viam o que estava acima da linha do horizonte. Ou melhor, na verdade, não lhes foi mostrado4. Realmente, Deus5 também é \"malvado\". Mas, se mostrasse, seria inconveniente para o lado de Deus. O ser humano, para desenvolver a cultura material, tem uma força espiritual muito mais forte para progredir a matéria se não lhe for mostrada a coisa suprema como Deus; por isso Deus escolheu esse meio. No entanto, Deus, Buda e as religiões apareceram, mas se mostrasse algo muito elevado, o progresso material tenderia a ser formal; por isso, ocultou o Deus Supremo6 até o fim, e mostrou os de segunda e terceira classe, dizendo que estes eram Deus, e a partir disso nasceram as religiões; falando mal, o ser humano foi enganado por Deus. Mas isso não tinha jeito; se não fosse assim, a cultura material não teria se desenvolvido até aqui. Portanto, é um truque maravilhoso. E a visão de Deus, o conceito de Deus que a humanidade tinha até agora também estava errado. Cristo, Buda ou Maomé, certamente eram grandes, mas eram de posições de segunda ou terceira classe, por isso o verdadeiro ficou vago, não estava claro. Apenas estava bem assim. Por isso eu digo que a religião não pode salvar; se a religião pudesse salvar, já teria se tornado o Paraíso. O fato de haver tantas religiões e o mundo continuar um inferno significa que as religiões de até agora não puderam salvar. Se não for uma ultra-religião, não pode salvar. Por isso a Igreja Messiânica é uma ultra-religião, e foi criada pela primeira vez agora.",
-            "posfacio": null,
-            "data": "5 de setembro de 1953",
-            "explicacao": null,
-            "resumo": null,
-            "referencias": [],
-            "notas": [],
-            "anexo": [
-             {
-              "titulo": "Anexo referente a I",
-              "texto": "Salmo (御詠 - Gyoei)\nA tolice de depender da arte médica criada pelo homem,\nPara a vida concedida pelo Grande Deus.\n(25 de junho de 1952)\n(Ei 162, No. 1 = Coletânea de Salmos de Mokiti Okada [Vol. 6], pág. 22, No. 1)"
-             }
-            ]
-           }
+           ]
           },
           {
            "id": "c1.i3.2.3.ii",

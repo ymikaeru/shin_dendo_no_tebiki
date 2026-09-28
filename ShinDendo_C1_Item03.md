@@ -258,7 +258,7 @@ Texto omitido. Ver Capítulo 2, Item 4, 1 Criação, 6 Outras Criaturas ⑤ i (L
 
 Texto omitido. Ver Capítulo 2, Item 4, 1 Criação, 6 Outras Criaturas ⑤ ii (Livro pág. 504).
 
-#### I. A Medicina desviou-se do domínio da Ciência 
+##### I. A Medicina desviou-se do domínio da Ciência 
 
 (Kyo 26, pág. 1, l. 6 \~ 3, l. 5 \<Zenkou Vol. 11, pág. 63\>)
 

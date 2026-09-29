@@ -286,9 +286,9 @@ E há uns quatro ou cinco dias, o assistente do chefe da seção de assuntos rel
 [^c1i1-1-4]: Como a relação de Shakyamuni e de Cristo com Sushin (主神) não era tão direta quanto a de Meishu-Sama, a força deles era mais fraca. Por esse motivo, eles não conseguiam conceder poder a cada um dos fiéis para que pudessem curar doenças.
 [^c1i1-1ax-1]: Sobre o indireto que se tornou direto (Kansetsu ga chokusetsu ni natta); ver o Ensinamento 4, pág. 11 deste Livro.
 [^c1i1-1ax-2]: Sobre a não-separação entre o divino e o humano: a natureza de Meishu-Sama como aquele em que a vontade humana e a Vontade de Deus são idênticas e indissociáveis.
-[^c1i1-2-1]: Ver Sui 5, pág. 36, l. 5 \~ pág. 37, l. 6 (Livro pág. 61).
-[^c1i1-2-2]: Sobre a "Bola de Luz", ver Shu 365, col. inf. l. 21 \~ 366, col. sup. l. 11 (Livro pág. 63).
-[^c1i1-2-3]: Ver Shu 412, col. sup. l. 18 \~ col. inf. l. 11 (Livro pág. 66).
+[^c1i1-2-1]: Ver Sui 5, pág. 36, l. 5 \~ pág. 37, l. 6 (Livro pág. 611).
+[^c1i1-2-2]: Sobre a "Bola de Luz", ver Shu 365, col. inf. l. 21 \~ 366, col. sup. l. 11 (Livro pág. 663).
+[^c1i1-2-3]: Ver Shu 412, col. sup. l. 18 \~ col. inf. l. 11 (Livro pág. 666).
 [^c1i1-6a-1]: É permitido compreender sobre Meishu-Sama conforme a elevação da alma da pessoa. — Quanto mais elevada a alma, mais se compreende Meishu-Sama (ver Capítulo 2, Item 4 \- Criação, 2 Leis, ⑥ Exemplos Representativos v Lei da Concordância \<Livro pág. 478\>).
 [^c1i1-6b-1]: Milagre. Como é uma frase dentro de um artigo intitulado "Meus Mistérios", usou-se a palavra mistério.
 [^c1i1-3-1]: Comparando com o Ensinamento 4 da página 11 deste livro, entende-se que Deus utilizava como instrumento, conforme a necessidade, não apenas o corpo físico de Meishu-Sama, mas também Sua inteligência e vontade.

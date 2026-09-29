@@ -651,8 +651,9 @@ function isDesc(m,n){ let p=m._p; while(p){ if(p===n) return true; p=p._p; } ret
 // Página do livro → nó. Só liga quando é SEGURO: se entre o último nó com página ≤ N e o próximo com
 // página > N houver seções com texto SEM página (que não são filhas dele), não dá para saber onde N cai
 // → não liga. Link para o lugar errado é pior que nenhum link (ex.: pág. 611 caía na pág. 560).
-function pageNode(pg){
+function pageNode(pg,src){
   if(!PAGED) PAGED=flat.map((n,i)=>[n.pagina,n,i]).filter(x=>x[0]);
+  const bySrc=src && srcNode(pg,src); if(bySrc) return bySrc;
   let k=-1; for(let j=0;j<PAGED.length;j++){ if(PAGED[j][0]<=pg) k=j; else break; }
   if(k<0) return null;
   if(PAGED[k][0]===pg){ while(k>0 && PAGED[k-1][0]===pg) k--; return PAGED[k][1]; }   // começa exatamente nessa página
@@ -661,7 +662,29 @@ function pageNode(pg){
   for(let x=i+1;x<nxt[2];x++){ const m=flat[x]; if(ownContent(m) && !isDesc(m,n)) return null; }
   return n;                                              // o último que começa antes, e tudo até o próximo é dele
 }
-function xrefA(pg,label,title){ const n=pageNode(pg);
+// DESEMPATE PELA FONTE: "ver Shu 365 … (Livro pág. 663)". Na pág. 663 terminam/começam dois ensinamentos
+// (A tem o título no pé da 662 e o texto na 663; B começa na 663) e a regra de página pega o que começa ali (B).
+// Se a remissão traz a fonte, vale o ensinamento da pág. N (ou N−1, título no pé) cuja Fonte é essa.
+// Bunmei no Sōzō: o capítulo está na própria sigla (S5, K13, Su4) → a chave é "bunso:S5"
+const sgId=m=>{ const k=sgKey(m); return k==='bunso' ? 'bunso:'+m[0].replace(/\s/g,'') : k; };
+const SG_NUM2=new Set(['kosei','chi','ei','hikari','hikarishin','sui','kyo']);
+let PAGEOF=null;   // id → página em que o nó está (a própria ou a do último nó paginado antes dele)
+function pageOfNode(n){
+  if(!PAGEOF){ PAGEOF=new Map(); let p=null; flat.forEach(m=>{ if(m.pagina) p=m.pagina; PAGEOF.set(m.id,p); }); }
+  return PAGEOF.get(n.id); }
+// fonte citada logo antes da remissão: 1ª sigla depois do último corte (outra remissão, ";", ">", fim de linha)
+function citeSrc(before){
+  const w=(before||'').slice(-160); let cut=0;
+  for(const m of w.matchAll(/Livro,?\s*p[áa]g\.?\s*\d+|&gt;|(?<!&[a-z]{2,4});|>|〉|\n/g)) cut=m.index+m[0].length;
+  const seg=w.slice(cut); SG_RE.lastIndex=0; const m=SG_RE.exec(seg); SG_RE.lastIndex=0; if(!m) return null;
+  const n=(seg.slice(m.index+m[0].length,m.index+m[0].length+40).match(/\d+/g)||[]).slice(0,2).map(Number); return (n.length||sgKey(m)==='bunso')?{k:sgId(m),n}:null; }
+function srcHas(n,src){ const f=n.ensinamento&&n.ensinamento.fonte; if(!f) return false;
+  const t=plain(f); for(const m of t.matchAll(SG_RE)){ if(sgId(m)!==src.k) continue; if(src.k.startsWith('bunso:')) return true; const x=(t.slice(m.index+m[0].length,m.index+m[0].length+40).match(/\d+/g)||[]).map(Number);
+    // periódicos: nº E pág. ("Kyo 31, pág. 8" ≠ "Kyo 31, pág. 2"); livros: a página basta
+    if(x[0]===src.n[0] && (!SG_NUM2.has(src.k) || src.n.length<2 || x.length<2 || x[1]===src.n[1])) return true; }
+  return false; }
+function srcNode(pg,src){ for(const n of flat){ const p=pageOfNode(n); if((p===pg||p===pg-1) && srcHas(n,src)) return n; } return null; }
+function xrefA(pg,label,title,src){ const n=pageNode(pg,src);
   if(!n) return `<span class="xref-na" title="${(title?title+' — ':'')}pág. ${pg}: trecho do livro ainda sem mapa de páginas">${label}</span>`;
   return `<a class="xref" href="#${n.id}" title="${(title||('ir para a pág. '+pg)).replace(/"/g,'&quot;')}">${label}</a>`; }
 // ===== TEIA: índice das remissões internas (quem remete a quem), de todos os campos do ensinamento =====
@@ -673,7 +696,7 @@ function citeIndex(){
   const add=(n,kind,txt)=>{
     if(!txt) return; const s=plain(txt);
     for(const m of s.matchAll(PG_RE)){
-      const pg=+(m[1]||m[2]), t=pageNode(pg); if(!t || t===n) continue;
+      const pg=+(m[1]||m[2]), t=pageNode(pg,citeSrc(s.slice(0,m.index))); if(!t || t===n) continue;
       const a=Math.max(0,m.index-110); let ctx=s.slice(a,m.index).replace(/[\s(（<〈,;:—–-]+$/,'').trim();
       if(a>0) ctx='…'+ctx.replace(/^\S*\s/,'');
       const e={from:n,to:t,kind,pg,ctx}; C.edges.push(e); push(C.out,n.id,e); push(C.in,t.id,e);
@@ -711,7 +734,7 @@ function citedBlock(n){
 // liga as referências de página que sobraram no texto (fora de tags)
 function linkPages(html){
   return html.split(/(<[^>]*>)/).map((part,i)=> i%2 ? part :
-    part.replace(PG_RE,(mm,a,b)=> xrefA(+(a||b), mm) || mm)).join('');
+    part.replace(PG_RE,(mm,a,b,off,str)=> xrefA(+(a||b), mm, null, citeSrc(str.slice(0,off))) || mm)).join('');
 }
 // ===== SIGLAS DAS FONTES (御教え典拠略号一覧表, págs. xii–xiv do original) =====
 // "Shu 403", "Ron 2190", "Zencho Vol. 12"… remetem a OUTRAS obras — não são links. Aqui só se explica
@@ -719,17 +742,17 @@ function linkPages(html){
 // Só casa seguida de número / nº / pág. / Vol. / [ … (senão "Kyo" de "Oomoto Kyo" viraria sigla).
 const SG_GRUPOS=['Jornais e revistas da Igreja','Registros de palestras','Livros avulsos','Coletâneas e obras completas','Fora da tabela do livro'];
 const SIGLAS=[
-  {k:'kosei',g:0,s:'Kosei',jp:'光世',t:'Kōmyō Sekai 光明世界 (Mundo de Luz), nº 1–5 — revista da Dai Nippon Kannon-kai',d:'fev. 1935 – jan. 1936',re:'Kosei'},
-  {k:'chi',g:0,s:'Chi · Tijou Tengoku',jp:'地',t:'Chijō Tengoku 地上天国 (Paraíso Terrestre), nº 1–58 — revista da Igreja',d:'dez. 1948 – mar. 1954',re:'Chi|Ti?jou Tengoku|Chijō Tengoku'},
-  {k:'ei',g:0,s:'Ei · Eikou',jp:'栄',t:'Jornal da Igreja: Hikari 光 (nº 1–47) · Kyūsei 救世 (nº 48–65) · Eikō 栄光 (nº 66–291)',d:'mar. 1949 – jan. 1955',re:'Eikou|Eikō|Eiko|Ei'},
+  {k:'kosei',g:0,s:'Kosei',jp:'光世',t:'Kōmyō Sekai 光明世界 (Mundo de Luz), nº 1–5 — revista da Dai Nippon Kannon-kai',d:'fev. 1935 – jan. 1936',re:'K[oō]sei'},
+  {k:'chi',g:0,s:'Chi · Tijou Tengoku',jp:'地',t:'Chijō Tengoku 地上天国 (Paraíso Terrestre), nº 1–58 — revista da Igreja',d:'dez. 1948 – mar. 1954',re:'Chi|Ti?jou Tengoku|Chij[oō] Tengoku'},
+  {k:'ei',g:0,s:'Ei · Eikou',jp:'栄',t:'Jornal da Igreja: Hikari 光 (nº 1–47) · Kyūsei 救世 (nº 48–65) · Eikō 栄光 (nº 66–291)',d:'mar. 1949 – jan. 1955',re:'Eik[oō]u?|Ei'},
   {k:'hikari',g:1,s:'Hikari',jp:'光',t:'Gokōwa-roku 御光話録 (Registro das Palestras), nº 1–19',d:'dez. 1948 – jun. 1950',re:'Hikari'},
   {k:'hikarishin',g:1,s:'Hikari Shin',jp:'光新',t:'Gokōwa-roku 御光話録, nova edição, nº 1–2',d:'abr. 1955',re:'Hikari Shin'},
   {k:'hikariho',g:1,s:'Hikari Ho',jp:'光補',t:'Gokōwa-roku 御光話録 — suplemento',d:'c. 1955',re:'Hikari Ho'},
   {k:'sui',g:1,s:'Sui',jp:'垂',t:'Gosuiji-roku 御垂示録 (Registro das Orientações), nº 1–30',d:'set. 1951 – abr. 1954',re:'Sui'},
-  {k:'kyo',g:1,s:'Kyo',jp:'教',t:'Mioshie-shū 御教え集 (Coletânea de Ensinamentos), nº 1–33',d:'set. 1951 – mai. 1954',re:'Kyo'},
+  {k:'kyo',g:1,s:'Kyo',jp:'教',t:'Mioshie-shū 御教え集 (Coletânea de Ensinamentos), nº 1–33',d:'set. 1951 – mai. 1954',re:'Ky[oō]'},
   {k:'nota',g:1,s:'Nōto',jp:'※ノート',t:'Anotações de palestras feitas pelo compilador'},
   {k:'meii',g:2,s:'Meii',jp:'明医',t:'Asu no Ijutsu 明日の医術 (A Medicina do Amanhã), vols. 1–3',d:'out. 1943',re:'Meii'},
-  {k:'tenfuku',g:2,s:'Ten Fuku',jp:'天福',t:'Tengoku no Fukuin 天国の福音 (O Evangelho do Céu)',d:'fev. 1947',re:'Ten ?[Ff]uku'},
+  {k:'tenfuku',g:2,s:'Ten Fuku',jp:'天福',t:'Tengoku no Fukuin 天国の福音 (O Evangelho do Céu)',d:'fev. 1947',re:'Ten ?[Ff]uku|Tenpuku'},
   {k:'san',g:2,s:'San [Kyū] · San [Shin]',jp:'讃［旧］· 讃［新］',t:'Gosanka-shū 御讃歌集 (Coletânea de Salmos) — edição antiga [Kyū] e nova [Shin]',d:'jul. 1948 · mai. 1951',re:'San'},
   {k:'shinzatsu',g:2,s:'Shinzatsu',jp:'信雑',t:'Shinkō Zatsuwa 信仰雑話 (Palestras sobre a Fé)',d:'set. 1948',re:'Shinzatsu'},
   {k:'meikin',g:2,s:'Meikin',jp:'明近',t:'Akemaro Kin\'ei-shū 明麿近詠集 (Poemas Recentes de Akemaro) — Jikan Sōsho nº 8',d:'nov. 1949',re:'Meikin'},
@@ -738,21 +761,21 @@ const SIGLAS=[
   {k:'kesshin',g:2,s:'Kesshin',jp:'結信',t:'Kekkaku Shinkō Ryōhō 結核信仰療法 (Tratamento da Tuberculose pela Fé)',d:'dez. 1952',re:'Kesshin'},
   {k:'bunso',g:2,s:'Bunsō · S · K · Su',jp:'文創',t:'Bunmei no Sōzō 文明の創造 (A Criação da Civilização), inédito. S = Parte Geral (総篇), K = Ciência (科学篇), Su = Religião (宗教篇); o número é o capítulo e "seção" é a numeração de parágrafos do compilador. S1 Prefácio · S2 Os Erros da Cultura Existente · S3 A Ordem da Construção do Paraíso e a Expulsão do Mal · S4 O Mal e o Espírito Protetor · S5 A Origem do Mal e a Doença · S6 Saúde e Longevidade · S7 O Salvador e o Redentor · S8 O Paraíso Terrestre · K2 Doença e Medicina · K4 O que é a Doença — o Resfriado · K11 O Homem e a Doença · K13 Primazia do Espírito sobre a Matéria · K14–15 O Mal das Toxinas dos Remédios · Su1 O Juízo Final · Su4 Doença Mental e Epilepsia · Su5 Medicina Materialista e Medicina Religiosa · Su6 A Transição da Noite para o Dia no Mundo Espiritual · Su7 O Fim do Budismo e a Era de Miroku · Su14 A Origem do Bem e do Mal e o Cristianismo',d:'1952',re:'Buns[oō]|Su ?\\d{1,2}|S\\d{1,2}|K\\d{1,2}'},
   {k:'akyu',g:2,s:'A Kyu',jp:'ア救',t:'América wo Sukuu アメリカを救う (Salvar a América)',d:'jan. 1953',re:'A Ky[uūo]'},
-  {k:'ki',g:2,s:'Ki',jp:'奇',t:'Sekai Kyūsei Kyō Kiseki-shū 世界救世教奇蹟集 (Coletânea de Milagres da Sekai Kyūsei Kyō)',d:'set. 1953',re:'Ki'},
+  {k:'ki',g:2,s:'Ki',jp:'奇',t:'Sekai Kyūsei Kyō Kiseki-shū 世界救世教奇蹟集 (Coletânea de Milagres da Sekai Kyūsei Kyō)',d:'set. 1953',re:'Ki(?:seki)?'},
   {k:'ikaku',g:2,s:'Ikaku',jp:'医革',t:'Igaku Kakumei no Sho 医学革命の書 (O Livro da Revolução da Medicina), inédito',d:'1953',re:'Ikaku'},
-  {k:'shu',g:3,s:'Shu · So',jp:'宗',t:'Goshinsho — Shūkyō-hen 御神書・宗教篇 (Escritura Divina — Religião). Compilada pelo organizador deste livro e publicada pela Igreja em 1954 com a permissão de Meishu-Sama; é o texto-base preferencial dos ensaios.',d:'mar. 1954',re:'Shu|So'},
+  {k:'shu',g:3,s:'Shu · So',jp:'宗',t:'Goshinsho — Shūkyō-hen 御神書・宗教篇 (Escritura Divina — Religião). Compilada pelo organizador deste livro e publicada pela Igreja em 1954 com a permissão de Meishu-Sama; é o texto-base preferencial dos ensaios.',d:'mar. 1954',re:'Sh[uū]|So'},
   {k:'tenfukusho',g:3,s:'Ten Fuku Sho',jp:'天福音書',t:'Tengoku no Fukuinsho 天国の福音書 (O Livro do Evangelho do Céu)',d:'ago. 1954',re:'Ten ?[Ff]uku[ -]?[Ss]ho'},
   {k:'geisha',g:3,s:'Geisha',jp:'芸社',t:'Sekai Kyūsei Kyō Seiten 世界救世教聖典 — Arte · Sociedade (芸術篇・社会篇)',d:'set. 1955',re:'Geisha'},
   {k:'keigyo',g:3,s:'Keigyo',jp:'景仰',t:'Keigyō 景仰 (Veneração) — memórias sobre Meishu-Sama',d:'dez. 1965',re:'Keigy[oō]'},
   {k:'toko',g:3,s:'Toko',jp:'東光',t:'Tōhō no Hikari 東方之光 (A Luz do Oriente) — biografia do Fundador, comissão editorial da Sekai Kyūsei Kyō, 2 vols. (Jo = sup., Ge = inf.)',d:'dez. 1981',re:'T[oō]k[oō]'},
-  {k:'ishizue',g:3,s:'Ishi · Ishizue · So-shu',jp:'礎',t:'Tengoku no Ishizue 天国の礎 (O Alicerce do Paraíso), 6 vols.: Religião sup./inf. (Ishi Shu Jo / Shu Ge) · Johrei sup./inf. (Ishi Jo Jo / Jo Ge) · Arte (Gei) · Sociedade e Agricultura Natural (Sha)',d:'dez. 1992 – dez. 1993',re:'Ishi(?:zue)?(?: (?:Shu|Sh[uū]ky[oō]|Johrei|Jo|Ge|Sha|Gei|Superior|Inferior)){0,2}|So-?shu(?:jo|ge)?(?: (?:Johrei|Superior|Inferior)){0,2}'},
+  {k:'ishizue',g:3,s:'Ishi · Ishizue · So-shu',jp:'礎',t:'Tengoku no Ishizue 天国の礎 (O Alicerce do Paraíso), 6 vols.: Religião sup./inf. (Ishi Shu Jo / Shu Ge) · Johrei sup./inf. (Ishi Jo Jo / Jo Ge) · Arte (Gei) · Sociedade e Agricultura Natural (Sha)',d:'dez. 1992 – dez. 1993',re:'Ishi(?:zue)?(?: (?:Sh[uū]|Sh[uū]ky[oō]|Johrei|J[oō]|Ge|Sha|Gei|Superior|Inferior)){0,2}|So-?shu(?:jo|ge)?(?: (?:Johrei|Superior|Inferior)){0,2}'},
   {k:'zenshi',g:3,s:'Zenshi',jp:'全詩',t:'Okada Mokichi Zenshū 岡田茂吉全集 — Poesia (詩歌篇), 6 vols. Na tradução aparece também por extenso: "Okada Mokichi Zenshu Shika-hen", "Coletânea de Salmos de Mokiti Okada".',d:'dez. 1992 – out. 1993',re:'Zenshi'},
   {k:'zencho',g:3,s:'Zencho',jp:'全著',t:'Okada Mokichi Zenshū 岡田茂吉全集 — Escritos (著述篇), 12 vols.',d:'jun. 1994 – dez. 1996',re:'Zench[oōô]u?'},
-  {k:'zenchoho',g:3,s:'Zencho Ho',jp:'全著補',t:'Okada Mokichi Zenshū — Escritos, volumes suplementares (著述篇 補巻), 3 vols.',d:'fev. – jun. 1997',re:'Zench[oōô]u? Ho|Zenshu Complementar'},
-  {k:'zenkou',g:3,s:'Zenkou · Zenko',jp:'全講',t:'Okada Mokichi Zenshū 岡田茂吉全集 — Palestras (講話篇), 12 vols.',d:'dez. 1997 – out. 1999',re:'Zenk[oōô]u?'},
-  {k:'zenshu',g:3,s:'Zenshu',jp:'全集',t:'Okada Mokichi Zenshū 岡田茂吉全集 (Obras Completas). Onde a tradução escreveu só "Zenshu", não diz se é Escritos (全著), Palestras (全講) ou Poesia (全詩).',re:'Zenshu'},
+  {k:'zenchoho',g:3,s:'Zencho Ho',jp:'全著補',t:'Okada Mokichi Zenshū — Escritos, volumes suplementares (著述篇 補巻), 3 vols.',d:'fev. – jun. 1997',re:'Zench[oōô]u? Ho|Zenshu Complementar|Obras Completas Suplementares'},
+  {k:'zenkou',g:3,s:'Zenkou · Zenko · Palestras',jp:'全講',t:'Okada Mokichi Zenshū 岡田茂吉全集 — Palestras (講話篇), 12 vols.',d:'dez. 1997 – out. 1999',re:'Zenk[oōô]u?|Palestras(?=・)'},
+  {k:'zenshu',g:3,s:'Zenshu · Obras Completas',jp:'全集',t:'Okada Mokichi Zenshū 岡田茂吉全集 (Obras Completas). Onde a tradução escreveu só "Zenshu" ou "Obras Completas", não diz se é Escritos (全著), Palestras (全講) ou Poesia (全詩).',re:'Zenshu|Obras Completas'},
   {k:'ron',g:3,s:'Ron',jp:'論',t:'Ronbun-shū 論文集 (Coletânea de Ensaios) — ensaios de 1935 até a Ascensão; material interno do Departamento Doutrinário, 2.482 págs.',re:'Ron'},
-  {k:'ronbetsu',g:3,s:'Ronbetsu',jp:'論別',t:'Ronbun-shū, volume separado (論文集・別冊) — ensaios não finalizados de 1935 até a Ascensão; material interno, 845 págs.',re:'R[oa][nm]betsu'},
+  {k:'ronbetsu',g:3,s:'Ronbetsu',jp:'論別',t:'Ronbun-shū, volume separado (論文集・別冊) — ensaios não finalizados de 1935 até a Ascensão; material interno, 845 págs.',re:'R[oa][nm] ?[Bb]etsu'},
   {k:'kigo',g:4,s:'Kigo',jp:'奇語',t:'Sigla usada uma vez (citação do Ofudesaki, junto de Zencho Vol. 6) que não consta da tabela do livro original.',re:'Kigo'},
 ];
 const SG_BY=Object.fromEntries(SIGLAS.map(x=>[x.k,x]));
@@ -792,7 +815,7 @@ document.addEventListener('keydown',e=>{ if(e.key==='Escape'){ const m=document.
 function refChips(html){
   return html.replace(/\(([^()]{2,300})\)/g,(mm,inner)=>{
     if(!CIT_TOK.test(inner)) return mm;
-    const links=[...inner.matchAll(PG_RE)].map(m=>xrefA(+(m[1]||m[2]),'pág. '+(m[1]||m[2]),inner)).filter(Boolean);
+    const links=[...inner.matchAll(PG_RE)].map(m=>xrefA(+(m[1]||m[2]),'pág. '+(m[1]||m[2]),inner,citeSrc(inner.slice(0,m.index)))).filter(Boolean);
     return links.length ? '('+links.join(', ')+')' : `<sup class="ref" title="${(inner+esc(sgExpand(inner))).replace(/"/g,'&quot;')}">※</sup>`;
   });
 }
@@ -1212,7 +1235,7 @@ async function reloadBook(keepId){
     const det=$('#detail'); const sc=det?det.scrollTop:0;       // lembra a rolagem dentro da página
     const t=await (await fetch('/_book.json?'+Math.random())).json();
     if(t.sections && !t.children) t.children=t.sections;
-    TREE=t; flat=[]; walk(TREE,null,0); markPages(TREE,false); PAGED=null; SIDX=null; CITES=null; render(); cur=null;
+    TREE=t; flat=[]; walk(TREE,null,0); markPages(TREE,false); PAGED=null; PAGEOF=null; SIDX=null; CITES=null; render(); cur=null;
     if(keepId){ const a=flat.find(n=>n.id===keepId); if(a){ select(a,{noHist:true,keepScroll:true,force:true}); const d=$('#detail'); if(d) d.scrollTop=sc; } }  // mesmo nó + mesma rolagem
   } finally { _reloading=false; }
 }

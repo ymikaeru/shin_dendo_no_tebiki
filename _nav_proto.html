@@ -350,6 +350,23 @@
   .cited-it .ci-path{display:block;color:var(--mut);font-size:11.5px}
   .cited-it .ci-k{flex:none;color:var(--mut);font-size:11.5px;white-space:nowrap}
   .meta a.cited-badge{color:var(--acc);text-decoration:none;cursor:pointer;border-bottom:1px dotted currentColor}
+  /* ===== SIGLAS DAS FONTES ===== */
+  abbr.sg{text-decoration:none;border-bottom:1px dotted var(--mut);cursor:help}
+  abbr.sg:hover{color:var(--acc);border-bottom-color:var(--acc)}
+  #sgPanel{position:fixed;inset:0;z-index:510;background:rgba(20,16,10,.38);display:flex;align-items:center;justify-content:center;padding:16px}
+  #sgPanel[hidden]{display:none}
+  .sg-box{background:var(--panel);color:var(--fg);border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow);width:min(760px,100%);max-height:min(88vh,100%);display:flex;flex-direction:column;min-height:0}
+  .sg-top{display:flex;align-items:center;gap:12px;padding:12px 18px;border-bottom:1px solid var(--line)}
+  .sg-top h2{margin:0;font:600 18px var(--serif);flex:1} .sg-top h2 .jp{font:400 13px var(--sans);color:var(--mut);margin-left:6px;letter-spacing:.08em}
+  .sg-body{overflow:auto;padding:6px 18px 16px;min-height:0}
+  .sg-intro{color:var(--fg2);font:14px/1.6 var(--serif);margin:10px 0 4px}
+  .sg-body h3{font:600 11.5px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--mut);margin:18px 0 4px}
+  .sg-row{display:grid;grid-template-columns:9.5em 5.5em 1fr;gap:4px 12px;padding:7px 8px;border-radius:7px;border-bottom:1px solid var(--line);font-size:13.5px;line-height:1.5}
+  .sg-row.on{background:var(--acc-soft)}
+  .sg-s{font-weight:600;color:var(--acc)} .sg-jp{color:var(--fg2)} .sg-t{color:var(--fg2)}
+  .sg-d{display:block;color:var(--mut);font-size:12px}
+  .sg-src{color:var(--mut);font-size:12px;margin:14px 0 0}
+  @media (max-width: 600px){ .sg-row{grid-template-columns:auto 1fr} .sg-t{grid-column:1/-1} #sgPanel{padding:0} .sg-box{max-height:100%;height:100%;border-radius:0} }
   /* ===== TEIA: mapa ===== */
   #webMap{position:fixed;inset:0;z-index:500;background:var(--bg);display:flex;flex-direction:column}
   #webMap[hidden]{display:none}
@@ -553,6 +570,7 @@
   <div id="brand" title="Início">Novo Manual de Difusão<small>新・伝道の手引き</small></div>
   <span id="crumb"></span>
   <button id="webBtn" class="tbtn" title="Ver o livro como teia de remissões">🕸<span class="tl"> Teia</span></button>
+  <button id="sgBtn" class="tbtn" title="Siglas das fontes (Shu, Ron, Kyo, Zencho…)">📚<span class="tl"> Siglas</span></button>
   <button id="themeBtn" class="tbtn" title="Alternar tema claro/escuro">☾ Escuro</button>
 </div>
 <div id="main">
@@ -695,13 +713,87 @@ function linkPages(html){
   return html.split(/(<[^>]*>)/).map((part,i)=> i%2 ? part :
     part.replace(PG_RE,(mm,a,b)=> xrefA(+(a||b), mm) || mm)).join('');
 }
+// ===== SIGLAS DAS FONTES (御教え典拠略号一覧表, págs. xii–xiv do original) =====
+// "Shu 403", "Ron 2190", "Zencho Vol. 12"… remetem a OUTRAS obras — não são links. Aqui só se explica
+// a sigla (tooltip + painel). A tradução grafa a mesma sigla de vários jeitos: todas as variantes em re.
+// Só casa seguida de número / nº / pág. / Vol. / [ … (senão "Kyo" de "Oomoto Kyo" viraria sigla).
+const SG_GRUPOS=['Jornais e revistas da Igreja','Registros de palestras','Livros avulsos','Coletâneas e obras completas','Fora da tabela do livro'];
+const SIGLAS=[
+  {k:'kosei',g:0,s:'Kosei',jp:'光世',t:'Kōmyō Sekai 光明世界 (Mundo de Luz), nº 1–5 — revista da Dai Nippon Kannon-kai',d:'fev. 1935 – jan. 1936',re:'Kosei'},
+  {k:'chi',g:0,s:'Chi · Tijou Tengoku',jp:'地',t:'Chijō Tengoku 地上天国 (Paraíso Terrestre), nº 1–58 — revista da Igreja',d:'dez. 1948 – mar. 1954',re:'Chi|Ti?jou Tengoku|Chijō Tengoku'},
+  {k:'ei',g:0,s:'Ei · Eikou',jp:'栄',t:'Jornal da Igreja: Hikari 光 (nº 1–47) · Kyūsei 救世 (nº 48–65) · Eikō 栄光 (nº 66–291)',d:'mar. 1949 – jan. 1955',re:'Eikou|Eikō|Eiko|Ei'},
+  {k:'hikari',g:1,s:'Hikari',jp:'光',t:'Gokōwa-roku 御光話録 (Registro das Palestras), nº 1–19',d:'dez. 1948 – jun. 1950',re:'Hikari'},
+  {k:'hikarishin',g:1,s:'Hikari Shin',jp:'光新',t:'Gokōwa-roku 御光話録, nova edição, nº 1–2',d:'abr. 1955',re:'Hikari Shin'},
+  {k:'hikariho',g:1,s:'Hikari Ho',jp:'光補',t:'Gokōwa-roku 御光話録 — suplemento',d:'c. 1955',re:'Hikari Ho'},
+  {k:'sui',g:1,s:'Sui',jp:'垂',t:'Gosuiji-roku 御垂示録 (Registro das Orientações), nº 1–30',d:'set. 1951 – abr. 1954',re:'Sui'},
+  {k:'kyo',g:1,s:'Kyo',jp:'教',t:'Mioshie-shū 御教え集 (Coletânea de Ensinamentos), nº 1–33',d:'set. 1951 – mai. 1954',re:'Kyo'},
+  {k:'nota',g:1,s:'Nōto',jp:'※ノート',t:'Anotações de palestras feitas pelo compilador'},
+  {k:'meii',g:2,s:'Meii',jp:'明医',t:'Asu no Ijutsu 明日の医術 (A Medicina do Amanhã), vols. 1–3',d:'out. 1943',re:'Meii'},
+  {k:'tenfuku',g:2,s:'Ten Fuku',jp:'天福',t:'Tengoku no Fukuin 天国の福音 (O Evangelho do Céu)',d:'fev. 1947',re:'Ten ?[Ff]uku'},
+  {k:'san',g:2,s:'San [Kyū] · San [Shin]',jp:'讃［旧］· 讃［新］',t:'Gosanka-shū 御讃歌集 (Coletânea de Salmos) — edição antiga [Kyū] e nova [Shin]',d:'jul. 1948 · mai. 1951',re:'San'},
+  {k:'shinzatsu',g:2,s:'Shinzatsu',jp:'信雑',t:'Shinkō Zatsuwa 信仰雑話 (Palestras sobre a Fé)',d:'set. 1948',re:'Shinzatsu'},
+  {k:'meikin',g:2,s:'Meikin',jp:'明近',t:'Akemaro Kin\'ei-shū 明麿近詠集 (Poemas Recentes de Akemaro) — Jikan Sōsho nº 8',d:'nov. 1949',re:'Meikin'},
+  {k:'shinken',g:2,s:'Shinken',jp:'神健',t:'Shinji no Kenkōhō 神示の健康法 (O Método de Saúde Revelado por Deus) — Jikan Sōsho nº 10',d:'abr. 1950',re:'Shinken'},
+  {k:'jinokai',g:2,s:'Jinōkai',jp:'自農解',t:'Shizen Nōhō Kaisetsu 自然農法解説 (Explicação da Agricultura Natural)',d:'jan. 1951',re:'Jin[oō]kai'},
+  {k:'kesshin',g:2,s:'Kesshin',jp:'結信',t:'Kekkaku Shinkō Ryōhō 結核信仰療法 (Tratamento da Tuberculose pela Fé)',d:'dez. 1952',re:'Kesshin'},
+  {k:'bunso',g:2,s:'Bunsō · S · K · Su',jp:'文創',t:'Bunmei no Sōzō 文明の創造 (A Criação da Civilização), inédito. S = Parte Geral (総篇), K = Ciência (科学篇), Su = Religião (宗教篇); o número é o capítulo e "seção" é a numeração de parágrafos do compilador. S1 Prefácio · S2 Os Erros da Cultura Existente · S3 A Ordem da Construção do Paraíso e a Expulsão do Mal · S4 O Mal e o Espírito Protetor · S5 A Origem do Mal e a Doença · S6 Saúde e Longevidade · S7 O Salvador e o Redentor · S8 O Paraíso Terrestre · K2 Doença e Medicina · K4 O que é a Doença — o Resfriado · K11 O Homem e a Doença · K13 Primazia do Espírito sobre a Matéria · K14–15 O Mal das Toxinas dos Remédios · Su1 O Juízo Final · Su4 Doença Mental e Epilepsia · Su5 Medicina Materialista e Medicina Religiosa · Su6 A Transição da Noite para o Dia no Mundo Espiritual · Su7 O Fim do Budismo e a Era de Miroku · Su14 A Origem do Bem e do Mal e o Cristianismo',d:'1952',re:'Buns[oō]|Su ?\\d{1,2}|S\\d{1,2}|K\\d{1,2}'},
+  {k:'akyu',g:2,s:'A Kyu',jp:'ア救',t:'América wo Sukuu アメリカを救う (Salvar a América)',d:'jan. 1953',re:'A Ky[uūo]'},
+  {k:'ki',g:2,s:'Ki',jp:'奇',t:'Sekai Kyūsei Kyō Kiseki-shū 世界救世教奇蹟集 (Coletânea de Milagres da Sekai Kyūsei Kyō)',d:'set. 1953',re:'Ki'},
+  {k:'ikaku',g:2,s:'Ikaku',jp:'医革',t:'Igaku Kakumei no Sho 医学革命の書 (O Livro da Revolução da Medicina), inédito',d:'1953',re:'Ikaku'},
+  {k:'shu',g:3,s:'Shu · So',jp:'宗',t:'Goshinsho — Shūkyō-hen 御神書・宗教篇 (Escritura Divina — Religião). Compilada pelo organizador deste livro e publicada pela Igreja em 1954 com a permissão de Meishu-Sama; é o texto-base preferencial dos ensaios.',d:'mar. 1954',re:'Shu|So'},
+  {k:'tenfukusho',g:3,s:'Ten Fuku Sho',jp:'天福音書',t:'Tengoku no Fukuinsho 天国の福音書 (O Livro do Evangelho do Céu)',d:'ago. 1954',re:'Ten ?[Ff]uku[ -]?[Ss]ho'},
+  {k:'geisha',g:3,s:'Geisha',jp:'芸社',t:'Sekai Kyūsei Kyō Seiten 世界救世教聖典 — Arte · Sociedade (芸術篇・社会篇)',d:'set. 1955',re:'Geisha'},
+  {k:'keigyo',g:3,s:'Keigyo',jp:'景仰',t:'Keigyō 景仰 (Veneração) — memórias sobre Meishu-Sama',d:'dez. 1965',re:'Keigy[oō]'},
+  {k:'toko',g:3,s:'Toko',jp:'東光',t:'Tōhō no Hikari 東方之光 (A Luz do Oriente) — biografia do Fundador, comissão editorial da Sekai Kyūsei Kyō, 2 vols. (Jo = sup., Ge = inf.)',d:'dez. 1981',re:'T[oō]k[oō]'},
+  {k:'ishizue',g:3,s:'Ishi · Ishizue · So-shu',jp:'礎',t:'Tengoku no Ishizue 天国の礎 (O Alicerce do Paraíso), 6 vols.: Religião sup./inf. (Ishi Shu Jo / Shu Ge) · Johrei sup./inf. (Ishi Jo Jo / Jo Ge) · Arte (Gei) · Sociedade e Agricultura Natural (Sha)',d:'dez. 1992 – dez. 1993',re:'Ishi(?:zue)?(?: (?:Shu|Sh[uū]ky[oō]|Johrei|Jo|Ge|Sha|Gei|Superior|Inferior)){0,2}|So-?shu(?:jo|ge)?(?: (?:Johrei|Superior|Inferior)){0,2}'},
+  {k:'zenshi',g:3,s:'Zenshi',jp:'全詩',t:'Okada Mokichi Zenshū 岡田茂吉全集 — Poesia (詩歌篇), 6 vols. Na tradução aparece também por extenso: "Okada Mokichi Zenshu Shika-hen", "Coletânea de Salmos de Mokiti Okada".',d:'dez. 1992 – out. 1993',re:'Zenshi'},
+  {k:'zencho',g:3,s:'Zencho',jp:'全著',t:'Okada Mokichi Zenshū 岡田茂吉全集 — Escritos (著述篇), 12 vols.',d:'jun. 1994 – dez. 1996',re:'Zench[oōô]u?'},
+  {k:'zenchoho',g:3,s:'Zencho Ho',jp:'全著補',t:'Okada Mokichi Zenshū — Escritos, volumes suplementares (著述篇 補巻), 3 vols.',d:'fev. – jun. 1997',re:'Zench[oōô]u? Ho|Zenshu Complementar'},
+  {k:'zenkou',g:3,s:'Zenkou · Zenko',jp:'全講',t:'Okada Mokichi Zenshū 岡田茂吉全集 — Palestras (講話篇), 12 vols.',d:'dez. 1997 – out. 1999',re:'Zenk[oōô]u?'},
+  {k:'zenshu',g:3,s:'Zenshu',jp:'全集',t:'Okada Mokichi Zenshū 岡田茂吉全集 (Obras Completas). Onde a tradução escreveu só "Zenshu", não diz se é Escritos (全著), Palestras (全講) ou Poesia (全詩).',re:'Zenshu'},
+  {k:'ron',g:3,s:'Ron',jp:'論',t:'Ronbun-shū 論文集 (Coletânea de Ensaios) — ensaios de 1935 até a Ascensão; material interno do Departamento Doutrinário, 2.482 págs.',re:'Ron'},
+  {k:'ronbetsu',g:3,s:'Ronbetsu',jp:'論別',t:'Ronbun-shū, volume separado (論文集・別冊) — ensaios não finalizados de 1935 até a Ascensão; material interno, 845 págs.',re:'R[oa][nm]betsu'},
+  {k:'kigo',g:4,s:'Kigo',jp:'奇語',t:'Sigla usada uma vez (citação do Ofudesaki, junto de Zencho Vol. 6) que não consta da tabela do livro original.',re:'Kigo'},
+];
+const SG_BY=Object.fromEntries(SIGLAS.map(x=>[x.k,x]));
+// ordem da alternância: variantes mais longas primeiro ("Ishi Shu Jo" antes de "Shu", "A Kyo" antes de "Kyo")
+const SG_ALT=SIGLAS.filter(x=>x.re).flatMap(x=>x.re.split(/\|(?![^()]*\))/).map(r=>({r,k:x.k}))).sort((a,b)=>b.r.length-a.r.length);
+const SG_RE=new RegExp('(?<![\\wÀ-ÿ-])(?:'+SG_ALT.map((a,i)=>`(?<g${i}>${a.r})`).join('|')+')(?![\\wÀ-ÿ])(?:(?<=\\d)|(?=[\\s,.]*(?:\\d|n[º°.]|N[º°o]|p[áa]g|[Vv]ol|\\[|Pref|Inf|Sup|(?:Jo|Ge)\\s*\\d|・|$)))','g');
+function sgKey(m){ const g=m.groups||{}; for(const n in g) if(g[n]!=null) return SG_ALT[+n.slice(1)].k; return null; }
+function sgTitle(x){ return `${x.jp} · ${x.t}${x.d?' ['+x.d+']':''}`; }
+// envolve as siglas (só em texto, fora de tags) com <abbr>: tooltip no mouse, painel no clique
+function siglas(html){
+  return html.split(/(<[^>]*>)/).map((part,i)=> i%2 ? part : part.replace(SG_RE,(...a)=>{ const m=a[a.length-1], k=sgKey({groups:m}); const x=SG_BY[k];
+    return x?`<abbr class="sg" data-sg="${k}" title="${esc(sgTitle(x)).replace(/"/g,'&quot;')}">${a[0]}</abbr>`:a[0]; })).join('');
+}
+// para o title do chip ※: lista as siglas da citação por extenso
+function sgExpand(txt){ const seen=new Set(), out=[];
+  for(const m of (txt||'').matchAll(SG_RE)){ const k=sgKey(m); if(k && !seen.has(k)){ seen.add(k); const x=SG_BY[k]; out.push(`${m[0]} = ${x.t.split(' (')[0].split('. ')[0]}`); } }
+  return out.length?'  —  '+out.join(' · '):''; }   // sem \n: o texto passa depois pelo \n→<br>, que pegaria o title
+function openSiglas(k){
+  let m=document.getElementById('sgPanel');
+  if(!m){ m=document.createElement('div'); m.id='sgPanel'; document.body.appendChild(m); }
+  const row=x=>`<div class="sg-row" id="sg-${x.k}"><div class="sg-s">${esc(x.s)}</div><div class="sg-jp">${esc(x.jp)}</div><div class="sg-t">${esc(x.t)}${x.d?`<span class="sg-d">${esc(x.d)}</span>`:''}</div></div>`;
+  m.hidden=false;
+  m.innerHTML=`<div class="sg-box" role="dialog" aria-label="Siglas das fontes"><div class="sg-top"><h2>Siglas das fontes <span class="jp">典拠略号</span></h2><button class="tbtn" id="sgClose">✕ Fechar</button></div>
+    <div class="sg-body"><p class="sg-intro">No começo de cada ensinamento e nas citações, a sigla indica <b>de que obra</b> o texto foi tirado, com página, coluna (sup./inf.) e linha — ex.: <i>Shu 403, col. sup. l. 5</i> = <i>Goshinsho — Religião</i>, pág. 403, coluna superior, linha 5. O sinal <b>=</b> dá o mesmo texto em outras edições. São remissões a outros livros, não links.<br><br><b>Livro pág. N</b> (本書) é diferente: é a página <b>desta</b> apostila, e por isso vira link para o trecho correspondente.</p>
+    ${SG_GRUPOS.map((g,i)=>`<h3>${g}</h3>`+SIGLAS.filter(x=>x.g===i).map(row).join('')).join('')}
+    <p class="sg-src">Fonte: 御教え典拠略号一覧表, págs. xii–xiv do original japonês. Datas: Shōwa/Heisei convertidas para o calendário ocidental.</p></div></div>`;
+  $('#sgClose').onclick=closeSiglas;
+  m.onclick=e=>{ if(e.target===m) closeSiglas(); };
+  const r=k&&document.getElementById('sg-'+k);
+  if(r){ r.classList.add('on'); const b=m.querySelector('.sg-body'); b.scrollTop=r.offsetTop-b.offsetTop-b.clientHeight/2+r.offsetHeight/2; }   // não usa scrollIntoView: rolaria a leitura atrás
+}
+function closeSiglas(){ const m=document.getElementById('sgPanel'); if(m){ m.hidden=true; m.innerHTML=''; } }
+document.addEventListener('click',e=>{ const a=e.target.closest && e.target.closest('abbr.sg'); if(!a) return; e.preventDefault(); e.stopPropagation(); openSiglas(a.dataset.sg); },true);
+document.addEventListener('keydown',e=>{ if(e.key==='Escape'){ const m=document.getElementById('sgPanel'); if(m && !m.hidden){ e.stopImmediatePropagation(); closeSiglas(); } } },true);
 // Citação inline entre parênteses → chip 📖 (referência no hover). Glosa fica inline.
 // Se a citação aponta para uma página deste livro, vira link "📖 pág. N" (clicável).
 function refChips(html){
   return html.replace(/\(([^()]{2,300})\)/g,(mm,inner)=>{
     if(!CIT_TOK.test(inner)) return mm;
     const links=[...inner.matchAll(PG_RE)].map(m=>xrefA(+(m[1]||m[2]),'pág. '+(m[1]||m[2]),inner)).filter(Boolean);
-    return links.length ? '('+links.join(', ')+')' : `<sup class="ref" title="${inner.replace(/"/g,'&quot;')}">※</sup>`;
+    return links.length ? '('+links.join(', ')+')' : `<sup class="ref" title="${(inner+esc(sgExpand(inner))).replace(/"/g,'&quot;')}">※</sup>`;
   });
 }
 // Marcador cru de OCR ainda sem nota: "\*3"/"*3" ou dígito colado ("boca2.", "Isso6 é").
@@ -717,7 +809,7 @@ function renderNotas(text, notas){
   const m={}; (notas||[]).forEach(x=>m[x.n]={t:x.texto,id:x.id||''});
   let s=refChips(esc(text||''));                       // 1) citações inline viram chip 📖
   s=s.replace(/\*\*(.+?)\*\*/g,(_,t)=>'<strong class="ens-part">'+t.replace(/^\s*\\?\*?(\d{1,2})\s*[:：]\s*/,'<span class="pt-n">$1</span>')+'</strong>');   // 1a) **subparte** do ensinamento
-  const chip=(n)=>{const o=m[n]||{};return `<sup class="fn" data-fn="${n}" data-id="${o.id||''}" tabindex="0">${n}<span class="fn-pop">${linkPages(esc(o.t||''))}</span></sup>`;};
+  const chip=(n)=>{const o=m[n]||{};return `<sup class="fn" data-fn="${n}" data-id="${o.id||''}" tabindex="0">${n}<span class="fn-pop">${siglas(linkPages(esc(o.t||'')))}</span></sup>`;};
   s=linkPages(s);                                      // 1b) "pág. N deste livro" solto no texto → link
   s=s.replace(/!\[[^\]]*\]\[(image\d+)\]/g,(mm,id)=>{ const src=(TREE&&TREE.imagens||{})[id];   // 1c) imagem embutida (trecho do original)
     return src?`<img class="ens-img" src="${src}" alt="imagem do original (${id})" loading="lazy">`:mm; });
@@ -731,7 +823,7 @@ function renderNotas(text, notas){
 // Título com nota: [^N] vira chip 📝 (a nota pode estar ancorada no título). Sem refChips/parágrafos.
 function renderTitle(title, notas){
   const m={}; (notas||[]).forEach(x=>m[x.n]={t:x.texto,id:x.id||''});
-  const chip=(n)=>{const o=m[n]||{};return `<sup class="fn" data-fn="${n}" data-id="${o.id||''}" tabindex="0">${n}<span class="fn-pop">${esc(o.t||'')}</span></sup>`;};
+  const chip=(n)=>{const o=m[n]||{};return `<sup class="fn" data-fn="${n}" data-id="${o.id||''}" tabindex="0">${n}<span class="fn-pop">${siglas(esc(o.t||''))}</span></sup>`;};
   let s=esc(title||'').replace(/==/g,'');   // título não usa grifo explícito — o título inteiro é o trecho
   s=s.replace(/^(.+?)\s*\[\^(\d+)\]\s*$/,(_,pre,n)=>`<span class="nspan" data-fn="${n}">${pre}</span>${chip(n)}`); // [^N] no fim → o título inteiro é o trecho da nota (grifa no hover)
   s=s.replace(/\[\^(\d+)\]/g,(_,n)=>chip(n));   // [^N] restantes (no meio) → só chip
@@ -780,7 +872,7 @@ function renderAnexoBody(text, notas, salmoDefault){
   const da=(s)=> s.raw ? ` data-axraw="${esc(s.raw)}"` : '';
   return segs.map(s=>{
     if(s.t==='sub')      return `<div class="ax-sub${s.isSalmo?' ax-salmo-h':''}"${da(s)}>${s.n?s.n+'. ':''}${renderNotas(s.title,notas)}</div>`;
-    if(s.t==='fonte')    return `<div class="ax-fonte"${da(s)}>${esc(s.text.replace(/^\((.*)\)$/,'$1'))}</div>`;
+    if(s.t==='fonte')    return `<div class="ax-fonte"${da(s)}>${siglas(esc(s.text.replace(/^\((.*)\)$/,'$1')))}</div>`;
     if(s.t==='pre')      return `<details class="ax-pre" open><summary>${esc(s.label)}</summary><div class="ax-pre-body">${s.body}</div></details>`;
     if(s.t==='verse')    return `<div class="ax-verse"${da(s)}>${renderNotas(s.text,notas)}</div>`;
     if(s.t==='verse-date') return `<div class="ax-verse-date"${da(s)}>${renderNotas(s.text,notas)}</div>`;
@@ -816,12 +908,12 @@ function cleanTitle(t){ return (t||'').replace(/\[\^\d+\]|==/g,'').replace(/(?<!
 // notas do ensinamento também em lista, no rodapé (além do balão no texto) — ajuda a leitura, o celular e a impressão
 function notesFoot(e){
   if(!(e.notas||[]).length) return '';
-  return `<div class="ens-notas"><div class="ens-notas-h">Notas</div><ol>`+e.notas.map(x=>`<li value="${x.n}">${linkPages(esc(x.texto||''))}</li>`).join('')+`</ol></div>`;
+  return `<div class="ens-notas"><div class="ens-notas-h">Notas</div><ol>`+e.notas.map(x=>`<li value="${x.n}">${siglas(linkPages(esc(x.texto||'')))}</li>`).join('')+`</ol></div>`;
 }
 // ANATOMIA FIXA do ensinamento: fonte · contexto (recolhido) · TEXTO · data · resumo/refs · explicação · anexos · notas
 function renderEnsinamento(e){
   let h='';
-  if(e.fonte) h+=`<div class="ens-fonte"><span class="lbl">Fonte</span>${esc(e.fonte)}</div>`;
+  if(e.fonte) h+=`<div class="ens-fonte"><span class="lbl">Fonte</span>${siglas(esc(e.fonte))}</div>`;
   if(e.preambulo) h+=ctxBlock('Contexto','trecho do preâmbulo', e.preambulo, e.notas);
   if(e.texto){
     // salmo: cada linha vira verso/data/fonte (renderAnexoBody, salmoDefault=true).
@@ -832,11 +924,11 @@ function renderEnsinamento(e){
         (t?`<button class="omit-show" type="button" data-t="${t.id}"><span class="os-i">▸</span> mostrar o texto aqui <span class="os-t">— ${esc(mkSelo(t)+' '+cleanTitle(t.title))}</span></button><div class="omit-in" hidden></div>`:'')+`</div>`; }
     else h+=`<div class="ens-texto">${renderNotas(e.texto,e.notas)}</div>`;
   }
-  if(e.data) h+=`<div class="ens-data">${esc(e.data)}</div>`;
+  if(e.data) h+=`<div class="ens-data">${siglas(esc(e.data))}</div>`;
   if(e.posfacio) h+=ctxBlock('Continuação','trecho do posfácio', e.posfacio, e.notas);
   if(e.resumo) h+=block('ens-resumo','Resumo', renderNotas(e.resumo,e.notas));
   if(Array.isArray(e.referencias)&&e.referencias.length)
-    h+=`<div class="ens-refs">`+e.referencias.map((r,i)=>(i===0&&/:\s*$/.test(r))?`<div class="ens-refs-h">${esc(r)}</div>`:`<div class="ens-ref">${esc(r)}</div>`).join('')+`</div>`;
+    h+=`<div class="ens-refs">`+e.referencias.map((r,i)=>(i===0&&/:\s*$/.test(r))?`<div class="ens-refs-h">${esc(r)}</div>`:`<div class="ens-ref">${siglas(esc(r))}</div>`).join('')+`</div>`;
   if(e.explicacao) h+=block('ens-exp','<span class="jp">解説</span> Explicação', renderNotas(e.explicacao,e.notas));
   if(Array.isArray(e.anexo)&&e.anexo.length)
     h+=e.anexo.map(a=>block('ens-anexo',esc(a.titulo||'Anexo'), renderAnexoBody(a.texto,e.notas))).join('');
@@ -1843,6 +1935,7 @@ document.addEventListener('keydown',e=>{ if(e.key==='Escape'){ const m=document.
 window.addEventListener('resize',()=>{ clearTimeout(WM._rz); WM._rz=setTimeout(()=>{ const m=document.getElementById('webMap');
   if(m && !m.hidden){ const keep=WM.sel; openWebMap(); wmSelect(keep); } },180); });
 $('#webBtn').onclick=openWebMap;
+$('#sgBtn').onclick=()=>openSiglas();
 function restoreCur(){
   const h=nodeFromHash(); if(h){ select(h,{noHist:true}); return; }
   let id, sc; try{ id=localStorage.getItem('nav-cur'); sc=+localStorage.getItem('nav-scroll')||0; }catch(_){ }
